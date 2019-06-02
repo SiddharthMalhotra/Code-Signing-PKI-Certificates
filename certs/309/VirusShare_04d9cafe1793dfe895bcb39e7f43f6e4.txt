@@ -1,0 +1,375 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+        Validity
+            Not Before: Aug  1 00:00:00 1996 GMT
+            Not After : Dec 31 23:59:59 2020 GMT
+        Subject: C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d2:36:36:6a:8b:d7:c2:5b:9e:da:81:41:62:8f:
+                    38:ee:49:04:55:d6:d0:ef:1c:1b:95:16:47:ef:18:
+                    48:35:3a:52:f4:2b:6a:06:8f:3b:2f:ea:56:e3:af:
+                    86:8d:9e:17:f7:9e:b4:65:75:02:4d:ef:cb:09:a2:
+                    21:51:d8:9b:d0:67:d0:ba:0d:92:06:14:73:d4:93:
+                    cb:97:2a:00:9c:5c:4e:0c:bc:fa:15:52:fc:f2:44:
+                    6e:da:11:4a:6e:08:9f:2f:2d:e3:f9:aa:3a:86:73:
+                    b6:46:53:58:c8:89:05:bd:83:11:b8:73:3f:aa:07:
+                    8d:f4:42:4d:e7:40:9d:1c:37
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+    Signature Algorithm: md5WithRSAEncryption
+         26:48:2c:16:c2:58:fa:e8:16:74:0c:aa:aa:5f:54:3f:f2:d7:
+         c9:78:60:5e:5e:6e:37:63:22:77:36:7e:b2:17:c4:34:b9:f5:
+         08:85:fc:c9:01:38:ff:4d:be:f2:16:42:43:e7:bb:5a:46:fb:
+         c1:c6:11:1f:f1:4a:b0:28:46:c9:c3:c4:42:7d:bc:fa:ab:59:
+         6e:d5:b7:51:88:11:e3:a4:85:19:6b:82:4c:a4:0c:12:ad:e9:
+         a4:ae:3f:f1:c3:49:65:9a:8c:c5:c8:3e:25:b7:94:99:bb:92:
+         32:71:07:f0:86:5e:ed:50:27:a6:0d:a6:23:f9:bb:cb:a6:07:
+         14:42
+-----BEGIN CERTIFICATE-----
+MIIDJzCCApCgAwIBAgIBATANBgkqhkiG9w0BAQQFADCBzjELMAkGA1UEBhMCWkEx
+FTATBgNVBAgTDFdlc3Rlcm4gQ2FwZTESMBAGA1UEBxMJQ2FwZSBUb3duMR0wGwYD
+VQQKExRUaGF3dGUgQ29uc3VsdGluZyBjYzEoMCYGA1UECxMfQ2VydGlmaWNhdGlv
+biBTZXJ2aWNlcyBEaXZpc2lvbjEhMB8GA1UEAxMYVGhhd3RlIFByZW1pdW0gU2Vy
+dmVyIENBMSgwJgYJKoZIhvcNAQkBFhlwcmVtaXVtLXNlcnZlckB0aGF3dGUuY29t
+MB4XDTk2MDgwMTAwMDAwMFoXDTIwMTIzMTIzNTk1OVowgc4xCzAJBgNVBAYTAlpB
+MRUwEwYDVQQIEwxXZXN0ZXJuIENhcGUxEjAQBgNVBAcTCUNhcGUgVG93bjEdMBsG
+A1UEChMUVGhhd3RlIENvbnN1bHRpbmcgY2MxKDAmBgNVBAsTH0NlcnRpZmljYXRp
+b24gU2VydmljZXMgRGl2aXNpb24xITAfBgNVBAMTGFRoYXd0ZSBQcmVtaXVtIFNl
+cnZlciBDQTEoMCYGCSqGSIb3DQEJARYZcHJlbWl1bS1zZXJ2ZXJAdGhhd3RlLmNv
+bTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA0jY2aovXwlue2oFBYo847kkE
+VdbQ7xwblRZH7xhINTpS9CtqBo87L+pW46+GjZ4X9560ZXUCTe/LCaIhUdib0GfQ
+ug2SBhRz1JPLlyoAnFxODLz6FVL88kRu2hFKbgifLy3j+ao6hnO2RlNYyIkFvYMR
+uHM/qgeN9EJN50CdHDcCAwEAAaMTMBEwDwYDVR0TAQH/BAUwAwEB/zANBgkqhkiG
+9w0BAQQFAAOBgQAmSCwWwlj66BZ0DKqqX1Q/8tfJeGBeXm43YyJ3Nn6yF8Q0ufUI
+hfzJATj/Tb7yFkJD57taRvvBxhEf8UqwKEbJw8RCfbz6q1lu1bdRiBHjpIUZa4JM
+pAwSremkrj/xw0llmozFyD4lt5SZu5IycQfwhl7tUCemDaYj+bvLpgcUQg==
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 10 (0xa)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=ZA, ST=Western Cape, L=Cape Town, O=Thawte Consulting cc, OU=Certification Services Division, CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+        Validity
+            Not Before: Aug  6 00:00:00 2003 GMT
+            Not After : Aug  5 23:59:59 2013 GMT
+        Subject: C=ZA, O=Thawte Consulting (Pty) Ltd., CN=Thawte Code Signing CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c6:b8:b9:27:60:af:0b:e3:91:69:65:db:7e:8d:
+                    ed:91:e6:aa:f1:be:d5:ed:fe:6d:d4:2c:7f:d1:70:
+                    77:fb:26:99:57:b4:dd:3f:30:b8:dc:21:ea:68:8d:
+                    81:92:fc:2e:4b:91:35:84:20:f2:da:4a:ba:b4:fc:
+                    e6:da:88:f2:20:c5:21:92:09:47:95:a0:09:1c:a6:
+                    79:be:b1:4c:1d:fc:f1:8a:6e:54:d2:69:a1:f1:4c:
+                    93:3a:41:fe:7d:d4:64:7b:63:45:f7:60:60:1d:31:
+                    1d:a4:e9:d3:0f:8b:fb:6e:26:24:b3:a8:ff:e5:e5:
+                    90:d4:b4:c2:dc:50:60:ae:59
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.thawte.com/ThawtePremiumServerCA.crl
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication, Code Signing
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Alternative Name: 
+                DirName:/CN=PrivateLabel2-144
+    Signature Algorithm: sha1WithRSAEncryption
+         76:b2:9c:ee:13:9f:1b:f6:2d:34:92:94:45:73:34:dc:8e:6b:
+         2e:5c:fc:4c:7d:89:eb:c3:68:f1:d7:99:0f:2e:1d:17:c8:b5:
+         16:8b:be:cd:8a:05:06:f2:19:49:3a:03:5b:05:c9:20:8e:6d:
+         52:e1:76:81:a0:c3:65:8a:22:67:e4:1c:53:53:37:46:bf:bc:
+         d7:2f:eb:7b:9e:d0:14:45:6c:40:21:08:e2:5d:75:76:66:30:
+         1e:f4:df:82:8a:2f:bd:f3:a2:0c:bf:1d:db:9f:14:a2:9a:72:
+         37:4d:b0:77:48:e8:4a:3f:09:ce:55:19:2c:ef:e6:07:24:e1:
+         af:ec
+-----BEGIN CERTIFICATE-----
+MIIDTjCCAregAwIBAgIBCjANBgkqhkiG9w0BAQUFADCBzjELMAkGA1UEBhMCWkEx
+FTATBgNVBAgTDFdlc3Rlcm4gQ2FwZTESMBAGA1UEBxMJQ2FwZSBUb3duMR0wGwYD
+VQQKExRUaGF3dGUgQ29uc3VsdGluZyBjYzEoMCYGA1UECxMfQ2VydGlmaWNhdGlv
+biBTZXJ2aWNlcyBEaXZpc2lvbjEhMB8GA1UEAxMYVGhhd3RlIFByZW1pdW0gU2Vy
+dmVyIENBMSgwJgYJKoZIhvcNAQkBFhlwcmVtaXVtLXNlcnZlckB0aGF3dGUuY29t
+MB4XDTAzMDgwNjAwMDAwMFoXDTEzMDgwNTIzNTk1OVowVTELMAkGA1UEBhMCWkEx
+JTAjBgNVBAoTHFRoYXd0ZSBDb25zdWx0aW5nIChQdHkpIEx0ZC4xHzAdBgNVBAMT
+FlRoYXd0ZSBDb2RlIFNpZ25pbmcgQ0EwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJ
+AoGBAMa4uSdgrwvjkWll236N7ZHmqvG+1e3+bdQsf9Fwd/smmVe03T8wuNwh6miN
+gZL8LkuRNYQg8tpKurT85tqI8iDFIZIJR5WgCRymeb6xTB388YpuVNJpofFMkzpB
+/n3UZHtjRfdgYB0xHaTp0w+L+24mJLOo/+XlkNS0wtxQYK5ZAgMBAAGjgbMwgbAw
+EgYDVR0TAQH/BAgwBgEB/wIBADBABgNVHR8EOTA3MDWgM6Axhi9odHRwOi8vY3Js
+LnRoYXd0ZS5jb20vVGhhd3RlUHJlbWl1bVNlcnZlckNBLmNybDAdBgNVHSUEFjAU
+BggrBgEFBQcDAgYIKwYBBQUHAwMwDgYDVR0PAQH/BAQDAgEGMCkGA1UdEQQiMCCk
+HjAcMRowGAYDVQQDExFQcml2YXRlTGFiZWwyLTE0NDANBgkqhkiG9w0BAQUFAAOB
+gQB2spzuE58b9i00kpRFczTcjmsuXPxMfYnrw2jx15kPLh0XyLUWi77NigUG8hlJ
+OgNbBckgjm1S4XaBoMNliiJn5BxTUzdGv7zXL+t7ntAURWxAIQjiXXV2ZjAe9N+C
+ii+986IMvx3bnxSimnI3TbB3SOhKPwnOVRks7+YHJOGv7A==
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            38:25:d7:fa:f8:61:af:9e:f4:90:e7:26:b5:d6:5a:d5
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=VeriSign, Inc., CN=VeriSign Time Stamping Services CA
+        Validity
+            Not Before: Jun 15 00:00:00 2007 GMT
+            Not After : Jun 14 23:59:59 2012 GMT
+        Subject: C=US, O=VeriSign, Inc., CN=VeriSign Time Stamping Services Signer - G2
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c4:b5:f2:52:15:bc:88:86:60:29:16:4a:5b:2f:
+                    4b:91:6b:87:91:f3:35:54:58:35:ea:d1:36:5e:62:
+                    4d:52:51:34:71:c2:7b:66:1d:89:c8:dd:2a:c4:6a:
+                    0a:f6:37:d9:98:74:91:f6:92:ae:b0:b5:76:96:f1:
+                    a9:4a:63:45:47:2e:6b:0b:92:4e:4b:2b:8c:ee:58:
+                    4a:8b:d4:07:e4:1a:2c:f8:82:aa:58:d9:cd:42:f3:
+                    2d:c0:75:de:8d:ab:c7:8e:1d:9a:6c:4c:08:95:1e:
+                    de:db:ef:67:e1:72:c2:49:c2:9e:60:3c:e1:e2:be:
+                    16:a3:63:78:69:14:7b:ad:2d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.verisign.com
+
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.verisign.com/tss-ca.crl
+
+            X509v3 Extended Key Usage: critical
+                Time Stamping
+            X509v3 Key Usage: critical
+                Digital Signature, Non Repudiation
+            X509v3 Subject Alternative Name: 
+                DirName:/CN=TSA1-2
+    Signature Algorithm: sha1WithRSAEncryption
+         50:c5:4b:c8:24:80:df:e4:0d:24:c2:de:1a:b1:a1:02:a1:a6:
+         82:2d:0c:83:15:81:37:0a:82:0e:2c:b0:5a:17:61:b5:d8:05:
+         fe:88:db:f1:91:91:b3:56:1a:40:a6:eb:92:be:38:39:b0:75:
+         36:74:3a:98:4f:e4:37:ba:99:89:ca:95:42:1d:b0:b9:c7:a0:
+         8d:57:e0:fa:d5:64:04:42:35:4e:01:d1:33:a2:17:c8:4d:aa:
+         27:c7:f2:e1:86:4c:02:38:4d:83:78:c6:fc:53:e0:eb:e0:06:
+         87:dd:a4:96:9e:5e:0c:98:e2:a5:be:bf:82:85:c3:60:e1:df:
+         ad:28:d8:c7:a5:4b:64:da:c7:1b:5b:bd:ac:39:08:d5:38:22:
+         a1:33:8b:2f:8a:9a:eb:bc:07:21:3f:44:41:09:07:b5:65:1c:
+         24:bc:48:d3:44:80:eb:a1:cf:c9:02:b4:14:cf:54:c7:16:a3:
+         80:5c:f9:79:3e:5d:72:7d:88:17:9e:2c:43:a2:ca:53:ce:7d:
+         3d:f6:2a:3a:b8:4f:94:00:a5:6d:0a:83:5d:f9:5e:53:f4:18:
+         b3:57:0f:70:c3:fb:f5:ad:95:a0:0e:17:de:c4:16:80:60:c9:
+         0f:2b:6e:86:04:f1:eb:f4:78:27:d1:05:c5:ee:34:5b:5e:b9:
+         49:32:f2:33
+-----BEGIN CERTIFICATE-----
+MIIDejCCAmKgAwIBAgIQOCXX+vhhr570kOcmtdZa1TANBgkqhkiG9w0BAQUFADBT
+MQswCQYDVQQGEwJVUzEXMBUGA1UEChMOVmVyaVNpZ24sIEluYy4xKzApBgNVBAMT
+IlZlcmlTaWduIFRpbWUgU3RhbXBpbmcgU2VydmljZXMgQ0EwHhcNMDcwNjE1MDAw
+MDAwWhcNMTIwNjE0MjM1OTU5WjBcMQswCQYDVQQGEwJVUzEXMBUGA1UEChMOVmVy
+aVNpZ24sIEluYy4xNDAyBgNVBAMTK1ZlcmlTaWduIFRpbWUgU3RhbXBpbmcgU2Vy
+dmljZXMgU2lnbmVyIC0gRzIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMS1
+8lIVvIiGYCkWSlsvS5Frh5HzNVRYNerRNl5iTVJRNHHCe2YdicjdKsRqCvY32Zh0
+kfaSrrC1dpbxqUpjRUcuawuSTksrjO5YSovUB+QaLPiCqljZzULzLcB13o2rx44d
+mmxMCJUe3tvvZ+FywknCnmA84eK+FqNjeGkUe60tAgMBAAGjgcQwgcEwNAYIKwYB
+BQUHAQEEKDAmMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC52ZXJpc2lnbi5jb20w
+DAYDVR0TAQH/BAIwADAzBgNVHR8ELDAqMCigJqAkhiJodHRwOi8vY3JsLnZlcmlz
+aWduLmNvbS90c3MtY2EuY3JsMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMIMA4GA1Ud
+DwEB/wQEAwIGwDAeBgNVHREEFzAVpBMwETEPMA0GA1UEAxMGVFNBMS0yMA0GCSqG
+SIb3DQEBBQUAA4IBAQBQxUvIJIDf5A0kwt4asaECoaaCLQyDFYE3CoIOLLBaF2G1
+2AX+iNvxkZGzVhpApuuSvjg5sHU2dDqYT+Q3upmJypVCHbC5x6CNV+D61WQEQjVO
+AdEzohfITaonx/LhhkwCOE2DeMb8U+Dr4AaH3aSWnl4MmOKlvr+ChcNg4d+tKNjH
+pUtk2scbW72sOQjVOCKhM4sviprrvAchP0RBCQe1ZRwkvEjTRIDroc/JArQUz1TH
+FqOAXPl5Pl1yfYgXnixDospTzn099io6uE+UAKVtCoNd+V5T9BizVw9ww/v1rZWg
+DhfexBaAYMkPK26GBPHr9Hgn0QXF7jRbXrlJMvIz
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            47:bf:19:95:df:8d:52:46:43:f7:db:6d:48:0d:31:a4
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=ZA, ST=Western Cape, L=Durbanville, O=Thawte, OU=Thawte Certification, CN=Thawte Timestamping CA
+        Validity
+            Not Before: Dec  4 00:00:00 2003 GMT
+            Not After : Dec  3 23:59:59 2013 GMT
+        Subject: C=US, O=VeriSign, Inc., CN=VeriSign Time Stamping Services CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a9:ca:b2:a4:cc:cd:20:af:0a:7d:89:ac:87:75:
+                    f0:b4:4e:f1:df:c1:0f:bf:67:61:bd:a3:64:1c:da:
+                    bb:f9:ca:33:ab:84:30:89:58:7e:8c:db:6b:dd:36:
+                    9e:0f:bf:d1:ec:78:f2:77:a6:7e:6f:3c:bf:93:af:
+                    0d:ba:68:f4:6c:94:ca:bd:52:2d:ab:48:3d:f5:b6:
+                    d5:5d:5f:1b:02:9f:fa:2f:6b:1e:a4:f7:a3:9a:a6:
+                    1a:c8:02:e1:7f:4c:52:e3:0e:60:ec:40:1c:7e:b9:
+                    0d:de:3f:c7:b4:df:87:bd:5f:7a:6a:31:2e:03:99:
+                    81:13:a8:47:20:ce:31:73:0d:57:2d:cd:78:34:33:
+                    95:12:99:12:b9:de:68:2f:aa:e6:e3:c2:8a:8c:2a:
+                    c3:8b:21:87:66:bd:83:58:57:6f:75:bf:3c:aa:26:
+                    87:5d:ca:10:15:3c:9f:84:ea:54:c1:0a:6e:c4:fe:
+                    c5:4a:dd:b9:07:11:97:22:7c:db:3e:27:d1:1e:78:
+                    ec:9f:31:c9:f1:e6:22:19:db:c4:b3:47:43:9a:1a:
+                    5f:a0:1e:90:e4:5e:f5:ee:7c:f1:7d:ab:62:01:8f:
+                    f5:4d:0b:de:d0:22:56:a8:95:cd:ae:88:76:ae:ee:
+                    ba:0d:f3:e4:4d:d9:a0:fb:68:a0:ae:14:3b:b3:87:
+                    c1:bb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.verisign.com
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.verisign.com/ThawteTimestampingCA.crl
+
+            X509v3 Extended Key Usage: 
+                Time Stamping
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Alternative Name: 
+                DirName:/CN=TSA2048-1-53
+    Signature Algorithm: sha1WithRSAEncryption
+         4a:6b:f9:ea:58:c2:44:1c:31:89:79:99:2b:96:bf:82:ac:01:
+         d6:1c:4c:cd:b0:8a:58:6e:df:08:29:a3:5e:c8:ca:93:13:e7:
+         04:52:0d:ef:47:27:2f:00:38:b0:e4:c9:93:4e:9a:d4:22:62:
+         15:f7:3f:37:21:4f:70:31:80:f1:8b:38:87:b3:e8:e8:97:00:
+         fe:cf:55:96:4e:24:d2:a9:27:4e:7a:ae:b7:61:41:f3:2a:ce:
+         e7:c9:d9:5e:dd:bb:2b:85:3e:b5:9d:b5:d9:e1:57:ff:be:b4:
+         c5:7e:f5:cf:0c:9e:f0:97:fe:2b:d3:3b:52:1b:1b:38:27:f7:
+         3f:4a
+-----BEGIN CERTIFICATE-----
+MIIDxDCCAy2gAwIBAgIQR78Zld+NUkZD99ttSA0xpDANBgkqhkiG9w0BAQUFADCB
+izELMAkGA1UEBhMCWkExFTATBgNVBAgTDFdlc3Rlcm4gQ2FwZTEUMBIGA1UEBxML
+RHVyYmFudmlsbGUxDzANBgNVBAoTBlRoYXd0ZTEdMBsGA1UECxMUVGhhd3RlIENl
+cnRpZmljYXRpb24xHzAdBgNVBAMTFlRoYXd0ZSBUaW1lc3RhbXBpbmcgQ0EwHhcN
+MDMxMjA0MDAwMDAwWhcNMTMxMjAzMjM1OTU5WjBTMQswCQYDVQQGEwJVUzEXMBUG
+A1UEChMOVmVyaVNpZ24sIEluYy4xKzApBgNVBAMTIlZlcmlTaWduIFRpbWUgU3Rh
+bXBpbmcgU2VydmljZXMgQ0EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCpyrKkzM0grwp9iayHdfC0TvHfwQ+/Z2G9o2Qc2rv5yjOrhDCJWH6M22vdNp4P
+v9HsePJ3pn5vPL+Trw26aPRslMq9Ui2rSD31ttVdXxsCn/ovax6k96OaphrIAuF/
+TFLjDmDsQBx+uQ3eP8e034e9X3pqMS4DmYETqEcgzjFzDVctzXg0M5USmRK53mgv
+qubjwoqMKsOLIYdmvYNYV291vzyqJoddyhAVPJ+E6lTBCm7E/sVK3bkHEZcifNs+
+J9EeeOyfMcnx5iIZ28SzR0OaGl+gHpDkXvXufPF9q2IBj/VNC97QIlaolc2uiHau
+7roN8+RN2aD7aKCuFDuzh8G7AgMBAAGjgdswgdgwNAYIKwYBBQUHAQEEKDAmMCQG
+CCsGAQUFBzABhhhodHRwOi8vb2NzcC52ZXJpc2lnbi5jb20wEgYDVR0TAQH/BAgw
+BgEB/wIBADBBBgNVHR8EOjA4MDagNKAyhjBodHRwOi8vY3JsLnZlcmlzaWduLmNv
+bS9UaGF3dGVUaW1lc3RhbXBpbmdDQS5jcmwwEwYDVR0lBAwwCgYIKwYBBQUHAwgw
+DgYDVR0PAQH/BAQDAgEGMCQGA1UdEQQdMBukGTAXMRUwEwYDVQQDEwxUU0EyMDQ4
+LTEtNTMwDQYJKoZIhvcNAQEFBQADgYEASmv56ljCRBwxiXmZK5a/gqwB1hxMzbCK
+WG7fCCmjXsjKkxPnBFIN70cnLwA4sOTJk06a1CJiFfc/NyFPcDGA8Ys4h7Po6JcA
+/s9Vlk4k0qknTnqut2FB8yrO58nZXt27K4U+tZ212eFX/760xX71zwye8Jf+K9M7
+UhsbOCf3P0o=
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            18:ab:64:bf:8f:eb:2c:4b:34:8f:5d:37:1e:6d:11:6c
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=ZA, O=Thawte Consulting (Pty) Ltd., CN=Thawte Code Signing CA
+        Validity
+            Not Before: Aug 18 23:28:53 2009 GMT
+            Not After : Sep 14 17:25:43 2010 GMT
+        Subject: C=US, ST=Washington, L=Seattle, O=RealNetworks, Inc., OU=ISO, CN=RealNetworks, Inc.
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:cd:3a:02:7e:4d:a1:56:0b:b8:6a:a1:cd:6c:38:
+                    41:0a:fa:71:d2:48:60:1f:2c:46:5b:a0:f5:1b:64:
+                    6f:7e:3b:c2:bc:8b:c9:f1:a2:89:d9:88:2a:7d:b6:
+                    18:6b:0c:1e:6e:69:f6:93:ad:6c:72:16:ab:bf:d2:
+                    57:f4:11:d5:63:8d:7b:0d:c4:81:e5:7a:af:32:8a:
+                    ba:e7:6c:82:36:75:de:88:b7:db:70:1e:f1:4f:dd:
+                    85:57:f1:fb:72:20:a3:68:1a:b6:84:95:19:d9:69:
+                    99:61:e2:2c:be:51:18:81:19:87:fa:78:97:f2:31:
+                    47:e0:92:97:5b:73:c8:c7:8f:ff:32:cd:3b:50:4b:
+                    a2:2c:e1:be:8e:2f:8d:a4:7e:d3:24:21:8d:ee:55:
+                    b9:c2:54:06:6a:6e:19:b4:4f:4a:55:0f:46:b6:b7:
+                    74:f9:2f:a7:a6:ea:a3:b3:25:88:b6:ab:b4:86:ff:
+                    84:21:34:a8:1c:05:e6:84:b3:a8:8f:a6:1b:fb:85:
+                    c4:94:b2:be:cf:01:a3:b4:fd:16:87:96:cb:b5:92:
+                    3a:00:12:a9:1e:9a:96:b5:45:d5:cb:8c:04:63:c9:
+                    b0:8b:1c:72:5f:ac:39:b2:5f:e6:13:5d:cb:b3:d4:
+                    42:db:ca:8e:73:79:fd:29:00:f3:b5:18:67:49:a4:
+                    71:b3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Extended Key Usage: 
+                Code Signing, Microsoft Commercial Code Signing
+            Netscape Cert Type: 
+                Object Signing
+            2.5.29.4: 
+                0.0.0..
++.....7.......
+            X509v3 Subject Alternative Name: 
+                DNS:www.realnetworks.com
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.thawte.com/ThawteCodeSigningCA.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.thawte.com
+
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+    Signature Algorithm: sha1WithRSAEncryption
+         5a:ac:9f:d4:24:b0:78:42:44:54:b6:50:2f:8f:21:1a:45:8a:
+         af:2c:fc:18:b1:7d:c8:64:47:4d:5a:00:88:bf:30:fd:b0:7c:
+         c4:95:4a:0e:c5:93:31:30:a4:e9:a9:7f:79:03:51:d8:cf:4b:
+         de:91:05:b9:86:a3:29:e6:28:9c:c9:0f:b2:e2:28:ea:de:4f:
+         03:eb:45:3f:56:32:c7:63:c7:f6:fa:5c:64:b8:72:7a:05:38:
+         c0:78:80:77:d5:c7:13:a3:09:c8:07:a6:d2:23:26:68:4b:d5:
+         a8:f0:55:fb:4e:c9:bb:c1:46:a9:b6:9d:ef:3c:2a:c3:41:47:
+         48:5e
+-----BEGIN CERTIFICATE-----
+MIID1DCCAz2gAwIBAgIQGKtkv4/rLEs0j103Hm0RbDANBgkqhkiG9w0BAQUFADBV
+MQswCQYDVQQGEwJaQTElMCMGA1UEChMcVGhhd3RlIENvbnN1bHRpbmcgKFB0eSkg
+THRkLjEfMB0GA1UEAxMWVGhhd3RlIENvZGUgU2lnbmluZyBDQTAeFw0wOTA4MTgy
+MzI4NTNaFw0xMDA5MTQxNzI1NDNaMHwxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpX
+YXNoaW5ndG9uMRAwDgYDVQQHEwdTZWF0dGxlMRswGQYDVQQKExJSZWFsTmV0d29y
+a3MsIEluYy4xDDAKBgNVBAsTA0lTTzEbMBkGA1UEAxMSUmVhbE5ldHdvcmtzLCBJ
+bmMuMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzToCfk2hVgu4aqHN
+bDhBCvpx0khgHyxGW6D1G2RvfjvCvIvJ8aKJ2YgqfbYYawwebmn2k61scharv9JX
+9BHVY417DcSB5XqvMoq652yCNnXeiLfbcB7xT92FV/H7ciCjaBq2hJUZ2WmZYeIs
+vlEYgRmH+niX8jFH4JKXW3PIx4//Ms07UEuiLOG+ji+NpH7TJCGN7lW5wlQGam4Z
+tE9KVQ9Gtrd0+S+npuqjsyWItqu0hv+EITSoHAXmhLOoj6Yb+4XElLK+zwGjtP0W
+h5bLtZI6ABKpHpqWtUXVy4wEY8mwixxyX6w5sl/mE13Ls9RC28qOc3n9KQDztRhn
+SaRxswIDAQABo4H5MIH2MB8GA1UdJQQYMBYGCCsGAQUFBwMDBgorBgEEAYI3AgEW
+MBEGCWCGSAGG+EIBAQQEAwIEEDAdBgNVHQQEFjAUMA4wDAYKKwYBBAGCNwIBFgMC
+B4AwHwYDVR0RBBgwFoIUd3d3LnJlYWxuZXR3b3Jrcy5jb20wPgYDVR0fBDcwNTAz
+oDGgL4YtaHR0cDovL2NybC50aGF3dGUuY29tL1RoYXd0ZUNvZGVTaWduaW5nQ0Eu
+Y3JsMDIGCCsGAQUFBwEBBCYwJDAiBggrBgEFBQcwAYYWaHR0cDovL29jc3AudGhh
+d3RlLmNvbTAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEBBQUAA4GBAFqsn9QksHhC
+RFS2UC+PIRpFiq8s/BixfchkR01aAIi/MP2wfMSVSg7FkzEwpOmpf3kDUdjPS96R
+BbmGoynmKJzJD7LiKOreTwPrRT9WMsdjx/b6XGS4cnoFOMB4gHfVxxOjCcgHptIj
+JmhL1ajwVftOybvBRqm2ne88KsNBR0he
+-----END CERTIFICATE-----
+

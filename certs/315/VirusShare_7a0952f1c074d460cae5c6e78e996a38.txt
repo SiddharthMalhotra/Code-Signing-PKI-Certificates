@@ -1,0 +1,211 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            66:af:f9:10:00:00:00:00:01:d2
+    Signature Algorithm: GOST R 34.11-94 with GOST R 34.10-2001
+        Issuer: emailAddress=dit@minsvyaz.ru, C=RU, ST=77 \xD0\xB3. \xD0\x9C\xD0\xBE\xD1\x81\xD0\xBA\xD0\xB2\xD0\xB0, L=\xD0\x9C\xD0\xBE\xD1\x81\xD0\xBA\xD0\xB2\xD0\xB0/street=125375 \xD0\xB3. \xD0\x9C\xD0\xBE\xD1\x81\xD0\xBA\xD0\xB2\xD0\xB0, \xD1\x83\xD0\xBB. \xD0\xA2\xD0\xB2\xD0\xB5\xD1\x80\xD1\x81\xD0\xBA\xD0\xB0\xD1\x8F, \xD0\xB4. 7, O=\xD0\x9C\xD0\xB8\xD0\xBD\xD0\xBA\xD0\xBE\xD0\xBC\xD1\x81\xD0\xB2\xD1\x8F\xD0\xB7\xD1\x8C \xD0\xA0\xD0\xBE\xD1\x81\xD1\x81\xD0\xB8\xD0\xB8/1.2.643.100.1=1047702026701/1.2.643.3.131.1.1=007710474375, CN=\xD0\x93\xD0\xBE\xD0\xBB\xD0\xBE\xD0\xB2\xD0\xBD\xD0\xBE\xD0\xB9 \xD1\x83\xD0\xB4\xD0\xBE\xD1\x81\xD1\x82\xD0\xBE\xD0\xB2\xD0\xB5\xD1\x80\xD1\x8F\xD1\x8E\xD1\x89\xD0\xB8\xD0\xB9 \xD1\x86\xD0\xB5\xD0\xBD\xD1\x82\xD1\x80
+        Validity
+            Not Before: Nov 15 12:41:17 2017 GMT
+            Not After : Nov 15 12:41:17 2026 GMT
+        Subject: emailAddress=ca@center-inform.ru/1.2.643.100.1=1177847005930/1.2.643.3.131.1.1=007841051711, C=RU, ST=78 \xD0\xA1\xD0\xB0\xD0\xBD\xD0\xBA\xD1\x82-\xD0\x9F\xD0\xB5\xD1\x82\xD0\xB5\xD1\x80\xD0\xB1\xD1\x83\xD1\x80\xD0\xB3, L=\xD0\x93\xD0\x9E\xD0\xA0\xD0\x9E\xD0\x94 \xD0\xA1\xD0\x90\xD0\x9D\xD0\x9A\xD0\xA2-\xD0\x9F\xD0\x95\xD0\xA2\xD0\x95\xD0\xA0\xD0\x91\xD0\xA3\xD0\xA0\xD0\x93/street=\xD0\xA3\xD0\x9B\xD0\x98\xD0\xA6\xD0\x90 \xD0\xA8\xD0\x9F\xD0\x90\xD0\x9B\xD0\x95\xD0\xA0\xD0\x9D\xD0\x90\xD0\xAF, \xD0\x94\xD0\x9E\xD0\x9C 26, O=\xD0\x90\xD0\x9E "\xD0\xA6\xD0\x95\xD0\x9D\xD0\xA2\xD0\xA0\xD0\x98\xD0\x9D\xD0\xA4\xD0\x9E\xD0\xA0\xD0\x9C", CN=\xD0\x90\xD0\x9E "\xD0\xA6\xD0\x95\xD0\x9D\xD0\xA2\xD0\xA0\xD0\x98\xD0\x9D\xD0\xA4\xD0\x9E\xD0\xA0\xD0\x9C"
+        Subject Public Key Info:
+            Public Key Algorithm: GOST R 34.10-2001
+            Unable to load Public Key
+140736664962056:error:0609E09C:digital envelope routines:PKEY_SET_TYPE:unsupported algorithm:p_lib.c:239:
+140736664962056:error:0B07706F:x509 certificate routines:X509_PUBKEY_get:unsupported algorithm:x_pubkey.c:148:
+        X509v3 extensions:
+            X509v3 Key Usage: 
+                Digital Signature, Certificate Sign, CRL Sign
+            X509v3 Subject Key Identifier: 
+                19:0B:78:0C:9B:40:C3:A1:C4:00:6E:53:50:58:C0:18:91:87:B6:CA
+            1.3.6.1.4.1.311.20.2: 
+                ..SubCA
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                Policy: 1.2.643.100.113.1
+                Policy: 1.2.643.100.113.2
+
+            1.2.643.100.111: 
+                .+".................. CSP" (............ 4.0)
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 Authority Key Identifier: 
+                keyid:8B:98:3B:89:18:51:E8:EF:9C:02:78:B8:EA:C8:D4:20:B2:55:C9:5D
+                DirName:/emailAddress=dit@minsvyaz.ru/C=RU/ST=77 \xD0\xB3. \xD0\x9C\xD0\xBE\xD1\x81\xD0\xBA\xD0\xB2\xD0\xB0/L=\xD0\x9C\xD0\xBE\xD1\x81\xD0\xBA\xD0\xB2\xD0\xB0
+                serial:34:68:1E:40:CB:41:EF:33:A9:A0:B7:C8:76:92:9A:29
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://rostelecom.ru/cdp/guc.crl
+
+                Full Name:
+                  URI:http://reestr-pki.ru/cdp/guc.crl
+
+            1.2.643.100.112: 
+                0...#........ .................... HSM... ...... .................. .......6.................... ... 149/3/2/2-999 .... 05.07.2012.8.................... ... 149/7/1/4/2-603 .... 06.07.2012
+    Signature Algorithm: GOST R 34.11-94 with GOST R 34.10-2001
+         96:d6:00:6e:20:ef:47:54:26:4c:73:df:97:48:b1:8f:3e:ea:
+         92:d7:6c:93:91:51:1b:03:48:ae:ae:c0:47:f5:28:97:2d:97:
+         b8:5c:e1:f6:67:05:3c:32:11:69:f4:29:70:e7:29:16:d6:8a:
+         8e:42:f7:8d:9a:2a:55:43:6b:7b
+-----BEGIN CERTIFICATE-----
+MIIHDTCCBrygAwIBAgIKZq/5EAAAAAAB0jAIBgYqhQMCAgMwggFKMR4wHAYJKoZI
+hvcNAQkBFg9kaXRAbWluc3Z5YXoucnUxCzAJBgNVBAYTAlJVMRwwGgYDVQQIDBM3
+NyDQsy4g0JzQvtGB0LrQstCwMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxPzA9BgNV
+BAkMNjEyNTM3NSDQsy4g0JzQvtGB0LrQstCwLCDRg9C7LiDQotCy0LXRgNGB0LrQ
+sNGPLCDQtC4gNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+
+0YHRgdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEB
+EgwwMDc3MTA0NzQzNzUxQTA/BgNVBAMMONCT0L7Qu9C+0LLQvdC+0Lkg0YPQtNC+
+0YHRgtC+0LLQtdGA0Y/RjtGJ0LjQuSDRhtC10L3RgtGAMB4XDTE3MTExNTEyNDEx
+N1oXDTI2MTExNTEyNDExN1owggFIMSIwIAYJKoZIhvcNAQkBFhNjYUBjZW50ZXIt
+aW5mb3JtLnJ1MRgwFgYFKoUDZAESDTExNzc4NDcwMDU5MzAxGjAYBggqhQMDgQMB
+ARIMMDA3ODQxMDUxNzExMQswCQYDVQQGEwJSVTEpMCcGA1UECAwgNzgg0KHQsNC9
+0LrRgi3Qn9C10YLQtdGA0LHRg9GA0LMxMTAvBgNVBAcMKNCT0J7QoNCe0JQg0KHQ
+kNCd0JrQoi3Qn9CV0KLQldCg0JHQo9Cg0JMxMTAvBgNVBAkMKNCj0JvQmNCm0JAg
+0KjQn9CQ0JvQldCg0J3QkNCvLCDQlNCe0JwgMjYxJjAkBgNVBAoMHdCQ0J4gItCm
+0JXQndCi0KDQmNCd0KTQntCg0JwiMSYwJAYDVQQDDB3QkNCeICLQptCV0J3QotCg
+0JjQndCk0J7QoNCcIjBjMBwGBiqFAwICEzASBgcqhQMCAiMBBgcqhQMCAh4BA0MA
+BEBKHNGSbt6mZeEDAMBmVPvJv2DDLwX0kU96OapxIGsXqoYRPgsTh973Pb7ApPVc
+9v1n5gZDKvUJZQGnoJUOJ8LVo4IDfjCCA3owCwYDVR0PBAQDAgGGMB0GA1UdDgQW
+BBQZC3gMm0DDocQAblNQWMAYkYe2yjAUBgkrBgEEAYI3FAIEBwwFU3ViQ0EwEgYD
+VR0TAQH/BAgwBgEB/wIBADAlBgNVHSAEHjAcMAYGBFUdIAAwCAYGKoUDZHEBMAgG
+BiqFA2RxAjA2BgUqhQNkbwQtDCsi0JrRgNC40L/RgtC+0J/RgNC+IENTUCIgKNCy
+0LXRgNGB0LjRjyA0LjApMBAGCSsGAQQBgjcVAQQDAgEAMIIBiwYDVR0jBIIBgjCC
+AX6AFIuYO4kYUejvnAJ4uOrI1CCyVcldoYIBUqSCAU4wggFKMR4wHAYJKoZIhvcN
+AQkBFg9kaXRAbWluc3Z5YXoucnUxCzAJBgNVBAYTAlJVMRwwGgYDVQQIDBM3NyDQ
+sy4g0JzQvtGB0LrQstCwMRUwEwYDVQQHDAzQnNC+0YHQutCy0LAxPzA9BgNVBAkM
+NjEyNTM3NSDQsy4g0JzQvtGB0LrQstCwLCDRg9C7LiDQotCy0LXRgNGB0LrQsNGP
+LCDQtC4gNzEsMCoGA1UECgwj0JzQuNC90LrQvtC80YHQstGP0LfRjCDQoNC+0YHR
+gdC40LgxGDAWBgUqhQNkARINMTA0NzcwMjAyNjcwMTEaMBgGCCqFAwOBAwEBEgww
+MDc3MTA0NzQzNzUxQTA/BgNVBAMMONCT0L7Qu9C+0LLQvdC+0Lkg0YPQtNC+0YHR
+gtC+0LLQtdGA0Y/RjtGJ0LjQuSDRhtC10L3RgtGAghA0aB5Ay0HvM6mgt8h2kpop
+MFkGA1UdHwRSMFAwJqAkoCKGIGh0dHA6Ly9yb3N0ZWxlY29tLnJ1L2NkcC9ndWMu
+Y3JsMCagJKAihiBodHRwOi8vcmVlc3RyLXBraS5ydS9jZHAvZ3VjLmNybDCBxgYF
+KoUDZHAEgbwwgbkMI9Cf0JDQmtCcIMKr0JrRgNC40L/RgtC+0J/RgNC+IEhTTcK7
+DCDQn9CQ0JogwqvQk9C+0LvQvtCy0L3QvtC5INCj0KbCuww20JfQsNC60LvRjtGH
+0LXQvdC40LUg4oSWIDE0OS8zLzIvMi05OTkg0L7RgiAwNS4wNy4yMDEyDDjQl9Cw
+0LrQu9GO0YfQtdC90LjQtSDihJYgMTQ5LzcvMS80LzItNjAzINC+0YIgMDYuMDcu
+MjAxMjAIBgYqhQMCAgMDQQCW1gBuIO9HVCZMc9+XSLGPPuqS12yTkVEbA0iursBH
+9SiXLZe4XOH2ZwU8MhFp9Clw5ykW1oqOQveNmipVQ2t7
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            b3:77:0f:ba:e2:90:e6:80:e7:11:a4:fa:93:b5:0d:4a
+    Signature Algorithm: GOST R 34.11-94 with GOST R 34.10-2001
+        Issuer: emailAddress=ca@center-inform.ru/1.2.643.100.1=1177847005930/1.2.643.3.131.1.1=007841051711, C=RU, ST=78 \xD0\xA1\xD0\xB0\xD0\xBD\xD0\xBA\xD1\x82-\xD0\x9F\xD0\xB5\xD1\x82\xD0\xB5\xD1\x80\xD0\xB1\xD1\x83\xD1\x80\xD0\xB3, L=\xD0\x93\xD0\x9E\xD0\xA0\xD0\x9E\xD0\x94 \xD0\xA1\xD0\x90\xD0\x9D\xD0\x9A\xD0\xA2-\xD0\x9F\xD0\x95\xD0\xA2\xD0\x95\xD0\xA0\xD0\x91\xD0\xA3\xD0\xA0\xD0\x93/street=\xD0\xA3\xD0\x9B\xD0\x98\xD0\xA6\xD0\x90 \xD0\xA8\xD0\x9F\xD0\x90\xD0\x9B\xD0\x95\xD0\xA0\xD0\x9D\xD0\x90\xD0\xAF, \xD0\x94\xD0\x9E\xD0\x9C 26, O=\xD0\x90\xD0\x9E "\xD0\xA6\xD0\x95\xD0\x9D\xD0\xA2\xD0\xA0\xD0\x98\xD0\x9D\xD0\xA4\xD0\x9E\xD0\xA0\xD0\x9C", CN=\xD0\x90\xD0\x9E "\xD0\xA6\xD0\x95\xD0\x9D\xD0\xA2\xD0\xA0\xD0\x98\xD0\x9D\xD0\xA4\xD0\x9E\xD0\xA0\xD0\x9C"
+        Validity
+            Not Before: Jan 16 09:51:59 2018 GMT
+            Not After : Apr 16 10:01:59 2019 GMT
+        Subject: emailAddress=sps@center-inform.ru/1.2.643.3.131.1.1=007841051711/1.2.643.100.1=1177847005930, OU=\xD0\xA3\xD0\xBF\xD1\x80\xD0\xB0\xD0\xB2\xD0\xBB\xD0\xB5\xD0\xBD\xD0\xB8\xD0\xB5 \xD0\xB7\xD0\xB0\xD1\x89\xD0\xB8\xD1\x89\xD0\xB5\xD0\xBD\xD0\xBD\xD0\xBE\xD0\xB3\xD0\xBE \xD0\xB4\xD0\xBE\xD0\xBA\xD1\x83\xD0\xBC\xD0\xB5\xD0\xBD\xD1\x82\xD0\xBE\xD0\xBE\xD0\xB1\xD0\xBE\xD1\x80\xD0\xBE\xD1\x82\xD0\xB0, O=\xD0\x90\xD0\xBA\xD1\x86\xD0\xB8\xD0\xBE\xD0\xBD\xD0\xB5\xD1\x80\xD0\xBD\xD0\xBE\xD0\xB5 \xD0\xBE\xD0\xB1\xD1\x89\xD0\xB5\xD1\x81\xD1\x82\xD0\xB2\xD0\xBE "\xD0\xA6\xD0\xB5\xD0\xBD\xD1\x82\xD1\x80\xD0\x98\xD0\xBD\xD1\x84\xD0\xBE\xD1\x80\xD0\xBC"/street=\xD1\x83\xD0\xBB. \xD0\xA8\xD0\xBF\xD0\xB0\xD0\xBB\xD0\xB5\xD1\x80\xD0\xBD\xD0\xB0\xD1\x8F, \xD0\xB4. 26, L=\xD0\xB3. \xD0\xA1\xD0\xB0\xD0\xBD\xD0\xBA\xD1\x82-\xD0\x9F\xD0\xB5\xD1\x82\xD0\xB5\xD1\x80\xD0\xB1\xD1\x83\xD1\x80\xD0\xB3, ST=78 \xD0\xB3. \xD0\xA1\xD0\xB0\xD0\xBD\xD0\xBA\xD1\x82-\xD0\x9F\xD0\xB5\xD1\x82\xD0\xB5\xD1\x80\xD0\xB1\xD1\x83\xD1\x80\xD0\xB3, C=RU, CN=\xD0\x90\xD0\x9E "\xD0\xA6\xD0\xB5\xD0\xBD\xD1\x82\xD1\x80\xD0\x98\xD0\xBD\xD1\x84\xD0\xBE\xD1\x80\xD0\xBC"
+        Subject Public Key Info:
+            Public Key Algorithm: GOST R 34.10-2001
+            Unable to load Public Key
+140736664962056:error:0609E09C:digital envelope routines:PKEY_SET_TYPE:unsupported algorithm:p_lib.c:239:
+140736664962056:error:0B07706F:x509 certificate routines:X509_PUBKEY_get:unsupported algorithm:x_pubkey.c:148:
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment, Key Agreement
+            X509v3 Subject Key Identifier: 
+                F7:0C:26:1A:18:0E:11:5F:A8:6F:8C:70:30:EF:00:97:7E:8D:E9:F3
+            1.3.6.1.4.1.311.21.7: 
+                0%..*....2.....0...$.......+..1.T......
+            X509v3 Authority Key Identifier: 
+                keyid:19:0B:78:0C:9B:40:C3:A1:C4:00:6E:53:50:58:C0:18:91:87:B6:CA
+                DirName:/emailAddress=dit@minsvyaz.ru/C=RU/ST=77 \xD0\xB3. \xD0\x9C\xD0\xBE\xD1\x81\xD0\xBA\xD0\xB2\xD0\xB0/L=\xD0\x9C\xD0\xBE\xD1\x81\xD0\xBA\xD0\xB2\xD0\xB0
+                serial:66:AF:F9:10:00:00:00:00:01:D2
+
+            X509v3 Extended Key Usage: 
+                Code Signing, 1.3.6.1.4.1.311.10.3.12
+            1.3.6.1.4.1.311.21.10: 
+                0.0
+..+.......0..
++.....7
+..
+            X509v3 Certificate Policies: 
+                Policy: 1.2.643.100.113.1
+                Policy: 1.2.643.100.113.2
+
+            X509v3 Private Key Usage Period: 
+                Not Before: Jan 16 09:51:59 2018 GMT, Not After: Jan 16 09:51:59 2019 GMT
+            1.2.643.100.112: 
+                0..`.+".................. CSP" (............ 4.0).......................-.................... ................ "............................ .......... ".................. ...." ............ 2.0.O.................... ........................ ... ..../124-3010 .... 30.12.2016.O.................... ........................ ... ..../128-2983 .... 18.11.2016
+            1.2.643.100.111: 
+                .+".................. CSP" (............ 4.0)
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://ca.center-inform.ru/crl/ao-center-inform-spb2017.crl
+
+                Full Name:
+                  URI:http://crl.center-inform.ru/ao-center-inform-spb2017.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://ca.center-inform.ru/media/crt/der/ao_center-inform_1017_spb.cer
+                CA Issuers - URI:http://ra.spb.ca2.a.ciapp.ru/aia/190b780c9b40c3a1c4006e535058c0189187b6ca.crt
+
+    Signature Algorithm: GOST R 34.11-94 with GOST R 34.10-2001
+         d0:1d:82:5a:41:4e:c2:c7:d1:13:70:82:85:da:a5:7a:2b:50:
+         31:67:de:29:f5:8c:c8:cb:5f:73:2c:44:a5:46:53:07:cb:63:
+         37:63:76:33:0d:67:b5:87:61:29:81:d5:12:4e:e9:67:cb:79:
+         ff:9a:f5:ff:65:a0:23:f7:69:d7
+-----BEGIN CERTIFICATE-----
+MIIJjDCCCTugAwIBAgIRALN3D7rikOaA5xGk+pO1DUowCAYGKoUDAgIDMIIBSDEi
+MCAGCSqGSIb3DQEJARYTY2FAY2VudGVyLWluZm9ybS5ydTEYMBYGBSqFA2QBEg0x
+MTc3ODQ3MDA1OTMwMRowGAYIKoUDA4EDAQESDDAwNzg0MTA1MTcxMTELMAkGA1UE
+BhMCUlUxKTAnBgNVBAgMIDc4INCh0LDQvdC60YIt0J/QtdGC0LXRgNCx0YPRgNCz
+MTEwLwYDVQQHDCjQk9Ce0KDQntCUINCh0JDQndCa0KIt0J/QldCi0JXQoNCR0KPQ
+oNCTMTEwLwYDVQQJDCjQo9Cb0JjQptCQINCo0J/QkNCb0JXQoNCd0JDQrywg0JTQ
+ntCcIDI2MSYwJAYDVQQKDB3QkNCeICLQptCV0J3QotCg0JjQndCk0J7QoNCcIjEm
+MCQGA1UEAwwd0JDQniAi0KbQldCd0KLQoNCY0J3QpNCe0KDQnCIwHhcNMTgwMTE2
+MDk1MTU5WhcNMTkwNDE2MTAwMTU5WjCCAbgxIzAhBgkqhkiG9w0BCQEWFHNwc0Bj
+ZW50ZXItaW5mb3JtLnJ1MRowGAYIKoUDA4EDAQESDDAwNzg0MTA1MTcxMTEYMBYG
+BSqFA2QBEg0xMTc3ODQ3MDA1OTMwMVUwUwYDVQQLDEzQo9C/0YDQsNCy0LvQtdC9
+0LjQtSDQt9Cw0YnQuNGJ0LXQvdC90L7Qs9C+INC00L7QutGD0LzQtdC90YLQvtC+
+0LHQvtGA0L7RgtCwMUkwRwYDVQQKDEDQkNC60YbQuNC+0L3QtdGA0L3QvtC1INC+
+0LHRidC10YHRgtCy0L4gItCm0LXQvdGC0YDQmNC90YTQvtGA0LwiMSkwJwYDVQQJ
+DCDRg9C7LiDQqNC/0LDQu9C10YDQvdCw0Y8sINC0LiAyNjEqMCgGA1UEBwwh0LMu
+INCh0LDQvdC60YIt0J/QtdGC0LXRgNCx0YPRgNCzMS0wKwYDVQQIDCQ3OCDQsy4g
+0KHQsNC90LrRgi3Qn9C10YLQtdGA0LHRg9GA0LMxCzAJBgNVBAYTAlJVMSYwJAYD
+VQQDDB3QkNCeICLQptC10L3RgtGA0JjQvdGE0L7RgNC8IjBjMBwGBiqFAwICEzAS
+BgcqhQMCAiQABgcqhQMCAh4BA0MABEDLIV1Q7tQon6vRLbUx+JhPq0B5W5x5N880
+6v9IQFqEyWsbGeTMGagAdQc759xWdPi5dGHQP82fI5GN2+WesID+o4IFiDCCBYQw
+DgYDVR0PAQH/BAQDAgOoMB0GA1UdDgQWBBT3DCYaGA4RX6hvjHAw7wCXfo3p8zA0
+BgkrBgEEAYI3FQcEJzAlBh0qhQMCAjIBCYOD0zCH9OAkhemfE4Wv1CuD/DHRVAIB
+AQIBADCCAYUGA1UdIwSCAXwwggF4gBQZC3gMm0DDocQAblNQWMAYkYe2yqGCAVKk
+ggFOMIIBSjEeMBwGCSqGSIb3DQEJARYPZGl0QG1pbnN2eWF6LnJ1MQswCQYDVQQG
+EwJSVTEcMBoGA1UECAwTNzcg0LMuINCc0L7RgdC60LLQsDEVMBMGA1UEBwwM0JzQ
+vtGB0LrQstCwMT8wPQYDVQQJDDYxMjUzNzUg0LMuINCc0L7RgdC60LLQsCwg0YPQ
+uy4g0KLQstC10YDRgdC60LDRjywg0LQuIDcxLDAqBgNVBAoMI9Cc0LjQvdC60L7Q
+vNGB0LLRj9C30Ywg0KDQvtGB0YHQuNC4MRgwFgYFKoUDZAESDTEwNDc3MDIwMjY3
+MDExGjAYBggqhQMDgQMBARIMMDA3NzEwNDc0Mzc1MUEwPwYDVQQDDDjQk9C+0LvQ
+vtCy0L3QvtC5INGD0LTQvtGB0YLQvtCy0LXRgNGP0Y7RidC40Lkg0YbQtdC90YLR
+gIIKZq/5EAAAAAAB0jAfBgNVHSUEGDAWBggrBgEFBQcDAwYKKwYBBAGCNwoDDDAp
+BgkrBgEEAYI3FQoEHDAaMAoGCCsGAQUFBwMDMAwGCisGAQQBgjcKAwwwHQYDVR0g
+BBYwFDAIBgYqhQNkcQEwCAYGKoUDZHECMCsGA1UdEAQkMCKADzIwMTgwMTE2MDk1
+MTU5WoEPMjAxOTAxMTYwOTUxNTlaMIIBbwYFKoUDZHAEggFkMIIBYAwrItCa0YDQ
+uNC/0YLQvtCf0YDQviBDU1AiICjQstC10YDRgdC40Y8gNC4wKQyBjtCf0YDQvtCz
+0YDQsNC80LzQvdC+LdCw0L/Qv9Cw0YDQsNGC0L3Ri9C5INC60L7QvNC/0LvQtdC6
+0YEgItCj0LTQvtGB0YLQvtCy0LXRgNGP0Y7RidC40Lkg0YbQtdC90YLRgCAi0JrR
+gNC40L/RgtC+0J/RgNC+INCj0KYiINCy0LXRgNGB0LjQuCAyLjAMT9Ch0LXRgNGC
+0LjRhNC40LrQsNGCINGB0L7QvtGC0LLQtdGC0YHRgtCy0LjRjyDihJYg0KHQpC8x
+MjQtMzAxMCDQvtGCIDMwLjEyLjIwMTYMT9Ch0LXRgNGC0LjRhNC40LrQsNGCINGB
+0L7QvtGC0LLQtdGC0YHRgtCy0LjRjyDihJYg0KHQpC8xMjgtMjk4MyDQvtGCIDE4
+LjExLjIwMTYwNgYFKoUDZG8ELQwrItCa0YDQuNC/0YLQvtCf0YDQviBDU1AiICjQ
+stC10YDRgdC40Y8gNC4wKTCBjgYDVR0fBIGGMIGDMEGgP6A9hjtodHRwOi8vY2Eu
+Y2VudGVyLWluZm9ybS5ydS9jcmwvYW8tY2VudGVyLWluZm9ybS1zcGIyMDE3LmNy
+bDA+oDygOoY4aHR0cDovL2NybC5jZW50ZXItaW5mb3JtLnJ1L2FvLWNlbnRlci1p
+bmZvcm0tc3BiMjAxNy5jcmwwgb8GCCsGAQUFBwEBBIGyMIGvMFIGCCsGAQUFBzAC
+hkZodHRwOi8vY2EuY2VudGVyLWluZm9ybS5ydS9tZWRpYS9jcnQvZGVyL2FvX2Nl
+bnRlci1pbmZvcm1fMTAxN19zcGIuY2VyMFkGCCsGAQUFBzAChk1odHRwOi8vcmEu
+c3BiLmNhMi5hLmNpYXBwLnJ1L2FpYS8xOTBiNzgwYzliNDBjM2ExYzQwMDZlNTM1
+MDU4YzAxODkxODdiNmNhLmNydDAIBgYqhQMCAgMDQQDQHYJaQU7Cx9ETcIKF2qV6
+K1AxZ94p9YzIy19zLESlRlMHy2M3Y3YzDWe1h2EpgdUSTulny3n/mvX/ZaAj92nX
+-----END CERTIFICATE-----
+

@@ -1,0 +1,51 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+             (Negative)0e:0b:35:f1:40:9b:1a:56:b5:7a:c0:15:3a:25:b0:5c
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: CN=OZCOM
+        Validity
+            Not Before: May 31 04:17:23 2016 GMT
+            Not After : Dec 31 23:59:59 2039 GMT
+        Subject: CN=OZCOM
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:9d:e4:43:8e:01:78:43:6c:9f:1e:1a:03:ff:f1:
+                    38:cd:e7:23:39:f8:12:39:c8:c0:94:98:47:86:45:
+                    b9:d3:67:28:75:58:fe:02:42:89:b5:16:e0:3e:9d:
+                    0a:06:b1:5e:eb:ea:cf:55:21:c2:f1:23:c2:c5:94:
+                    be:3d:99:da:e1:71:29:9d:dc:86:b3:b0:bd:1b:72:
+                    3e:53:f3:55:c2:80:21:7c:23:45:a5:00:df:c4:ca:
+                    f7:bf:8f:ad:cb:e9:ec:89:d1:76:76:24:d0:58:8b:
+                    e6:66:96:4e:b3:51:8e:81:ed:17:99:29:42:33:27:
+                    d7:cf:01:0b:f2:84:7c:ca:7b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            2.5.29.1: 
+                08..X.._........y.....0.1.0...U....OZCOM.......d..J.?...O.
+    Signature Algorithm: md5WithRSAEncryption
+         54:41:b6:39:e2:26:b4:6a:a3:0f:ab:f6:1d:04:b8:d3:45:41:
+         92:7c:7c:48:b4:0e:a5:92:69:0a:62:9f:8b:2a:09:c7:6c:7c:
+         bd:e7:e3:2e:db:65:62:f0:91:7b:e9:92:30:00:ba:d4:a2:94:
+         90:85:78:fd:26:b5:96:23:23:a7:bd:02:96:f0:8c:2c:78:6d:
+         1e:fd:cd:7d:55:87:e5:27:cb:bc:0f:2d:42:f8:26:bd:63:4e:
+         b1:f0:6e:f5:00:8f:81:fa:5b:aa:63:d7:50:1a:da:ed:72:ae:
+         38:20:8f:d1:fe:37:03:3f:45:af:51:d7:f5:9d:f1:c4:fe:d3:
+         85:f1
+-----BEGIN CERTIFICATE-----
+MIIB6jCCAVOgAwIBAgIQ8fTKDr9k5alKhT/qxdpPpDANBgkqhkiG9w0BAQQFADAQ
+MQ4wDAYDVQQDEwVPWkNPTTAeFw0xNjA1MzEwNDE3MjNaFw0zOTEyMzEyMzU5NTla
+MBAxDjAMBgNVBAMTBU9aQ09NMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCd
+5EOOAXhDbJ8eGgP/8TjN5yM5+BI5yMCUmEeGRbnTZyh1WP4CQom1FuA+nQoGsV7r
+6s9VIcLxI8LFlL49mdrhcSmd3IazsL0bcj5T81XCgCF8I0WlAN/Eyve/j63L6eyJ
+0XZ2JNBYi+Zmlk6zUY6B7ReZKUIzJ9fPAQvyhHzKewIDAQABo0UwQzBBBgNVHQEE
+OjA4gBBYzZpfHaED1heECxV51464oRIwEDEOMAwGA1UEAxMFT1pDT02CEPH0yg6/
+ZOWpSoU/6sXaT6QwDQYJKoZIhvcNAQEEBQADgYEAVEG2OeImtGqjD6v2HQS400VB
+knx8SLQOpZJpCmKfiyoJx2x8vefjLttlYvCRe+mSMAC61KKUkIV4/Sa1liMjp70C
+lvCMLHhtHv3NfVWH5SfLvA8tQvgmvWNOsfBu9QCPgfpbqmPXUBra7XKuOCCP0f43
+Az9Fr1HX9Z3xxP7ThfE=
+-----END CERTIFICATE-----
+

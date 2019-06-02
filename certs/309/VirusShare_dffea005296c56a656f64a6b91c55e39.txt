@@ -1,0 +1,436 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            7e:93:eb:fb:7c:c6:4e:59:ea:4b:9a:77:d4:06:fc:3b
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=ZA, ST=Western Cape, L=Durbanville, O=Thawte, OU=Thawte Certification, CN=Thawte Timestamping CA
+        Validity
+            Not Before: Dec 21 00:00:00 2012 GMT
+            Not After : Dec 30 23:59:59 2020 GMT
+        Subject: C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services CA - G2
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b1:ac:b3:49:54:4b:97:1c:12:0a:d8:25:79:91:
+                    22:57:2a:6f:dc:b8:26:c4:43:73:6b:c2:bf:2e:50:
+                    5a:fb:14:c2:76:8e:43:01:25:43:b4:a1:e2:45:f4:
+                    e8:b7:7b:c3:74:cc:22:d7:b4:94:00:02:f7:4d:ed:
+                    bf:b4:b7:44:24:6b:cd:5f:45:3b:d1:44:ce:43:12:
+                    73:17:82:8b:69:b4:2b:cb:99:1e:ac:72:1b:26:4d:
+                    71:1f:b1:31:dd:fb:51:61:02:53:a6:aa:f5:49:2c:
+                    05:78:45:a5:2f:89:ce:e7:99:e7:fe:8c:e2:57:3f:
+                    3d:c6:92:dc:4a:f8:7b:33:e4:79:0a:fb:f0:75:88:
+                    41:9c:ff:c5:03:51:99:aa:d7:6c:9f:93:69:87:65:
+                    29:83:85:c2:60:14:c4:c8:c9:3b:14:da:c0:81:f0:
+                    1f:0d:74:de:92:22:ab:ca:f7:fb:74:7c:27:e6:f7:
+                    4a:1b:7f:a7:c3:9e:2d:ae:8a:ea:a6:e6:aa:27:16:
+                    7d:61:f7:98:71:11:bc:e2:50:a1:4b:e5:5d:fa:e5:
+                    0e:a7:2c:9f:aa:65:20:d3:d8:96:e8:c8:7c:a5:4e:
+                    48:44:ff:19:e2:44:07:92:0b:d7:68:84:80:5d:6a:
+                    78:64:45:cd:60:46:7e:54:c1:13:7c:c5:79:f1:c9:
+                    c1:71
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                5F:9A:F5:6E:5C:CC:CC:74:9A:D4:DD:7D:EF:3F:DB:EC:4C:80:2E:DD
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.thawte.com
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.thawte.com/ThawteTimestampingCA.crl
+
+            X509v3 Extended Key Usage: 
+                Time Stamping
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Alternative Name: 
+                DirName:/CN=TimeStamp-2048-1
+    Signature Algorithm: sha1WithRSAEncryption
+         03:09:9b:8f:79:ef:7f:59:30:aa:ef:68:b5:fa:e3:09:1d:bb:
+         4f:82:06:5d:37:5f:a6:52:9f:16:8d:ea:1c:92:09:44:6e:f5:
+         6d:eb:58:7c:30:e8:f9:69:8d:23:73:0b:12:6f:47:a9:ae:39:
+         11:f8:2a:b1:9b:b0:1a:c3:8e:eb:59:96:00:ad:ce:0c:4d:b2:
+         d0:31:a6:08:5c:2a:7a:fc:e2:7a:1d:57:4c:a8:65:18:e9:79:
+         40:62:25:96:6e:c7:c7:37:6a:83:21:08:8e:41:ea:dd:d9:57:
+         3f:1d:77:49:87:2a:16:06:5e:a6:38:6a:22:12:a3:51:19:83:
+         7e:b6
+-----BEGIN CERTIFICATE-----
+MIID7jCCA1egAwIBAgIQfpPr+3zGTlnqS5p31Ab8OzANBgkqhkiG9w0BAQUFADCB
+izELMAkGA1UEBhMCWkExFTATBgNVBAgTDFdlc3Rlcm4gQ2FwZTEUMBIGA1UEBxML
+RHVyYmFudmlsbGUxDzANBgNVBAoTBlRoYXd0ZTEdMBsGA1UECxMUVGhhd3RlIENl
+cnRpZmljYXRpb24xHzAdBgNVBAMTFlRoYXd0ZSBUaW1lc3RhbXBpbmcgQ0EwHhcN
+MTIxMjIxMDAwMDAwWhcNMjAxMjMwMjM1OTU5WjBeMQswCQYDVQQGEwJVUzEdMBsG
+A1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xMDAuBgNVBAMTJ1N5bWFudGVjIFRp
+bWUgU3RhbXBpbmcgU2VydmljZXMgQ0EgLSBHMjCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBALGss0lUS5ccEgrYJXmRIlcqb9y4JsRDc2vCvy5QWvsUwnaO
+QwElQ7Sh4kX06Ld7w3TMIte0lAAC903tv7S3RCRrzV9FO9FEzkMScxeCi2m0K8uZ
+HqxyGyZNcR+xMd37UWECU6aq9UksBXhFpS+JzueZ5/6M4lc/PcaS3Er4ezPkeQr7
+8HWIQZz/xQNRmarXbJ+TaYdlKYOFwmAUxMjJOxTawIHwHw103pIiq8r3+3R8J+b3
+Sht/p8OeLa6K6qbmqicWfWH3mHERvOJQoUvlXfrlDqcsn6plINPYlujIfKVOSET/
+GeJEB5IL12iEgF1qeGRFzWBGflTBE3zFefHJwXECAwEAAaOB+jCB9zAdBgNVHQ4E
+FgQUX5r1blzMzHSa1N197z/b7EyALt0wMgYIKwYBBQUHAQEEJjAkMCIGCCsGAQUF
+BzABhhZodHRwOi8vb2NzcC50aGF3dGUuY29tMBIGA1UdEwEB/wQIMAYBAf8CAQAw
+PwYDVR0fBDgwNjA0oDKgMIYuaHR0cDovL2NybC50aGF3dGUuY29tL1RoYXd0ZVRp
+bWVzdGFtcGluZ0NBLmNybDATBgNVHSUEDDAKBggrBgEFBQcDCDAOBgNVHQ8BAf8E
+BAMCAQYwKAYDVR0RBCEwH6QdMBsxGTAXBgNVBAMTEFRpbWVTdGFtcC0yMDQ4LTEw
+DQYJKoZIhvcNAQEFBQADgYEAAwmbj3nvf1kwqu9otfrjCR27T4IGXTdfplKfFo3q
+HJIJRG71betYfDDo+WmNI3MLEm9Hqa45EfgqsZuwGsOO61mWAK3ODE2y0DGmCFwq
+evzieh1XTKhlGOl5QGIllm7HxzdqgyEIjkHq3dlXPx13SYcqFgZepjhqIhKjURmD
+frY=
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            0e:cf:f4:38:c8:fe:bf:35:6e:04:d8:6a:98:1b:1a:50
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services CA - G2
+        Validity
+            Not Before: Oct 18 00:00:00 2012 GMT
+            Not After : Dec 29 23:59:59 2020 GMT
+        Subject: C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services Signer - G4
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a2:63:0b:39:44:b8:bb:23:a7:44:49:bb:0e:ff:
+                    a1:f0:61:0a:53:93:b0:98:db:ad:2c:0f:4a:c5:6e:
+                    ff:86:3c:53:55:0f:15:ce:04:3f:2b:fd:a9:96:96:
+                    d9:be:61:79:0b:5b:c9:4c:86:76:e5:e0:43:4b:22:
+                    95:ee:c2:2b:43:c1:9f:d8:68:b4:8e:40:4f:ee:85:
+                    38:b9:11:c5:23:f2:64:58:f0:15:32:6f:4e:57:a1:
+                    ae:88:a4:02:d7:2a:1e:cd:4b:e1:dd:63:d5:17:89:
+                    32:5b:b0:5e:99:5a:a8:9d:28:50:0e:17:ee:96:db:
+                    61:3b:45:51:1d:cf:12:56:0b:92:47:fc:ab:ae:f6:
+                    66:3d:47:ac:70:72:e7:92:e7:5f:cd:10:b9:c4:83:
+                    64:94:19:bd:25:80:e1:e8:d2:22:a5:d0:ba:02:7a:
+                    a1:77:93:5b:65:c3:ee:17:74:bc:41:86:2a:dc:08:
+                    4c:8c:92:8c:91:2d:9e:77:44:1f:68:d6:a8:74:77:
+                    db:0e:5b:32:8b:56:8b:33:bd:d9:63:c8:49:9d:3a:
+                    c5:c5:ea:33:0b:d2:f1:a3:1b:f4:8b:be:d9:b3:57:
+                    8b:3b:de:04:a7:7a:22:b2:24:ae:2e:c7:70:c5:be:
+                    4e:83:26:08:fb:0b:bd:a9:4f:99:08:e1:10:28:72:
+                    aa:cd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: critical
+                Time Stamping
+            X509v3 Key Usage: critical
+                Digital Signature
+            Authority Information Access: 
+                OCSP - URI:http://ts-ocsp.ws.symantec.com
+                CA Issuers - URI:http://ts-aia.ws.symantec.com/tss-ca-g2.cer
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://ts-crl.ws.symantec.com/tss-ca-g2.crl
+
+            X509v3 Subject Alternative Name: 
+                DirName:/CN=TimeStamp-2048-2
+            X509v3 Subject Key Identifier: 
+                46:C6:69:A3:0E:4A:14:1E:D5:4C:DA:52:63:17:3F:5E:36:BC:0D:E6
+            X509v3 Authority Key Identifier: 
+                keyid:5F:9A:F5:6E:5C:CC:CC:74:9A:D4:DD:7D:EF:3F:DB:EC:4C:80:2E:DD
+
+    Signature Algorithm: sha1WithRSAEncryption
+         78:3b:b4:91:2a:00:4c:f0:8f:62:30:37:78:a3:84:27:07:6f:
+         18:b2:de:25:dc:a0:d4:94:03:aa:86:4e:25:9f:9a:40:03:1c:
+         dd:ce:e3:79:cb:21:68:06:da:b6:32:b4:6d:bf:f4:2c:26:63:
+         33:e4:49:64:6d:0d:e6:c3:67:0e:f7:05:a4:35:6c:7c:89:16:
+         c6:e9:b2:df:b2:e9:dd:20:c6:71:0f:cd:95:74:dc:b6:5c:de:
+         bd:37:1f:43:78:e6:78:b5:cd:28:04:20:a3:aa:f1:4b:c4:88:
+         29:91:0e:80:d1:11:fc:dd:5c:76:6e:4f:5e:0e:45:46:41:6e:
+         0d:b0:ea:38:9a:b1:3a:da:09:71:10:fc:1c:79:b4:80:7b:ac:
+         69:f4:fd:9c:b6:0c:16:2b:f1:7f:5b:09:3d:9b:5b:e2:16:ca:
+         13:81:6d:00:2e:38:0d:a8:29:8f:2c:e1:b2:f4:5a:a9:01:af:
+         15:9c:2c:2f:49:1b:db:22:bb:c3:fe:78:94:51:c3:86:b1:82:
+         88:5d:f0:3d:b4:51:a1:79:33:2b:2e:7b:b9:dc:20:09:13:71:
+         eb:6a:19:5b:cf:e8:a5:30:57:2c:89:49:3f:b9:cf:7f:c9:bf:
+         3e:22:68:63:53:9a:bd:69:74:ac:c5:1d:3c:7f:92:e0:c3:bc:
+         1c:d8:04:75
+-----BEGIN CERTIFICATE-----
+MIIEozCCA4ugAwIBAgIQDs/0OMj+vzVuBNhqmBsaUDANBgkqhkiG9w0BAQUFADBe
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xMDAu
+BgNVBAMTJ1N5bWFudGVjIFRpbWUgU3RhbXBpbmcgU2VydmljZXMgQ0EgLSBHMjAe
+Fw0xMjEwMTgwMDAwMDBaFw0yMDEyMjkyMzU5NTlaMGIxCzAJBgNVBAYTAlVTMR0w
+GwYDVQQKExRTeW1hbnRlYyBDb3Jwb3JhdGlvbjE0MDIGA1UEAxMrU3ltYW50ZWMg
+VGltZSBTdGFtcGluZyBTZXJ2aWNlcyBTaWduZXIgLSBHNDCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAKJjCzlEuLsjp0RJuw7/ofBhClOTsJjbrSwPSsVu
+/4Y8U1UPFc4EPyv9qZaW2b5heQtbyUyGduXgQ0sile7CK0PBn9hotI5AT+6FOLkR
+xSPyZFjwFTJvTlehroikAtcqHs1L4d1j1ReJMluwXplaqJ0oUA4X7pbbYTtFUR3P
+ElYLkkf8q672Zj1HrHBy55LnX80QucSDZJQZvSWA4ejSIqXQugJ6oXeTW2XD7hd0
+vEGGKtwITIySjJEtnndEH2jWqHR32w5bMotWizO92WPISZ06xcXqMwvS8aMb9Iu+
+2bNXizveBKd6IrIkri7HcMW+ToMmCPsLvalPmQjhEChyqs0CAwEAAaOCAVcwggFT
+MAwGA1UdEwEB/wQCMAAwFgYDVR0lAQH/BAwwCgYIKwYBBQUHAwgwDgYDVR0PAQH/
+BAQDAgeAMHMGCCsGAQUFBwEBBGcwZTAqBggrBgEFBQcwAYYeaHR0cDovL3RzLW9j
+c3Aud3Muc3ltYW50ZWMuY29tMDcGCCsGAQUFBzAChitodHRwOi8vdHMtYWlhLndz
+LnN5bWFudGVjLmNvbS90c3MtY2EtZzIuY2VyMDwGA1UdHwQ1MDMwMaAvoC2GK2h0
+dHA6Ly90cy1jcmwud3Muc3ltYW50ZWMuY29tL3Rzcy1jYS1nMi5jcmwwKAYDVR0R
+BCEwH6QdMBsxGTAXBgNVBAMTEFRpbWVTdGFtcC0yMDQ4LTIwHQYDVR0OBBYEFEbG
+aaMOShQe1UzaUmMXP142vA3mMB8GA1UdIwQYMBaAFF+a9W5czMx0mtTdfe8/2+xM
+gC7dMA0GCSqGSIb3DQEBBQUAA4IBAQB4O7SRKgBM8I9iMDd4o4QnB28Yst4l3KDU
+lAOqhk4ln5pAAxzdzuN5yyFoBtq2MrRtv/QsJmMz5ElkbQ3mw2cO9wWkNWx8iRbG
+6bLfsundIMZxD82VdNy2XN69Nx9DeOZ4tc0oBCCjqvFLxIgpkQ6A0RH83Vx2bk9e
+DkVGQW4NsOo4mrE62glxEPwcebSAe6xp9P2ctgwWK/F/Wwk9m1viFsoTgW0ALjgN
+qCmPLOGy9FqpAa8VnCwvSRvbIrvD/niUUcOGsYKIXfA9tFGheTMrLnu53CAJE3Hr
+ahlbz+ilMFcsiUk/uc9/yb8+ImhjU5q9aXSsxR08f5Lgw7wc2AR1
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            10:60:c6:56:31:b7:55:94:4c:79:98:bd:6b:91:1a:84
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=JP, O=Ajinomoto Co., Inc., OU=Information Systems Planning Dept, CN=Ajinomoto Root Certification Authority
+        Validity
+            Not Before: Mar  2 02:56:44 2015 GMT
+            Not After : Mar  2 03:06:41 2040 GMT
+        Subject: C=JP, O=Ajinomoto Co., Inc., OU=Information Systems Planning Dept, CN=Ajinomoto Root Certification Authority
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:be:27:42:ea:27:64:1d:f6:d1:ef:2f:bd:b4:7e:
+                    57:4f:86:bd:4f:09:f3:74:31:b1:31:af:56:4a:ff:
+                    71:db:59:14:16:f7:eb:26:83:e2:fc:e6:2c:4c:8f:
+                    66:e2:3f:fd:a7:4d:9c:cd:ff:4f:32:c0:e2:90:b3:
+                    d5:fa:93:7e:28:b2:32:25:d1:02:f8:bd:64:4a:0d:
+                    87:47:20:e6:45:5a:c4:ea:69:94:96:8b:8c:1e:40:
+                    92:1d:25:53:3f:d1:16:9c:92:10:a2:59:93:dc:f7:
+                    2b:0a:c4:15:50:04:66:3b:24:a7:88:5a:81:48:5c:
+                    a7:1c:37:59:da:b9:54:22:3f:e7:42:41:88:b1:cb:
+                    1b:e5:04:f2:29:0f:ee:84:a8:44:40:dc:98:2b:55:
+                    c6:b6:14:13:1a:9d:09:72:14:9d:50:04:e5:2c:bd:
+                    60:e6:b6:bb:b5:af:7b:53:84:eb:42:cb:92:4a:97:
+                    b4:d0:cd:47:d0:3a:98:9b:bb:8b:6b:71:5b:ac:e8:
+                    32:94:af:aa:f3:28:28:ae:a6:ce:57:0f:a9:49:86:
+                    7c:99:dc:81:06:1f:82:a9:13:17:86:3c:94:43:f1:
+                    9d:a6:dc:a9:5d:a9:48:8a:87:3b:0e:09:72:91:34:
+                    70:57:e6:75:d7:78:18:51:1f:6a:9d:c3:21:53:44:
+                    44:13:80:92:b4:65:1e:fd:52:db:92:01:cc:c2:c6:
+                    c1:9e:7c:a4:51:84:41:0b:55:ea:15:51:8f:2f:a1:
+                    dd:2c:67:b5:db:ba:cc:09:b9:b8:82:4b:f2:16:fd:
+                    c5:ee:35:65:dc:e3:9a:34:74:ad:62:74:2e:09:2f:
+                    26:bd:8c:b2:0b:f7:80:b2:98:0b:5c:f8:f5:b1:50:
+                    4d:e9:33:e3:e9:ff:c6:06:86:52:64:87:bc:cd:42:
+                    a5:23:bc:72:47:58:37:e7:45:69:73:3e:06:16:b6:
+                    63:30:84:56:f4:3b:b8:1a:4e:d2:1f:94:94:ef:96:
+                    86:64:56:0a:b7:e0:da:b2:55:24:a2:e9:42:15:7c:
+                    05:19:2b:bb:bb:65:86:16:79:55:05:6b:d4:04:0b:
+                    9a:a1:7e:a5:d8:50:bb:7d:96:a9:47:f9:9a:d1:00:
+                    bd:ab:06:50:6d:d7:41:61:4b:f5:86:b1:68:bc:81:
+                    0a:65:ff:e5:f8:14:12:cf:19:05:55:68:43:87:a5:
+                    ce:cc:8b:bc:e4:95:95:e0:8d:0c:0c:e5:51:79:77:
+                    89:3c:ba:86:2e:29:55:b2:82:85:da:45:12:ae:e8:
+                    29:72:33:6f:2d:f1:8f:47:32:9c:92:40:b8:8d:32:
+                    d0:84:54:7b:08:1e:5d:e2:89:ad:87:2b:f3:85:98:
+                    f2:ee:57
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: 
+                Digital Signature, Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Subject Key Identifier: 
+                1A:6B:BD:07:18:78:10:42:4F:B2:2C:C2:97:95:C3:26:9D:84:2C:88
+            1.3.6.1.4.1.311.21.1: 
+                ...
+    Signature Algorithm: sha256WithRSAEncryption
+         61:94:45:e5:a7:95:6c:a7:1a:6d:6e:bf:5f:e4:ec:e2:40:95:
+         8e:84:94:d5:4c:f4:6a:d1:16:ad:50:6b:a8:a0:38:5d:47:99:
+         62:0a:08:f2:d7:df:70:13:27:06:4d:f5:39:55:65:de:b3:5d:
+         fe:8e:a2:48:35:76:4f:49:20:e5:52:af:b4:d8:cb:08:13:fb:
+         5b:99:8d:d3:81:98:b1:a2:05:37:61:21:0c:cb:b6:08:b2:36:
+         49:07:d1:eb:3c:05:c7:e4:bb:21:5a:7a:b5:04:a9:05:fd:44:
+         2b:7c:5a:b1:47:de:f1:87:a4:b9:03:5d:37:0b:ff:9d:e9:c7:
+         9d:a9:7d:7b:08:ce:05:22:2d:e1:13:df:84:fb:4b:ba:6b:18:
+         04:8f:5f:9e:ab:67:b0:50:25:44:07:e9:6e:61:bc:ae:16:9b:
+         74:2d:ee:67:ab:cd:12:9a:c7:14:e3:22:3c:aa:fd:f1:bd:cf:
+         ad:2b:9c:bb:d7:93:9c:83:ab:25:3c:cf:44:d7:3b:0d:b6:ec:
+         00:f3:a6:f0:12:76:da:52:23:a6:4e:fe:c1:e5:04:af:d0:94:
+         2d:9d:5d:f4:36:79:8f:24:b1:ff:cc:ef:cb:f3:94:c1:7c:33:
+         5e:ca:d0:d6:a1:43:f7:d7:f1:7c:61:4f:eb:e1:05:8e:f7:97:
+         26:c3:fa:e3:af:a6:a9:fb:fe:fd:2d:49:6c:5a:85:c0:a1:42:
+         7a:15:de:64:9c:55:a3:fa:0c:a9:06:f0:5c:f4:3b:20:82:d6:
+         66:bf:79:c0:f0:fc:6f:9d:64:2e:64:e7:af:cd:6b:c9:d2:e0:
+         c8:54:85:ea:7b:f5:55:f8:95:08:60:2f:9a:23:d1:e5:f1:34:
+         07:49:eb:c6:65:41:a5:02:5e:e9:31:9b:b2:cb:54:31:50:7b:
+         7d:9d:06:d9:3e:74:52:bb:72:b2:a7:6b:fc:66:0a:2b:1a:69:
+         9d:e3:ec:4d:14:5e:c3:52:1f:c2:55:25:e0:5b:ef:bd:26:4e:
+         eb:2b:ba:30:30:ed:5b:9d:ed:eb:e2:7a:e9:66:39:6c:83:b7:
+         27:bd:47:a7:ad:03:5d:36:56:44:e2:87:d3:43:68:da:ac:9e:
+         23:5c:f2:f5:93:50:c8:f5:e6:7d:df:fc:f3:72:0a:5f:98:14:
+         0d:1a:d7:73:31:dd:ba:60:88:3f:55:6d:15:99:9e:3a:6d:06:
+         7d:2c:84:af:c2:d9:27:25:18:bf:2b:04:e3:2b:11:73:1b:e2:
+         2c:79:f1:f0:9c:b1:7c:bd:51:19:db:ff:7a:de:4d:54:11:ff:
+         f7:4e:ba:de:bd:da:4c:e3:ba:9d:58:d4:82:51:dc:43:d2:41:
+         cc:3d:ad:c9:19:cd:7f:07
+-----BEGIN CERTIFICATE-----
+MIIF7TCCA9WgAwIBAgIQEGDGVjG3VZRMeZi9a5EahDANBgkqhkiG9w0BAQsFADCB
+iDELMAkGA1UEBhMCSlAxHDAaBgNVBAoTE0FqaW5vbW90byBDby4sIEluYy4xKjAo
+BgNVBAsTIUluZm9ybWF0aW9uIFN5c3RlbXMgUGxhbm5pbmcgRGVwdDEvMC0GA1UE
+AxMmQWppbm9tb3RvIFJvb3QgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMTUw
+MzAyMDI1NjQ0WhcNNDAwMzAyMDMwNjQxWjCBiDELMAkGA1UEBhMCSlAxHDAaBgNV
+BAoTE0FqaW5vbW90byBDby4sIEluYy4xKjAoBgNVBAsTIUluZm9ybWF0aW9uIFN5
+c3RlbXMgUGxhbm5pbmcgRGVwdDEvMC0GA1UEAxMmQWppbm9tb3RvIFJvb3QgQ2Vy
+dGlmaWNhdGlvbiBBdXRob3JpdHkwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIK
+AoICAQC+J0LqJ2Qd9tHvL720fldPhr1PCfN0MbExr1ZK/3HbWRQW9+smg+L85ixM
+j2biP/2nTZzN/08ywOKQs9X6k34osjIl0QL4vWRKDYdHIOZFWsTqaZSWi4weQJId
+JVM/0RackhCiWZPc9ysKxBVQBGY7JKeIWoFIXKccN1nauVQiP+dCQYixyxvlBPIp
+D+6EqERA3JgrVca2FBManQlyFJ1QBOUsvWDmtru1r3tThOtCy5JKl7TQzUfQOpib
+u4trcVus6DKUr6rzKCiups5XD6lJhnyZ3IEGH4KpExeGPJRD8Z2m3KldqUiKhzsO
+CXKRNHBX5nXXeBhRH2qdwyFTREQTgJK0ZR79UtuSAczCxsGefKRRhEELVeoVUY8v
+od0sZ7XbuswJubiCS/IW/cXuNWXc45o0dK1idC4JLya9jLIL94CymAtc+PWxUE3p
+M+Pp/8YGhlJkh7zNQqUjvHJHWDfnRWlzPgYWtmMwhFb0O7gaTtIflJTvloZkVgq3
+4NqyVSSi6UIVfAUZK7u7ZYYWeVUFa9QEC5qhfqXYULt9lqlH+ZrRAL2rBlBt10Fh
+S/WGsWi8gQpl/+X4FBLPGQVVaEOHpc7Mi7zklZXgjQwM5VF5d4k8uoYuKVWygoXa
+RRKu6ClyM28t8Y9HMpySQLiNMtCEVHsIHl3iia2HK/OFmPLuVwIDAQABo1EwTzAL
+BgNVHQ8EBAMCAYYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUGmu9Bxh4EEJP
+sizCl5XDJp2ELIgwEAYJKwYBBAGCNxUBBAMCAQAwDQYJKoZIhvcNAQELBQADggIB
+AGGUReWnlWynGm1uv1/k7OJAlY6ElNVM9GrRFq1Qa6igOF1HmWIKCPLX33ATJwZN
+9TlVZd6zXf6Ookg1dk9JIOVSr7TYywgT+1uZjdOBmLGiBTdhIQzLtgiyNkkH0es8
+BcfkuyFaerUEqQX9RCt8WrFH3vGHpLkDXTcL/53px52pfXsIzgUiLeET34T7S7pr
+GASPX56rZ7BQJUQH6W5hvK4Wm3Qt7merzRKaxxTjIjyq/fG9z60rnLvXk5yDqyU8
+z0TXOw227ADzpvASdtpSI6ZO/sHlBK/QlC2dXfQ2eY8ksf/M78vzlMF8M17K0Nah
+Q/fX8XxhT+vhBY73lybD+uOvpqn7/v0tSWxahcChQnoV3mScVaP6DKkG8Fz0OyCC
+1ma/ecDw/G+dZC5k56/Na8nS4MhUhep79VX4lQhgL5oj0eXxNAdJ68ZlQaUCXukx
+m7LLVDFQe32dBtk+dFK7crKna/xmCisaaZ3j7E0UXsNSH8JVJeBb770mTusrujAw
+7Vud7evieulmOWyDtye9R6etA102VkTih9NDaNqsniNc8vWTUMj15n3f/PNyCl+Y
+FA0a13Mx3bpgiD9VbRWZnjptBn0shK/C2SclGL8rBOMrEXMb4ix58fCcsXy9URnb
+/3reTVQR//dOut692kzjup1Y1IJR3EPSQcw9rckZzX8H
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            5c:00:00:68:d3:3b:d9:af:d0:41:e6:8c:08:00:00:00:00:68:d3
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=JP, O=Ajinomoto Co., Inc., OU=Information Systems Planning Dept, CN=Ajinomoto Root Certification Authority
+        Validity
+            Not Before: Aug 28 09:43:46 2015 GMT
+            Not After : Aug 27 09:43:46 2016 GMT
+        Subject: DC=global, DC=ajinomoto, OU=OU_PasswordNeverExpires, CN=ADCSAdmin
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b6:49:23:bc:8a:fe:19:4e:29:5a:81:71:85:c0:
+                    64:16:3a:5f:67:e4:1c:69:70:57:f3:bf:e3:93:14:
+                    ea:19:d7:a4:64:49:f6:86:ed:8e:dd:e4:da:4f:b8:
+                    85:40:4f:6b:2b:ed:4c:32:93:26:61:47:d7:f4:41:
+                    6d:5d:68:49:4a:76:fd:5a:6a:66:8d:34:40:58:c7:
+                    3e:e6:30:13:1a:d1:b3:a9:32:b8:e2:35:62:13:cd:
+                    16:40:8c:bb:80:f2:46:c4:87:b9:4a:eb:21:8f:f4:
+                    bb:38:e8:9e:2e:97:49:88:f7:e5:fe:95:b2:3d:2d:
+                    91:48:19:74:c1:44:34:ed:3d:8c:dc:af:e9:2a:cf:
+                    97:4f:14:b6:14:98:9b:18:6b:bc:82:8a:1f:8a:e0:
+                    73:ea:21:db:1b:c9:15:32:63:9a:4d:f4:ac:51:1e:
+                    38:f5:c2:89:a8:26:c1:3a:9e:1f:34:d5:02:a8:b9:
+                    bf:36:c8:80:79:b4:3b:b3:29:b3:e0:64:a1:68:ce:
+                    09:46:49:79:27:d0:65:cc:39:99:01:54:e5:f2:31:
+                    81:80:ea:53:e0:60:ba:9b:37:4f:31:79:93:3c:96:
+                    61:92:45:ff:1e:b2:32:75:49:22:74:53:84:25:29:
+                    75:c5:35:bb:06:6a:f4:1b:4d:5f:bc:71:cd:c0:12:
+                    b1:37
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            1.3.6.1.4.1.311.20.2: 
+                ...C.o.d.e.S.i.g.n.i.n.g
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Subject Key Identifier: 
+                20:C0:F8:C6:60:34:A3:35:32:F9:C6:94:1E:68:F4:EC:7C:F3:1F:88
+            X509v3 Authority Key Identifier: 
+                keyid:1A:6B:BD:07:18:78:10:42:4F:B2:2C:C2:97:95:C3:26:9D:84:2C:88
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://ocsp.hq.ajinomoto.global/crl/ARCA.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.hq.ajinomoto.global/ocsp
+                CA Issuers - URI:http://ocsp.hq.ajinomoto.global/ARCAroot.crt
+
+            X509v3 Subject Alternative Name: 
+                othername:<unsupported>
+    Signature Algorithm: sha256WithRSAEncryption
+         4e:75:70:29:03:f5:82:f6:60:8b:b6:a4:e6:ec:b5:ad:c6:57:
+         58:c1:af:2d:57:d2:9e:9b:10:71:43:92:f8:84:52:e8:f2:6c:
+         91:b3:ec:c3:90:c6:fb:77:25:ba:4b:63:06:7a:3d:d4:f0:f6:
+         64:25:80:14:35:40:f1:33:fe:df:c4:47:85:74:de:99:f1:c5:
+         ce:7c:f0:ac:48:8a:34:26:9c:fb:87:4d:f0:96:d6:76:b5:76:
+         4a:09:ba:b8:64:97:31:3a:83:62:9f:2f:7a:8d:1f:46:de:b5:
+         b3:9b:a9:a4:36:4a:e2:e6:4f:43:63:68:d7:b6:96:ba:dc:bb:
+         17:be:6f:1b:d6:39:2e:a8:57:8a:34:22:30:c0:cb:91:5c:49:
+         dc:3e:1c:1e:b9:0f:33:75:0d:09:85:c3:b2:24:9a:ab:51:d7:
+         77:dd:65:9e:9c:83:d5:20:bb:86:7e:aa:88:6b:9a:ad:9c:b7:
+         45:cb:30:93:e8:68:fd:68:28:4c:ec:0f:de:39:20:6b:fc:e0:
+         3c:0c:dd:02:05:29:2b:25:3a:76:1d:d0:a9:fb:c2:4d:96:b0:
+         d0:ec:6f:e4:c5:63:ca:a4:48:ee:98:8f:9c:18:48:3f:76:cf:
+         e9:63:a7:b6:51:d5:e5:32:4d:4c:d6:90:ea:2e:bf:85:e1:24:
+         bb:30:08:4b:49:36:f1:eb:52:b6:d7:37:80:d1:32:2d:b7:d6:
+         44:d9:52:a4:92:6b:fe:dc:4d:f3:78:0a:64:8b:64:d2:e3:d1:
+         14:6a:74:18:f3:e4:93:7a:ec:4e:a8:90:5a:00:be:70:ea:2f:
+         50:7a:57:c1:e2:5c:57:84:3d:5c:f3:aa:a7:f8:48:99:7c:e1:
+         c1:2f:ed:55:21:29:37:0e:86:82:fe:5a:ef:ff:4a:66:0f:f1:
+         c1:2a:08:69:9e:7d:48:7b:52:67:3c:c4:d7:27:2d:d8:17:4c:
+         1a:71:2f:6b:65:5d:a6:2c:44:f4:bf:2d:a2:7d:3c:07:71:4a:
+         05:9f:ca:53:10:c6:8c:99:64:d5:9f:6c:da:e0:4c:d0:6a:31:
+         37:44:74:18:d4:19:42:ee:f6:1d:f0:e3:aa:1b:06:67:a1:69:
+         30:89:0a:4f:1c:ec:90:00:d7:50:d9:ff:bd:66:54:8e:36:ed:
+         be:61:d7:6a:ef:cc:79:61:b0:0a:77:75:c0:d4:07:32:11:16:
+         83:27:18:2e:f5:31:49:ce:5a:c9:8b:6f:92:f1:ac:fe:ea:58:
+         52:6c:f8:ef:c3:11:4d:1d:ac:db:ed:e3:ee:b4:c8:4f:20:58:
+         c6:bb:8b:52:08:16:e7:1f:94:69:82:ac:45:89:3b:b6:b5:fb:
+         5b:c7:38:f1:1e:85:0c:3d
+-----BEGIN CERTIFICATE-----
+MIIGAzCCA+ugAwIBAgITXAAAaNM72a/QQeaMCAAAAABo0zANBgkqhkiG9w0BAQsF
+ADCBiDELMAkGA1UEBhMCSlAxHDAaBgNVBAoTE0FqaW5vbW90byBDby4sIEluYy4x
+KjAoBgNVBAsTIUluZm9ybWF0aW9uIFN5c3RlbXMgUGxhbm5pbmcgRGVwdDEvMC0G
+A1UEAxMmQWppbm9tb3RvIFJvb3QgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcN
+MTUwODI4MDk0MzQ2WhcNMTYwODI3MDk0MzQ2WjBpMRYwFAYKCZImiZPyLGQBGRYG
+Z2xvYmFsMRkwFwYKCZImiZPyLGQBGRYJYWppbm9tb3RvMSAwHgYDVQQLDBdPVV9Q
+YXNzd29yZE5ldmVyRXhwaXJlczESMBAGA1UEAxMJQURDU0FkbWluMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtkkjvIr+GU4pWoFxhcBkFjpfZ+QcaXBX
+87/jkxTqGdekZEn2hu2O3eTaT7iFQE9rK+1MMpMmYUfX9EFtXWhJSnb9WmpmjTRA
+WMc+5jATGtGzqTK44jViE80WQIy7gPJGxIe5Sushj/S7OOieLpdJiPfl/pWyPS2R
+SBl0wUQ07T2M3K/pKs+XTxS2FJibGGu8goofiuBz6iHbG8kVMmOaTfSsUR449cKJ
+qCbBOp4fNNUCqLm/NsiAebQ7symz4GShaM4JRkl5J9BlzDmZAVTl8jGBgOpT4GC6
+mzdPMXmTPJZhkkX/HrIydUkidFOEJSl1xTW7Bmr0G01fvHHNwBKxNwIDAQABo4IB
+gjCCAX4wJQYJKwYBBAGCNxQCBBgeFgBDAG8AZABlAFMAaQBnAG4AaQBuAGcwEwYD
+VR0lBAwwCgYIKwYBBQUHAwMwDgYDVR0PAQH/BAQDAgeAMB0GA1UdDgQWBBQgwPjG
+YDSjNTL5xpQeaPTsfPMfiDAfBgNVHSMEGDAWgBQaa70HGHgQQk+yLMKXlcMmnYQs
+iDA9BgNVHR8ENjA0MDKgMKAuhixodHRwOi8vb2NzcC5ocS5hamlub21vdG8uZ2xv
+YmFsL2NybC9BUkNBLmNybDB6BggrBgEFBQcBAQRuMGwwMAYIKwYBBQUHMAGGJGh0
+dHA6Ly9vY3NwLmhxLmFqaW5vbW90by5nbG9iYWwvb2NzcDA4BggrBgEFBQcwAoYs
+aHR0cDovL29jc3AuaHEuYWppbm9tb3RvLmdsb2JhbC9BUkNBcm9vdC5jcnQwNQYD
+VR0RBC4wLKAqBgorBgEEAYI3FAIDoBwMGkFEQ1NBZG1pbkBhamlub21vdG8uZ2xv
+YmFsMA0GCSqGSIb3DQEBCwUAA4ICAQBOdXApA/WC9mCLtqTm7LWtxldYwa8tV9Ke
+mxBxQ5L4hFLo8myRs+zDkMb7dyW6S2MGej3U8PZkJYAUNUDxM/7fxEeFdN6Z8cXO
+fPCsSIo0Jpz7h03wltZ2tXZKCbq4ZJcxOoNiny96jR9G3rWzm6mkNkri5k9DY2jX
+tpa63LsXvm8b1jkuqFeKNCIwwMuRXEncPhweuQ8zdQ0JhcOyJJqrUdd33WWenIPV
+ILuGfqqIa5qtnLdFyzCT6Gj9aChM7A/eOSBr/OA8DN0CBSkrJTp2HdCp+8JNlrDQ
+7G/kxWPKpEjumI+cGEg/ds/pY6e2UdXlMk1M1pDqLr+F4SS7MAhLSTbx61K21zeA
+0TItt9ZE2VKkkmv+3E3zeApki2TS49EUanQY8+STeuxOqJBaAL5w6i9QelfB4lxX
+hD1c86qn+EiZfOHBL+1VISk3DoaC/lrv/0pmD/HBKghpnn1Ie1JnPMTXJy3YF0wa
+cS9rZV2mLET0vy2ifTwHcUoFn8pTEMaMmWTVn2za4EzQajE3RHQY1BlC7vYd8OOq
+GwZnoWkwiQpPHOyQANdQ2f+9ZlSONu2+Yddq78x5YbAKd3XA1AcyERaDJxgu9TFJ
+zlrJi2+S8az+6lhSbPjvwxFNHazb7ePutMhPIFjGu4tSCBbnH5RpgqxFiTu2tftb
+xzjxHoUMPQ==
+-----END CERTIFICATE-----
+

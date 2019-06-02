@@ -1,0 +1,293 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 293461 (0x47a55)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=PL, O=Unizeto Sp. z o.o., CN=Certum CA
+        Validity
+            Not Before: Mar  3 12:58:15 2009 GMT
+            Not After : Mar  3 12:58:15 2024 GMT
+        Subject: C=PL, O=Unizeto Technologies S.A., OU=Certum Certification Authority, CN=Certum Time-Stamping Authority
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:de:ed:a9:07:f4:76:c0:5e:b0:0b:e7:3f:a0:40:
+                    89:61:24:23:53:84:a0:02:f5:d3:b1:33:ec:4f:69:
+                    80:97:aa:9d:18:2c:66:cf:35:f8:cf:5c:8d:e3:47:
+                    27:e5:43:86:e9:67:66:3c:78:d6:e3:e9:04:34:3d:
+                    cf:05:64:32:2a:a6:fb:65:ab:c0:b1:21:cf:77:a7:
+                    7b:61:b6:6d:d6:d2:7f:bb:cd:55:d8:03:3d:b1:92:
+                    15:f1:d2:42:90:5e:0a:1c:00:dd:7e:a2:f2:4c:05:
+                    40:12:0d:1d:1b:e3:1f:7a:0b:0f:d0:28:2e:dc:4c:
+                    ec:5e:b0:a1:cf:c3:55:76:8f:e4:7b:77:ff:e8:85:
+                    15:ab:c8:f1:15:3d:8d:c7:bb:2e:be:bc:39:3d:83:
+                    9a:a7:73:10:ff:03:28:cf:1d:77:90:1e:7b:35:99:
+                    b7:4c:01:1f:1a:36:c1:b8:99:83:52:54:66:d7:d6:
+                    1a:52:12:9f:47:2c:99:29:85:56:c6:f4:73:c0:9f:
+                    ac:d9:78:87:7d:e8:1e:c6:95:40:a6:79:d2:b8:a4:
+                    c1:16:ab:6a:98:05:71:4a:63:ed:ca:98:6c:5d:45:
+                    97:52:95:f4:66:26:c8:73:ef:a5:dc:09:cf:eb:a4:
+                    7b:4b:f4:9f:ea:1b:0f:55:1c:74:ad:b1:c6:0e:b3:
+                    ea:cd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Extended Key Usage: critical
+                Time Stamping
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.certum.pl/ca.crl
+
+            X509v3 Subject Alternative Name: 
+                URI:http://tsa.certum.pl
+    Signature Algorithm: sha1WithRSAEncryption
+         aa:8b:1b:a2:ec:85:45:eb:38:8b:0a:4d:78:cf:78:89:53:10:
+         da:57:5a:5b:07:5b:27:0c:c9:d9:b9:c4:0a:2a:67:ac:bf:07:
+         ab:35:c1:b4:0e:6f:79:4c:7b:bf:13:bf:fa:76:d5:6e:ae:cd:
+         a1:14:99:5f:f2:04:81:14:57:91:04:e7:8b:93:45:ae:87:f2:
+         b9:e3:5a:e8:7a:35:91:7c:3a:56:0e:59:b7:c7:0d:a6:35:1b:
+         cd:9c:d0:e6:55:3a:fe:1b:39:48:c7:5f:9a:21:96:fd:1c:b2:
+         73:52:c4:fe:f1:63:b3:52:af:e4:24:e5:bb:67:90:67:42:45:
+         b6:76:ae:13:e7:22:b7:07:cb:96:46:01:e8:be:3d:0d:0d:e7:
+         20:7e:46:40:13:89:96:2f:54:ca:34:53:13:27:7f:ec:ef:66:
+         c4:b1:08:f7:32:22:c2:14:a9:7f:56:f9:31:ee:d4:2f:ad:79:
+         21:3d:11:33:f7:d3:ae:e8:cb:bc:5b:cf:16:f6:8b:68:4f:0d:
+         9c:f4:6c:b8:28:58:e3:48:96:95:d4:24:92:57:94:70:3c:6b:
+         da:3a:e8:ce:9b:d2:3a:2b:13:e0:fd:82:00:57:7f:0d:dc:56:
+         d0:a9:45:bc:d9:2b:92:17:a7:16:6d:25:6f:f3:67:3d:a7:be:
+         e7:60:9f:2a
+-----BEGIN CERTIFICATE-----
+MIIDqDCCApCgAwIBAgIDBHpVMA0GCSqGSIb3DQEBBQUAMD4xCzAJBgNVBAYTAlBM
+MRswGQYDVQQKExJVbml6ZXRvIFNwLiB6IG8uby4xEjAQBgNVBAMTCUNlcnR1bSBD
+QTAeFw0wOTAzMDMxMjU4MTVaFw0yNDAzMDMxMjU4MTVaMIGDMQswCQYDVQQGEwJQ
+TDEiMCAGA1UEChMZVW5pemV0byBUZWNobm9sb2dpZXMgUy5BLjEnMCUGA1UECxMe
+Q2VydHVtIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MScwJQYDVQQDEx5DZXJ0dW0g
+VGltZS1TdGFtcGluZyBBdXRob3JpdHkwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDe7akH9HbAXrAL5z+gQIlhJCNThKAC9dOxM+xPaYCXqp0YLGbPNfjP
+XI3jRyflQ4bpZ2Y8eNbj6QQ0Pc8FZDIqpvtlq8CxIc93p3thtm3W0n+7zVXYAz2x
+khXx0kKQXgocAN1+ovJMBUASDR0b4x96Cw/QKC7cTOxesKHPw1V2j+R7d//ohRWr
+yPEVPY3Huy6+vDk9g5qncxD/AyjPHXeQHns1mbdMAR8aNsG4mYNSVGbX1hpSEp9H
+LJkphVbG9HPAn6zZeId96B7GlUCmedK4pMEWq2qYBXFKY+3KmGxdRZdSlfRmJshz
+76XcCc/rpHtL9J/qGw9VHHStscYOs+rNAgMBAAGjaTBnMBYGA1UdJQEB/wQMMAoG
+CCsGAQUFBwMIMCwGA1UdHwQlMCMwIaAfoB2GG2h0dHA6Ly9jcmwuY2VydHVtLnBs
+L2NhLmNybDAfBgNVHREEGDAWhhRodHRwOi8vdHNhLmNlcnR1bS5wbDANBgkqhkiG
+9w0BAQUFAAOCAQEAqosbouyFRes4iwpNeM94iVMQ2ldaWwdbJwzJ2bnECipnrL8H
+qzXBtA5veUx7vxO/+nbVbq7NoRSZX/IEgRRXkQTni5NFrofyueNa6Ho1kXw6Vg5Z
+t8cNpjUbzZzQ5lU6/hs5SMdfmiGW/Ryyc1LE/vFjs1Kv5CTlu2eQZ0JFtnauE+ci
+twfLlkYB6L49DQ3nIH5GQBOJli9UyjRTEyd/7O9mxLEI9zIiwhSpf1b5Me7UL615
+IT0RM/fTrujLvFvPFvaLaE8NnPRsuChY40iWldQkkleUcDxr2jrozpvSOisT4P2C
+AFd/DdxW0KlFvNkrkhenFm0lb/NnPae+52CfKg==
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 293459 (0x47a53)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=PL, O=Unizeto Sp. z o.o., CN=Certum CA
+        Validity
+            Not Before: Mar  3 12:53:56 2009 GMT
+            Not After : Mar  3 12:53:56 2024 GMT
+        Subject: C=PL, O=Unizeto Technologies S.A., OU=Certum Certification Authority, CN=Certum Level III CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9f:51:96:5c:4b:7c:2e:49:47:08:35:3f:0b:ed:
+                    49:1d:2a:6a:5e:58:68:4d:08:d7:3f:78:97:72:31:
+                    44:dc:61:94:f5:94:e9:d3:cd:9d:1d:ad:f1:e4:f9:
+                    07:91:f9:fe:a4:09:9c:fb:c7:9e:31:e3:1b:03:dc:
+                    fc:f5:c5:4b:22:a9:ad:ba:a7:e1:95:65:63:ac:2b:
+                    e2:80:fd:61:76:67:e8:c4:a4:3c:fe:74:e8:76:78:
+                    1e:49:a5:14:79:dc:74:a6:9f:b6:12:8a:ae:0d:59:
+                    fc:5a:80:25:98:c0:48:9c:db:cb:0f:77:e7:86:f5:
+                    b2:c7:d6:4e:bb:87:50:06:4e:76:f5:b7:8c:28:7f:
+                    5f:e2:da:ea:30:89:e4:44:86:ee:55:f7:95:79:ef:
+                    0c:88:ca:7f:ff:5f:25:12:ef:29:a4:c3:df:c8:51:
+                    9e:8b:10:95:57:fa:ea:dd:37:bd:4a:a6:5f:6a:95:
+                    45:d7:bc:f3:95:52:b3:14:f3:0e:89:3a:13:bb:80:
+                    40:3c:cb:a0:fa:8e:d2:a6:44:72:dc:37:fe:14:83:
+                    ed:00:83:f1:90:11:fc:0e:f1:43:ec:6d:f0:73:03:
+                    cb:0c:7e:d7:82:96:1c:37:ce:e7:ee:28:64:ab:b5:
+                    6f:06:5a:a0:04:4a:b6:0d:7b:55:9c:7b:6b:18:c2:
+                    5a:c7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Key Identifier: 
+                04:C9:DA:9A:DC:4A:49:77:AF:30:03:04:66:2E:C7:CE:F2:F8:17:7D
+            X509v3 Authority Key Identifier: 
+                DirName:/C=PL/O=Unizeto Sp. z o.o./CN=Certum CA
+                serial:01:00:20
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.certum.pl/ca.crl
+
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  CPS: https://www.certum.pl/CPS
+
+    Signature Algorithm: sha1WithRSAEncryption
+         8b:c2:cc:38:ce:47:60:29:6c:0e:48:bc:6e:3b:38:0a:0d:e0:
+         17:9f:79:3c:11:b2:9c:1d:90:c9:bd:bf:03:a2:59:f2:b0:54:
+         e2:3b:92:1f:a9:6f:63:22:17:9c:58:a4:41:1d:61:eb:99:24:
+         28:f0:70:c7:2a:cc:e8:19:e0:28:90:5c:e4:34:91:d1:50:68:
+         fc:6e:c5:7f:64:8a:30:8f:86:6d:2c:59:54:62:98:61:a2:5d:
+         2b:3b:28:b0:71:fe:f4:5c:68:58:e6:fc:d3:61:97:04:3a:cf:
+         ec:b1:dd:72:1f:73:6e:99:73:c8:6a:a4:5f:7d:dd:9d:9e:8b:
+         8c:7b:ea:c5:ec:77:f7:64:0e:ed:ee:e5:ad:46:cc:1a:65:4e:
+         af:44:1d:6e:67:64:43:6a:b9:0c:6f:d6:04:1f:5f:e5:1a:e0:
+         39:a9:f5:af:fd:b5:c8:66:6c:33:0f:73:e5:43:21:a4:fd:f5:
+         23:b5:71:f1:d2:ec:ec:b3:51:7d:04:c3:b9:99:7c:4c:9e:46:
+         8d:cd:f4:63:fc:4e:8e:b4:ab:c7:82:c8:93:6e:04:4c:92:b6:
+         d3:5c:1e:61:8a:2a:23:36:6e:38:d2:3e:a4:af:1e:75:da:25:
+         33:30:58:fe:e8:d3:f9:2b:26:ed:7c:df:12:9b:21:53:9a:0c:
+         b1:1a:7e:7e
+-----BEGIN CERTIFICATE-----
+MIIENjCCAx6gAwIBAgIDBHpTMA0GCSqGSIb3DQEBBQUAMD4xCzAJBgNVBAYTAlBM
+MRswGQYDVQQKExJVbml6ZXRvIFNwLiB6IG8uby4xEjAQBgNVBAMTCUNlcnR1bSBD
+QTAeFw0wOTAzMDMxMjUzNTZaFw0yNDAzMDMxMjUzNTZaMHgxCzAJBgNVBAYTAlBM
+MSIwIAYDVQQKExlVbml6ZXRvIFRlY2hub2xvZ2llcyBTLkEuMScwJQYDVQQLEx5D
+ZXJ0dW0gQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkxHDAaBgNVBAMTE0NlcnR1bSBM
+ZXZlbCBJSUkgQ0EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCfUZZc
+S3wuSUcINT8L7UkdKmpeWGhNCNc/eJdyMUTcYZT1lOnTzZ0drfHk+QeR+f6kCZz7
+x54x4xsD3Pz1xUsiqa26p+GVZWOsK+KA/WF2Z+jEpDz+dOh2eB5JpRR53HSmn7YS
+iq4NWfxagCWYwEic28sPd+eG9bLH1k67h1AGTnb1t4wof1/i2uowieREhu5V95V5
+7wyIyn//XyUS7ymkw9/IUZ6LEJVX+urdN71Kpl9qlUXXvPOVUrMU8w6JOhO7gEA8
+y6D6jtKmRHLcN/4Ug+0Ag/GQEfwO8UPsbfBzA8sMfteClhw3zufuKGSrtW8GWqAE
+SrYNe1Wce2sYwlrHAgMBAAGjggEBMIH+MA8GA1UdEwEB/wQFMAMBAf8wDgYDVR0P
+AQH/BAQDAgEGMB0GA1UdDgQWBBQEydqa3EpJd68wAwRmLsfO8vgXfTBSBgNVHSME
+SzBJoUKkQDA+MQswCQYDVQQGEwJQTDEbMBkGA1UEChMSVW5pemV0byBTcC4geiBv
+Lm8uMRIwEAYDVQQDEwlDZXJ0dW0gQ0GCAwEAIDAsBgNVHR8EJTAjMCGgH6Adhhto
+dHRwOi8vY3JsLmNlcnR1bS5wbC9jYS5jcmwwOgYDVR0gBDMwMTAvBgRVHSAAMCcw
+JQYIKwYBBQUHAgEWGWh0dHBzOi8vd3d3LmNlcnR1bS5wbC9DUFMwDQYJKoZIhvcN
+AQEFBQADggEBAIvCzDjOR2ApbA5IvG47OAoN4BefeTwRspwdkMm9vwOiWfKwVOI7
+kh+pb2MiF5xYpEEdYeuZJCjwcMcqzOgZ4CiQXOQ0kdFQaPxuxX9kijCPhm0sWVRi
+mGGiXSs7KLBx/vRcaFjm/NNhlwQ6z+yx3XIfc26Zc8hqpF993Z2ei4x76sXsd/dk
+Du3u5a1GzBplTq9EHW5nZENquQxv1gQfX+Ua4Dmp9a/9tchmbDMPc+VDIaT99SO1
+cfHS7OyzUX0Ew7mZfEyeRo3N9GP8To60q8eCyJNuBEySttNcHmGKKiM2bjjSPqSv
+HnXaJTMwWP7o0/krJu183xKbIVOaDLEafn4=
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            71:09:fa:42:a4:c1:c7:05:08:a6:82:a0:2d:56:dc:2f
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=PL, O=Unizeto Technologies S.A., OU=Certum Certification Authority, CN=Certum Level III CA
+        Validity
+            Not Before: Jun  1 00:00:00 2015 GMT
+            Not After : May 31 00:00:00 2016 GMT
+        Subject: C=NL, O=Martijn Laan, CN=Open Source Developer, Martijn Laan/emailAddress=mlaan@jrsoftware.org
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b9:c5:f6:99:f2:0e:16:46:ef:2b:ad:42:43:b5:
+                    82:69:0d:69:08:38:61:b5:5a:f5:6f:d5:7a:a6:f2:
+                    34:2d:b6:24:07:3a:40:8c:42:52:27:d5:3e:50:7a:
+                    e3:b8:bb:2a:e0:ab:3f:7e:78:dc:73:af:5c:3a:86:
+                    21:75:d7:0b:16:26:95:fb:62:dc:27:8c:92:18:01:
+                    cc:cc:d9:86:6c:c9:cc:5e:8b:c3:91:dd:4c:5b:0d:
+                    4b:98:c0:0d:c3:5f:59:b2:17:8d:7a:53:ab:c4:ed:
+                    c5:5d:29:66:3c:e6:fe:e9:3f:7d:aa:e5:fe:59:de:
+                    a8:25:46:c8:ea:cc:d4:08:fe:98:f5:bc:48:ef:78:
+                    57:da:28:b8:74:96:b1:8e:02:64:de:0d:42:4b:ca:
+                    3c:e0:9e:2a:ea:2c:0f:d4:b5:b5:9f:76:c8:8c:d1:
+                    47:16:55:40:02:9f:a6:21:49:4f:b3:8a:d2:0c:b2:
+                    db:d7:af:c9:57:ee:5b:48:e8:30:b9:fd:ba:82:17:
+                    24:34:af:b7:b8:fb:bf:73:b7:e6:51:85:ba:9c:f5:
+                    be:2c:af:ab:d8:76:59:11:61:37:f7:fc:cc:78:db:
+                    e8:a2:d1:85:68:c1:d9:3c:02:8c:44:f9:7e:51:19:
+                    3b:d1:78:c5:ea:05:bf:a8:17:eb:ec:3d:28:43:b4:
+                    7d:2d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.certum.pl/l3.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.certum.pl
+                CA Issuers - URI:http://repository.certum.pl/l3.cer
+
+            X509v3 Authority Key Identifier: 
+                keyid:04:C9:DA:9A:DC:4A:49:77:AF:30:03:04:66:2E:C7:CE:F2:F8:17:7D
+
+            X509v3 Subject Key Identifier: 
+                1F:71:C0:C5:E0:F3:33:03:29:C6:8A:9B:6A:23:BD:5A:FD:F7:DF:90
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Certificate Policies: 
+                Policy: 1.2.616.1.113527.2.2.3
+                  CPS: https://www.certum.pl/CPS
+                  User Notice:
+                    Organization: Unizeto Technologies S.A.
+                    Number: 7
+                    Explicit Text: Usage of this certificate is strictly subjected to the CERTUM Certification Practice Statement (CPS) incorporated by reference herein and in the repository at https://www.certum.pl/repository.
+
+            X509v3 Extended Key Usage: 
+                Code Signing
+            Netscape Cert Type: 
+                Object Signing
+    Signature Algorithm: sha1WithRSAEncryption
+         0e:85:6e:8b:78:c9:e4:88:cf:4b:aa:78:50:26:07:ad:02:2d:
+         a8:fd:15:c5:53:15:1d:7f:77:39:6b:59:bc:05:0b:cb:2d:8f:
+         09:07:74:35:20:b7:4b:0e:44:ba:5e:05:64:48:ad:7f:70:46:
+         a4:0d:4f:99:82:b0:0b:b0:fa:70:df:e6:c7:1f:e7:a9:98:71:
+         9c:c3:61:d5:3f:5c:57:84:ab:b3:86:2c:6f:76:9b:c8:25:f4:
+         ac:5c:c5:5c:58:19:f4:4e:72:c7:ce:fb:d3:9a:43:64:d6:21:
+         6a:ef:c6:dd:25:f8:37:b7:02:ff:fe:02:87:6e:d8:49:c7:4e:
+         9c:65:af:3a:07:cd:cc:81:b9:9a:fb:77:5f:c5:6c:87:3d:0e:
+         48:45:e5:f5:6a:b4:23:d6:62:64:12:8d:56:30:72:82:7c:5f:
+         a4:19:f4:0b:cc:44:26:79:f6:f3:fc:05:49:3b:11:99:8f:c5:
+         35:f2:b0:aa:53:82:4e:2b:d5:dc:2d:2f:09:66:0b:60:eb:7b:
+         2a:8e:f9:25:11:22:dd:41:df:ee:95:68:d1:13:d5:df:8c:bb:
+         32:4b:0e:32:2a:31:71:24:db:b2:bf:87:d9:fc:64:11:31:4c:
+         61:31:39:5c:72:30:4d:b6:d8:5b:8d:4a:4e:29:9f:50:ef:8c:
+         53:26:1c:fb
+-----BEGIN CERTIFICATE-----
+MIIF1zCCBL+gAwIBAgIQcQn6QqTBxwUIpoKgLVbcLzANBgkqhkiG9w0BAQUFADB4
+MQswCQYDVQQGEwJQTDEiMCAGA1UEChMZVW5pemV0byBUZWNobm9sb2dpZXMgUy5B
+LjEnMCUGA1UECxMeQ2VydHVtIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MRwwGgYD
+VQQDExNDZXJ0dW0gTGV2ZWwgSUlJIENBMB4XDTE1MDYwMTAwMDAwMFoXDTE2MDUz
+MTAwMDAwMFowdzELMAkGA1UEBhMCTkwxFTATBgNVBAoMDE1hcnRpam4gTGFhbjEs
+MCoGA1UEAwwjT3BlbiBTb3VyY2UgRGV2ZWxvcGVyLCBNYXJ0aWpuIExhYW4xIzAh
+BgkqhkiG9w0BCQEWFG1sYWFuQGpyc29mdHdhcmUub3JnMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAucX2mfIOFkbvK61CQ7WCaQ1pCDhhtVr1b9V6pvI0
+LbYkBzpAjEJSJ9U+UHrjuLsq4Ks/fnjcc69cOoYhddcLFiaV+2LcJ4ySGAHMzNmG
+bMnMXovDkd1MWw1LmMANw19ZsheNelOrxO3FXSlmPOb+6T99quX+Wd6oJUbI6szU
+CP6Y9bxI73hX2ii4dJaxjgJk3g1CS8o84J4q6iwP1LW1n3bIjNFHFlVAAp+mIUlP
+s4rSDLLb16/JV+5bSOgwuf26ghckNK+3uPu/c7fmUYW6nPW+LK+r2HZZEWE39/zM
+eNvootGFaMHZPAKMRPl+URk70XjF6gW/qBfr7D0oQ7R9LQIDAQABo4ICXDCCAlgw
+DAYDVR0TAQH/BAIwADAsBgNVHR8EJTAjMCGgH6AdhhtodHRwOi8vY3JsLmNlcnR1
+bS5wbC9sMy5jcmwwYQYIKwYBBQUHAQEEVTBTMCEGCCsGAQUFBzABhhVodHRwOi8v
+b2NzcC5jZXJ0dW0ucGwwLgYIKwYBBQUHMAKGImh0dHA6Ly9yZXBvc2l0b3J5LmNl
+cnR1bS5wbC9sMy5jZXIwHwYDVR0jBBgwFoAUBMnamtxKSXevMAMEZi7HzvL4F30w
+HQYDVR0OBBYEFB9xwMXg8zMDKcaKm2ojvVr999+QMA4GA1UdDwEB/wQEAwIHgDCC
+AT0GA1UdIASCATQwggEwMIIBLAYKKoRoAYb2dwICAzCCARwwJQYIKwYBBQUHAgEW
+GWh0dHBzOi8vd3d3LmNlcnR1bS5wbC9DUFMwgfIGCCsGAQUFBwICMIHlMCAWGVVu
+aXpldG8gVGVjaG5vbG9naWVzIFMuQS4wAwIBBxqBwFVzYWdlIG9mIHRoaXMgY2Vy
+dGlmaWNhdGUgaXMgc3RyaWN0bHkgc3ViamVjdGVkIHRvIHRoZSBDRVJUVU0gQ2Vy
+dGlmaWNhdGlvbiBQcmFjdGljZSBTdGF0ZW1lbnQgKENQUykgaW5jb3Jwb3JhdGVk
+IGJ5IHJlZmVyZW5jZSBoZXJlaW4gYW5kIGluIHRoZSByZXBvc2l0b3J5IGF0IGh0
+dHBzOi8vd3d3LmNlcnR1bS5wbC9yZXBvc2l0b3J5LjATBgNVHSUEDDAKBggrBgEF
+BQcDAzARBglghkgBhvhCAQEEBAMCBBAwDQYJKoZIhvcNAQEFBQADggEBAA6Fbot4
+yeSIz0uqeFAmB60CLaj9FcVTFR1/dzlrWbwFC8stjwkHdDUgt0sORLpeBWRIrX9w
+RqQNT5mCsAuw+nDf5scf56mYcZzDYdU/XFeEq7OGLG92m8gl9KxcxVxYGfROcsfO
++9OaQ2TWIWrvxt0l+De3Av/+Aodu2EnHTpxlrzoHzcyBuZr7d1/FbIc9DkhF5fVq
+tCPWYmQSjVYwcoJ8X6QZ9AvMRCZ59vP8BUk7EZmPxTXysKpTgk4r1dwtLwlmC2Dr
+eyqO+SURIt1B3+6VaNET1d+MuzJLDjIqMXEk27K/h9n8ZBExTGExOVxyME222FuN
+Sk4pn1DvjFMmHPs=
+-----END CERTIFICATE-----
+

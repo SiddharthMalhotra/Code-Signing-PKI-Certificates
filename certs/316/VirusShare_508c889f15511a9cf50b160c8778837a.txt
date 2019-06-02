@@ -1,0 +1,212 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            71:a0:b7:36:95:dd:b1:af:c2:3b:2b:9a:18:ee:54:cb
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=thawte, Inc., OU=Certification Services Division, OU=(c) 2006 thawte, Inc. - For authorized use only, CN=thawte Primary Root CA
+        Validity
+            Not Before: Dec 10 00:00:00 2013 GMT
+            Not After : Dec  9 23:59:59 2023 GMT
+        Subject: C=US, O=thawte, Inc., CN=thawte SHA256 Code Signing CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9b:55:02:4c:17:05:e9:d0:66:c3:fc:28:ad:d3:
+                    c0:fe:ef:e0:e9:7e:d4:1e:f6:aa:1b:91:46:fd:f5:
+                    16:ed:98:07:53:fa:ba:87:1b:7d:9e:1f:01:27:ab:
+                    b9:d2:67:ca:b7:10:25:53:f4:e3:be:9b:90:b8:ed:
+                    23:5c:42:ef:64:25:58:e5:88:22:1a:be:f5:c7:ae:
+                    f5:be:8a:b1:11:11:93:1a:22:a9:74:69:c1:74:b6:
+                    68:87:a7:83:30:f9:64:f1:b1:e3:38:3e:f4:d6:c1:
+                    fc:12:fe:73:57:17:35:57:8a:dd:50:8d:03:f8:66:
+                    cd:ca:76:83:13:c8:d7:0e:71:1d:e4:63:c9:ba:17:
+                    f8:d1:b9:e4:88:d2:2c:28:c8:21:20:0d:41:b7:0b:
+                    e2:2f:c2:80:e6:88:7b:53:6c:c3:44:63:81:7f:68:
+                    47:8c:2b:2a:cf:5b:f4:8c:49:61:ba:69:85:fd:6b:
+                    00:78:05:26:69:13:30:80:38:4e:f1:5a:55:c9:c5:
+                    50:d6:aa:38:89:47:43:5c:fe:4d:73:a5:49:c5:93:
+                    69:fe:77:96:9a:af:f3:8c:0e:57:ba:33:d9:0e:c6:
+                    42:d3:03:77:c4:bb:39:ad:91:f9:f3:f7:96:5c:3a:
+                    64:a6:ed:27:57:c1:e8:40:f3:53:f2:be:29:34:fe:
+                    5f:f9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            Authority Information Access: 
+                OCSP - URI:http://t2.symcb.com
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://t1.symcb.com/ThawtePCA.crl
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication, Code Signing
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Alternative Name: 
+                DirName:/CN=SymantecPKI-1-568
+            X509v3 Subject Key Identifier: 
+                57:86:9B:54:B8:BE:A6:29:8A:E4:F6:C2:E2:13:18:89:85:CD:DC:B7
+            X509v3 Authority Key Identifier: 
+                keyid:7B:5B:45:CF:AF:CE:CB:7A:FD:31:92:1A:6A:B6:F3:46:EB:57:48:50
+
+    Signature Algorithm: sha256WithRSAEncryption
+         24:3b:f5:d7:a0:36:13:c7:43:fe:f0:09:87:68:d1:98:31:6e:
+         12:e4:3f:1e:1f:96:7b:6b:4c:1e:87:9e:8b:c5:6c:a3:b1:0c:
+         7b:50:92:d5:81:9c:b1:8f:2c:29:b7:ee:f9:91:05:b9:8e:41:
+         f1:2c:f6:d0:59:2d:98:e0:b9:ea:80:01:47:40:95:b8:3d:9d:
+         03:bd:79:bb:35:b6:ad:9c:4c:27:f6:67:45:10:c9:c5:bc:87:
+         4e:55:7b:d2:87:bb:dd:dc:30:ef:c6:d4:6c:cc:99:35:6d:1c:
+         e0:60:d3:cd:68:8f:29:59:4b:89:96:08:46:c9:8e:fc:75:4f:
+         c5:dc:09:cc:4e:27:8b:44:cd:07:bc:ac:04:e0:b5:33:a5:87:
+         9f:f4:dd:73:0c:91:ea:12:81:6f:e3:75:f0:1e:b5:93:6c:44:
+         17:d5:3e:97:c9:bd:07:2c:56:77:1f:85:dd:46:e8:bf:de:2c:
+         81:94:a3:f7:e5:b7:a7:c1:37:9f:75:ca:55:77:4d:5e:36:29:
+         ca:85:d8:45:41:72:57:75:c0:79:5b:fa:34:10:06:6d:64:20:
+         42:b7:3a:c8:1f:1d:46:64:02:5f:c6:47:be:f0:c4:3a:28:54:
+         da:f6:1e:4f:9a:a2:19:43:a4:6f:49:f8:fc:5e:42:20:28:84:
+         8b:47:20:6e
+-----BEGIN CERTIFICATE-----
+MIIEmTCCA4GgAwIBAgIQcaC3NpXdsa/COyuaGO5UyzANBgkqhkiG9w0BAQsFADCB
+qTELMAkGA1UEBhMCVVMxFTATBgNVBAoTDHRoYXd0ZSwgSW5jLjEoMCYGA1UECxMf
+Q2VydGlmaWNhdGlvbiBTZXJ2aWNlcyBEaXZpc2lvbjE4MDYGA1UECxMvKGMpIDIw
+MDYgdGhhd3RlLCBJbmMuIC0gRm9yIGF1dGhvcml6ZWQgdXNlIG9ubHkxHzAdBgNV
+BAMTFnRoYXd0ZSBQcmltYXJ5IFJvb3QgQ0EwHhcNMTMxMjEwMDAwMDAwWhcNMjMx
+MjA5MjM1OTU5WjBMMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMu
+MSYwJAYDVQQDEx10aGF3dGUgU0hBMjU2IENvZGUgU2lnbmluZyBDQTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAJtVAkwXBenQZsP8KK3TwP7v4Ol+1B72
+qhuRRv31Fu2YB1P6uocbfZ4fASerudJnyrcQJVP0476bkLjtI1xC72QlWOWIIhq+
+9ceu9b6KsRERkxoiqXRpwXS2aIengzD5ZPGx4zg+9NbB/BL+c1cXNVeK3VCNA/hm
+zcp2gxPI1w5xHeRjyboX+NG55IjSLCjIISANQbcL4i/CgOaIe1Nsw0RjgX9oR4wr
+Ks9b9IxJYbpphf1rAHgFJmkTMIA4TvFaVcnFUNaqOIlHQ1z+TXOlScWTaf53lpqv
+84wOV7oz2Q7GQtMDd8S7Oa2R+fP3llw6ZKbtJ1fB6EDzU/K+KTT+X/kCAwEAAaOC
+ARcwggETMC8GCCsGAQUFBwEBBCMwITAfBggrBgEFBQcwAYYTaHR0cDovL3QyLnN5
+bWNiLmNvbTASBgNVHRMBAf8ECDAGAQH/AgEAMDIGA1UdHwQrMCkwJ6AloCOGIWh0
+dHA6Ly90MS5zeW1jYi5jb20vVGhhd3RlUENBLmNybDAdBgNVHSUEFjAUBggrBgEF
+BQcDAgYIKwYBBQUHAwMwDgYDVR0PAQH/BAQDAgEGMCkGA1UdEQQiMCCkHjAcMRow
+GAYDVQQDExFTeW1hbnRlY1BLSS0xLTU2ODAdBgNVHQ4EFgQUV4abVLi+pimK5PbC
+4hMYiYXN3LcwHwYDVR0jBBgwFoAUe1tFz6/Oy3r9MZIaarbzRutXSFAwDQYJKoZI
+hvcNAQELBQADggEBACQ79degNhPHQ/7wCYdo0ZgxbhLkPx4flntrTB6HnovFbKOx
+DHtQktWBnLGPLCm37vmRBbmOQfEs9tBZLZjgueqAAUdAlbg9nQO9ebs1tq2cTCf2
+Z0UQycW8h05Ve9KHu93cMO/G1GzMmTVtHOBg081ojylZS4mWCEbJjvx1T8XcCcxO
+J4tEzQe8rATgtTOlh5/03XMMkeoSgW/jdfAetZNsRBfVPpfJvQcsVncfhd1G6L/e
+LIGUo/flt6fBN591ylV3TV42KcqF2EVBcld1wHlb+jQQBm1kIEK3OsgfHUZkAl/G
+R77wxDooVNr2Hk+aohlDpG9J+PxeQiAohItHIG4=
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            6b:00:ce:18:6c:ec:91:4a:be:d5:10:d3:ba:86:10:96
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=thawte, Inc., CN=thawte SHA256 Code Signing CA
+        Validity
+            Not Before: Jun 22 00:00:00 2015 GMT
+            Not After : Jun 21 23:59:59 2016 GMT
+        Subject: C=US, ST=Nevada, L=Incline Village, O=Cloud Installer, CN=Cloud Installer
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b8:c3:25:a7:3b:03:79:02:25:3e:10:97:db:f2:
+                    50:12:2c:fd:36:37:56:24:6e:38:dd:7c:76:6f:bc:
+                    9e:53:18:83:d2:70:89:4d:e1:70:bc:05:8f:3e:7a:
+                    2b:19:51:fb:8a:d0:1f:8e:eb:74:b6:61:6b:56:2c:
+                    77:34:57:bd:27:6a:80:33:00:6d:2c:68:81:74:a5:
+                    a6:ca:9d:27:8b:28:a7:6a:4e:5b:8c:66:22:5f:5d:
+                    5b:4c:7c:4e:93:8d:dd:77:5d:c9:df:ad:1b:c0:aa:
+                    13:d6:a9:11:1e:48:be:3e:4d:f3:01:95:00:50:15:
+                    ac:d7:d8:1d:cf:f2:97:b4:07:7c:e5:e5:00:53:9a:
+                    0f:1a:27:97:01:86:3e:4d:7a:49:e3:d6:7c:6a:d2:
+                    f6:2b:4e:e1:76:17:ea:8a:22:37:8c:c7:5f:12:ef:
+                    2c:a1:e1:1d:27:45:d3:5d:25:b0:d3:15:98:ef:b9:
+                    8d:0d:42:2e:ec:4f:71:0b:ff:af:59:44:7a:1c:d3:
+                    c5:e3:f8:93:63:5b:0c:0e:4e:9d:fc:7f:f8:3f:3b:
+                    26:a2:ad:97:b9:04:e2:b9:8c:30:c3:ee:5f:b9:9c:
+                    23:ba:dc:a4:ce:68:1c:35:43:25:fb:ab:df:ef:55:
+                    65:33:83:39:6e:b0:f8:a9:80:5b:fe:ab:c6:ee:5f:
+                    ee:15
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Authority Key Identifier: 
+                keyid:57:86:9B:54:B8:BE:A6:29:8A:E4:F6:C2:E2:13:18:89:85:CD:DC:B7
+
+            X509v3 Subject Key Identifier: 
+                99:50:45:A3:1C:C1:97:5A:BA:65:9B:59:02:AD:DD:A8:07:13:FF:A4
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://tl.symcb.com/tl.crl
+
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                Code Signing, Microsoft Commercial Code Signing
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.48.2
+                  CPS: https://www.thawte.com/cps
+                  User Notice:
+                    Explicit Text: https://www.thawte.com/repository
+
+            2.5.29.4: 
+                0.0.0..
++.....7.......
+            Authority Information Access: 
+                OCSP - URI:http://tl.symcd.com
+                CA Issuers - URI:http://tl.symcb.com/tl.crt
+
+            Netscape Cert Type: 
+                Object Signing
+    Signature Algorithm: sha256WithRSAEncryption
+         3a:dc:df:29:9e:2e:f3:51:59:29:16:4a:8c:71:ac:f6:20:82:
+         2f:b9:69:d2:57:06:f8:18:ee:36:93:66:b5:f5:3e:37:ac:ce:
+         a6:3a:3f:7c:a8:ed:d6:59:63:7d:b2:71:fa:91:fb:c4:75:c3:
+         04:2c:68:cc:11:eb:50:09:54:30:e1:a1:5c:ab:83:88:87:64:
+         57:c6:9c:13:a5:db:3a:ff:1f:9b:ab:4f:f0:8e:ca:49:1d:e2:
+         a7:f0:27:3b:f8:db:8f:f6:82:08:3d:df:99:c8:27:22:93:b3:
+         37:ae:c4:f7:48:11:43:02:e8:61:b4:0f:22:6d:6b:e9:24:23:
+         17:52:a2:e7:5d:6b:b4:dc:b6:a9:c7:eb:d5:9e:b7:35:13:2b:
+         f2:e1:a1:ad:0d:dc:8c:b6:14:68:79:50:8f:bd:a7:78:7c:8c:
+         05:9c:12:9a:cd:01:6b:24:d1:6d:0f:1a:01:0f:a9:06:6b:1f:
+         6b:20:6f:de:18:a6:b4:46:93:a7:e7:9d:d4:9a:e3:a2:6b:de:
+         b0:a8:a6:06:54:ec:34:6a:2d:23:59:1d:93:a6:ea:0f:1f:86:
+         f2:3a:54:4f:74:7b:00:4d:63:04:48:64:2b:0c:00:00:91:6c:
+         52:e2:5c:d5:5b:9d:df:fb:43:64:3f:c0:b8:ac:16:33:4a:99:
+         3f:ca:ae:63
+-----BEGIN CERTIFICATE-----
+MIIE8TCCA9mgAwIBAgIQawDOGGzskUq+1RDTuoYQljANBgkqhkiG9w0BAQsFADBM
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMSYwJAYDVQQDEx10
+aGF3dGUgU0hBMjU2IENvZGUgU2lnbmluZyBDQTAeFw0xNTA2MjIwMDAwMDBaFw0x
+NjA2MjEyMzU5NTlaMGwxCzAJBgNVBAYTAlVTMQ8wDQYDVQQIDAZOZXZhZGExGDAW
+BgNVBAcMD0luY2xpbmUgVmlsbGFnZTEYMBYGA1UECgwPQ2xvdWQgSW5zdGFsbGVy
+MRgwFgYDVQQDDA9DbG91ZCBJbnN0YWxsZXIwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQC4wyWnOwN5AiU+EJfb8lASLP02N1YkbjjdfHZvvJ5TGIPScIlN
+4XC8BY8+eisZUfuK0B+O63S2YWtWLHc0V70naoAzAG0saIF0pabKnSeLKKdqTluM
+ZiJfXVtMfE6Tjd13XcnfrRvAqhPWqREeSL4+TfMBlQBQFazX2B3P8pe0B3zl5QBT
+mg8aJ5cBhj5Neknj1nxq0vYrTuF2F+qKIjeMx18S7yyh4R0nRdNdJbDTFZjvuY0N
+Qi7sT3EL/69ZRHoc08Xj+JNjWwwOTp38f/g/OyairZe5BOK5jDDD7l+5nCO63KTO
+aBw1QyX7q9/vVWUzgzlusPipgFv+q8buX+4VAgMBAAGjggGtMIIBqTAJBgNVHRME
+AjAAMB8GA1UdIwQYMBaAFFeGm1S4vqYpiuT2wuITGImFzdy3MB0GA1UdDgQWBBSZ
+UEWjHMGXWrplm1kCrd2oBxP/pDArBgNVHR8EJDAiMCCgHqAchhpodHRwOi8vdGwu
+c3ltY2IuY29tL3RsLmNybDAOBgNVHQ8BAf8EBAMCB4AwHwYDVR0lBBgwFgYIKwYB
+BQUHAwMGCisGAQQBgjcCARYwcwYDVR0gBGwwajBoBgtghkgBhvhFAQcwAjBZMCYG
+CCsGAQUFBwIBFhpodHRwczovL3d3dy50aGF3dGUuY29tL2NwczAvBggrBgEFBQcC
+AjAjDCFodHRwczovL3d3dy50aGF3dGUuY29tL3JlcG9zaXRvcnkwHQYDVR0EBBYw
+FDAOMAwGCisGAQQBgjcCARYDAgeAMFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcw
+AYYTaHR0cDovL3RsLnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL3RsLnN5
+bWNiLmNvbS90bC5jcnQwEQYJYIZIAYb4QgEBBAQDAgQQMA0GCSqGSIb3DQEBCwUA
+A4IBAQA63N8pni7zUVkpFkqMcaz2IIIvuWnSVwb4GO42k2a19T43rM6mOj98qO3W
+WWN9snH6kfvEdcMELGjMEetQCVQw4aFcq4OIh2RXxpwTpds6/x+bq0/wjspJHeKn
+8Cc7+NuP9oIIPd+ZyCcik7M3rsT3SBFDAuhhtA8ibWvpJCMXUqLnXWu03Lapx+vV
+nrc1Eyvy4aGtDdyMthRoeVCPvad4fIwFnBKazQFrJNFtDxoBD6kGax9rIG/eGKa0
+RpOn553UmuOia96wqKYGVOw0ai0jWR2TpuoPH4byOlRPdHsATWMESGQrDAAAkWxS
+4lzVW53f+0NkP8C4rBYzSpk/yq5j
+-----END CERTIFICATE-----
+

@@ -1,0 +1,53 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number:
+            b9:ce:f3:82:59:df:c7:bc
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BR, ST=Piaui, L=Teresina, O=DRC Sistemas., OU=Unidade de Desenvolvimento, CN=DRC Sistemas/emailAddress=admin@drcsistemas.com
+        Validity
+            Not Before: Feb  7 01:15:25 2018 GMT
+            Not After : Feb  7 01:15:25 2020 GMT
+        Subject: C=BR, ST=Piaui, L=Teresina, O=DRC Sistemas., OU=Unidade de Desenvolvimento, CN=DRC Sistemas/emailAddress=admin@drcsistemas.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a2:a9:18:26:96:1a:fb:93:6b:a7:63:fc:c5:88:
+                    e1:70:f6:9f:d0:4f:90:fe:77:d2:ce:18:f4:51:cf:
+                    73:bb:f7:18:93:15:b8:cf:8d:10:88:ac:af:ce:1a:
+                    2e:57:56:1a:56:8c:e2:04:ba:51:00:13:a0:7c:81:
+                    36:c6:e3:12:ff:4f:ce:dd:01:4f:74:be:51:00:3f:
+                    d3:a8:a6:c1:b1:67:30:35:b4:d3:60:d2:4c:c2:de:
+                    1b:b4:48:7d:08:95:f6:87:12:f8:58:89:33:4a:2f:
+                    52:f3:62:4c:1a:cf:c6:85:f1:ed:75:84:e0:d7:52:
+                    de:d0:c7:1e:11:8b:72:33:31
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha256WithRSAEncryption
+         7a:a5:06:3d:40:02:d0:b9:74:b3:95:66:17:20:81:5e:0b:d6:
+         df:50:e7:9f:3e:0b:0c:31:19:29:5a:23:79:33:5d:66:7c:03:
+         82:0e:a0:bd:5c:57:d1:19:3d:0b:ee:36:55:19:4e:14:af:0a:
+         1e:02:a6:a0:06:e2:59:9a:89:d7:40:5c:71:b3:4b:ab:32:64:
+         69:57:61:f7:db:fd:5f:dd:23:03:93:fd:00:55:f4:42:2b:b9:
+         da:6a:84:9a:5f:f3:5f:7f:f0:68:ef:53:78:c8:05:36:ac:f5:
+         25:21:ff:00:03:2b:49:90:f0:70:d3:34:e2:d9:a6:e0:b0:3a:
+         b5:72
+-----BEGIN CERTIFICATE-----
+MIICzTCCAjYCCQC5zvOCWd/HvDANBgkqhkiG9w0BAQsFADCBqjELMAkGA1UEBhMC
+QlIxDjAMBgNVBAgMBVBpYXVpMREwDwYDVQQHDAhUZXJlc2luYTEWMBQGA1UECgwN
+RFJDIFNpc3RlbWFzLjEjMCEGA1UECwwaVW5pZGFkZSBkZSBEZXNlbnZvbHZpbWVu
+dG8xFTATBgNVBAMMDERSQyBTaXN0ZW1hczEkMCIGCSqGSIb3DQEJARYVYWRtaW5A
+ZHJjc2lzdGVtYXMuY29tMB4XDTE4MDIwNzAxMTUyNVoXDTIwMDIwNzAxMTUyNVow
+gaoxCzAJBgNVBAYTAkJSMQ4wDAYDVQQIDAVQaWF1aTERMA8GA1UEBwwIVGVyZXNp
+bmExFjAUBgNVBAoMDURSQyBTaXN0ZW1hcy4xIzAhBgNVBAsMGlVuaWRhZGUgZGUg
+RGVzZW52b2x2aW1lbnRvMRUwEwYDVQQDDAxEUkMgU2lzdGVtYXMxJDAiBgkqhkiG
+9w0BCQEWFWFkbWluQGRyY3Npc3RlbWFzLmNvbTCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEAoqkYJpYa+5Nrp2P8xYjhcPaf0E+Q/nfSzhj0Uc9zu/cYkxW4z40Q
+iKyvzhouV1YaVoziBLpRABOgfIE2xuMS/0/O3QFPdL5RAD/TqKbBsWcwNbTTYNJM
+wt4btEh9CJX2hxL4WIkzSi9S82JMGs/GhfHtdYTg11Le0MceEYtyMzECAwEAATAN
+BgkqhkiG9w0BAQsFAAOBgQB6pQY9QALQuXSzlWYXIIFeC9bfUOefPgsMMRkpWiN5
+M11mfAOCDqC9XFfRGT0L7jZVGU4UrwoeAqagBuJZmonXQFxxs0urMmRpV2H32/1f
+3SMDk/0AVfRCK7naaoSaX/Nff/Bo71N4yAU2rPUlIf8AAytJkPBw0zTi2abgsDq1
+cg==
+-----END CERTIFICATE-----
+

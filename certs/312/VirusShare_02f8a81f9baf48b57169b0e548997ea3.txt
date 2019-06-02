@@ -1,0 +1,55 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+             (Negative)1f:17:a0:72:43:d3:d9:63:b5:b0:0f:79:f4:94:67:8d
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=GlobalSign
+        Validity
+            Not Before: Jan  1 08:00:00 2018 GMT
+            Not After : Jan  1 08:00:00 2024 GMT
+        Subject: CN=GlobalSign
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c9:90:a7:78:64:5b:00:59:fc:df:f2:8d:b9:45:
+                    41:48:45:cb:02:3e:d1:c3:7c:a6:d8:9b:b1:d6:b9:
+                    bb:0e:b1:1e:ec:7a:6d:ea:65:3c:43:24:05:4c:2f:
+                    63:7d:e1:24:89:97:3b:9b:b6:ab:cb:8a:61:13:92:
+                    83:b4:d5:54:2a:36:4f:af:ca:72:e3:42:3d:67:fb:
+                    bb:c8:9a:2d:3b:b2:19:1e:94:08:22:7c:1a:04:09:
+                    1e:9b:45:f6:89:40:6d:bd:f6:a2:83:0c:6b:2b:68:
+                    02:b8:9c:07:af:25:64:d0:6d:8b:8d:f6:23:c4:ec:
+                    6e:e3:de:78:3c:6a:cd:69:d1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Extended Key Usage: 
+                Code Signing
+            2.5.29.1: 
+                0=....G.\.xi.....\...0.1.0...U...
+GlobalSign...._..,&.JO...k.s
+    Signature Algorithm: sha1WithRSAEncryption
+         64:ec:5b:76:b2:33:84:59:30:4f:0e:07:7e:64:4b:72:e4:2c:
+         2b:f4:22:55:d7:a8:1e:06:f8:24:8d:4b:65:3d:71:77:df:e3:
+         50:b1:54:46:a6:d2:12:88:7b:02:f0:ce:d5:dd:8f:16:71:3c:
+         28:37:08:bf:3a:a1:ee:e6:73:17:3c:b1:39:93:41:a7:e0:59:
+         d7:62:ef:64:80:30:c3:4e:c6:cb:67:ea:4a:bc:71:87:20:6f:
+         cb:66:84:15:2e:95:6b:18:d9:e9:c2:88:48:38:2f:f5:17:2a:
+         5f:58:10:b2:37:b4:4a:05:d5:44:2b:13:07:c5:c5:c3:03:b3:
+         9a:9a
+-----BEGIN CERTIFICATE-----
+MIICDjCCAXegAwIBAgIQ4OhfjbwsJpxKT/CGC2uYczANBgkqhkiG9w0BAQUFADAV
+MRMwEQYDVQQDEwpHbG9iYWxTaWduMB4XDTE4MDEwMTA4MDAwMFoXDTI0MDEwMTA4
+MDAwMFowFTETMBEGA1UEAxMKR2xvYmFsU2lnbjCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEAyZCneGRbAFn83/KNuUVBSEXLAj7Rw3ym2Jux1rm7DrEe7Hpt6mU8
+QyQFTC9jfeEkiZc7m7ary4phE5KDtNVUKjZPr8py40I9Z/u7yJotO7IZHpQIInwa
+BAkem0X2iUBtvfaigwxrK2gCuJwHryVk0G2LjfYjxOxu4954PGrNadECAwEAAaNf
+MF0wEwYDVR0lBAwwCgYIKwYBBQUHAwMwRgYDVR0BBD8wPYAQ+ctHh1yqeGnRlhGq
+5w1ctqEXMBUxEzARBgNVBAMTCkdsb2JhbFNpZ26CEODoX428LCacSk/whgtrmHMw
+DQYJKoZIhvcNAQEFBQADgYEAZOxbdrIzhFkwTw4HfmRLcuQsK/QiVdeoHgb4JI1L
+ZT1xd9/jULFURqbSEoh7AvDO1d2PFnE8KDcIvzqh7uZzFzyxOZNBp+BZ12LvZIAw
+w07Gy2fqSrxxhyBvy2aEFS6VaxjZ6cKISDgv9RcqX1gQsje0SgXVRCsTB8XFwwOz
+mpo=
+-----END CERTIFICATE-----
+

@@ -1,0 +1,111 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            38:63:14:68:6b:da:e0:bd:ff:ca:7c:0f:1e:5d:18:ec
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Code Signing CA
+        Validity
+            Not Before: Jul  8 00:00:00 2016 GMT
+            Not After : Jul  8 23:59:59 2018 GMT
+        Subject: C=PY/postalCode=2300, ST=Central, L=Fernando de la Mora/street=Rosario 2832, O=Gabriel Fernandez, CN=Gabriel Fernandez
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:f8:10:97:de:f0:0a:11:e5:db:dd:e3:ba:5a:cf:
+                    4b:48:96:af:fe:ca:1b:86:aa:2f:5d:80:ee:50:77:
+                    b3:f6:71:96:6a:7a:a9:3a:c2:34:2c:d4:7d:3e:b7:
+                    a9:83:d4:67:94:1e:8c:fe:cb:63:dc:de:85:1c:16:
+                    97:2d:48:1d:cd:f8:a4:5c:b4:83:20:83:7d:09:ec:
+                    5c:84:ac:c2:b6:37:98:31:63:33:23:2e:48:3a:ea:
+                    f8:5e:0b:ac:0e:50:fa:fb:2c:ed:f0:20:63:8b:4d:
+                    97:45:f5:89:b2:ee:9a:e9:65:d2:89:1c:22:75:42:
+                    ea:c4:c4:0e:a6:82:a6:68:8c:65:c8:f7:ff:06:3d:
+                    b3:d1:7e:ef:45:11:3e:3b:b3:50:61:22:43:b9:0a:
+                    f7:42:2f:c0:82:1e:6b:5f:10:c9:13:fc:6c:2a:0a:
+                    d0:d1:08:f3:3d:d0:af:d8:9e:3f:74:f1:ea:38:36:
+                    76:f2:d4:1d:40:e5:31:a4:99:16:09:cc:05:5a:44:
+                    0e:2a:0d:83:cb:2d:3a:c7:08:ab:79:61:25:a2:86:
+                    f3:0c:c4:87:70:1b:d5:46:95:88:54:6d:ef:c7:49:
+                    a2:37:28:17:89:08:75:79:4b:64:9b:1f:d1:2b:91:
+                    04:5d:0f:39:fa:8e:cf:14:c8:51:1a:92:33:22:b1:
+                    df:97
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:29:91:60:FF:8A:4D:FA:EB:F9:A6:6A:B8:CF:F9:E6:4B:BD:49:CE:12
+
+            X509v3 Subject Key Identifier: 
+                DB:A2:43:BE:4A:D8:0D:BA:15:1A:A8:B8:39:91:5E:5C:50:4F:D5:7A
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                Code Signing
+            Netscape Cert Type: 
+                Object Signing
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.1.3.2
+                  CPS: https://secure.comodo.net/CPS
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.comodoca.com/COMODORSACodeSigningCA.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.comodoca.com/COMODORSACodeSigningCA.crt
+                OCSP - URI:http://ocsp.comodoca.com
+
+            X509v3 Subject Alternative Name: 
+                email:support@gfsoftware.com
+    Signature Algorithm: sha256WithRSAEncryption
+         77:13:2b:27:6f:04:a7:2e:e8:b9:b5:87:01:01:7a:46:3c:28:
+         65:64:a0:c3:86:ad:55:b1:af:36:ea:f4:4e:54:16:43:3d:d3:
+         44:48:4d:4b:d9:b9:d7:81:3f:55:64:d3:40:e2:3a:af:e3:2b:
+         8a:a8:ee:a1:f0:ab:83:3a:c1:e1:ee:34:17:b0:99:8e:e9:b2:
+         18:bd:96:ab:af:7b:78:1a:83:34:02:33:bc:97:5e:29:79:eb:
+         a3:6e:f8:b3:d6:d0:02:a4:6e:86:84:73:e5:54:b1:74:e1:d4:
+         0f:cc:7b:2d:3d:40:42:39:89:22:28:66:09:3e:97:00:a8:74:
+         2f:02:a3:5d:3c:c6:8c:47:cc:71:8e:98:1e:36:cf:63:51:49:
+         6f:98:44:08:71:60:3d:33:51:24:69:1a:1e:6e:b3:8b:c0:1b:
+         43:e3:9e:b6:52:15:b8:06:ab:14:d5:32:c9:d3:c6:98:e5:1c:
+         af:57:cc:51:40:ad:d5:ff:24:c4:32:c5:b7:b9:69:3b:ea:e1:
+         6a:79:63:9e:7c:96:02:41:23:97:dc:cf:81:96:81:dc:67:95:
+         e7:07:06:39:ca:c9:aa:90:76:9e:69:0a:c7:4c:ca:61:84:a8:
+         fa:5f:c3:33:3f:d1:42:f2:a3:77:0c:07:b9:67:6d:72:ad:1f:
+         fa:01:1e:82
+-----BEGIN CERTIFICATE-----
+MIIFVTCCBD2gAwIBAgIQOGMUaGva4L3/ynwPHl0Y7DANBgkqhkiG9w0BAQsFADB9
+MQswCQYDVQQGEwJHQjEbMBkGA1UECBMSR3JlYXRlciBNYW5jaGVzdGVyMRAwDgYD
+VQQHEwdTYWxmb3JkMRowGAYDVQQKExFDT01PRE8gQ0EgTGltaXRlZDEjMCEGA1UE
+AxMaQ09NT0RPIFJTQSBDb2RlIFNpZ25pbmcgQ0EwHhcNMTYwNzA4MDAwMDAwWhcN
+MTgwNzA4MjM1OTU5WjCBmzELMAkGA1UEBhMCUFkxDTALBgNVBBEMBDIzMDAxEDAO
+BgNVBAgMB0NlbnRyYWwxHDAaBgNVBAcME0Zlcm5hbmRvIGRlIGxhIE1vcmExFTAT
+BgNVBAkMDFJvc2FyaW8gMjgzMjEaMBgGA1UECgwRR2FicmllbCBGZXJuYW5kZXox
+GjAYBgNVBAMMEUdhYnJpZWwgRmVybmFuZGV6MIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA+BCX3vAKEeXb3eO6Ws9LSJav/sobhqovXYDuUHez9nGWanqp
+OsI0LNR9Prepg9RnlB6M/stj3N6FHBaXLUgdzfikXLSDIIN9CexchKzCtjeYMWMz
+Iy5IOur4XgusDlD6+yzt8CBji02XRfWJsu6a6WXSiRwidULqxMQOpoKmaIxlyPf/
+Bj2z0X7vRRE+O7NQYSJDuQr3Qi/Agh5rXxDJE/xsKgrQ0QjzPdCv2J4/dPHqODZ2
+8tQdQOUxpJkWCcwFWkQOKg2Dyy06xwireWEloobzDMSHcBvVRpWIVG3vx0miNygX
+iQh1eUtkmx/RK5EEXQ85+o7PFMhRGpIzIrHflwIDAQABo4IBsDCCAawwHwYDVR0j
+BBgwFoAUKZFg/4pN+uv5pmq4z/nmS71JzhIwHQYDVR0OBBYEFNuiQ75K2A26FRqo
+uDmRXlxQT9V6MA4GA1UdDwEB/wQEAwIHgDAMBgNVHRMBAf8EAjAAMBMGA1UdJQQM
+MAoGCCsGAQUFBwMDMBEGCWCGSAGG+EIBAQQEAwIEEDBGBgNVHSAEPzA9MDsGDCsG
+AQQBsjEBAgEDAjArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3VyZS5jb21vZG8u
+bmV0L0NQUzBDBgNVHR8EPDA6MDigNqA0hjJodHRwOi8vY3JsLmNvbW9kb2NhLmNv
+bS9DT01PRE9SU0FDb2RlU2lnbmluZ0NBLmNybDB0BggrBgEFBQcBAQRoMGYwPgYI
+KwYBBQUHMAKGMmh0dHA6Ly9jcnQuY29tb2RvY2EuY29tL0NPTU9ET1JTQUNvZGVT
+aWduaW5nQ0EuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5j
+b20wIQYDVR0RBBowGIEWc3VwcG9ydEBnZnNvZnR3YXJlLmNvbTANBgkqhkiG9w0B
+AQsFAAOCAQEAdxMrJ28Epy7oubWHAQF6RjwoZWSgw4atVbGvNur0TlQWQz3TREhN
+S9m514E/VWTTQOI6r+MriqjuofCrgzrB4e40F7CZjumyGL2Wq697eBqDNAIzvJde
+KXnro274s9bQAqRuhoRz5VSxdOHUD8x7LT1AQjmJIihmCT6XAKh0LwKjXTzGjEfM
+cY6YHjbPY1FJb5hECHFgPTNRJGkaHm6zi8AbQ+OetlIVuAarFNUyydPGmOUcr1fM
+UUCt1f8kxDLFt7lpO+rhanljnnyWAkEjl9zPgZaB3GeV5wcGOcrJqpB2nmkKx0zK
+YYSo+l/DMz/RQvKjdwwHuWdtcq0f+gEegg==
+-----END CERTIFICATE-----
+

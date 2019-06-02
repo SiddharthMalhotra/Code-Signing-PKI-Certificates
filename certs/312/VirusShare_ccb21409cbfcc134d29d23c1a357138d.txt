@@ -1,0 +1,247 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+             (Negative)40:71:96:3f:6c:d5:98:4d:ba:02:c0:86:eb:e7:85:49
+    Signature Algorithm: sha1WithRSA
+        Issuer: CN=DAEMON Tools Root CA
+        Validity
+            Not Before: Sep 30 21:00:00 2004 GMT
+            Not After : Sep 30 20:59:59 2009 GMT
+        Subject: OU=Class B, CN=DAEMON Tools Code Signing Services
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d0:c9:f1:4c:eb:75:82:c1:c6:28:41:50:d9:a0:
+                    0a:9a:c0:77:cd:de:f3:44:af:26:2c:d1:53:9a:a8:
+                    6a:2c:52:ed:68:e6:ed:10:25:be:b7:b9:41:12:22:
+                    79:c9:0a:25:e7:17:05:b5:2b:6c:c3:70:e3:30:7a:
+                    d1:81:87:dc:1d:06:7f:d4:a0:92:ca:99:a6:c6:ee:
+                    e9:b7:87:f2:3d:9b:32:63:ec:bb:55:37:90:fd:db:
+                    24:eb:5d:ad:4f:bc:f8:90:ec:36:39:53:3b:06:24:
+                    0b:b5:27:e5:22:a5:d7:03:80:97:a6:10:f8:a4:33:
+                    1f:6d:9b:e2:66:17:21:c2:65
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.daemon-tools.cc/entity.crl
+
+            X509v3 Extended Key Usage: 
+                Code Signing
+            2.5.29.1: 
+                0H...\#E.4..^t._N...."0 1.0...U....Generic Root Trust CA...m.(....N...<..w
+    Signature Algorithm: sha1WithRSA
+         49:24:62:05:d2:20:82:99:e8:63:ea:62:07:b0:94:73:14:db:
+         7b:dd:70:1c:5e:86:84:5e:fe:03:98:79:ae:e8:99:35:4c:6e:
+         40:40:8c:32:53:86:93:8e:04:97:ec:66:19:0b:a7:2e:e9:3a:
+         73:2f:12:15:b7:84:09:ff:20:86:85:f1:24:c9:1c:49:ee:60:
+         ae:f8:72:7d:bc:30:da:de:9d:f4:cd:df:9e:af:9e:03:db:19:
+         27:45:5c:11:ca:6d:fb:9a:65:c9:fc:ba:45:e7:79:8f:00:ef:
+         34:50:9a:c1:56:00:21:e9:54:3b:77:30:63:d1:8e:30:a2:2e:
+         80:53:7a:a5:82:82:70:69:41:23:83:e8:4d:f7:a9:4a:ef:2e:
+         04:b1:24:8a:e8:b5:fe:8a:c5:34:af:11:4a:31:de:79:8d:56:
+         95:b1:65:37:b5:9c:82:2a:7e:b3:a0:6b:d3:4a:68:63:d5:65:
+         10:cd:e5:5b:dc:60:8d:7f:f7:08:d7:2e:cc:e4:9e:15:c0:c6:
+         51:38:69:57:46:dc:4e:3a:2d:1c:e6:9c:73:f0:06:e7:a3:73:
+         fc:73:88:2b:f3:49:9e:40:bc:24:91:d0:e4:a3:70:04:0c:64:
+         2e:04:08:8d:79:18:96:a4:07:a0:f9:2c:f3:cd:2e:d6:c9:7f:
+         b8:29:79:95
+-----BEGIN CERTIFICATE-----
+MIIDDjCCAfqgAwIBAgIQv45pwJMqZ7JF/T95FBh6tzAJBgUrDgMCHQUAMB8xHTAb
+BgNVBAMTFERBRU1PTiBUb29scyBSb290IENBMB4XDTA0MDkzMDIxMDAwMFoXDTA5
+MDkzMDIwNTk1OVowPzEQMA4GA1UECxMHQ2xhc3MgQjErMCkGA1UEAxMiREFFTU9O
+IFRvb2xzIENvZGUgU2lnbmluZyBTZXJ2aWNlczCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA0MnxTOt1gsHGKEFQ2aAKmsB3zd7zRK8mLNFTmqhqLFLtaObtECW+
+t7lBEiJ5yQol5xcFtStsw3DjMHrRgYfcHQZ/1KCSypmmxu7pt4fyPZsyY+y7VTeQ
+/dsk612tT7z4kOw2OVM7BiQLtSflIqXXA4CXphD4pDMfbZviZhchwmUCAwEAAaOB
+sTCBrjAMBgNVHRMBAf8EAjAAMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jcmwu
+ZGFlbW9uLXRvb2xzLmNjL2VudGl0eS5jcmwwEwYDVR0lBAwwCgYIKwYBBQUHAwMw
+UQYDVR0BBEowSIAQGFwjRYY0D/JedO1fTuKysKEiMCAxHjAcBgNVBAMTFUdlbmVy
+aWMgUm9vdCBUcnVzdCBDQYIQBG2jKLLd/INOrhkWPK3pdzAJBgUrDgMCHQUAA4IB
+AQBJJGIF0iCCmehj6mIHsJRzFNt73XAcXoaEXv4DmHmu6Jk1TG5AQIwyU4aTjgSX
+7GYZC6cu6TpzLxIVt4QJ/yCGhfEkyRxJ7mCu+HJ9vDDa3p30zd+er54D2xknRVwR
+ym37mmXJ/LpF53mPAO80UJrBVgAh6VQ7dzBj0Y4woi6AU3qlgoJwaUEjg+hN96lK
+7y4EsSSK6LX+isU0rxFKMd55jVaVsWU3tZyCKn6zoGvTSmhj1WUQzeVb3GCNf/cI
+1y7M5J4VwMZROGlXRtxOOi0c5pxz8Abno3P8c4gr80meQLwkkdDko3AEDGQuBAiN
+eRiWpAeg+SzzzS7WyX+4KXmV
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            04:6d:a3:28:b2:dd:fc:83:4e:ae:19:16:3c:ad:e9:77
+    Signature Algorithm: sha1WithRSA
+        Issuer: CN=Generic Root Trust CA
+        Validity
+            Not Before: Sep 30 21:00:00 2004 GMT
+            Not After : Sep 30 20:59:59 2011 GMT
+        Subject: CN=DAEMON Tools Root CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e9:3d:24:58:94:be:f0:3f:2a:7f:a6:37:92:7d:
+                    46:4b:b0:0c:14:f8:55:02:e0:40:28:a5:11:6b:64:
+                    0e:8b:f5:1e:9c:08:e3:f8:92:12:c7:52:6c:da:1c:
+                    8f:69:b8:9a:2e:54:74:7c:6f:0b:c9:ab:3c:68:f9:
+                    25:5d:5f:e0:31:35:6c:c1:5a:e5:5f:41:ca:98:6e:
+                    31:d3:fc:0a:d9:65:22:f9:5f:5d:33:2e:b1:12:fb:
+                    26:37:49:f7:28:90:c2:83:f6:2b:ec:d3:af:4c:16:
+                    19:21:a8:be:26:b6:73:3f:c0:59:ad:f3:0a:b5:95:
+                    ce:7d:59:f5:b7:4e:ba:2e:8e:79:66:af:ea:dc:f7:
+                    ff:96:56:05:d1:da:fc:dd:be:a6:e6:db:94:b0:ab:
+                    97:bc:84:04:d5:f2:ab:22:cf:66:4e:0d:b3:3b:3e:
+                    97:76:4c:fb:97:f4:56:ad:16:7b:ea:68:68:6e:39:
+                    9d:0e:51:5b:39:08:e0:50:df:ce:73:50:9c:b9:5c:
+                    87:3f:8a:00:bb:b5:19:7e:d9:46:e3:00:94:02:ba:
+                    d5:f7:bc:bb:89:73:ef:3c:b7:fa:f4:82:91:41:6b:
+                    b7:cc:98:2a:3d:3f:d4:c3:7a:f2:b8:38:af:60:c4:
+                    83:57:53:2c:56:46:6f:99:92:14:2d:5c:5e:78:f0:
+                    4e:87
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.grsign.com/rootca.crl
+
+            2.5.29.1: 
+                0H......DK../0.Bo<.%."0 1.0...U....Generic Root Trust CA......*...@...x:C.
+    Signature Algorithm: sha1WithRSA
+         1f:18:35:91:c8:8d:60:ab:31:f1:9e:cc:8a:51:e0:3a:ab:0d:
+         10:72:d2:e2:b0:16:6f:e0:24:47:2c:f4:bd:92:31:ff:84:c0:
+         4b:3d:54:5e:27:40:29:e9:e5:d8:08:81:00:94:e9:7e:74:50:
+         c5:ff:f6:e4:86:94:0b:ad:bd:f6:44:e8:5b:1d:48:a5:51:11:
+         ea:c3:2f:36:a6:24:22:66:36:62:43:3e:1d:75:df:c2:e9:88:
+         1e:1f:47:4b:fb:29:e9:84:63:69:39:3b:89:59:9c:d3:c0:69:
+         44:c7:b6:08:df:e0:31:6a:6e:69:3b:6d:3e:71:ee:73:40:ee:
+         c9:ef:5d:6f:19:b3:9d:ec:ea:c0:69:4a:fc:48:54:05:b4:87:
+         24:6d:36:66:a3:22:01:ba:bf:75:25:d0:5c:d4:78:66:4f:38:
+         d8:cd:4f:ff:ba:24:1c:05:63:42:89:ad:f5:12:93:0c:16:11:
+         c0:03:f3:2d:8d:80:30:15:60:12:f6:d0:c6:76:98:77:6a:50:
+         b8:2b:e9:39:53:23:fe:fc:25:2e:2b:19:86:06:0a:6b:a5:e5:
+         67:d1:f7:63:79:f6:cb:a1:11:c2:c6:90:19:67:b3:08:a6:42:
+         5c:55:4e:9c:42:94:10:2b:49:ff:56:4e:c9:67:22:23:75:2b:
+         26:71:10:b9:b2:1b:ee:a3:3e:c3:02:da:d1:16:37:5a:0c:df:
+         bb:c9:9e:cc:5b:ef:dd:46:93:30:da:b5:dc:d7:dc:8f:ac:e1:
+         29:a2:74:22:37:d0:8e:58:f5:2f:0a:00:2a:d2:53:e3:c1:c7:
+         b4:eb:ab:8b:d4:96:91:32:c0:7f:da:83:9a:8d:52:f7:d2:29:
+         88:f7:19:31:55:68:2a:db:72:ca:a3:b8:ea:75:3e:07:a8:14:
+         81:74:99:8e:27:a7:5a:e2:35:50:a6:49:82:e5:86:b2:0a:25:
+         c7:3f:d0:d7:8c:09:72:0f:72:3b:0f:7d:e6:98:ae:4c:f4:42:
+         ed:11:ad:b1:af:85:fd:12:46:6b:27:c1:b4:c9:24:3e:c4:55:
+         88:23:fd:7c:e7:a8:ee:f7:a1:7e:09:b9:b1:27:9f:63:5d:cf:
+         b2:f5:0a:d8:36:d7:58:e1:7d:46:2c:81:9b:65:09:59:29:56:
+         9e:b3:08:ec:3e:04:60:26:9e:bc:4d:ae:d5:39:19:01:2c:04:
+         4f:92:cf:ae:7b:6c:e5:61:87:6f:d5:97:d4:dc:dc:c0:ee:f3:
+         d2:6b:87:dd:76:7c:b0:0e:b5:fc:10:23:47:e5:a1:e1:b0:40:
+         55:cf:a4:47:8d:64:2f:6f:91:c8:98:34:8b:6c:99:c8:53:73:
+         4d:d3:eb:57:64:fe:4c:22
+-----BEGIN CERTIFICATE-----
+MIIEXDCCAkigAwIBAgIQBG2jKLLd/INOrhkWPK3pdzAJBgUrDgMCHQUAMCAxHjAc
+BgNVBAMTFUdlbmVyaWMgUm9vdCBUcnVzdCBDQTAeFw0wNDA5MzAyMTAwMDBaFw0x
+MTA5MzAyMDU5NTlaMB8xHTAbBgNVBAMTFERBRU1PTiBUb29scyBSb290IENBMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6T0kWJS+8D8qf6Y3kn1GS7AM
+FPhVAuBAKKURa2QOi/UenAjj+JISx1Js2hyPabiaLlR0fG8Lyas8aPklXV/gMTVs
+wVrlX0HKmG4x0/wK2WUi+V9dMy6xEvsmN0n3KJDCg/Yr7NOvTBYZIai+JrZzP8BZ
+rfMKtZXOfVn1t066Lo55Zq/q3Pf/llYF0dr83b6m5tuUsKuXvIQE1fKrIs9mTg2z
+Oz6Xdkz7l/RWrRZ76mhobjmdDlFbOQjgUN/Oc1CcuVyHP4oAu7UZftlG4wCUArrV
+97y7iXPvPLf69IKRQWu3zJgqPT/Uw3ryuDivYMSDV1MsVkZvmZIULVxeePBOhwID
+AQABo4GaMIGXMA8GA1UdEwEB/wQFMAMBAf8wMQYDVR0fBCowKDAmoCSgIoYgaHR0
+cDovL2NybC5ncnNpZ24uY29tL3Jvb3RjYS5jcmwwUQYDVR0BBEowSIAQgcyihURL
+vfYvMKdCbzwFJaEiMCAxHjAcBgNVBAMTFUdlbmVyaWMgUm9vdCBUcnVzdCBDQYIQ
+CIawwirRE5dA3NHFeDpDvjAJBgUrDgMCHQUAA4ICAQAfGDWRyI1gqzHxnsyKUeA6
+qw0QctLisBZv4CRHLPS9kjH/hMBLPVReJ0Ap6eXYCIEAlOl+dFDF//bkhpQLrb32
+ROhbHUilURHqwy82piQiZjZiQz4ddd/C6YgeH0dL+ynphGNpOTuJWZzTwGlEx7YI
+3+Axam5pO20+ce5zQO7J711vGbOd7OrAaUr8SFQFtIckbTZmoyIBur91JdBc1Hhm
+TzjYzU//uiQcBWNCia31EpMMFhHAA/MtjYAwFWAS9tDGdph3alC4K+k5UyP+/CUu
+KxmGBgprpeVn0fdjefbLoRHCxpAZZ7MIpkJcVU6cQpQQK0n/Vk7JZyIjdSsmcRC5
+shvuoz7DAtrRFjdaDN+7yZ7MW+/dRpMw2rXc19yPrOEponQiN9COWPUvCgAq0lPj
+wce066uL1JaRMsB/2oOajVL30imI9xkxVWgq23LKo7jqdT4HqBSBdJmOJ6da4jVQ
+pkmC5YayCiXHP9DXjAlyD3I7D33mmK5M9ELtEa2xr4X9EkZrJ8G0ySQ+xFWII/18
+56ju96F+CbmxJ59jXc+y9QrYNtdY4X1GLIGbZQlZKVaeswjsPgRgJp68Ta7VORkB
+LARPks+ue2zlYYdv1ZfU3NzA7vPSa4fddnywDrX8ECNH5aHhsEBVz6RHjWQvb5HI
+mDSLbJnIU3NN0+tXZP5MIg==
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+             (Negative)45:63:12:86:ed:34:d1:53:bf:0d:ae:d7:92:d0:df:bc
+    Signature Algorithm: sha1WithRSA
+        Issuer: CN=DAEMON Tools Root CA
+        Validity
+            Not Before: Sep 30 21:00:00 2004 GMT
+            Not After : Sep 30 20:59:59 2009 GMT
+        Subject: OU=Class A, CN=DAEMON Tools Timestamping Services
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c6:e9:fd:9e:b2:4a:f9:72:58:c5:6f:96:b1:df:
+                    58:96:f3:9d:b0:bc:16:b6:b6:59:bf:a6:26:eb:dc:
+                    7c:0c:71:76:a0:45:5d:74:2a:c1:8f:6b:ca:24:1f:
+                    8a:7a:25:56:35:84:5c:26:4d:71:73:01:3f:73:b6:
+                    6a:b3:70:9c:8a:55:57:3f:13:15:d6:a2:5b:c2:dd:
+                    ec:06:13:4d:0f:b8:4a:36:60:be:ee:2d:c3:3f:b0:
+                    04:08:2e:fd:b6:2b:44:21:ba:7b:bf:13:b0:c6:27:
+                    7e:c8:83:14:5d:db:92:0e:0a:9e:26:b2:5b:a0:d8:
+                    70:53:f5:64:4f:2a:c4:a1:df
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.daemon-tools.cc/entity.crl
+
+            X509v3 Extended Key Usage: 
+                Time Stamping
+            2.5.29.1: 
+                0H...\#E.4..^t._N...."0 1.0...U....Generic Root Trust CA...m.(....N...<..w
+    Signature Algorithm: sha1WithRSA
+         96:26:b9:a6:48:ec:29:be:6a:58:90:62:39:d2:81:dd:03:47:
+         b0:b8:4d:41:52:eb:6d:21:29:d1:cd:b5:c5:37:71:a0:4e:c4:
+         c6:43:2c:b1:f0:ae:68:44:8f:98:b7:15:45:41:33:53:c1:b1:
+         95:94:b3:73:4a:d7:e6:f1:42:80:3a:5a:5c:38:42:f5:a4:b7:
+         47:a6:a3:35:86:b7:1e:47:17:c1:5f:f4:18:da:40:2d:dc:eb:
+         2d:2e:e0:dd:29:9d:35:c3:32:63:70:3f:77:0a:a0:1e:fd:c6:
+         fe:be:3c:a3:99:f2:7b:d9:20:73:c7:2c:83:c4:7c:59:fa:d6:
+         89:c8:0f:1e:8e:67:fb:35:95:1e:11:ab:b1:bc:76:e3:f8:4c:
+         de:51:8d:00:dc:83:e5:3a:c0:0b:54:a5:7f:39:ad:9a:71:32:
+         32:00:e6:8b:4d:7c:72:6b:32:90:9d:63:4e:7f:a0:de:55:0c:
+         44:60:9b:e9:85:45:a9:aa:dc:42:e8:42:70:44:dd:58:70:6b:
+         eb:44:e6:4c:59:6e:87:5f:a4:01:fd:67:89:81:8f:4a:9c:4f:
+         58:70:77:dc:a5:21:1d:ed:b5:13:b6:bd:23:e0:d0:82:8b:39:
+         43:cb:68:be:34:98:4b:4a:e1:bd:60:69:4b:13:1e:27:f6:54:
+         fa:1f:de:d0
+-----BEGIN CERTIFICATE-----
+MIIDDjCCAfqgAwIBAgIQupzteRLLLqxA8lEobS8gRDAJBgUrDgMCHQUAMB8xHTAb
+BgNVBAMTFERBRU1PTiBUb29scyBSb290IENBMB4XDTA0MDkzMDIxMDAwMFoXDTA5
+MDkzMDIwNTk1OVowPzEQMA4GA1UECxMHQ2xhc3MgQTErMCkGA1UEAxMiREFFTU9O
+IFRvb2xzIFRpbWVzdGFtcGluZyBTZXJ2aWNlczCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEAxun9nrJK+XJYxW+Wsd9YlvOdsLwWtrZZv6Ym69x8DHF2oEVddCrB
+j2vKJB+KeiVWNYRcJk1xcwE/c7Zqs3CcilVXPxMV1qJbwt3sBhNND7hKNmC+7i3D
+P7AECC79titEIbp7vxOwxid+yIMUXduSDgqeJrJboNhwU/VkTyrEod8CAwEAAaOB
+sTCBrjAMBgNVHRMBAf8EAjAAMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jcmwu
+ZGFlbW9uLXRvb2xzLmNjL2VudGl0eS5jcmwwEwYDVR0lBAwwCgYIKwYBBQUHAwgw
+UQYDVR0BBEowSIAQGFwjRYY0D/JedO1fTuKysKEiMCAxHjAcBgNVBAMTFUdlbmVy
+aWMgUm9vdCBUcnVzdCBDQYIQBG2jKLLd/INOrhkWPK3pdzAJBgUrDgMCHQUAA4IB
+AQCWJrmmSOwpvmpYkGI50oHdA0ewuE1BUuttISnRzbXFN3GgTsTGQyyx8K5oRI+Y
+txVFQTNTwbGVlLNzStfm8UKAOlpcOEL1pLdHpqM1hrceRxfBX/QY2kAt3OstLuDd
+KZ01wzJjcD93CqAe/cb+vjyjmfJ72SBzxyyDxHxZ+taJyA8ejmf7NZUeEauxvHbj
++EzeUY0A3IPlOsALVKV/Oa2acTIyAOaLTXxyazKQnWNOf6DeVQxEYJvphUWpqtxC
+6EJwRN1YcGvrROZMWW6HX6QB/WeJgY9KnE9YcHfcpSEd7bUTtr0j4NCCizlDy2i+
+NJhLSuG9YGlLEx4n9lT6H97Q
+-----END CERTIFICATE-----
+

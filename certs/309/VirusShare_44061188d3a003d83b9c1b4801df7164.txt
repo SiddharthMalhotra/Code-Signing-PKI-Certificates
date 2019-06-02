@@ -1,0 +1,440 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            33:00:00:00:c5:96:40:60:4b:f4:de:ae:2e:00:00:00:00:00:c5
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Time-Stamp PCA
+        Validity
+            Not Before: Sep  7 17:58:52 2016 GMT
+            Not After : Sep  7 17:58:52 2018 GMT
+        Subject: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=MOPR, OU=nCipher DSE ESN:C0F4-3086-DEF8, CN=Microsoft Time-Stamp Service
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b6:bc:33:e0:25:8e:a6:f9:f0:10:15:4e:7b:57:
+                    2b:28:49:6b:b3:70:90:97:fc:ae:9f:57:1d:92:9b:
+                    a0:87:f3:31:b2:ea:06:9f:b0:4b:e3:71:91:4f:14:
+                    67:ee:c3:c3:ee:ba:b5:0f:18:f8:b2:63:e5:81:56:
+                    6b:fd:98:46:30:0f:09:df:35:ce:ab:22:1c:0f:88:
+                    58:16:29:17:ba:19:46:ba:e4:a8:92:e9:c2:03:15:
+                    25:e4:de:20:8c:df:cc:ef:e3:70:24:f9:b6:26:d6:
+                    0a:64:b0:5d:1f:92:7f:cb:e1:88:93:ba:d0:86:98:
+                    1b:b2:da:4b:39:97:f8:18:78:02:f0:cc:a3:8b:bd:
+                    3c:f4:ed:6e:5f:63:02:28:51:54:fb:0b:76:63:9e:
+                    b4:3b:85:dc:d8:d5:63:7a:e1:be:9e:7a:b9:a4:6c:
+                    aa:f7:5d:75:9c:ad:df:d0:37:93:ec:55:a3:0d:54:
+                    16:16:08:4a:3a:1c:9e:05:be:22:32:19:a4:74:0f:
+                    2f:5a:96:26:c7:a4:cd:73:e7:77:e6:74:99:70:b7:
+                    34:12:14:88:54:99:33:10:16:1f:c2:4a:f3:c4:56:
+                    86:fe:98:0d:27:d0:b8:8e:6f:f3:1e:0c:16:2d:9c:
+                    10:a5:4e:ca:d9:f3:f5:e5:f1:a4:04:6a:65:c0:d8:
+                    eb:d7
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                0E:01:F5:7F:3B:C9:78:02:58:46:71:3B:09:FC:9A:75:57:86:38:C4
+            X509v3 Authority Key Identifier: 
+                keyid:23:34:F8:D9:52:46:70:0A:ED:40:FB:76:FB:B3:2B:B0:C3:35:B3:0F
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt
+
+            X509v3 Extended Key Usage: 
+                Time Stamping
+    Signature Algorithm: sha1WithRSAEncryption
+         05:12:de:d8:12:13:30:a9:ca:ec:36:d7:24:94:01:6b:c6:96:
+         d4:31:ba:7c:8b:50:26:8e:7f:57:5f:7d:47:06:db:9a:1a:39:
+         6f:d6:b8:81:49:b3:49:6f:f0:fc:ba:4e:c3:ab:ba:5b:31:ff:
+         83:53:90:8c:97:ad:af:cc:b0:9b:f0:73:33:17:da:cf:ef:c7:
+         a8:3a:dc:ed:e8:b1:02:3c:e6:a1:c3:76:9f:08:31:42:c6:9a:
+         bc:be:a2:a3:d5:4e:eb:cb:ec:16:9c:f7:4e:44:aa:a1:97:19:
+         df:54:63:bc:b5:e0:57:0a:58:15:89:db:cb:e3:9d:c4:f0:f0:
+         25:bc:ef:aa:58:f3:49:d2:9b:c8:42:ff:7f:0c:e1:13:06:34:
+         4a:7b:28:66:31:c7:96:60:19:7d:cd:a4:05:5e:50:18:a8:ed:
+         77:1c:5c:71:32:ec:24:8d:99:79:b6:57:c8:a3:7a:e1:99:27:
+         d7:c8:32:48:62:01:62:c4:7c:a3:a0:c4:66:7a:de:ce:72:1b:
+         0a:4c:b7:64:04:ff:a3:f2:d3:7b:85:f9:7d:83:1c:ae:fa:c3:
+         71:50:82:1a:a2:50:d3:c5:0b:bb:94:a3:da:68:49:f0:2b:99:
+         e2:c3:ba:ca:64:3c:02:78:e9:d6:f4:d9:ba:8d:c9:12:cf:d3:
+         46:dc:cf:3c
+-----BEGIN CERTIFICATE-----
+MIIEwzCCA6ugAwIBAgITMwAAAMWWQGBL9N6uLgAAAAAAxTANBgkqhkiG9w0BAQUF
+ADB3MQswCQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMH
+UmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMSEwHwYDVQQD
+ExhNaWNyb3NvZnQgVGltZS1TdGFtcCBQQ0EwHhcNMTYwOTA3MTc1ODUyWhcNMTgw
+OTA3MTc1ODUyWjCBszELMAkGA1UEBhMCVVMxEzARBgNVBAgTCldhc2hpbmd0b24x
+EDAOBgNVBAcTB1JlZG1vbmQxHjAcBgNVBAoTFU1pY3Jvc29mdCBDb3Jwb3JhdGlv
+bjENMAsGA1UECxMETU9QUjEnMCUGA1UECxMebkNpcGhlciBEU0UgRVNOOkMwRjQt
+MzA4Ni1ERUY4MSUwIwYDVQQDExxNaWNyb3NvZnQgVGltZS1TdGFtcCBTZXJ2aWNl
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtrwz4CWOpvnwEBVOe1cr
+KElrs3CQl/yun1cdkpugh/MxsuoGn7BL43GRTxRn7sPD7rq1Dxj4smPlgVZr/ZhG
+MA8J3zXOqyIcD4hYFikXuhlGuuSokunCAxUl5N4gjN/M7+NwJPm2JtYKZLBdH5J/
+y+GIk7rQhpgbstpLOZf4GHgC8Myji7089O1uX2MCKFFU+wt2Y560O4Xc2NVjeuG+
+nnq5pGyq9111nK3f0DeT7FWjDVQWFghKOhyeBb4iMhmkdA8vWpYmx6TNc+d35nSZ
+cLc0EhSIVJkzEBYfwkrzxFaG/pgNJ9C4jm/zHgwWLZwQpU7K2fP15fGkBGplwNjr
+1wIDAQABo4IBCTCCAQUwHQYDVR0OBBYEFA4B9X87yXgCWEZxOwn8mnVXhjjEMB8G
+A1UdIwQYMBaAFCM0+NlSRnAK7UD7dvuzK7DDNbMPMFQGA1UdHwRNMEswSaBHoEWG
+Q2h0dHA6Ly9jcmwubWljcm9zb2Z0LmNvbS9wa2kvY3JsL3Byb2R1Y3RzL01pY3Jv
+c29mdFRpbWVTdGFtcFBDQS5jcmwwWAYIKwYBBQUHAQEETDBKMEgGCCsGAQUFBzAC
+hjxodHRwOi8vd3d3Lm1pY3Jvc29mdC5jb20vcGtpL2NlcnRzL01pY3Jvc29mdFRp
+bWVTdGFtcFBDQS5jcnQwEwYDVR0lBAwwCgYIKwYBBQUHAwgwDQYJKoZIhvcNAQEF
+BQADggEBAAUS3tgSEzCpyuw21ySUAWvGltQxunyLUCaOf1dffUcG25oaOW/WuIFJ
+s0lv8Py6TsOrulsx/4NTkIyXra/MsJvwczMX2s/vx6g63O3osQI85qHDdp8IMULG
+mry+oqPVTuvL7Bac905EqqGXGd9UY7y14FcKWBWJ28vjncTw8CW876pY80nSm8hC
+/38M4RMGNEp7KGYxx5ZgGX3NpAVeUBio7XccXHEy7CSNmXm2V8ijeuGZJ9fIMkhi
+AWLEfKOgxGZ63s5yGwpMt2QE/6Py03uF+X2DHK76w3FQghqiUNPFC7uUo9poSfAr
+meLDuspkPAJ46db02bqNyRLP00bczzw=
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            33:00:00:01:79:7c:2e:57:4e:52:e1:ca:d6:00:01:00:00:01:79
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Code Signing PCA
+        Validity
+            Not Before: Aug 11 20:11:15 2017 GMT
+            Not After : Aug 11 20:11:15 2018 GMT
+        Subject: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=MOPR, CN=Microsoft Corporation
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a8:29:fe:d4:10:c8:ff:55:0a:9e:99:00:03:52:
+                    8f:dc:b0:bf:f9:ab:f8:51:fe:5c:8c:54:c2:27:ce:
+                    4c:2b:96:eb:db:81:1c:cb:86:2b:79:ca:75:7e:b8:
+                    67:83:26:86:bd:d6:2f:1c:3e:c7:58:aa:8f:6f:95:
+                    fb:5a:fc:a7:c6:1b:c1:c3:e8:4c:17:4e:22:3d:b7:
+                    5b:56:5c:7f:d7:5a:f5:2d:ba:bb:a6:09:bf:06:7c:
+                    ee:98:fe:40:f9:30:b8:6b:fe:40:6f:74:b3:b8:d6:
+                    38:49:c9:d0:87:07:2f:31:df:b6:bc:4e:a3:d0:9e:
+                    b7:62:7b:56:70:75:4f:67:bf:05:cc:a3:ae:be:00:
+                    92:c2:1b:50:a1:61:3b:10:00:01:b1:86:d0:29:f3:
+                    40:f5:0f:d9:a3:0f:57:ab:63:09:a8:dc:a9:6a:e7:
+                    47:43:a7:be:15:c4:3d:27:a4:e8:56:52:88:cf:59:
+                    99:a1:00:84:36:9b:d0:39:d2:2a:0d:2f:e6:04:e2:
+                    bf:13:96:88:83:a9:51:37:18:41:89:e2:f9:85:9d:
+                    8e:65:1a:3d:03:64:cc:c5:de:50:70:5d:f2:0b:85:
+                    a9:8f:b1:45:e8:77:ff:83:9d:09:bb:72:e0:e6:56:
+                    08:95:b9:2b:83:12:89:31:fc:e7:58:72:1d:bd:f9:
+                    83:23
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 Subject Key Identifier: 
+                F8:E4:7E:8D:1C:63:7C:00:AA:CC:73:00:4A:D3:F2:6D:38:AA:CD:81
+            X509v3 Subject Alternative Name: 
+                DirName:/OU=MOPR/serialNumber=229803+1abf9e5f-ced0-42e6-a65d-d9350959fe0e
+            X509v3 Authority Key Identifier: 
+                keyid:CB:11:E8:CA:D2:B4:16:58:01:C9:37:2E:33:16:16:B9:4C:9A:0A:1F
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt
+
+    Signature Algorithm: sha1WithRSAEncryption
+         6f:4b:6b:7e:86:0d:d8:0b:26:50:6b:3a:88:c8:5a:a9:f6:b2:
+         ea:2a:99:a7:e5:06:34:44:01:ef:73:fb:ad:2f:fd:ed:f8:d5:
+         80:6a:35:1c:34:c7:13:0c:b5:5e:64:3c:73:6b:8c:f2:6f:d3:
+         69:be:ce:3b:0f:9b:f9:05:72:3c:1d:46:e1:e8:9c:3e:36:b1:
+         6f:35:a9:a6:50:54:7f:e1:d4:57:3d:3b:1e:7a:5c:8f:01:3f:
+         77:3f:5e:73:27:57:fa:a7:30:e7:d4:72:af:8b:df:71:22:fd:
+         8a:e0:fa:e0:2d:df:5f:f2:de:77:64:df:da:b0:06:00:09:ab:
+         46:90:a3:f5:fe:81:86:2c:93:2b:75:c6:11:28:d7:e5:8a:e2:
+         1c:27:ab:97:8c:9a:c4:e2:07:19:d3:f2:64:17:b1:2b:dd:f3:
+         08:7a:78:50:85:06:32:1c:39:50:a3:cd:8b:70:de:08:d5:7b:
+         6f:4c:3f:9a:e8:75:6d:e4:cb:13:57:1c:29:59:38:5f:be:45:
+         ab:a6:9a:ca:f9:29:9e:cd:38:cf:b9:c8:05:ba:2c:fb:c4:25:
+         bf:68:0d:df:0f:7b:42:1a:95:c7:8f:bd:5a:6b:90:0b:51:fa:
+         d7:b7:e7:8f:b2:b3:33:28:73:03:5c:7f:a3:46:82:9c:ad:b6:
+         36:77:76:87
+-----BEGIN CERTIFICATE-----
+MIIE7TCCA9WgAwIBAgITMwAAAXl8LldOUuHK1gABAAABeTANBgkqhkiG9w0BAQUF
+ADB5MQswCQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMH
+UmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0aW9uMSMwIQYDVQQD
+ExpNaWNyb3NvZnQgQ29kZSBTaWduaW5nIFBDQTAeFw0xNzA4MTEyMDExMTVaFw0x
+ODA4MTEyMDExMTVaMIGDMQswCQYDVQQGEwJVUzETMBEGA1UECBMKV2FzaGluZ3Rv
+bjEQMA4GA1UEBxMHUmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBvcmF0
+aW9uMQ0wCwYDVQQLEwRNT1BSMR4wHAYDVQQDExVNaWNyb3NvZnQgQ29ycG9yYXRp
+b24wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCoKf7UEMj/VQqemQAD
+Uo/csL/5q/hR/lyMVMInzkwrluvbgRzLhit5ynV+uGeDJoa91i8cPsdYqo9vlfta
+/KfGG8HD6EwXTiI9t1tWXH/XWvUturumCb8GfO6Y/kD5MLhr/kBvdLO41jhJydCH
+By8x37a8TqPQnrdie1ZwdU9nvwXMo66+AJLCG1ChYTsQAAGxhtAp80D1D9mjD1er
+Ywmo3Klq50dDp74VxD0npOhWUojPWZmhAIQ2m9A50ioNL+YE4r8TloiDqVE3GEGJ
+4vmFnY5lGj0DZMzF3lBwXfILhamPsUXod/+DnQm7cuDmVgiVuSuDEokx/OdYch29
++YMjAgMBAAGjggFhMIIBXTATBgNVHSUEDDAKBggrBgEFBQcDAzAdBgNVHQ4EFgQU
++OR+jRxjfACqzHMAStPybTiqzYEwUgYDVR0RBEswSaRHMEUxDTALBgNVBAsTBE1P
+UFIxNDAyBgNVBAUTKzIyOTgwMysxYWJmOWU1Zi1jZWQwLTQyZTYtYTY1ZC1kOTM1
+MDk1OWZlMGUwHwYDVR0jBBgwFoAUyxHoytK0FlgByTcuMxYWuUyaCh8wVgYDVR0f
+BE8wTTBLoEmgR4ZFaHR0cDovL2NybC5taWNyb3NvZnQuY29tL3BraS9jcmwvcHJv
+ZHVjdHMvTWljQ29kU2lnUENBXzA4LTMxLTIwMTAuY3JsMFoGCCsGAQUFBwEBBE4w
+TDBKBggrBgEFBQcwAoY+aHR0cDovL3d3dy5taWNyb3NvZnQuY29tL3BraS9jZXJ0
+cy9NaWNDb2RTaWdQQ0FfMDgtMzEtMjAxMC5jcnQwDQYJKoZIhvcNAQEFBQADggEB
+AG9La36GDdgLJlBrOojIWqn2suoqmaflBjREAe9z+60v/e341YBqNRw0xxMMtV5k
+PHNrjPJv02m+zjsPm/kFcjwdRuHonD42sW81qaZQVH/h1Fc9Ox56XI8BP3c/XnMn
+V/qnMOfUcq+L33Ei/Yrg+uAt31/y3ndk39qwBgAJq0aQo/X+gYYskyt1xhEo1+WK
+4hwnq5eMmsTiBxnT8mQXsSvd8wh6eFCFBjIcOVCjzYtw3gjVe29MP5rodW3kyxNX
+HClZOF++Raummsr5KZ7NOM+5yAW6LPvEJb9oDd8Pe0IalcePvVprkAtR+te354+y
+szMocwNcf6NGgpyttjZ3doc=
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            61:33:26:1a:00:00:00:00:00:31
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: DC=com, DC=microsoft, CN=Microsoft Root Certificate Authority
+        Validity
+            Not Before: Aug 31 22:19:32 2010 GMT
+            Not After : Aug 31 22:29:32 2020 GMT
+        Subject: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Code Signing PCA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b2:72:59:5c:19:30:64:bf:1d:9a:60:20:20:42:
+                    99:76:53:6c:3e:1b:d6:6f:cc:cb:f1:ea:6b:fe:97:
+                    16:10:e0:df:3a:74:83:1a:b7:2f:a0:32:ec:ff:de:
+                    c2:42:4e:23:d5:72:00:db:35:57:0a:89:ca:ae:20:
+                    49:f4:f0:68:ac:4d:4b:8d:a5:bd:79:4b:71:9b:47:
+                    07:da:fd:25:df:9d:75:88:cf:aa:73:44:7f:d7:81:
+                    db:f3:bd:f2:36:a4:c9:5c:45:dc:af:ad:3d:e0:28:
+                    68:97:1a:a7:a5:72:73:56:f1:17:94:e4:fd:35:94:
+                    72:a0:d6:76:5f:1e:77:45:83:85:38:16:d0:73:5b:
+                    05:ba:67:52:8d:a5:b2:69:2f:da:19:0b:fe:92:74:
+                    29:e2:76:2f:54:dd:14:30:59:f8:d2:8d:62:fd:cb:
+                    c9:5f:46:31:50:b9:27:13:e4:40:30:cf:72:29:10:
+                    28:22:c7:37:4e:3d:a0:32:3d:90:cd:a1:38:06:85:
+                    5c:4e:56:82:28:2a:05:32:b7:4b:d7:4f:63:e7:d2:
+                    2d:62:f1:45:3d:e7:ac:08:00:f6:46:a1:9e:d1:5b:
+                    8c:26:53:e8:7a:aa:4a:f2:46:cf:37:3c:38:9e:b4:
+                    77:5c:a5:17:9e:8d:cb:11:8f:56:3c:c1:ac:09:5f:
+                    03:d3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Subject Key Identifier: 
+                CB:11:E8:CA:D2:B4:16:58:01:C9:37:2E:33:16:16:B9:4C:9A:0A:1F
+            X509v3 Key Usage: 
+                Digital Signature, Certificate Sign, CRL Sign
+            1.3.6.1.4.1.311.21.1: 
+                .....
+            1.3.6.1.4.1.311.21.2: 
+                ....1N.&....`;.1o.<..-
+            1.3.6.1.4.1.311.20.2: 
+                .
+.S.u.b.C.A
+            X509v3 Authority Key Identifier: 
+                keyid:0E:AC:82:60:40:56:27:97:E5:25:13:FC:2A:E1:0A:53:95:59:E4:A4
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt
+
+    Signature Algorithm: sha1WithRSAEncryption
+         59:39:3e:7f:26:46:af:eb:6f:40:b1:32:b5:6a:eb:0e:2f:6e:
+         a8:49:f7:eb:5f:75:ed:4c:3b:2d:d7:43:ad:0b:fe:cb:e9:2d:
+         31:a3:23:cc:7c:50:98:80:21:5d:ac:3d:2f:4c:ba:a2:a8:56:
+         9c:e3:70:bb:b8:b4:f8:79:b5:49:72:f7:3e:ea:41:7f:ca:e1:
+         0c:17:69:cb:a5:9c:20:2d:fa:0b:50:c4:56:cd:2d:e3:4a:d2:
+         bc:70:e7:a8:0d:a2:03:a5:56:e0:b8:8a:4b:57:f2:95:42:9c:
+         f1:f3:ef:ee:e3:86:1f:34:3c:b8:56:9a:f0:53:23:85:2a:a4:
+         82:1c:93:e2:94:07:1d:f2:e2:4e:f8:8c:a1:ca:e8:13:a5:91:
+         4e:c8:1b:d2:8f:72:95:2a:71:6d:9b:1a:f8:1c:f0:53:d6:67:
+         cc:22:ff:5c:1d:cd:a2:8c:bd:27:b2:79:63:56:44:a2:51:cd:
+         f9:e9:a3:58:56:dd:9b:02:45:44:2f:5f:f4:da:ae:d4:82:32:
+         6e:fc:a4:95:13:e4:eb:69:e7:a9:a2:2c:be:c8:2b:10:0e:65:
+         8e:99:db:f5:a2:fa:12:26:09:65:38:94:f1:7a:1f:4a:bb:d1:
+         e1:56:e8:d0:78:96:18:5c:c9:35:16:5f:dd:93:1d:49:8e:2d:
+         be:ad:34:44:1c:ee:10:15:1a:00:5d:dd:35:5b:21:ce:98:c7:
+         09:ee:85:0e:8c:4f:6d:0e:13:4e:3d:7c:29:48:9c:72:d1:f3:
+         6c:ca:c1:ec:70:a3:57:92:57:7d:94:8d:a0:1b:48:03:5a:f7:
+         cf:a3:67:0a:74:a5:36:ed:2d:2f:17:c8:e6:72:37:12:f4:6f:
+         b1:3c:67:82:f9:52:b2:8d:33:16:65:1e:0e:8a:dd:10:de:64:
+         f4:6f:ce:46:d4:d3:17:e9:79:c4:04:b4:d3:fb:2c:df:1f:8a:
+         9e:ac:0a:fb:13:27:40:ad:e4:f9:e1:a9:7f:46:bb:07:60:47:
+         65:60:40:4e:b0:42:ec:4e:ed:b3:76:79:d8:0a:34:09:6d:1c:
+         80:31:1f:e2:0e:54:dd:e5:a1:fb:e5:47:10:ad:64:98:ff:50:
+         16:2e:7c:bf:05:21:7a:e2:95:41:27:69:c3:93:8f:95:c9:8d:
+         d8:9b:21:ae:0d:5c:9c:f0:a2:ae:86:68:83:0c:6a:2d:bb:76:
+         6b:00:1d:96:ad:f2:16:7b:f6:16:83:24:b9:88:cf:6a:a8:47:
+         31:2f:9a:dc:e3:71:3d:d7:00:7e:62:47:d1:ce:88:c9:b8:18:
+         fa:0e:72:8d:c1:a3:3d:af:02:40:6a:ff:69:9b:96:e2:10:a8:
+         10:b4:37:50:08:d6:c3:3d
+-----BEGIN CERTIFICATE-----
+MIIFvDCCA6SgAwIBAgIKYTMmGgAAAAAAMTANBgkqhkiG9w0BAQUFADBfMRMwEQYK
+CZImiZPyLGQBGRYDY29tMRkwFwYKCZImiZPyLGQBGRYJbWljcm9zb2Z0MS0wKwYD
+VQQDEyRNaWNyb3NvZnQgUm9vdCBDZXJ0aWZpY2F0ZSBBdXRob3JpdHkwHhcNMTAw
+ODMxMjIxOTMyWhcNMjAwODMxMjIyOTMyWjB5MQswCQYDVQQGEwJVUzETMBEGA1UE
+CBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9uZDEeMBwGA1UEChMVTWljcm9z
+b2Z0IENvcnBvcmF0aW9uMSMwIQYDVQQDExpNaWNyb3NvZnQgQ29kZSBTaWduaW5n
+IFBDQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALJyWVwZMGS/HZpg
+ICBCmXZTbD4b1m/My/Hqa/6XFhDg3zp0gxq3L6Ay7P/ewkJOI9VyANs1VwqJyq4g
+SfTwaKxNS42lvXlLcZtHB9r9Jd+ddYjPqnNEf9eB2/O98jakyVxF3K+tPeAoaJca
+p6Vyc1bxF5Tk/TWUcqDWdl8ed0WDhTgW0HNbBbpnUo2lsmkv2hkL/pJ0KeJ2L1Td
+FDBZ+NKNYv3LyV9GMVC5JxPkQDDPcikQKCLHN049oDI9kM2hOAaFXE5WgigqBTK3
+S9dPY+fSLWLxRT3nrAgA9kahntFbjCZT6HqqSvJGzzc8OJ60d1ylF56NyxGPVjzB
+rAlfA9MCAwEAAaOCAV4wggFaMA8GA1UdEwEB/wQFMAMBAf8wHQYDVR0OBBYEFMsR
+6MrStBZYAck3LjMWFrlMmgofMAsGA1UdDwQEAwIBhjASBgkrBgEEAYI3FQEEBQID
+AQABMCMGCSsGAQQBgjcVAgQWBBT90TFO0yaKleGYYDuoMW+mPLzYLTAZBgkrBgEE
+AYI3FAIEDB4KAFMAdQBiAEMAQTAfBgNVHSMEGDAWgBQOrIJgQFYnl+UlE/wq4QpT
+lVnkpDBQBgNVHR8ESTBHMEWgQ6BBhj9odHRwOi8vY3JsLm1pY3Jvc29mdC5jb20v
+cGtpL2NybC9wcm9kdWN0cy9taWNyb3NvZnRyb290Y2VydC5jcmwwVAYIKwYBBQUH
+AQEESDBGMEQGCCsGAQUFBzAChjhodHRwOi8vd3d3Lm1pY3Jvc29mdC5jb20vcGtp
+L2NlcnRzL01pY3Jvc29mdFJvb3RDZXJ0LmNydDANBgkqhkiG9w0BAQUFAAOCAgEA
+WTk+fyZGr+tvQLEytWrrDi9uqEn361917Uw7LddDrQv+y+ktMaMjzHxQmIAhXaw9
+L0y6oqhWnONwu7i0+Hm1SXL3PupBf8rhDBdpy6WcIC36C1DEVs0t40rSvHDnqA2i
+A6VW4LiKS1fylUKc8fPv7uOGHzQ8uFaa8FMjhSqkghyT4pQHHfLiTviMocroE6WR
+Tsgb0o9ylSpxbZsa+BzwU9ZnzCL/XB3Nooy9J7J5Y1ZEolHN+emjWFbdmwJFRC9f
+9Nqu1IIybvyklRPk62nnqaIsvsgrEA5ljpnb9aL6EiYJZTiU8XofSrvR4Vbo0HiW
+GFzJNRZf3ZMdSY4tvq00RBzuEBUaAF3dNVshzpjHCe6FDoxPbQ4TTj18KUicctHz
+bMrB7HCjV5JXfZSNoBtIA1r3z6NnCnSlNu0tLxfI5nI3EvRvsTxngvlSso0zFmUe
+DordEN5k9G/ORtTTF+l5xAS00/ss3x+KnqwK+xMnQK3k+eGpf0a7B2BHZWBATrBC
+7E7ts3Z52Ao0CW0cgDEf4g5U3eWh++VHEK1kmP9QFi58vwUheuKVQSdpw5OPlcmN
+2Jshrg1cnPCiroZogwxqLbt2awAdlq3yFnv2FoMkuYjPaqhHMS+a3ONxPdcAfmJH
+0c6IybgY+g5yjcGjPa8CQGr/aZuW4hCoELQ3UAjWwz0=
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            61:16:68:34:00:00:00:00:00:1c
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: DC=com, DC=microsoft, CN=Microsoft Root Certificate Authority
+        Validity
+            Not Before: Apr  3 12:53:09 2007 GMT
+            Not After : Apr  3 13:03:09 2021 GMT
+        Subject: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Time-Stamp PCA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:9f:a1:6c:b1:df:db:48:92:2a:7c:6b:2e:19:e1:
+                    bd:e2:e3:c5:99:51:23:50:ad:ce:dd:18:4e:24:0f:
+                    ee:d1:a7:d1:4c:ad:74:30:20:11:eb:07:d5:54:95:
+                    15:49:94:1b:42:92:ae:98:5c:30:26:da:00:6b:e8:
+                    7b:bd:ec:89:07:0f:f7:0e:04:98:f0:89:cc:1f:cb:
+                    33:24:87:9d:f2:f4:67:1c:2c:fc:7b:e7:88:1d:ea:
+                    e7:4e:a3:a1:c1:23:53:ca:8d:fa:45:cf:09:d0:5e:
+                    af:d0:b0:42:04:a2:f9:a6:6c:93:67:d7:28:dc:46:
+                    53:b0:86:d0:e5:28:46:2e:27:ac:86:4f:55:52:0c:
+                    e4:03:2c:fb:6a:90:90:30:6e:87:f3:59:30:9d:fa:
+                    7e:d6:97:b3:e8:21:97:7e:f8:d2:13:f3:08:b7:53:
+                    6d:52:b4:45:90:9f:48:00:4a:47:66:11:27:29:66:
+                    a8:97:e4:d3:06:81:4a:a2:f9:84:a7:11:47:14:09:
+                    82:9f:84:ed:55:78:fe:01:9a:1d:50:08:85:00:10:
+                    30:46:ed:b7:de:23:46:bb:c4:2d:54:9f:af:1e:78:
+                    41:31:77:cc:9b:df:3b:83:93:a1:61:02:b5:1d:0d:
+                    b1:fc:f7:9b:b2:01:ce:22:4b:54:ff:f9:05:c3:c2:
+                    20:0b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Subject Key Identifier: 
+                23:34:F8:D9:52:46:70:0A:ED:40:FB:76:FB:B3:2B:B0:C3:35:B3:0F
+            X509v3 Key Usage: 
+                Digital Signature, Certificate Sign, CRL Sign
+            1.3.6.1.4.1.311.21.1: 
+                ...
+            X509v3 Authority Key Identifier: 
+                keyid:0E:AC:82:60:40:56:27:97:E5:25:13:FC:2A:E1:0A:53:95:59:E4:A4
+                DirName:/DC=com/DC=microsoft/CN=Microsoft Root Certificate Authority
+                serial:79:AD:16:A1:4A:A0:A5:AD:4C:73:58:F4:07:13:2E:65
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt
+
+            X509v3 Extended Key Usage: 
+                Time Stamping
+    Signature Algorithm: sha1WithRSAEncryption
+         10:97:8a:c3:5c:03:44:36:dd:e9:b4:ad:77:db:ce:79:51:4d:
+         01:b1:2e:74:71:5b:6d:0c:13:ab:ce:be:7b:8f:b8:2e:d4:12:
+         a2:8c:6d:62:b8:57:02:cb:4e:20:13:50:99:dd:7a:40:e2:57:
+         bb:af:58:9a:1c:e1:1d:01:86:ac:bb:78:f2:8b:d0:ec:3b:01:
+         ee:e2:be:8f:0a:05:c8:8d:48:e2:f0:53:15:dd:4f:ab:92:e4:
+         e7:8d:6a:d5:80:c1:e6:94:f2:06:2f:85:03:e9:91:2a:24:22:
+         70:fb:f6:fc:e4:78:99:2e:0d:f7:07:e2:70:bc:18:4e:9d:8e:
+         6b:0a:72:95:b8:a1:39:9c:67:2d:c5:51:0e:ea:62:5c:3f:16:
+         98:8b:20:3f:e2:07:1a:32:f9:cc:31:4a:76:31:3d:2b:72:0b:
+         c8:ea:70:3d:ff:85:0a:13:df:c2:0a:61:8e:f0:d7:b8:17:eb:
+         4e:8b:7f:c5:35:2b:5e:a3:bf:eb:bc:7d:0b:42:7b:d4:53:72:
+         21:ee:30:ca:bb:78:65:5c:5b:01:17:0a:14:0e:d2:da:14:98:
+         f5:3c:b9:66:58:b3:2d:2f:e7:f9:85:86:cc:51:56:e8:9d:70:
+         94:6c:ac:39:4c:d4:f6:79:bf:aa:18:7a:62:29:ef:a2:9b:29:
+         34:06:77:1a:62:c9:3d:1e:6d:1f:82:f0:0b:c7:2c:bb:cf:43:
+         b3:e5:f9:ec:7d:b5:e3:a4:a8:74:35:b8:4e:c5:71:23:12:26:
+         76:0b:3c:52:8c:71:5a:46:43:14:bc:b3:b3:b0:4d:67:c8:9f:
+         42:ff:80:79:21:80:9e:15:30:66:e8:42:12:5e:1a:c8:9e:22:
+         21:d0:43:e9:2b:e9:bb:f4:48:cc:2c:d4:d8:32:80:4c:26:2a:
+         48:24:5f:5a:ea:56:ef:a6:de:99:9d:ca:3a:6f:bd:81:27:74:
+         06:11:ee:76:21:bf:9b:82:c1:27:54:b6:b1:6a:3d:89:a1:76:
+         61:b4:6e:a1:13:a6:bf:aa:47:f0:12:6f:fd:8a:32:6c:b2:fe:
+         df:51:c8:8c:23:c9:66:bd:9d:1d:87:12:64:02:3d:2d:af:59:
+         8f:b8:e4:21:e5:b5:b0:ca:63:b4:78:54:05:d4:41:2e:50:ac:
+         94:b0:a5:78:ab:b3:a0:96:75:1a:d9:92:87:13:75:22:2f:32:
+         a8:08:6e:a0:5b:8c:25:bf:a0:ef:84:ca:21:d6:eb:1e:4f:c9:
+         9a:ee:49:e0:f7:01:65:6f:89:0b:7d:c8:69:c8:e6:6e:ea:a7:
+         97:ce:31:29:ff:0e:c5:5b:5c:d8:4d:1b:a1:d8:fa:2f:9e:3f:
+         2e:55:16:6b:c9:13:a3:fd
+-----BEGIN CERTIFICATE-----
+MIIGBzCCA++gAwIBAgIKYRZoNAAAAAAAHDANBgkqhkiG9w0BAQUFADBfMRMwEQYK
+CZImiZPyLGQBGRYDY29tMRkwFwYKCZImiZPyLGQBGRYJbWljcm9zb2Z0MS0wKwYD
+VQQDEyRNaWNyb3NvZnQgUm9vdCBDZXJ0aWZpY2F0ZSBBdXRob3JpdHkwHhcNMDcw
+NDAzMTI1MzA5WhcNMjEwNDAzMTMwMzA5WjB3MQswCQYDVQQGEwJVUzETMBEGA1UE
+CBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMHUmVkbW9uZDEeMBwGA1UEChMVTWljcm9z
+b2Z0IENvcnBvcmF0aW9uMSEwHwYDVQQDExhNaWNyb3NvZnQgVGltZS1TdGFtcCBQ
+Q0EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCfoWyx39tIkip8ay4Z
+4b3i48WZUSNQrc7dGE4kD+7Rp9FMrXQwIBHrB9VUlRVJlBtCkq6YXDAm2gBr6Hu9
+7IkHD/cOBJjwicwfyzMkh53y9GccLPx754gd6udOo6HBI1PKjfpFzwnQXq/QsEIE
+ovmmbJNn1yjcRlOwhtDlKEYuJ6yGT1VSDOQDLPtqkJAwbofzWTCd+n7Wl7PoIZd+
++NIT8wi3U21StEWQn0gASkdmEScpZqiX5NMGgUqi+YSnEUcUCYKfhO1VeP4Bmh1Q
+CIUAEDBG7bfeI0a7xC1Un68eeEExd8yb3zuDk6FhArUdDbH895uyAc4iS1T/+QXD
+wiALAgMBAAGjggGrMIIBpzAPBgNVHRMBAf8EBTADAQH/MB0GA1UdDgQWBBQjNPjZ
+UkZwCu1A+3b7syuwwzWzDzALBgNVHQ8EBAMCAYYwEAYJKwYBBAGCNxUBBAMCAQAw
+gZgGA1UdIwSBkDCBjYAUDqyCYEBWJ5flJRP8KuEKU5VZ5KShY6RhMF8xEzARBgoJ
+kiaJk/IsZAEZFgNjb20xGTAXBgoJkiaJk/IsZAEZFgltaWNyb3NvZnQxLTArBgNV
+BAMTJE1pY3Jvc29mdCBSb290IENlcnRpZmljYXRlIEF1dGhvcml0eYIQea0WoUqg
+pa1Mc1j0BxMuZTBQBgNVHR8ESTBHMEWgQ6BBhj9odHRwOi8vY3JsLm1pY3Jvc29m
+dC5jb20vcGtpL2NybC9wcm9kdWN0cy9taWNyb3NvZnRyb290Y2VydC5jcmwwVAYI
+KwYBBQUHAQEESDBGMEQGCCsGAQUFBzAChjhodHRwOi8vd3d3Lm1pY3Jvc29mdC5j
+b20vcGtpL2NlcnRzL01pY3Jvc29mdFJvb3RDZXJ0LmNydDATBgNVHSUEDDAKBggr
+BgEFBQcDCDANBgkqhkiG9w0BAQUFAAOCAgEAEJeKw1wDRDbd6bStd9vOeVFNAbEu
+dHFbbQwTq86+e4+4LtQSooxtYrhXAstOIBNQmd16QOJXu69YmhzhHQGGrLt48ovQ
+7DsB7uK+jwoFyI1I4vBTFd1Pq5Lk541q1YDB5pTyBi+FA+mRKiQicPv2/OR4mS4N
+9wficLwYTp2OawpylbihOZxnLcVRDupiXD8WmIsgP+IHGjL5zDFKdjE9K3ILyOpw
+Pf+FChPfwgphjvDXuBfrTot/xTUrXqO/67x9C0J71FNyIe4wyrt4ZVxbARcKFA7S
+2hSY9Ty5ZlizLS/n+YWGzFFW6J1wlGysOUzU9nm/qhh6YinvopspNAZ3GmLJPR5t
+H4LwC8csu89Ds+X57H2146SodDW4TsVxIxImdgs8UoxxWkZDFLyzs7BNZ8ifQv+A
+eSGAnhUwZuhCEl4ayJ4iIdBD6Svpu/RIzCzU2DKATCYqSCRfWupW76bemZ3KOm+9
+gSd0BhHudiG/m4LBJ1S2sWo9iaF2YbRuoROmv6pH8BJv/YoybLL+31HIjCPJZr2d
+HYcSZAI9La9Zj7jkIeW1sMpjtHhUBdRBLlCslLCleKuzoJZ1GtmShxN1Ii8yqAhu
+oFuMJb+g74TKIdbrHk/Jmu5J4PcBZW+JC33Iacjmbuqnl84xKf8OxVtc2E0bodj6
+L54/LlUWa8kTo/0=
+-----END CERTIFICATE-----
+

@@ -1,0 +1,219 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            0f:f5:df:f3:be:8a:1d:91:1c:ae:4b:dc:bf:fb:d6:f1
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Assured ID Code Signing CA
+        Validity
+            Not Before: Apr 21 00:00:00 2015 GMT
+            Not After : Apr 25 12:00:00 2016 GMT
+        Subject: C=US, ST=Texas, L=Dallas, O=SecureVPN.com Inc, CN=SecureVPN.com Inc
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c9:4f:02:57:29:0c:81:75:80:3a:3b:7b:63:b0:
+                    3e:28:98:8d:31:5a:b2:bd:dc:85:11:7c:4c:d4:13:
+                    7f:5b:92:6b:35:5d:6e:3d:30:9f:6c:7b:5c:f5:69:
+                    e1:3b:99:b4:00:98:13:ec:87:5f:2b:96:ea:d2:80:
+                    f3:7e:17:11:00:21:1c:e0:65:ae:20:53:50:4a:1b:
+                    c9:09:dd:c5:56:0a:05:3d:87:50:1a:7e:82:74:fa:
+                    13:72:74:e4:cc:75:98:94:22:e2:c2:80:11:30:dc:
+                    6d:b4:fd:13:c9:bc:e7:94:a8:d1:03:d2:ec:46:20:
+                    24:7e:16:5f:a8:98:36:02:c5:4c:95:6c:a1:d3:be:
+                    77:29:59:25:a5:8d:70:29:60:a3:ae:80:58:d0:7b:
+                    50:59:2a:83:a0:95:0d:39:db:96:60:71:75:f3:7e:
+                    36:0a:e6:a3:66:42:20:fd:d0:4a:5c:f1:e4:73:37:
+                    31:23:a9:20:18:11:ff:4d:ef:cd:32:7d:8f:7f:23:
+                    cd:52:c7:4f:ff:1e:4b:24:0f:0e:83:78:0b:87:da:
+                    ae:2c:dd:17:7e:53:42:df:7d:43:43:75:36:d9:18:
+                    ef:a8:f4:ab:3b:f9:56:37:ac:76:a1:c5:03:1c:1f:
+                    3f:77:bf:80:32:a7:18:66:ff:a1:59:fe:1a:b6:e4:
+                    1d:93
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:5A:C4:B9:7B:2A:0A:A3:A5:EA:71:03:C0:60:F9:2D:F6:65:75:0E:58
+
+            X509v3 Subject Key Identifier: 
+                EC:A3:6D:80:D6:0C:46:AE:5E:2C:21:40:8F:C5:76:37:52:CF:D7:0E
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl3.digicert.com/sha2-assured-cs-g1.crl
+
+                Full Name:
+                  URI:http://crl4.digicert.com/sha2-assured-cs-g1.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.114412.3.1
+                  CPS: https://www.digicert.com/CPS
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.digicert.com
+                CA Issuers - URI:http://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt
+
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+    Signature Algorithm: sha256WithRSAEncryption
+         9c:a4:5e:6d:16:87:3e:a9:54:08:16:cb:9c:c5:60:3d:5f:4e:
+         6f:28:af:8f:fa:b8:64:ef:ff:8f:bc:63:1a:fc:a4:dd:a8:1c:
+         4b:4c:c9:2f:3b:be:dd:47:bc:46:83:d0:c5:b2:26:85:35:de:
+         ed:db:63:7c:e2:fb:ff:1d:7c:e8:59:5f:c6:fe:0e:78:00:c3:
+         f4:c0:f7:92:4b:c6:80:ec:86:ba:0e:d1:ca:b3:03:67:3b:29:
+         b8:15:80:ce:73:0e:65:65:1c:fc:68:3f:ca:c6:62:82:cb:af:
+         5c:5a:22:fa:e5:29:1d:9b:96:ec:46:d6:60:0e:11:dc:a5:88:
+         97:dd:69:2d:a0:b5:eb:33:29:1f:c1:75:0d:24:62:12:ba:5e:
+         7d:da:08:ee:e8:6e:c0:77:e0:60:7c:32:b4:d8:98:5f:93:47:
+         9b:8a:50:5e:52:a6:bd:2b:b1:b7:3e:7b:1c:15:2d:f8:50:55:
+         89:10:ca:a3:2b:ff:f1:b7:c5:5b:55:d2:ed:1c:32:d7:d7:67:
+         83:28:05:90:10:95:8d:1d:39:12:31:a1:07:92:ba:d8:d2:f0:
+         14:c8:04:3f:ee:0f:bf:ce:35:01:22:ed:50:20:7d:24:3f:d6:
+         10:3c:73:c6:f6:e4:ee:ae:9a:4d:d9:df:b1:cd:f0:14:69:7b:
+         61:5a:4b:7f
+-----BEGIN CERTIFICATE-----
+MIIFHzCCBAegAwIBAgIQD/Xf876KHZEcrkvcv/vW8TANBgkqhkiG9w0BAQsFADBy
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMTEwLwYDVQQDEyhEaWdpQ2VydCBTSEEyIEFzc3VyZWQg
+SUQgQ29kZSBTaWduaW5nIENBMB4XDTE1MDQyMTAwMDAwMFoXDTE2MDQyNTEyMDAw
+MFowZjELMAkGA1UEBhMCVVMxDjAMBgNVBAgTBVRleGFzMQ8wDQYDVQQHEwZEYWxs
+YXMxGjAYBgNVBAoTEVNlY3VyZVZQTi5jb20gSW5jMRowGAYDVQQDExFTZWN1cmVW
+UE4uY29tIEluYzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMlPAlcp
+DIF1gDo7e2OwPiiYjTFasr3chRF8TNQTf1uSazVdbj0wn2x7XPVp4TuZtACYE+yH
+XyuW6tKA834XEQAhHOBlriBTUEobyQndxVYKBT2HUBp+gnT6E3J05Mx1mJQi4sKA
+ETDcbbT9E8m855So0QPS7EYgJH4WX6iYNgLFTJVsodO+dylZJaWNcClgo66AWNB7
+UFkqg6CVDTnblmBxdfN+Ngrmo2ZCIP3QSlzx5HM3MSOpIBgR/03vzTJ9j38jzVLH
+T/8eSyQPDoN4C4farizdF35TQt99Q0N1NtkY76j0qzv5VjesdqHFAxwfP3e/gDKn
+GGb/oVn+GrbkHZMCAwEAAaOCAbswggG3MB8GA1UdIwQYMBaAFFrEuXsqCqOl6nED
+wGD5LfZldQ5YMB0GA1UdDgQWBBTso22A1gxGrl4sIUCPxXY3Us/XDjAOBgNVHQ8B
+Af8EBAMCB4AwEwYDVR0lBAwwCgYIKwYBBQUHAwMwdwYDVR0fBHAwbjA1oDOgMYYv
+aHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NoYTItYXNzdXJlZC1jcy1nMS5jcmww
+NaAzoDGGL2h0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zaGEyLWFzc3VyZWQtY3Mt
+ZzEuY3JsMEIGA1UdIAQ7MDkwNwYJYIZIAYb9bAMBMCowKAYIKwYBBQUHAgEWHGh0
+dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwgYQGCCsGAQUFBwEBBHgwdjAkBggr
+BgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tME4GCCsGAQUFBzAChkJo
+dHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEyQXNzdXJlZElE
+Q29kZVNpZ25pbmdDQS5jcnQwDAYDVR0TAQH/BAIwADANBgkqhkiG9w0BAQsFAAOC
+AQEAnKRebRaHPqlUCBbLnMVgPV9Obyivj/q4ZO//j7xjGvyk3agcS0zJLzu+3Ue8
+RoPQxbImhTXe7dtjfOL7/x186Flfxv4OeADD9MD3kkvGgOyGug7RyrMDZzspuBWA
+znMOZWUc/Gg/ysZigsuvXFoi+uUpHZuW7EbWYA4R3KWIl91pLaC16zMpH8F1DSRi
+ErpefdoI7uhuwHfgYHwytNiYX5NHm4pQXlKmvSuxtz57HBUt+FBViRDKoyv/8bfF
+W1XS7Rwy19dngygFkBCVjR05EjGhB5K62NLwFMgEP+4Pv841ASLtUCB9JD/WEDxz
+xvbk7q6aTdnfsc3wFGl7YVpLfw==
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            04:09:18:1b:5f:d5:bb:66:75:53:43:b5:6f:95:50:08
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root CA
+        Validity
+            Not Before: Oct 22 12:00:00 2013 GMT
+            Not After : Oct 22 12:00:00 2028 GMT
+        Subject: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Assured ID Code Signing CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:f8:d3:b3:1c:7f:0e:11:af:67:77:07:d3:0b:31:
+                    49:19:cf:d0:fb:45:99:b1:3a:db:44:f5:7f:e5:a8:
+                    9d:db:32:d7:71:ea:76:9d:05:2e:b7:8f:fa:92:43:
+                    c0:a5:f9:89:d4:37:19:d7:b6:aa:f0:9c:86:a5:d8:
+                    25:ac:0e:79:28:3a:7e:e9:d1:67:d3:c6:fb:29:27:
+                    c7:d3:7b:23:94:e4:91:23:96:90:77:82:f9:a1:84:
+                    23:66:12:54:33:50:74:b1:28:26:bb:24:69:c2:c2:
+                    52:f2:14:67:8a:89:45:d4:2d:a1:a3:e9:88:2c:20:
+                    95:ae:1c:4a:87:08:df:0c:f5:e2:4d:60:18:be:aa:
+                    c4:b2:ae:70:31:66:33:71:3e:ac:70:a2:ab:ce:7f:
+                    e9:7c:cb:92:a1:e5:3b:31:1c:cf:ea:f2:0a:e4:57:
+                    bb:4a:b5:e9:74:e6:2b:fe:6c:cb:7e:74:39:36:0d:
+                    90:ef:e4:b5:4e:a4:a9:ea:6a:0a:ab:84:f3:ac:67:
+                    4e:b5:c4:f7:8c:d1:20:25:23:eb:08:64:3e:52:96:
+                    c1:f2:0f:12:f4:c5:8e:0f:c1:a2:e8:2c:51:f7:73:
+                    bc:bd:85:b1:62:83:73:41:82:07:e4:38:8b:6a:73:
+                    20:d0:0f:64:73:3c:9e:9f:a6:33:a9:fd:19:df:25:
+                    93:d1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Key Usage: critical
+                Digital Signature, Certificate Sign, CRL Sign
+            X509v3 Extended Key Usage: 
+                Code Signing
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.digicert.com
+                CA Issuers - URI:http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl
+
+                Full Name:
+                  URI:http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.114412.0.2.4
+                  CPS: https://www.digicert.com/CPS
+                Policy: 2.16.840.1.114412.3
+
+            X509v3 Subject Key Identifier: 
+                5A:C4:B9:7B:2A:0A:A3:A5:EA:71:03:C0:60:F9:2D:F6:65:75:0E:58
+            X509v3 Authority Key Identifier: 
+                keyid:45:EB:A2:AF:F4:92:CB:82:31:2D:51:8B:A7:A7:21:9D:F3:6D:C8:0F
+
+    Signature Algorithm: sha256WithRSAEncryption
+         3e:ec:0d:5a:24:b3:f3:22:d1:15:c8:2c:7c:25:29:76:a8:1d:
+         5d:1c:2d:3a:1a:c4:ef:30:61:d7:7e:0b:60:fd:c3:3d:0f:c4:
+         af:8b:fd:ef:2a:df:20:55:37:b0:e1:f6:d1:92:75:0f:51:b4:
+         6e:a5:8e:5a:e2:5e:24:81:4e:10:a4:ee:3f:71:8e:63:0e:13:
+         4b:ad:d7:5f:44:79:f3:36:14:06:8a:f7:9c:46:4e:5c:ff:90:
+         b1:1b:07:0e:91:15:fb:ba:af:b5:51:c2:8d:24:ae:24:c6:c7:
+         27:2a:a1:29:28:1a:3a:71:28:02:3c:2e:91:a3:c0:25:11:e2:
+         9c:14:47:a1:7a:68:68:af:9b:a7:5c:20:5c:d9:71:b1:0c:8f:
+         bb:a8:f8:c5:12:68:9f:cf:40:cb:40:44:a5:13:f0:e6:64:0c:
+         25:08:42:32:b2:36:8a:24:02:fe:2f:72:7e:1c:d7:49:45:96:
+         e8:59:1d:e9:fa:74:64:6b:b2:eb:66:43:da:b3:b0:8c:d5:e9:
+         0d:dd:f6:01:20:ce:99:31:63:3d:08:1a:18:b3:81:9b:4f:c6:
+         93:10:06:fc:07:81:fa:8b:da:f9:82:49:f7:62:6e:a1:53:fa:
+         12:94:18:85:2e:92:91:ea:68:6c:44:32:b2:66:a1:e7:18:a4:
+         9a:64:51:ef
+-----BEGIN CERTIFICATE-----
+MIIFMDCCBBigAwIBAgIQBAkYG1/Vu2Z1U0O1b5VQCDANBgkqhkiG9w0BAQsFADBl
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMSQwIgYDVQQDExtEaWdpQ2VydCBBc3N1cmVkIElEIFJv
+b3QgQ0EwHhcNMTMxMDIyMTIwMDAwWhcNMjgxMDIyMTIwMDAwWjByMQswCQYDVQQG
+EwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cuZGlnaWNl
+cnQuY29tMTEwLwYDVQQDEyhEaWdpQ2VydCBTSEEyIEFzc3VyZWQgSUQgQ29kZSBT
+aWduaW5nIENBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA+NOzHH8O
+Ea9ndwfTCzFJGc/Q+0WZsTrbRPV/5aid2zLXcep2nQUut4/6kkPApfmJ1DcZ17aq
+8JyGpdglrA55KDp+6dFn08b7KSfH03sjlOSRI5aQd4L5oYQjZhJUM1B0sSgmuyRp
+wsJS8hRniolF1C2ho+mILCCVrhxKhwjfDPXiTWAYvqrEsq5wMWYzcT6scKKrzn/p
+fMuSoeU7MRzP6vIK5Fe7SrXpdOYr/mzLfnQ5Ng2Q7+S1TqSp6moKq4TzrGdOtcT3
+jNEgJSPrCGQ+UpbB8g8S9MWOD8Gi6CxR93O8vYWxYoNzQYIH5DiLanMg0A9kczye
+n6Yzqf0Z3yWT0QIDAQABo4IBzTCCAckwEgYDVR0TAQH/BAgwBgEB/wIBADAOBgNV
+HQ8BAf8EBAMCAYYwEwYDVR0lBAwwCgYIKwYBBQUHAwMweQYIKwYBBQUHAQEEbTBr
+MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wQwYIKwYBBQUH
+MAKGN2h0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEFzc3VyZWRJ
+RFJvb3RDQS5jcnQwgYEGA1UdHwR6MHgwOqA4oDaGNGh0dHA6Ly9jcmw0LmRpZ2lj
+ZXJ0LmNvbS9EaWdpQ2VydEFzc3VyZWRJRFJvb3RDQS5jcmwwOqA4oDaGNGh0dHA6
+Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEFzc3VyZWRJRFJvb3RDQS5jcmww
+TwYDVR0gBEgwRjA4BgpghkgBhv1sAAIEMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8v
+d3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCgYIYIZIAYb9bAMwHQYDVR0OBBYEFFrEuXsq
+CqOl6nEDwGD5LfZldQ5YMB8GA1UdIwQYMBaAFEXroq/0ksuCMS1Ri6enIZ3zbcgP
+MA0GCSqGSIb3DQEBCwUAA4IBAQA+7A1aJLPzItEVyCx8JSl2qB1dHC06GsTvMGHX
+fgtg/cM9D8Svi/3vKt8gVTew4fbRknUPUbRupY5a4l4kgU4QpO4/cY5jDhNLrddf
+RHnzNhQGivecRk5c/5CxGwcOkRX7uq+1UcKNJK4kxscnKqEpKBo6cSgCPC6Ro8Al
+EeKcFEehemhor5unXCBc2XGxDI+7qPjFEmifz0DLQESlE/DmZAwlCEIysjaKJAL+
+L3J+HNdJRZboWR3p+nRka7LrZkPas7CM1ekN3fYBIM6ZMWM9CBoYs4GbT8aTEAb8
+B4H6i9r5gkn3Ym6hU/oSlBiFLpKR6mhsRDKyZqHnGKSaZFHv
+-----END CERTIFICATE-----
+

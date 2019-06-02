@@ -1,0 +1,111 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            ae:27:09:d3:34:5b:fc:ef:fa:bc:9f:ba:84:f8:83:44
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Code Signing CA
+        Validity
+            Not Before: Apr  7 00:00:00 2016 GMT
+            Not After : Apr  7 23:59:59 2017 GMT
+        Subject: C=DE/postalCode=50679, ST=NRW, L=K\xC3\xB6ln/street=Mathildenstr. 61, O=PAS-Products (Frank Dunkel), CN=PAS-Products (Frank Dunkel)
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c5:5d:b7:59:0a:f9:f9:b5:5f:f9:89:7c:86:6b:
+                    f4:c5:89:f8:2d:c1:a6:93:56:1c:a5:30:ed:05:f9:
+                    68:55:bc:41:bb:95:92:be:7e:a0:3e:86:fa:a4:08:
+                    ac:a9:52:08:e2:80:94:63:1f:8c:64:61:6e:4d:f7:
+                    84:e8:7a:f2:9c:41:1e:9e:41:7d:98:44:7b:d4:b6:
+                    0b:05:c2:55:40:78:74:f5:c5:56:96:9f:b8:72:04:
+                    b9:b6:70:af:2c:22:9d:a4:5f:85:75:8b:65:e3:6f:
+                    28:b1:40:85:a1:04:a4:97:1d:15:1a:ad:c1:ac:bb:
+                    3a:eb:06:eb:d1:c0:4b:e5:ab:40:da:f1:48:bf:d1:
+                    f8:26:9a:83:3c:48:3f:34:6b:b1:62:77:c2:28:0a:
+                    64:35:24:8e:3e:7f:79:ef:eb:85:65:81:66:88:4e:
+                    39:2b:dc:4b:eb:2d:f2:85:a4:da:3a:89:eb:21:49:
+                    bb:02:39:62:55:dd:f1:a0:b4:31:2e:65:80:39:c7:
+                    9e:08:3e:b8:39:bd:6c:1f:77:87:79:e1:d7:cf:8a:
+                    47:84:86:2d:bc:36:e9:71:3e:58:d0:07:f3:d0:ab:
+                    98:22:4d:de:df:70:56:21:03:58:ca:3a:d9:3c:7c:
+                    d1:e5:0b:f3:70:51:21:1f:3c:e5:61:99:4c:68:aa:
+                    2a:e3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:29:91:60:FF:8A:4D:FA:EB:F9:A6:6A:B8:CF:F9:E6:4B:BD:49:CE:12
+
+            X509v3 Subject Key Identifier: 
+                F0:39:A1:61:E9:04:2E:BF:92:6A:64:5F:73:D8:F8:42:3B:89:8A:9F
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                Code Signing
+            Netscape Cert Type: 
+                Object Signing
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.1.3.2
+                  CPS: https://secure.comodo.net/CPS
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.comodoca.com/COMODORSACodeSigningCA.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.comodoca.com/COMODORSACodeSigningCA.crt
+                OCSP - URI:http://ocsp.comodoca.com
+
+            X509v3 Subject Alternative Name: 
+                email:pas@pas-products.com
+    Signature Algorithm: sha256WithRSAEncryption
+         60:67:c6:08:ae:d6:3e:b3:7e:19:a6:18:d6:b8:c5:2d:47:8b:
+         0a:84:c5:21:52:5e:d2:e3:35:2a:2e:72:9d:89:33:38:b5:08:
+         63:01:1b:87:f8:ce:96:93:2f:86:2a:78:94:26:94:63:cf:3b:
+         1e:62:af:fd:a2:5e:4f:74:54:15:08:1f:bf:55:11:10:20:4f:
+         d1:cd:3a:23:42:ff:3a:b3:98:9c:b3:d6:da:44:ab:1e:0a:cd:
+         f8:d1:20:32:f5:db:57:0d:14:3d:b1:3e:ef:1c:2a:80:e5:0b:
+         ba:50:68:60:6b:8d:63:2d:d8:7f:b4:e6:03:d7:d5:3b:f1:72:
+         1e:99:f1:71:6e:a5:0f:bd:c1:a4:7c:44:34:c3:78:26:7c:97:
+         27:25:32:63:95:c5:37:7b:b9:28:ab:1f:0f:70:d8:19:c9:37:
+         6e:c6:23:9f:df:9d:22:03:52:53:06:55:f7:ca:f3:34:4d:f5:
+         ef:f5:12:c3:19:18:d0:40:f5:2c:c8:74:de:86:4a:9f:17:48:
+         4f:0b:b8:32:1f:04:3f:4e:05:27:2e:aa:00:86:d5:c0:09:c2:
+         76:1f:76:93:78:e5:26:91:68:d6:1d:27:37:ed:e0:bb:34:aa:
+         02:ec:f1:1c:fd:66:71:20:92:db:77:d6:3c:51:35:9e:2a:67:
+         c7:08:a0:0c
+-----BEGIN CERTIFICATE-----
+MIIFWzCCBEOgAwIBAgIRAK4nCdM0W/zv+ryfuoT4g0QwDQYJKoZIhvcNAQELBQAw
+fTELMAkGA1UEBhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4G
+A1UEBxMHU2FsZm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxIzAhBgNV
+BAMTGkNPTU9ETyBSU0EgQ29kZSBTaWduaW5nIENBMB4XDTE2MDQwNzAwMDAwMFoX
+DTE3MDQwNzIzNTk1OVowgaIxCzAJBgNVBAYTAkRFMQ4wDAYDVQQRDAU1MDY3OTEM
+MAoGA1UECAwDTlJXMQ4wDAYDVQQHDAVLw7ZsbjEZMBcGA1UECQwQTWF0aGlsZGVu
+c3RyLiA2MTEkMCIGA1UECgwbUEFTLVByb2R1Y3RzIChGcmFuayBEdW5rZWwpMSQw
+IgYDVQQDDBtQQVMtUHJvZHVjdHMgKEZyYW5rIER1bmtlbCkwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDFXbdZCvn5tV/5iXyGa/TFifgtwaaTVhylMO0F
++WhVvEG7lZK+fqA+hvqkCKypUgjigJRjH4xkYW5N94ToevKcQR6eQX2YRHvUtgsF
+wlVAeHT1xVaWn7hyBLm2cK8sIp2kX4V1i2XjbyixQIWhBKSXHRUarcGsuzrrBuvR
+wEvlq0Da8Ui/0fgmmoM8SD80a7Fid8IoCmQ1JI4+f3nv64VlgWaITjkr3EvrLfKF
+pNo6ieshSbsCOWJV3fGgtDEuZYA5x54IPrg5vWwfd4d54dfPikeEhi28NulxPljQ
+B/PQq5giTd7fcFYhA1jKOtk8fNHlC/NwUSEfPOVhmUxoqirjAgMBAAGjggGuMIIB
+qjAfBgNVHSMEGDAWgBQpkWD/ik366/mmarjP+eZLvUnOEjAdBgNVHQ4EFgQU8Dmh
+YekELr+SamRfc9j4QjuJip8wDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAw
+EwYDVR0lBAwwCgYIKwYBBQUHAwMwEQYJYIZIAYb4QgEBBAQDAgQQMEYGA1UdIAQ/
+MD0wOwYMKwYBBAGyMQECAQMCMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJl
+LmNvbW9kby5uZXQvQ1BTMEMGA1UdHwQ8MDowOKA2oDSGMmh0dHA6Ly9jcmwuY29t
+b2RvY2EuY29tL0NPTU9ET1JTQUNvZGVTaWduaW5nQ0EuY3JsMHQGCCsGAQUFBwEB
+BGgwZjA+BggrBgEFBQcwAoYyaHR0cDovL2NydC5jb21vZG9jYS5jb20vQ09NT0RP
+UlNBQ29kZVNpZ25pbmdDQS5jcnQwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmNv
+bW9kb2NhLmNvbTAfBgNVHREEGDAWgRRwYXNAcGFzLXByb2R1Y3RzLmNvbTANBgkq
+hkiG9w0BAQsFAAOCAQEAYGfGCK7WPrN+GaYY1rjFLUeLCoTFIVJe0uM1Ki5ynYkz
+OLUIYwEbh/jOlpMvhip4lCaUY887HmKv/aJeT3RUFQgfv1URECBP0c06I0L/OrOY
+nLPW2kSrHgrN+NEgMvXbVw0UPbE+7xwqgOULulBoYGuNYy3Yf7TmA9fVO/FyHpnx
+cW6lD73BpHxENMN4JnyXJyUyY5XFN3u5KKsfD3DYGck3bsYjn9+dIgNSUwZV98rz
+NE317/USwxkY0ED1LMh03oZKnxdITwu4Mh8EP04FJy6qAIbVwAnCdh92k3jlJpFo
+1h0nN+3guzSqAuzxHP1mcSCS23fWPFE1nipnxwigDA==
+-----END CERTIFICATE-----
+

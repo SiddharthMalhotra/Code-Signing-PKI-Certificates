@@ -1,0 +1,258 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+             (Negative)76:b8:f9:4c:85:ec:e7:64:b2:86:56:e9:12:e8:d8:0b
+    Signature Algorithm: sha1WithRSA
+        Issuer: C=IDN/emailAddress=Hk_Heaven_Kingdom@yahoo.com, O=Kurisutaru.net, CN=Kurisutaru
+        Validity
+            Not Before: Nov  1 07:22:25 2014 GMT
+            Not After : Dec 31 23:59:59 2039 GMT
+        Subject: C=IDN/emailAddress=Hk_Heaven_Kingdom@yahoo.com, O=Kurisutaru.net, CN=Kurisutaru
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b2:4d:99:0a:3a:1e:8e:67:74:f1:e8:66:56:cd:
+                    2b:08:ed:0a:8c:7e:42:78:c4:49:3b:61:f1:ce:9e:
+                    0a:6a:22:f8:0a:14:bf:a0:5a:74:1f:31:9d:2e:93:
+                    7f:6e:5b:9a:e1:b9:ad:19:36:f7:39:22:5a:93:dc:
+                    02:eb:3a:3c:1f:2a:4e:4a:aa:47:de:5d:ed:be:63:
+                    0d:2e:da:8b:df:c4:27:1a:1e:33:2c:ab:2b:73:09:
+                    fd:8a:9a:d2:73:41:ad:18:2d:07:71:52:9d:0c:db:
+                    35:bf:d8:fd:2f:69:8f:81:94:4f:41:87:e4:ae:8b:
+                    cb:99:fd:53:8e:10:6b:eb:21
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            2.5.29.1: 
+                0........]H..gT.d..Dy.j0h1.0
+..U....IDN1*0(..*.H.......Hk_Heaven_Kingdom@yahoo.com1.0...U.
+..Kurisutaru.net1.0...U...
+Kurisutaru...G..z...My....'.
+    Signature Algorithm: sha1WithRSA
+         a0:09:06:6c:88:38:18:7e:bb:0f:f8:5e:d5:99:26:4c:8e:9f:
+         25:59:7f:d0:91:03:a3:a1:0c:07:c8:d8:b5:db:ef:e3:83:ad:
+         ac:3e:d5:cf:6c:d5:6c:00:73:a0:a7:b3:ab:cf:cc:1b:ea:c5:
+         2e:1d:e8:93:b4:f3:f0:ca:6f:99:38:e9:28:2c:87:47:a2:d5:
+         5a:e1:a6:32:a5:0c:d2:e4:b7:da:13:7e:96:c5:ae:ca:8c:b1:
+         eb:00:cf:83:a1:c1:ae:a2:31:1b:54:75:f4:97:e2:d0:27:7b:
+         6f:d9:8b:5b:71:53:8a:0d:fe:ca:a7:bc:d1:24:de:45:08:b0:
+         85:c7
+-----BEGIN CERTIFICATE-----
+MIIDADCCAm2gAwIBAgIQiUcGs3oTGJtNeakW7Rcn9TAJBgUrDgMCHQUAMGgxDDAK
+BgNVBAYTA0lETjEqMCgGCSqGSIb3DQEJARYbSGtfSGVhdmVuX0tpbmdkb21AeWFo
+b28uY29tMRcwFQYDVQQKEw5LdXJpc3V0YXJ1Lm5ldDETMBEGA1UEAxMKS3VyaXN1
+dGFydTAeFw0xNDExMDEwNzIyMjVaFw0zOTEyMzEyMzU5NTlaMGgxDDAKBgNVBAYT
+A0lETjEqMCgGCSqGSIb3DQEJARYbSGtfSGVhdmVuX0tpbmdkb21AeWFob28uY29t
+MRcwFQYDVQQKEw5LdXJpc3V0YXJ1Lm5ldDETMBEGA1UEAxMKS3VyaXN1dGFydTCB
+nzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsk2ZCjoejmd08ehmVs0rCO0KjH5C
+eMRJO2Hxzp4KaiL4ChS/oFp0HzGdLpN/blua4bmtGTb3OSJak9wC6zo8HypOSqpH
+3l3tvmMNLtqL38QnGh4zLKsrcwn9iprSc0GtGC0HcVKdDNs1v9j9L2mPgZRPQYfk
+rovLmf1TjhBr6yECAwEAAaOBsjCBrzAPBgNVHRMBAf8EBTADAQH/MIGbBgNVHQEE
+gZMwgZCAEIUcGuFdSAnYZ1QfZAPPRHmhajBoMQwwCgYDVQQGEwNJRE4xKjAoBgkq
+hkiG9w0BCQEWG0hrX0hlYXZlbl9LaW5nZG9tQHlhaG9vLmNvbTEXMBUGA1UEChMO
+S3VyaXN1dGFydS5uZXQxEzARBgNVBAMTCkt1cmlzdXRhcnWCEIlHBrN6ExibTXmp
+Fu0XJ/UwCQYFKw4DAh0FAAOBgQCgCQZsiDgYfrsP+F7VmSZMjp8lWX/QkQOjoQwH
+yNi12+/jg62sPtXPbNVsAHOgp7Orz8wb6sUuHeiTtPPwym+ZOOkoLIdHotVa4aYy
+pQzS5LfaE36Wxa7KjLHrAM+DocGuojEbVHX0l+LQJ3tv2YtbcVOKDf7Kp7zRJN5F
+CLCFxw==
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            04:00:00:00:00:01:2f:4e:e1:52:d7
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+        Validity
+            Not Before: Apr 13 10:00:00 2011 GMT
+            Not After : Jan 28 12:00:00 2028 GMT
+        Subject: C=BE, O=GlobalSign nv-sa, CN=GlobalSign Timestamping CA - G2
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:94:ef:65:f8:b5:57:9f:a0:53:0d:34:06:eb:09:
+                    1f:b7:47:18:6a:cb:f0:5b:e4:ff:27:a5:34:d1:f7:
+                    89:1a:bf:9e:b1:cd:12:41:6e:66:d4:81:a0:85:8b:
+                    64:5a:46:2f:99:a0:8d:77:b1:e2:bc:5c:dd:22:d7:
+                    6a:67:d0:bb:e8:ca:74:de:8b:4f:0d:b0:52:e5:90:
+                    5b:eb:47:0e:f1:e7:9f:9c:0b:90:65:3e:17:96:30:
+                    45:72:6d:39:a1:17:36:ca:b9:a0:8c:1b:4f:08:19:
+                    f6:81:31:ad:61:16:a4:62:e6:b4:40:9e:c3:fc:fb:
+                    95:f6:fb:b5:2e:95:81:98:e0:ef:c5:eb:d8:02:59:
+                    78:77:f7:aa:e3:52:6b:50:91:29:c5:fc:f7:cd:93:
+                    65:d2:60:61:22:f2:06:fb:32:dd:16:51:fa:0e:fd:
+                    8a:30:f0:17:09:a7:bb:f3:04:ae:ab:90:e7:6c:df:
+                    7a:a9:f4:ef:c4:62:27:5f:6f:99:6d:38:74:aa:11:
+                    8b:da:df:c7:14:4c:e9:85:b2:ec:c2:7d:4a:26:8f:
+                    e7:56:ba:a6:e0:cf:92:53:80:74:f4:03:ec:68:b2:
+                    60:bc:84:20:00:83:1b:a1:ee:b4:74:05:c1:29:8e:
+                    62:d0:47:b1:fa:f0:53:cc:18:f9:2e:3b:f9:70:7e:
+                    b4:25
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Subject Key Identifier: 
+                46:D8:3E:FF:DC:E3:BE:FF:83:E6:F4:85:9B:B0:DD:6A:D6:14:A9:C1
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  CPS: https://www.globalsign.com/repository/
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.globalsign.net/root.crl
+
+            X509v3 Authority Key Identifier: 
+                keyid:60:7B:66:1A:45:0D:97:CA:89:50:2F:7D:04:CD:34:A8:FF:FC:FD:4B
+
+    Signature Algorithm: sha1WithRSAEncryption
+         4e:5e:56:90:1e:46:b4:d9:49:31:f3:bb:17:39:28:1b:c2:16:
+         dd:fd:41:dc:09:05:04:9b:6f:b2:a2:9a:d6:99:2e:40:99:00:
+         55:b5:ea:3f:a5:20:76:d3:86:34:d4:17:cc:55:3a:c7:82:ee:
+         ef:a8:ba:bc:d8:06:9f:15:50:df:cd:16:7b:52:3a:02:d7:19:
+         1a:fd:af:f0:78:5c:e0:4b:c5:18:df:3a:24:1e:da:ac:b8:a9:
+         58:04:02:07:30:db:b0:12:5e:fe:31:be:f0:04:48:f4:f0:70:
+         f8:3a:5e:56:83:cf:3d:fb:0d:bc:f4:c5:ed:97:9d:b9:d4:db:
+         a5:27:84:e3:38:9b:8b:a7:35:86:44:20:a4:3b:6d:a4:6a:0b:
+         a1:83:fd:28:eb:da:ef:28:f6:cc:88:5d:fb:0a:3b:00:ab:e0:
+         21:eb:e2:2f:35:6c:0f:8e:34:45:97:eb:a2:f7:99:33:35:7e:
+         cb:9a:8a:bb:45:4d:e7:3f:9f:c2:d9:8a:fa:65:b2:6e:c7:7e:
+         65:ff:e8:92:e1:2c:31:a2:f7:b0:27:36:48:8f:26:6f:3b:ee:
+         4d:76:1f:79:c3:e5:7f:96:35:bc:2d:0e:cc:01:b0:8e:7f:ff:
+         51:80:80:a7:92:d4:b3:44:46:64:8c:87:4f:16:63:07:31:4b:
+         63:b0:df:f3
+-----BEGIN CERTIFICATE-----
+MIIEFDCCAvygAwIBAgILBAAAAAABL07hUtcwDQYJKoZIhvcNAQEFBQAwVzELMAkG
+A1UEBhMCQkUxGTAXBgNVBAoTEEdsb2JhbFNpZ24gbnYtc2ExEDAOBgNVBAsTB1Jv
+b3QgQ0ExGzAZBgNVBAMTEkdsb2JhbFNpZ24gUm9vdCBDQTAeFw0xMTA0MTMxMDAw
+MDBaFw0yODAxMjgxMjAwMDBaMFIxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9i
+YWxTaWduIG52LXNhMSgwJgYDVQQDEx9HbG9iYWxTaWduIFRpbWVzdGFtcGluZyBD
+QSAtIEcyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlO9l+LVXn6BT
+DTQG6wkft0cYasvwW+T/J6U00feJGr+esc0SQW5m1IGghYtkWkYvmaCNd7HivFzd
+ItdqZ9C76Mp03otPDbBS5ZBb60cO8eefnAuQZT4XljBFcm05oRc2yrmgjBtPCBn2
+gTGtYRakYua0QJ7D/PuV9vu1LpWBmODvxevYAll4d/eq41JrUJEpxfz3zZNl0mBh
+IvIG+zLdFlH6Dv2KMPAXCae78wSuq5DnbN96qfTvxGInX2+ZbTh0qhGL2t/HFEzp
+hbLswn1KJo/nVrqm4M+SU4B09APsaLJgvIQgAIMboe60dAXBKY5i0Eex+vBTzBj5
+Ljv5cH60JQIDAQABo4HlMIHiMA4GA1UdDwEB/wQEAwIBBjASBgNVHRMBAf8ECDAG
+AQH/AgEAMB0GA1UdDgQWBBRG2D7/3OO+/4Pm9IWbsN1q1hSpwTBHBgNVHSAEQDA+
+MDwGBFUdIAAwNDAyBggrBgEFBQcCARYmaHR0cHM6Ly93d3cuZ2xvYmFsc2lnbi5j
+b20vcmVwb3NpdG9yeS8wMwYDVR0fBCwwKjAooCagJIYiaHR0cDovL2NybC5nbG9i
+YWxzaWduLm5ldC9yb290LmNybDAfBgNVHSMEGDAWgBRge2YaRQ2XyolQL30EzTSo
+//z9SzANBgkqhkiG9w0BAQUFAAOCAQEATl5WkB5GtNlJMfO7FzkoG8IW3f1B3AkF
+BJtvsqKa1pkuQJkAVbXqP6UgdtOGNNQXzFU6x4Lu76i6vNgGnxVQ380We1I6AtcZ
+Gv2v8Hhc4EvFGN86JB7arLipWAQCBzDbsBJe/jG+8ARI9PBw+DpeVoPPPfsNvPTF
+7ZedudTbpSeE4zibi6c1hkQgpDttpGoLoYP9KOva7yj2zIhd+wo7AKvgIeviLzVs
+D440RZfroveZMzV+y5qKu0VN5z+fwtmK+mWybsd+Zf/okuEsMaL3sCc2SI8mbzvu
+TXYfecPlf5Y1vC0OzAGwjn//UYCAp5LUs0RGZIyHTxZjBzFLY7Df8w==
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            11:21:40:5c:1f:0e:d2:58:88:2b:e5:4d:86:86:ba:11:ea:45
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=BE, O=GlobalSign nv-sa, CN=GlobalSign Timestamping CA - G2
+        Validity
+            Not Before: Aug 23 00:00:00 2013 GMT
+            Not After : Sep 23 00:00:00 2024 GMT
+        Subject: C=SG, O=GMO GlobalSign Pte Ltd, CN=GlobalSign TSA for MS Authenticode - G1
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b0:17:ae:a2:d3:b6:04:30:56:1e:58:0f:b1:ed:
+                    55:a4:d6:54:cb:d8:f6:73:3a:ec:5d:5e:ab:25:fd:
+                    36:a5:fa:84:c3:61:40:c5:46:b5:59:52:3b:42:a2:
+                    2e:5f:13:62:10:a9:5b:e6:73:d6:92:25:b1:7d:23:
+                    e3:06:b3:87:3a:0e:43:f0:d7:00:89:53:a2:11:31:
+                    52:28:6e:5d:40:72:3c:f2:09:77:a7:49:92:97:d4:
+                    6c:90:a0:76:a7:fd:b8:dc:b3:9d:f2:07:60:2c:4f:
+                    58:98:00:6b:d3:15:54:e0:fa:dd:ff:80:2c:5f:18:
+                    a6:98:ff:d4:ab:ec:a1:45:59:b2:2e:6f:62:5d:e0:
+                    d9:19:ac:8b:57:9c:a8:26:2b:d9:17:a5:10:d2:47:
+                    08:1a:70:2c:33:8b:7f:68:80:2a:b5:a1:5d:6b:dd:
+                    8d:02:02:29:03:aa:7c:37:bb:bb:29:4e:3d:53:93:
+                    b3:a6:fa:8f:d2:58:93:15:4c:b9:2d:ab:80:a3:a3:
+                    25:fb:af:f7:08:64:b0:7a:44:0f:5c:10:d7:5f:61:
+                    37:aa:4e:6b:d3:d2:53:25:9d:82:73:fa:2c:f9:72:
+                    b0:a9:19:39:2a:50:fa:a9:d0:3c:3a:ca:e8:5b:ef:
+                    f5:5f:51:f4:f9:0a:d9:97:35:de:6a:85:e6:23:04:
+                    42:af
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.4146.1.30
+                  CPS: https://www.globalsign.com/repository/
+
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Extended Key Usage: critical
+                Time Stamping
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.globalsign.com/gs/gstimestampingg2.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://secure.globalsign.com/cacert/gstimestampingg2.crt
+
+            X509v3 Subject Key Identifier: 
+                D4:A2:84:4A:38:5A:18:7F:BA:4F:30:50:BD:9D:D5:7A:87:D6:09:F7
+            X509v3 Authority Key Identifier: 
+                keyid:46:D8:3E:FF:DC:E3:BE:FF:83:E6:F4:85:9B:B0:DD:6A:D6:14:A9:C1
+
+    Signature Algorithm: sha1WithRSAEncryption
+         02:31:14:2e:58:57:64:41:85:e8:af:12:75:3c:88:1c:c3:5e:
+         ec:2c:e9:a1:3c:f5:ba:aa:53:1d:b9:d1:29:63:dc:43:67:86:
+         d4:39:da:de:c6:c9:ff:be:45:85:f4:a4:d7:c1:51:ea:18:ee:
+         40:58:5e:e6:7b:cc:a2:41:29:13:38:c8:ea:21:16:9c:ce:90:
+         a6:2e:fb:a6:ca:d9:94:df:40:1d:f9:02:18:2b:be:f6:5d:4f:
+         9f:ff:9a:48:db:c5:05:09:ca:80:ce:a0:f9:dc:4b:c3:23:e6:
+         03:8f:b4:b4:af:5b:71:29:61:91:18:1a:6b:7a:f2:fd:0d:d1:
+         cd:7d:5e:98:eb:ba:70:5e:e5:f4:ea:43:de:35:3d:c5:14:81:
+         8a:db:3e:10:5e:bb:72:fa:a1:a0:93:ab:03:1c:c1:65:3c:91:
+         13:8b:04:5d:2b:c4:b9:16:1b:cc:55:c5:0c:e8:ab:e7:43:c9:
+         b2:83:28:a5:53:13:47:ab:39:64:b9:1c:ea:34:30:b1:76:00:
+         95:21:f1:d4:3d:a8:fd:a0:00:32:d7:6e:98:3c:a6:9c:3b:0b:
+         83:be:cb:b8:bb:2a:26:8c:59:b8:b9:ae:af:26:ac:e2:34:a2:
+         dc:21:0d:81:0b:38:13:f7:45:a3:e3:db:c4:ac:a1:6d:1b:b7:
+         e5:61:5c:d7
+-----BEGIN CERTIFICATE-----
+MIIEnzCCA4egAwIBAgISESFAXB8O0liIK+VNhoa6EepFMA0GCSqGSIb3DQEBBQUA
+MFIxCzAJBgNVBAYTAkJFMRkwFwYDVQQKExBHbG9iYWxTaWduIG52LXNhMSgwJgYD
+VQQDEx9HbG9iYWxTaWduIFRpbWVzdGFtcGluZyBDQSAtIEcyMB4XDTEzMDgyMzAw
+MDAwMFoXDTI0MDkyMzAwMDAwMFowYDELMAkGA1UEBhMCU0cxHzAdBgNVBAoTFkdN
+TyBHbG9iYWxTaWduIFB0ZSBMdGQxMDAuBgNVBAMTJ0dsb2JhbFNpZ24gVFNBIGZv
+ciBNUyBBdXRoZW50aWNvZGUgLSBHMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBALAXrqLTtgQwVh5YD7HtVaTWVMvY9nM67F1eqyX9NqX6hMNhQMVGtVlS
+O0KiLl8TYhCpW+Zz1pIlsX0j4wazhzoOQ/DXAIlTohExUihuXUByPPIJd6dJkpfU
+bJCgdqf9uNyznfIHYCxPWJgAa9MVVOD63f+ALF8Yppj/1KvsoUVZsi5vYl3g2Rms
+i1ecqCYr2RelENJHCBpwLDOLf2iAKrWhXWvdjQICKQOqfDe7uylOPVOTs6b6j9JY
+kxVMuS2rgKOjJfuv9whksHpED1wQ119hN6pOa9PSUyWdgnP6LPlysKkZOSpQ+qnQ
+PDrK6Fvv9V9R9PkK2Zc13mqF5iMEQq8CAwEAAaOCAV8wggFbMA4GA1UdDwEB/wQE
+AwIHgDBMBgNVHSAERTBDMEEGCSsGAQQBoDIBHjA0MDIGCCsGAQUFBwIBFiZodHRw
+czovL3d3dy5nbG9iYWxzaWduLmNvbS9yZXBvc2l0b3J5LzAJBgNVHRMEAjAAMBYG
+A1UdJQEB/wQMMAoGCCsGAQUFBwMIMEIGA1UdHwQ7MDkwN6A1oDOGMWh0dHA6Ly9j
+cmwuZ2xvYmFsc2lnbi5jb20vZ3MvZ3N0aW1lc3RhbXBpbmdnMi5jcmwwVAYIKwYB
+BQUHAQEESDBGMEQGCCsGAQUFBzAChjhodHRwOi8vc2VjdXJlLmdsb2JhbHNpZ24u
+Y29tL2NhY2VydC9nc3RpbWVzdGFtcGluZ2cyLmNydDAdBgNVHQ4EFgQU1KKESjha
+GH+6TzBQvZ3VeofWCfcwHwYDVR0jBBgwFoAURtg+/9zjvv+D5vSFm7DdatYUqcEw
+DQYJKoZIhvcNAQEFBQADggEBAAIxFC5YV2RBheivEnU8iBzDXuws6aE89bqqUx25
+0Slj3ENnhtQ52t7Gyf++RYX0pNfBUeoY7kBYXuZ7zKJBKRM4yOohFpzOkKYu+6bK
+2ZTfQB35AhgrvvZdT5//mkjbxQUJyoDOoPncS8Mj5gOPtLSvW3EpYZEYGmt68v0N
+0c19XpjrunBe5fTqQ941PcUUgYrbPhBeu3L6oaCTqwMcwWU8kROLBF0rxLkWG8xV
+xQzoq+dDybKDKKVTE0erOWS5HOo0MLF2AJUh8dQ9qP2gADLXbpg8ppw7C4O+y7i7
+KiaMWbi5rq8mrOI0otwhDYELOBP3RaPj28SsoW0bt+VhXNc=
+-----END CERTIFICATE-----
+

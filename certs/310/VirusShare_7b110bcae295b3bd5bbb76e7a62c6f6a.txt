@@ -1,0 +1,55 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            02:3c:b1:5a:c8:ed:bd:ab:41:2a:b1:bb:0f:a8:30:92
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=Oracle Inc
+        Validity
+            Not Before: Jan  1 08:00:00 2017 GMT
+            Not After : Jan  1 08:00:00 2023 GMT
+        Subject: CN=Oracle Inc
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c9:90:a7:78:64:5b:00:59:fc:df:f2:8d:b9:45:
+                    41:48:45:cb:02:3e:d1:c3:7c:a6:d8:9b:b1:d6:b9:
+                    bb:0e:b1:1e:ec:7a:6d:ea:65:3c:43:24:05:4c:2f:
+                    63:7d:e1:24:89:97:3b:9b:b6:ab:cb:8a:61:13:92:
+                    83:b4:d5:54:2a:36:4f:af:ca:72:e3:42:3d:67:fb:
+                    bb:c8:9a:2d:3b:b2:19:1e:94:08:22:7c:1a:04:09:
+                    1e:9b:45:f6:89:40:6d:bd:f6:a2:83:0c:6b:2b:68:
+                    02:b8:9c:07:af:25:64:d0:6d:8b:8d:f6:23:c4:ec:
+                    6e:e3:de:78:3c:6a:cd:69:d1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Extended Key Usage: 
+                Code Signing
+            2.5.29.1: 
+                0=....G.\.xi.....\...0.1.0...U...
+Oracle Inc...<.Z....A*....0.
+    Signature Algorithm: sha1WithRSAEncryption
+         38:9c:f1:db:85:6d:6f:f7:9a:e3:58:d4:a6:a6:4e:7a:c5:f0:
+         73:b9:ac:6b:db:cf:6d:f2:57:18:52:92:67:7c:2b:a1:c2:57:
+         c8:ef:bb:ef:65:5c:9e:80:2b:6e:75:0f:92:03:c3:c4:8f:9d:
+         7b:c4:40:ca:4b:5c:eb:b1:16:1e:2b:10:12:1f:fc:c6:37:de:
+         a3:d8:5d:ee:21:1a:55:e0:a8:b7:c8:15:9c:cc:cd:17:e0:c1:
+         da:ba:5e:7e:5c:73:b8:f1:64:62:06:e4:a8:33:23:40:ab:2c:
+         af:8a:af:fb:3e:62:ec:d7:94:b0:e0:11:7a:3e:95:96:4c:72:
+         9a:2f
+-----BEGIN CERTIFICATE-----
+MIICDjCCAXegAwIBAgIQAjyxWsjtvatBKrG7D6gwkjANBgkqhkiG9w0BAQUFADAV
+MRMwEQYDVQQDEwpPcmFjbGUgSW5jMB4XDTE3MDEwMTA4MDAwMFoXDTIzMDEwMTA4
+MDAwMFowFTETMBEGA1UEAxMKT3JhY2xlIEluYzCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEAyZCneGRbAFn83/KNuUVBSEXLAj7Rw3ym2Jux1rm7DrEe7Hpt6mU8
+QyQFTC9jfeEkiZc7m7ary4phE5KDtNVUKjZPr8py40I9Z/u7yJotO7IZHpQIInwa
+BAkem0X2iUBtvfaigwxrK2gCuJwHryVk0G2LjfYjxOxu4954PGrNadECAwEAAaNf
+MF0wEwYDVR0lBAwwCgYIKwYBBQUHAwMwRgYDVR0BBD8wPYAQ+ctHh1yqeGnRlhGq
+5w1ctqEXMBUxEzARBgNVBAMTCk9yYWNsZSBJbmOCEAI8sVrI7b2rQSqxuw+oMJIw
+DQYJKoZIhvcNAQEFBQADgYEAOJzx24Vtb/ea41jUpqZOesXwc7msa9vPbfJXGFKS
+Z3wrocJXyO+772VcnoArbnUPkgPDxI+de8RAyktc67EWHisQEh/8xjfeo9hd7iEa
+VeCot8gVnMzNF+DB2rpeflxzuPFkYgbkqDMjQKssr4qv+z5i7NeUsOARej6Vlkxy
+mi8=
+-----END CERTIFICATE-----
+

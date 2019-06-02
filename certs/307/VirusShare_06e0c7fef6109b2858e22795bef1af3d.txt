@@ -1,0 +1,236 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            0a:c4:dc:39:10:d4:e5:29:92:74:e2:39:05:ea:4c:bd
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert EV Code Signing CA (SHA2)
+        Validity
+            Not Before: Mar  8 00:00:00 2016 GMT
+            Not After : Jan 22 12:00:00 2019 GMT
+        Subject: businessCategory=Private Organization/jurisdictionC=US/jurisdictionST=Delaware/serialNumber=4969967/street=6th Floor/street=55 Almaden Blvd/postalCode=95113, C=US, ST=California, L=San Jose, O=Zoom Video Communications, Inc., CN=Zoom Video Communications, Inc.
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e0:cb:0c:0b:66:72:c3:28:a7:34:c4:75:af:32:
+                    23:e8:65:29:0a:20:fc:cd:3d:95:f5:cc:68:c1:83:
+                    60:54:73:e3:d8:8e:e6:1e:53:da:b3:62:38:37:b2:
+                    07:bc:46:e2:5b:5f:8e:bc:b8:bc:52:a3:e5:05:9a:
+                    bb:44:9a:e4:9c:e8:41:8f:13:e7:9d:bb:00:9a:ba:
+                    b0:9e:ea:1f:d4:a4:8c:f8:9d:ca:2c:9f:91:9a:c0:
+                    bd:98:1b:db:6a:7e:25:2e:35:d1:5c:ed:e0:a5:60:
+                    87:df:92:64:e0:c0:63:18:39:34:17:ca:ce:61:92:
+                    68:c6:aa:a4:40:53:3f:43:a8:c0:e0:46:84:9d:ea:
+                    e8:6a:19:23:11:ed:74:41:90:02:df:d8:f8:81:72:
+                    46:38:96:69:73:23:f4:c8:9a:ef:5e:47:69:23:66:
+                    7e:7f:26:e7:bc:df:a9:fa:ff:c0:86:2a:84:a1:18:
+                    5e:08:b4:b4:68:57:1b:42:52:f9:6c:1d:61:23:f0:
+                    03:95:19:a8:fb:2e:48:7a:68:e3:f3:8e:98:93:e8:
+                    58:a2:54:60:eb:a5:cf:dd:c9:7c:cf:6b:d5:63:10:
+                    8a:7b:11:c1:6a:20:3c:8a:41:ca:8d:ef:7a:5e:35:
+                    45:e8:e3:2b:3b:cb:b2:e9:ef:22:e2:c3:37:2b:93:
+                    49:49
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:8F:E8:7E:F0:6D:32:6A:00:05:23:C7:70:97:6A:3A:90:FF:6B:EA:D4
+
+            X509v3 Subject Key Identifier: 
+                6F:7B:44:3F:E6:77:DC:CF:45:B2:E4:07:E9:CC:9E:E2:22:66:C2:0C
+            X509v3 Subject Alternative Name: 
+                othername:<unsupported>
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl3.digicert.com/EVCodeSigningSHA2-g1.crl
+
+                Full Name:
+                  URI:http://crl4.digicert.com/EVCodeSigningSHA2-g1.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.114412.3.2
+                  CPS: https://www.digicert.com/CPS
+                Policy: 2.23.140.1.3
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.digicert.com
+                CA Issuers - URI:http://cacerts.digicert.com/DigiCertEVCodeSigningCA-SHA2.crt
+
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+    Signature Algorithm: sha256WithRSAEncryption
+         92:31:0d:1a:81:e2:2d:5f:44:98:43:91:48:35:2a:d5:86:69:
+         d1:f5:5e:19:15:50:26:93:69:bd:71:b5:fd:ed:e7:ea:4c:3a:
+         87:f7:10:38:06:f3:ac:d3:12:fe:24:59:ab:8c:3b:32:3c:08:
+         3d:8d:33:8d:c9:93:01:31:68:7d:40:d8:66:42:60:d7:e8:3c:
+         8c:21:ed:e9:4c:cd:29:65:7a:cb:97:d6:15:ae:56:63:3e:5e:
+         18:10:22:24:bb:14:e9:7b:62:ab:5f:93:c2:3d:f3:1c:d4:c5:
+         98:2a:7a:5b:92:57:24:e1:79:0a:96:35:43:d1:49:16:9d:d9:
+         0a:1d:61:e3:bf:c7:28:01:1d:36:46:a4:6b:c9:e4:e0:c1:6f:
+         77:84:ec:d9:f7:b2:cf:59:b7:d6:80:f7:59:b7:ed:5d:07:b6:
+         81:a9:44:f7:02:e1:30:5a:49:a6:22:12:5f:6a:c3:1f:1c:ad:
+         db:95:1e:45:8a:c6:26:da:c4:27:de:1e:1e:7c:72:23:12:a4:
+         9c:17:79:9b:14:72:c1:5c:c8:16:a6:f2:7f:8d:c5:f0:c4:83:
+         e5:62:37:43:67:32:72:d3:e3:15:98:1f:47:f4:5e:a0:1c:4f:
+         cd:6d:7d:fb:0e:07:59:60:51:60:3a:2e:6a:72:0b:49:f0:ab:
+         f5:fa:df:11
+-----BEGIN CERTIFICATE-----
+MIIGEzCCBPugAwIBAgIQCsTcORDU5SmSdOI5BepMvTANBgkqhkiG9w0BAQsFADBs
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMSswKQYDVQQDEyJEaWdpQ2VydCBFViBDb2RlIFNpZ25p
+bmcgQ0EgKFNIQTIpMB4XDTE2MDMwODAwMDAwMFoXDTE5MDEyMjEyMDAwMFowggEo
+MR0wGwYDVQQPDBRQcml2YXRlIE9yZ2FuaXphdGlvbjETMBEGCysGAQQBgjc8AgED
+EwJVUzEZMBcGCysGAQQBgjc8AgECEwhEZWxhd2FyZTEQMA4GA1UEBRMHNDk2OTk2
+NzESMBAGA1UECRMJNnRoIEZsb29yMRgwFgYDVQQJEw81NSBBbG1hZGVuIEJsdmQx
+DjAMBgNVBBETBTk1MTEzMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5p
+YTERMA8GA1UEBxMIU2FuIEpvc2UxKDAmBgNVBAoTH1pvb20gVmlkZW8gQ29tbXVu
+aWNhdGlvbnMsIEluYy4xKDAmBgNVBAMTH1pvb20gVmlkZW8gQ29tbXVuaWNhdGlv
+bnMsIEluYy4wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDgywwLZnLD
+KKc0xHWvMiPoZSkKIPzNPZX1zGjBg2BUc+PYjuYeU9qzYjg3sge8RuJbX468uLxS
+o+UFmrtEmuSc6EGPE+eduwCaurCe6h/UpIz4ncosn5GawL2YG9tqfiUuNdFc7eCl
+YIffkmTgwGMYOTQXys5hkmjGqqRAUz9DqMDgRoSd6uhqGSMR7XRBkALf2PiBckY4
+lmlzI/TImu9eR2kjZn5/Jue836n6/8CGKoShGF4ItLRoVxtCUvlsHWEj8AOVGaj7
+Lkh6aOPzjpiT6FiiVGDrpc/dyXzPa9VjEIp7EcFqIDyKQcqN73peNUXo4ys7y7Lp
+7yLiwzcrk0lJAgMBAAGjggHxMIIB7TAfBgNVHSMEGDAWgBSP6H7wbTJqAAUjx3CX
+ajqQ/2vq1DAdBgNVHQ4EFgQUb3tEP+Z33M9FsuQH6cye4iJmwgwwLgYDVR0RBCcw
+JaAjBggrBgEFBQcIA6AXMBUME1VTLURFTEFXQVJFLTQ5Njk5NjcwDgYDVR0PAQH/
+BAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMHsGA1UdHwR0MHIwN6A1oDOGMWh0
+dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9FVkNvZGVTaWduaW5nU0hBMi1nMS5jcmww
+N6A1oDOGMWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9FVkNvZGVTaWduaW5nU0hB
+Mi1nMS5jcmwwSwYDVR0gBEQwQjA3BglghkgBhv1sAwIwKjAoBggrBgEFBQcCARYc
+aHR0cHM6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAHBgVngQwBAzB+BggrBgEFBQcB
+AQRyMHAwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBIBggr
+BgEFBQcwAoY8aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0RVZD
+b2RlU2lnbmluZ0NBLVNIQTIuY3J0MAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQEL
+BQADggEBAJIxDRqB4i1fRJhDkUg1KtWGadH1XhkVUCaTab1xtf3t5+pMOof3EDgG
+86zTEv4kWauMOzI8CD2NM43JkwExaH1A2GZCYNfoPIwh7elMzSllesuX1hWuVmM+
+XhgQIiS7FOl7Yqtfk8I98xzUxZgqeluSVyTheQqWNUPRSRad2QodYeO/xygBHTZG
+pGvJ5ODBb3eE7Nn3ss9Zt9aA91m37V0HtoGpRPcC4TBaSaYiEl9qwx8crduVHkWK
+xibaxCfeHh58ciMSpJwXeZsUcsFcyBam8n+NxfDEg+ViN0NnMnLT4xWYH0f0XqAc
+T81tffsOB1lgUWA6LmpyC0nwq/X63xE=
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            03:f1:b4:e1:5f:3a:82:f1:14:96:78:b3:d7:d8:47:5c
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert High Assurance EV Root CA
+        Validity
+            Not Before: Apr 18 12:00:00 2012 GMT
+            Not After : Apr 18 12:00:00 2027 GMT
+        Subject: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert EV Code Signing CA (SHA2)
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a7:53:fa:0f:b2:b5:13:f1:64:cf:84:80:fc:ae:
+                    80:35:d1:b6:d7:c7:a3:2c:ac:1a:2c:ac:f1:84:ac:
+                    3a:35:12:3a:92:91:ba:57:e4:c4:c9:f3:2f:a8:48:
+                    3c:b7:d6:6e:dc:97:22:ba:51:79:61:af:43:2f:0d:
+                    b7:9b:b4:49:31:ae:44:58:3e:a4:a1:96:a7:87:4f:
+                    23:7e:c3:6c:65:24:90:55:3e:a1:ca:23:7c:c5:42:
+                    e9:c4:7a:62:45:9b:7d:de:63:74:cb:9e:63:25:f8:
+                    84:9a:9a:ad:45:4f:ae:7d:1f:c8:13:cb:75:9b:c9:
+                    e1:e1:8a:f8:0b:0c:98:f4:ca:3e:d0:45:aa:7a:1e:
+                    a5:58:93:36:34:be:2b:2e:2b:31:58:66:b4:32:10:
+                    9f:9d:f0:52:a1:ef:e8:3e:d3:76:f2:40:5a:dc:fa:
+                    6a:3d:1b:4b:ad:76:b0:8c:5c:ee:36:ba:83:ea:30:
+                    a8:4c:de:f1:0b:2a:58:41:88:ae:00:89:ab:03:d1:
+                    16:82:20:22:76:eb:5e:54:38:12:62:e1:d2:70:24:
+                    db:ed:1f:70:d2:64:09:80:2d:e2:b6:9d:ce:1f:f2:
+                    bb:21:f3:6c:db:d8:b3:19:7b:8a:50:9f:ef:ec:36:
+                    0a:5c:9a:b7:4a:d3:08:a0:39:79:fd:dd:bf:3d:3a:
+                    09:25
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Key Usage: critical
+                Digital Signature, Certificate Sign, CRL Sign
+            X509v3 Extended Key Usage: 
+                Code Signing
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.digicert.com
+                CA Issuers - URI:http://cacerts.digicert.com/DigiCertHighAssuranceEVRootCA.crt
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl3.digicert.com/DigiCertHighAssuranceEVRootCA.crl
+
+                Full Name:
+                  URI:http://crl4.digicert.com/DigiCertHighAssuranceEVRootCA.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.114412.3.2
+                  CPS: http://www.digicert.com/ssl-cps-repository.htm
+                  User Notice:
+                    Explicit Text: 
+
+            X509v3 Subject Key Identifier: 
+                8F:E8:7E:F0:6D:32:6A:00:05:23:C7:70:97:6A:3A:90:FF:6B:EA:D4
+            X509v3 Authority Key Identifier: 
+                keyid:B1:3E:C3:69:03:F8:BF:47:01:D4:98:26:1A:08:02:EF:63:64:2B:C3
+
+    Signature Algorithm: sha256WithRSAEncryption
+         19:33:4a:0c:81:33:37:db:ad:36:c9:e4:c9:3a:bb:b5:1b:2e:
+         7a:a2:e2:f4:43:42:17:9e:bf:4e:a1:4d:e1:b1:db:e9:81:dd:
+         9f:01:f2:e4:88:d5:e9:fe:09:fd:21:c1:ec:5d:80:d2:f0:d6:
+         c1:43:c2:fe:77:2b:db:f9:d7:91:33:ce:6c:d5:b2:19:3b:e6:
+         2e:d6:c9:93:4f:88:40:8e:cd:e1:f5:7e:f1:0f:c6:59:56:72:
+         e8:eb:6a:41:bd:1c:d5:46:d5:7c:49:ca:66:38:15:c1:bf:e0:
+         91:70:77:87:dc:c9:8d:31:c9:0c:29:a2:33:ed:8d:e2:87:cd:
+         89:8d:3f:1b:ff:d5:e0:1a:97:8b:7c:da:6d:fb:a8:c6:b2:3a:
+         66:6b:7b:01:b3:cd:d8:a6:34:ec:12:01:ab:95:58:a5:c4:53:
+         57:a8:60:e6:e7:02:12:a0:b9:23:64:a2:4d:bb:7c:81:25:64:
+         21:be:cf:ee:42:18:43:97:bb:a5:37:06:af:4d:ff:26:a5:4d:
+         61:4b:ec:46:41:b8:65:ce:b8:79:9e:08:96:0b:81:8c:8a:3b:
+         8f:c7:99:8c:a3:2a:6e:98:6d:5e:61:c6:96:b7:8a:b9:61:2d:
+         93:b8:eb:0e:04:43:d7:f5:fe:a6:f0:62:d4:99:6a:a5:c1:c1:
+         f0:64:94:80
+-----BEGIN CERTIFICATE-----
+MIIGvDCCBaSgAwIBAgIQA/G04V86gvEUlniz19hHXDANBgkqhkiG9w0BAQsFADBs
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMSswKQYDVQQDEyJEaWdpQ2VydCBIaWdoIEFzc3VyYW5j
+ZSBFViBSb290IENBMB4XDTEyMDQxODEyMDAwMFoXDTI3MDQxODEyMDAwMFowbDEL
+MAkGA1UEBhMCVVMxFTATBgNVBAoTDERpZ2lDZXJ0IEluYzEZMBcGA1UECxMQd3d3
+LmRpZ2ljZXJ0LmNvbTErMCkGA1UEAxMiRGlnaUNlcnQgRVYgQ29kZSBTaWduaW5n
+IENBIChTSEEyKTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKdT+g+y
+tRPxZM+EgPyugDXRttfHoyysGiys8YSsOjUSOpKRulfkxMnzL6hIPLfWbtyXIrpR
+eWGvQy8Nt5u0STGuRFg+pKGWp4dPI37DbGUkkFU+ocojfMVC6cR6YkWbfd5jdMue
+YyX4hJqarUVPrn0fyBPLdZvJ4eGK+AsMmPTKPtBFqnoepViTNjS+Ky4rMVhmtDIQ
+n53wUqHv6D7TdvJAWtz6aj0bS612sIxc7ja6g+owqEze8QsqWEGIrgCJqwPRFoIg
+InbrXlQ4EmLh0nAk2+0fcNJkCYAt4radzh/yuyHzbNvYsxl7ilCf7+w2Clyat0rT
+CKA5ef3dvz06CSUCAwEAAaOCA1gwggNUMBIGA1UdEwEB/wQIMAYBAf8CAQAwDgYD
+VR0PAQH/BAQDAgGGMBMGA1UdJQQMMAoGCCsGAQUFBwMDMH8GCCsGAQUFBwEBBHMw
+cTAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEkGCCsGAQUF
+BzAChj1odHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRIaWdoQXNz
+dXJhbmNlRVZSb290Q0EuY3J0MIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9j
+cmwzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEhpZ2hBc3N1cmFuY2VFVlJvb3RDQS5j
+cmwwQKA+oDyGOmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEhpZ2hB
+c3N1cmFuY2VFVlJvb3RDQS5jcmwwggHEBgNVHSAEggG7MIIBtzCCAbMGCWCGSAGG
+/WwDAjCCAaQwOgYIKwYBBQUHAgEWLmh0dHA6Ly93d3cuZGlnaWNlcnQuY29tL3Nz
+bC1jcHMtcmVwb3NpdG9yeS5odG0wggFkBggrBgEFBQcCAjCCAVYeggFSAEEAbgB5
+ACAAdQBzAGUAIABvAGYAIAB0AGgAaQBzACAAQwBlAHIAdABpAGYAaQBjAGEAdABl
+ACAAYwBvAG4AcwB0AGkAdAB1AHQAZQBzACAAYQBjAGMAZQBwAHQAYQBuAGMAZQAg
+AG8AZgAgAHQAaABlACAARABpAGcAaQBDAGUAcgB0ACAAQwBQAC8AQwBQAFMAIABh
+AG4AZAAgAHQAaABlACAAUgBlAGwAeQBpAG4AZwAgAFAAYQByAHQAeQAgAEEAZwBy
+AGUAZQBtAGUAbgB0ACAAdwBoAGkAYwBoACAAbABpAG0AaQB0ACAAbABpAGEAYgBp
+AGwAaQB0AHkAIABhAG4AZAAgAGEAcgBlACAAaQBuAGMAbwByAHAAbwByAGEAdABl
+AGQAIABoAGUAcgBlAGkAbgAgAGIAeQAgAHIAZQBmAGUAcgBlAG4AYwBlAC4wHQYD
+VR0OBBYEFI/ofvBtMmoABSPHcJdqOpD/a+rUMB8GA1UdIwQYMBaAFLE+w2kD+L9H
+AdSYJhoIAu9jZCvDMA0GCSqGSIb3DQEBCwUAA4IBAQAZM0oMgTM32602yeTJOru1
+Gy56ouL0Q0IXnr9OoU3hsdvpgd2fAfLkiNXp/gn9IcHsXYDS8NbBQ8L+dyvb+deR
+M85s1bIZO+Yu1smTT4hAjs3h9X7xD8ZZVnLo62pBvRzVRtV8ScpmOBXBv+CRcHeH
+3MmNMckMKaIz7Y3ih82JjT8b/9XgGpeLfNpt+6jGsjpma3sBs83YpjTsEgGrlVil
+xFNXqGDm5wISoLkjZKJNu3yBJWQhvs/uQhhDl7ulNwavTf8mpU1hS+xGQbhlzrh5
+ngiWC4GMijuPx5mMoypumG1eYcaWt4q5YS2TuOsOBEPX9f6m8GLUmWqlwcHwZJSA
+-----END CERTIFICATE-----
+

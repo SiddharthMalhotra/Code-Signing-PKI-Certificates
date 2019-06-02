@@ -1,0 +1,55 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            3f:55:ed:a0:1a:49:0a:93:4e:35:63:99:86:51:e6:97
+    Signature Algorithm: sha512WithRSAEncryption
+        Issuer: CN=Lutin
+        Validity
+            Not Before: Jul 27 22:00:00 2015 GMT
+            Not After : Jul 27 22:00:00 2018 GMT
+        Subject: CN=Lutin
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:bb:ed:40:5f:68:4f:3b:5c:a9:e2:d7:ef:50:85:
+                    ec:73:57:93:c5:37:62:19:e6:31:d6:c1:9c:99:82:
+                    46:48:c7:3e:25:30:bb:56:d0:6f:73:5b:38:33:ed:
+                    8f:a2:90:54:7b:73:8d:e2:5e:f3:8c:8b:52:b0:6f:
+                    fa:0b:f6:d1:28:5e:1b:7b:da:72:cd:17:62:58:45:
+                    ec:1e:c4:69:00:75:2a:2a:e7:e4:94:b2:f7:6d:c8:
+                    10:52:e0:cd:34:01:6c:19:ee:c8:a2:8b:5a:bc:4a:
+                    a1:38:4e:08:a2:22:f5:b7:f6:28:a3:a5:bd:d1:a2:
+                    c9:1c:d7:03:17:d1:ef:1b:15
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            2.5.29.1: 
+                08...a.._Y..j..
+d}....0.1.0...U....Lutin..?U...I
+.N5c..Q..
+    Signature Algorithm: sha512WithRSAEncryption
+         18:1b:7b:bc:6b:f9:a4:ab:0d:ef:08:44:e1:16:7b:01:4d:08:
+         81:0e:ab:22:a0:8a:1f:28:2c:a2:a6:7d:07:d1:f9:69:cd:c5:
+         25:17:41:cf:2c:f5:e7:dd:36:46:7e:b1:ba:2d:9a:28:54:17:
+         bf:3e:2f:bf:64:16:b5:44:99:7b:91:a7:d4:ec:38:b9:8b:6e:
+         f3:b9:e7:cc:a0:ee:4b:95:8b:6e:a4:af:73:45:32:1b:8b:75:
+         c8:a1:a7:3d:b4:a2:83:5e:89:48:95:db:fc:ce:95:11:a7:67:
+         72:63:3e:f1:de:64:95:70:6d:d2:c5:83:ad:9a:6b:c4:45:16:
+         9b:88
+-----BEGIN CERTIFICATE-----
+MIIB+zCCAWSgAwIBAgIQP1XtoBpJCpNONWOZhlHmlzANBgkqhkiG9w0BAQ0FADAQ
+MQ4wDAYDVQQDEwVMdXRpbjAeFw0xNTA3MjcyMjAwMDBaFw0xODA3MjcyMjAwMDBa
+MBAxDjAMBgNVBAMTBUx1dGluMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC7
+7UBfaE87XKni1+9QhexzV5PFN2IZ5jHWwZyZgkZIxz4lMLtW0G9zWzgz7Y+ikFR7
+c43iXvOMi1Kwb/oL9tEoXht72nLNF2JYRewexGkAdSoq5+SUsvdtyBBS4M00AWwZ
+7siii1q8SqE4TgiiIvW39iijpb3Roskc1wMX0e8bFQIDAQABo1YwVDAPBgNVHRMB
+Af8EBTADAQH/MEEGA1UdAQQ6MDiAEIVhiB9fWRCJaoGlCmR93tqhEjAQMQ4wDAYD
+VQQDEwVMdXRpboIQP1XtoBpJCpNONWOZhlHmlzANBgkqhkiG9w0BAQ0FAAOBgQAY
+G3u8a/mkqw3vCEThFnsBTQiBDqsioIofKCyipn0H0flpzcUlF0HPLPXn3TZGfrG6
+LZooVBe/Pi+/ZBa1RJl7kafU7Di5i27zuefMoO5LlYtupK9zRTIbi3XIoac9tKKD
+XolIldv8zpURp2dyYz7x3mSVcG3SxYOtmmvERRabiA==
+-----END CERTIFICATE-----
+

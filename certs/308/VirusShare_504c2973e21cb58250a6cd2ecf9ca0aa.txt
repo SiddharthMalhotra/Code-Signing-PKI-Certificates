@@ -1,0 +1,363 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 3044305017980426160 (0x2a3f8b48d0a997b0)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=TR, L=Ankara, O=E-Tu\xC4\x9Fra EBG Bili\xC5\x9Fim Teknolojileri ve Hizmetleri A.\xC5\x9E., OU=E-Tu\xC4\x9Fra Sertifikasyon Merkezi, CN=E-Tugra Organization Validated CA
+        Validity
+            Not Before: Aug 24 08:40:00 2017 GMT
+            Not After : Aug 22 03:28:00 2020 GMT
+        Subject: C=TR, O=FENESOFT B\xC4\xB0LG\xC4\xB0SAYAR YAZILIM/serialNumber=4980651561, CN=FENESOFT B\xC4\xB0LG\xC4\xB0SAYAR YAZILIM
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:dd:cc:9f:ef:e0:73:f9:d4:a1:d6:8b:07:4f:92:
+                    04:eb:3c:ae:c1:5f:42:e8:00:c4:5e:00:73:04:3f:
+                    bf:bb:91:9f:9c:2a:1c:54:f5:71:0a:de:a1:4b:1c:
+                    66:cf:72:4d:f7:50:7b:92:9e:fa:0b:c9:ee:8a:5d:
+                    a6:c2:9e:5c:54:e7:28:64:e9:50:00:0f:63:65:2b:
+                    f0:4c:34:88:44:90:2f:42:a3:52:e7:06:1b:24:60:
+                    9c:63:25:e0:c1:80:79:a1:83:7f:c0:40:9e:ac:97:
+                    b1:71:dc:c6:d7:37:47:c6:dc:00:ff:0d:f9:c4:06:
+                    7b:4d:5d:d2:06:b0:60:81:b5:1f:91:76:98:91:55:
+                    94:31:4e:33:62:c7:38:19:20:9e:e5:96:30:29:32:
+                    1c:08:c2:28:e6:5b:9e:3c:9f:47:06:98:5e:15:b0:
+                    6d:f3:b0:25:47:d2:63:e2:6c:65:91:3e:fe:58:d2:
+                    35:89:39:d3:e7:66:7e:0a:d9:a1:cc:d3:be:66:cc:
+                    69:c8:8e:8e:e8:d9:5f:8f:21:88:86:1f:b1:c9:28:
+                    fe:7f:b7:6b:65:b7:61:67:44:fc:26:a3:ed:19:52:
+                    62:46:29:f9:75:dc:dc:a5:23:57:48:77:9d:53:c1:
+                    ee:f7:4e:b3:48:8e:93:ac:15:da:dd:f3:8b:c0:db:
+                    a6:5b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Authority Key Identifier: 
+                keyid:B5:F7:D3:F8:27:29:59:8F:90:8B:6E:A3:7E:B3:DD:DA:CA:74:85:A9
+
+            Authority Information Access: 
+                CA Issuers - URI:http://www.e-tugra.com/crt/etugra_sslov_v2.crt
+                OCSP - URI:http://ocsp.e-tugra.com/status/ocsp
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.792.3.0.4.1.1.3
+                  CPS: http://www.e-tugra.com/cps
+
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.e-tugra.com/etugra_sslov.crl
+
+                Full Name:
+                  URI:http://crl1.e-tugra.com/etugra_sslov.crl
+
+            X509v3 Subject Key Identifier: 
+                24:2F:4B:F8:A1:01:52:66:F1:BB:A2:EC:70:04:81:55:D1:44:31:15
+            X509v3 Key Usage: critical
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+         57:64:71:06:16:66:1e:a4:7f:83:bc:f0:7e:60:a1:5c:9d:39:
+         b1:1d:54:af:86:dc:d1:f8:b7:44:60:b5:f0:ae:71:d1:59:cd:
+         46:ef:73:95:bc:71:42:2f:69:04:e8:e7:84:4e:2f:c5:ed:7b:
+         5d:d9:71:38:aa:23:bb:f0:c5:0b:b5:7b:9d:b3:28:c0:e1:32:
+         4e:a4:8a:fa:71:a7:82:9a:d1:ab:8b:01:b4:bd:fe:34:6e:18:
+         9c:09:4f:53:16:fb:c6:2f:bf:5e:c0:19:a3:f9:be:2e:c4:8b:
+         cd:ff:78:62:55:57:4f:37:b0:10:f7:47:78:39:67:e0:ff:dd:
+         e6:12:78:6a:cc:e4:dd:f5:4f:c1:bc:64:36:aa:7c:46:cb:39:
+         2d:4c:ef:3c:88:99:39:b5:9c:d8:7f:3d:5d:c3:95:b0:4d:48:
+         3c:b2:15:4c:5d:cc:43:aa:e9:62:d0:fd:e7:f5:78:cf:47:f9:
+         e9:1f:85:27:31:32:65:11:80:e1:1d:3a:6e:7a:ed:09:1f:c0:
+         7a:df:ce:28:7a:d9:b6:10:b4:fc:40:26:a1:99:31:13:cc:b7:
+         49:65:39:f6:c9:70:99:f7:3b:91:ba:b6:4a:be:14:54:6c:3b:
+         88:7a:a8:80:39:3e:f6:50:93:02:ae:6c:66:97:38:d4:1b:5c:
+         ca:e7:86:3a
+-----BEGIN CERTIFICATE-----
+MIIFSTCCBDGgAwIBAgIIKj+LSNCpl7AwDQYJKoZIhvcNAQELBQAwgbUxCzAJBgNV
+BAYTAlRSMQ8wDQYDVQQHDAZBbmthcmExQDA+BgNVBAoMN0UtVHXEn3JhIEVCRyBC
+aWxpxZ9pbSBUZWtub2xvamlsZXJpIHZlIEhpem1ldGxlcmkgQS7Fni4xJzAlBgNV
+BAsMHkUtVHXEn3JhIFNlcnRpZmlrYXN5b24gTWVya2V6aTEqMCgGA1UEAwwhRS1U
+dWdyYSBPcmdhbml6YXRpb24gVmFsaWRhdGVkIENBMB4XDTE3MDgyNDA4NDAwMFoX
+DTIwMDgyMjAzMjgwMFowcjELMAkGA1UEBhMCVFIxJjAkBgNVBAoMHUZFTkVTT0ZU
+IELEsExHxLBTQVlBUiBZQVpJTElNMRMwEQYDVQQFEwo0OTgwNjUxNTYxMSYwJAYD
+VQQDDB1GRU5FU09GVCBCxLBMR8SwU0FZQVIgWUFaSUxJTTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAN3Mn+/gc/nUodaLB0+SBOs8rsFfQugAxF4AcwQ/
+v7uRn5wqHFT1cQreoUscZs9yTfdQe5Ke+gvJ7opdpsKeXFTnKGTpUAAPY2Ur8Ew0
+iESQL0KjUucGGyRgnGMl4MGAeaGDf8BAnqyXsXHcxtc3R8bcAP8N+cQGe01d0gaw
+YIG1H5F2mJFVlDFOM2LHOBkgnuWWMCkyHAjCKOZbnjyfRwaYXhWwbfOwJUfSY+Js
+ZZE+/ljSNYk50+dmfgrZoczTvmbMaciOjujZX48hiIYfscko/n+3a2W3YWdE/Caj
+7RlSYkYp+XXc3KUjV0h3nVPB7vdOs0iOk6wV2t3zi8DbplsCAwEAAaOCAZ0wggGZ
+MAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUtffT+CcpWY+Qi26jfrPd2sp0hakwewYI
+KwYBBQUHAQEEbzBtMDoGCCsGAQUFBzAChi5odHRwOi8vd3d3LmUtdHVncmEuY29t
+L2NydC9ldHVncmFfc3Nsb3ZfdjIuY3J0MC8GCCsGAQUFBzABhiNodHRwOi8vb2Nz
+cC5lLXR1Z3JhLmNvbS9zdGF0dXMvb2NzcDBABgNVHSAEOTA3MDUGCWCGGAMABAEB
+AzAoMCYGCCsGAQUFBwIBFhpodHRwOi8vd3d3LmUtdHVncmEuY29tL2NwczATBgNV
+HSUEDDAKBggrBgEFBQcDAzBoBgNVHR8EYTBfMC2gK6AphidodHRwOi8vY3JsLmUt
+dHVncmEuY29tL2V0dWdyYV9zc2xvdi5jcmwwLqAsoCqGKGh0dHA6Ly9jcmwxLmUt
+dHVncmEuY29tL2V0dWdyYV9zc2xvdi5jcmwwHQYDVR0OBBYEFCQvS/ihAVJm8bui
+7HAEgVXRRDEVMA4GA1UdDwEB/wQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEAV2Rx
+BhZmHqR/g7zwfmChXJ05sR1Ur4bc0fi3RGC18K5x0VnNRu9zlbxxQi9pBOjnhE4v
+xe17XdlxOKoju/DFC7V7nbMowOEyTqSK+nGngprRq4sBtL3+NG4YnAlPUxb7xi+/
+XsAZo/m+LsSLzf94YlVXTzewEPdHeDln4P/d5hJ4aszk3fVPwbxkNqp8Rss5LUzv
+PIiZObWc2H89XcOVsE1IPLIVTF3MQ6rpYtD95/V4z0f56R+FJzEyZRGA4R06bnrt
+CR/Aet/OKHrZthC0/EAmoZkxE8y3SWU59slwmfc7kbq2Sr4UVGw7iHqogDk+9lCT
+Aq5sZpc41BtcyueGOg==
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 7667447206703254355 (0x6a683e9c519bcb53)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=TR, L=Ankara, O=E-Tu\xC4\x9Fra EBG Bili\xC5\x9Fim Teknolojileri ve Hizmetleri A.\xC5\x9E., OU=E-Tugra Sertifikasyon Merkezi, CN=E-Tugra Certification Authority
+        Validity
+            Not Before: Mar  5 12:09:48 2013 GMT
+            Not After : Mar  3 12:09:48 2023 GMT
+        Subject: C=TR, L=Ankara, O=E-Tu\xC4\x9Fra EBG Bili\xC5\x9Fim Teknolojileri ve Hizmetleri A.\xC5\x9E., OU=E-Tugra Sertifikasyon Merkezi, CN=E-Tugra Certification Authority
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:e2:f5:3f:93:05:51:1e:85:62:54:5e:7a:0b:f5:
+                    18:07:83:ae:7e:af:7c:f7:d4:8a:6b:a5:63:43:39:
+                    b9:4b:f7:c3:c6:64:89:3d:94:2e:54:80:52:39:39:
+                    07:4b:4b:dd:85:07:76:87:cc:bf:2f:95:4c:cc:7d:
+                    a7:3d:bc:47:0f:98:70:f8:8c:85:1e:74:8e:92:6d:
+                    1b:40:d1:99:0d:bb:75:6e:c8:a9:6b:9a:c0:84:31:
+                    af:ca:43:cb:eb:2b:34:e8:8f:97:6b:01:9b:d5:0e:
+                    4a:08:aa:5b:92:74:85:43:d3:80:ae:a1:88:5b:ae:
+                    b3:ea:5e:cb:16:9a:77:44:c8:a1:f6:54:68:ce:de:
+                    8f:97:2b:ba:5b:40:02:0c:64:17:c0:b5:93:cd:e1:
+                    f1:13:66:ce:0c:79:ef:d1:91:28:ab:5f:a0:12:52:
+                    30:73:19:8e:8f:e1:8c:07:a2:c3:bb:4a:f0:ea:1f:
+                    15:a8:ee:25:cc:a4:46:f8:1b:22:ef:b3:0e:43:ba:
+                    2c:24:b8:c5:2c:5c:d4:1c:f8:5d:64:bd:c3:93:5e:
+                    28:a7:3f:27:f1:8e:1e:d3:2a:50:05:a3:55:d9:cb:
+                    e7:39:53:c0:98:9e:8c:54:62:8b:26:b0:f7:7d:8d:
+                    7c:e4:c6:9e:66:42:55:82:47:e7:b2:58:8d:66:f7:
+                    07:7c:2e:36:e6:50:1c:3f:db:43:24:c5:bf:86:47:
+                    79:b3:79:1c:f7:5a:f4:13:ec:6c:f8:3f:e2:59:1f:
+                    95:ee:42:3e:b9:ad:a8:32:85:49:97:46:fe:4b:31:
+                    8f:5a:cb:ad:74:47:1f:e9:91:b7:df:28:04:22:a0:
+                    d4:0f:5d:e2:79:4f:ea:6c:85:86:bd:a8:a6:ce:e4:
+                    fa:c3:e1:b3:ae:de:3c:51:ee:cb:13:7c:01:7f:84:
+                    0e:5d:51:94:9e:13:0c:b6:2e:a5:4c:f9:39:70:36:
+                    6f:96:ca:2e:0c:44:55:c5:ca:fa:5d:02:a3:df:d6:
+                    64:8c:5a:b3:01:0a:a9:b5:0a:47:17:ff:ef:91:40:
+                    2a:8e:a1:46:3a:31:98:e5:11:fc:cc:bb:49:56:8a:
+                    fc:b9:d0:61:9a:6f:65:6c:e6:c3:cb:3e:75:49:fe:
+                    8f:a7:e2:89:c5:67:d7:9d:46:13:4e:31:76:3b:24:
+                    b3:9e:11:65:86:ab:7f:ef:1d:d4:f8:bc:e7:ac:5a:
+                    5c:b7:5a:47:5c:55:ce:55:b4:22:71:5b:5b:0b:f0:
+                    cf:dc:a0:61:64:ea:a9:d7:68:0a:63:a7:e0:0d:3f:
+                    a0:af:d3:aa:d2:7e:ef:51:a0:e6:51:2b:55:92:15:
+                    17:53:cb:b7:66:0e:66:4c:f8:f9:75:4c:90:e7:12:
+                    70:c7:45
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                2E:E3:DB:B2:49:D0:9C:54:79:5C:FA:27:2A:FE:CC:4E:D2:E8:4E:54
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Authority Key Identifier: 
+                keyid:2E:E3:DB:B2:49:D0:9C:54:79:5C:FA:27:2A:FE:CC:4E:D2:E8:4E:54
+
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+    Signature Algorithm: sha256WithRSAEncryption
+         05:37:3a:f4:4d:b7:45:e2:45:75:24:8f:b6:77:52:e8:1c:d8:
+         10:93:65:f3:f2:59:06:a4:3e:1e:29:ec:5d:d1:d0:ab:7c:e0:
+         0a:90:48:78:ed:4e:98:03:99:fe:28:60:91:1d:30:1d:b8:63:
+         7c:a8:e6:35:b5:fa:d3:61:76:e6:d6:07:4b:ca:69:9a:b2:84:
+         7a:77:93:45:17:15:9f:24:d0:98:13:12:ff:bb:a0:2e:fd:4e:
+         4c:87:f8:ce:5c:aa:98:1b:05:e0:00:46:4a:82:80:a5:33:8b:
+         28:dc:ed:38:d3:df:e5:3e:e9:fe:fb:59:dd:61:84:4f:d2:54:
+         96:13:61:13:3e:8f:80:69:be:93:47:b5:35:43:d2:5a:bb:3d:
+         5c:ef:b3:42:47:cd:3b:55:13:06:b0:09:db:fd:63:f6:3a:88:
+         0a:99:6f:7e:e1:ce:1b:53:6a:44:66:23:51:08:7b:bc:5b:52:
+         a2:fd:06:37:38:40:61:8f:4a:96:b8:90:37:f8:66:c7:78:90:
+         00:15:2e:8b:ad:51:35:53:07:a8:6b:68:ae:f9:4e:3c:07:26:
+         cd:08:05:70:cc:39:3f:76:bd:a5:d3:67:26:01:86:a6:53:d2:
+         60:3b:7c:43:7f:55:8a:bc:95:1a:c1:28:39:4c:1f:43:d2:91:
+         f4:72:59:8a:b9:56:fc:3f:b4:9d:da:70:9c:76:5a:8c:43:50:
+         ee:8e:30:72:4d:df:ff:49:f7:c6:a9:67:d9:6d:ac:02:11:e2:
+         3a:16:25:a7:58:08:cb:6f:53:41:9c:48:38:47:68:33:d1:d7:
+         c7:8f:d4:74:21:d4:c3:05:90:7a:ff:ce:96:88:b1:15:29:5d:
+         23:ab:d0:60:a1:12:4f:de:f4:17:cd:32:e5:c9:bf:c8:43:ad:
+         fd:2e:8e:f1:af:e2:f4:98:fa:12:1f:20:d8:c0:a7:0c:85:c5:
+         90:f4:3b:2d:96:26:b1:2c:be:4c:ab:eb:b1:d2:8a:c9:db:78:
+         13:0f:1e:09:9d:6d:8f:00:9f:02:da:c1:fa:1f:7a:7a:09:c4:
+         4a:e6:88:2a:97:9f:89:8b:fd:37:5f:5f:3a:ce:38:59:86:4b:
+         af:71:0b:b4:d8:f2:70:4f:9f:32:13:e3:b0:a7:57:e5:da:da:
+         43:cb:84:34:f2:28:c4:ea:6d:f4:2a:ef:c1:6b:76:da:fb:7e:
+         bb:85:3c:d2:53:c2:4d:be:71:e1:45:d1:fd:23:67:0d:13:75:
+         fb:cf:65:67:22:9d:ae:b0:09:d1:09:ff:1d:34:bf:fe:23:97:
+         37:d2:39:fa:3d:0d:06:0b:b4:db:3b:a3:ab:6f:5c:1d:b6:7e:
+         e8:b3:82:34:ed:06:5c:24
+-----BEGIN CERTIFICATE-----
+MIIGSzCCBDOgAwIBAgIIamg+nFGby1MwDQYJKoZIhvcNAQELBQAwgbIxCzAJBgNV
+BAYTAlRSMQ8wDQYDVQQHDAZBbmthcmExQDA+BgNVBAoMN0UtVHXEn3JhIEVCRyBC
+aWxpxZ9pbSBUZWtub2xvamlsZXJpIHZlIEhpem1ldGxlcmkgQS7Fni4xJjAkBgNV
+BAsMHUUtVHVncmEgU2VydGlmaWthc3lvbiBNZXJrZXppMSgwJgYDVQQDDB9FLVR1
+Z3JhIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MB4XDTEzMDMwNTEyMDk0OFoXDTIz
+MDMwMzEyMDk0OFowgbIxCzAJBgNVBAYTAlRSMQ8wDQYDVQQHDAZBbmthcmExQDA+
+BgNVBAoMN0UtVHXEn3JhIEVCRyBCaWxpxZ9pbSBUZWtub2xvamlsZXJpIHZlIEhp
+em1ldGxlcmkgQS7Fni4xJjAkBgNVBAsMHUUtVHVncmEgU2VydGlmaWthc3lvbiBN
+ZXJrZXppMSgwJgYDVQQDDB9FLVR1Z3JhIENlcnRpZmljYXRpb24gQXV0aG9yaXR5
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA4vU/kwVRHoViVF56C/UY
+B4Oufq9899SKa6VjQzm5S/fDxmSJPZQuVIBSOTkHS0vdhQd2h8y/L5VMzH2nPbxH
+D5hw+IyFHnSOkm0bQNGZDbt1bsipa5rAhDGvykPL6ys06I+XawGb1Q5KCKpbknSF
+Q9OArqGIW66z6l7LFpp3RMih9lRozt6Plyu6W0ACDGQXwLWTzeHxE2bODHnv0ZEo
+q1+gElIwcxmOj+GMB6LDu0rw6h8VqO4lzKRG+Bsi77MOQ7osJLjFLFzUHPhdZL3D
+k14opz8n8Y4e0ypQBaNV2cvnOVPAmJ6MVGKLJrD3fY185MaeZkJVgkfnsliNZvcH
+fC425lAcP9tDJMW/hkd5s3kc91r0E+xs+D/iWR+V7kI+ua2oMoVJl0b+SzGPWsut
+dEcf6ZG33ygEIqDUD13ieU/qbIWGvaimzuT6w+Gzrt48Ue7LE3wBf4QOXVGUnhMM
+ti6lTPk5cDZvlsouDERVxcr6XQKj39ZkjFqzAQqptQpHF//vkUAqjqFGOjGY5RH8
+zLtJVor8udBhmm9lbObDyz51Sf6Pp+KJxWfXnUYTTjF2OySznhFlhqt/7x3U+Lzn
+rFpct1pHXFXOVbQicVtbC/DP3KBhZOqp12gKY6fgDT+gr9Oq0n7vUaDmUStVkhUX
+U8u3Zg5mTPj5dUyQ5xJwx0UCAwEAAaNjMGEwHQYDVR0OBBYEFC7j27JJ0JxUeVz6
+Jyr+zE7S6E5UMA8GA1UdEwEB/wQFMAMBAf8wHwYDVR0jBBgwFoAULuPbsknQnFR5
+XPonKv7MTtLoTlQwDgYDVR0PAQH/BAQDAgEGMA0GCSqGSIb3DQEBCwUAA4ICAQAF
+Nzr0TbdF4kV1JI+2d1LoHNgQk2Xz8lkGpD4eKexd0dCrfOAKkEh47U6YA5n+KGCR
+HTAduGN8qOY1tfrTYXbm1gdLymmasoR6d5NFFxWfJNCYExL/u6Au/U5Mh/jOXKqY
+GwXgAEZKgoClM4so3O0409/lPun++1ndYYRP0lSWE2ETPo+Aab6TR7U1Q9Jauz1c
+77NCR807VRMGsAnb/WP2OogKmW9+4c4bU2pEZiNRCHu8W1Ki/QY3OEBhj0qWuJA3
++GbHeJAAFS6LrVE1Uweoa2iu+U48BybNCAVwzDk/dr2l02cmAYamU9JgO3xDf1WK
+vJUawSg5TB9D0pH0clmKuVb8P7Sd2nCcdlqMQ1DujjByTd//SffGqWfZbawCEeI6
+FiWnWAjLb1NBnEg4R2gz0dfHj9R0IdTDBZB6/86WiLEVKV0jq9BgoRJP3vQXzTLl
+yb/IQ639Lo7xr+L0mPoSHyDYwKcMhcWQ9DstliaxLL5Mq+ux0orJ23gTDx4JnW2P
+AJ8C2sH6H3p6CcRK5ogql5+Ji/03X186zjhZhkuvcQu02PJwT58yE+Owp1fl2tpD
+y4Q08ijE6m30Ku/Ba3ba+367hTzSU8JNvnHhRdH9I2cNE3X7z2VnIp2usAnRCf8d
+NL/+I5c30jn6PQ0GC7TbO6Orb1wdtn7os4I07QZcJA==
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 6977977018061191920 (0x60d6c12084607af0)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=TR, L=Ankara, O=E-Tu\xC4\x9Fra EBG Bili\xC5\x9Fim Teknolojileri ve Hizmetleri A.\xC5\x9E., OU=E-Tugra Sertifikasyon Merkezi, CN=E-Tugra Certification Authority
+        Validity
+            Not Before: Mar  5 12:42:31 2013 GMT
+            Not After : Mar  3 12:09:48 2023 GMT
+        Subject: C=TR, L=Ankara, O=E-Tu\xC4\x9Fra EBG Bili\xC5\x9Fim Teknolojileri ve Hizmetleri A.\xC5\x9E., OU=E-Tu\xC4\x9Fra Sertifikasyon Merkezi, CN=E-Tugra Organization Validated CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ca:69:ea:41:72:8f:84:23:74:69:72:ee:c8:69:
+                    ad:33:5c:18:79:b2:c6:5e:b1:63:7f:08:c9:c5:53:
+                    5e:17:81:c0:0f:37:0c:09:c7:0c:1a:af:90:40:60:
+                    f2:70:00:38:1d:e5:e0:10:fb:c4:96:ac:42:4d:3c:
+                    8b:28:82:fd:d8:34:5c:6f:3f:06:78:39:94:91:a7:
+                    59:f4:5d:17:76:ce:4d:3b:02:eb:fc:87:96:58:b2:
+                    de:5d:86:18:05:14:36:05:4c:46:87:d7:6c:57:27:
+                    e1:97:45:73:96:e3:1a:c7:25:83:46:f8:9a:d4:cf:
+                    60:d5:4b:30:a0:9c:3f:9b:6f:57:41:57:c8:51:f9:
+                    6a:e2:79:8e:76:70:c3:98:cb:3c:5c:32:32:66:6b:
+                    4e:f8:d7:91:f7:22:45:9a:1e:48:5c:14:dd:2b:13:
+                    cd:eb:07:77:f7:e7:4e:71:05:3f:8d:b9:30:55:a6:
+                    2a:b4:e6:74:94:09:79:25:b1:fd:03:ed:af:73:67:
+                    c9:e7:57:c5:ef:d6:5e:3c:e3:14:6d:87:67:a5:78:
+                    9b:0c:0a:ac:5f:0b:de:c6:6e:67:a5:82:74:42:52:
+                    6f:0e:7e:46:be:68:66:04:6d:ac:cd:5c:0c:74:4a:
+                    81:95:e9:ff:7b:21:d1:03:d7:5b:bc:9d:23:69:29:
+                    dc:05
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            Authority Information Access: 
+                CA Issuers - URI:http://www.e-tugra.com/crt/etugra_root.crt
+                OCSP - URI:http://ocsp.e-tugra.com/status/ocsp
+
+            X509v3 Subject Key Identifier: 
+                B5:F7:D3:F8:27:29:59:8F:90:8B:6E:A3:7E:B3:DD:DA:CA:74:85:A9
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:1
+            X509v3 Authority Key Identifier: 
+                keyid:2E:E3:DB:B2:49:D0:9C:54:79:5C:FA:27:2A:FE:CC:4E:D2:E8:4E:54
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.792.3.0.4.1.1.3
+                  CPS: http://www.e-tugra.com/cps
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.e-tugra.com/etugra_root.crl
+
+                Full Name:
+                  URI:http://crl1.e-tugra.com/etugra_root.crl
+
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+    Signature Algorithm: sha256WithRSAEncryption
+         38:2a:87:a3:e8:71:37:7f:4c:d9:ee:09:8e:ed:73:e3:e0:98:
+         c9:0d:c3:32:6f:30:bc:a9:d3:85:28:58:bc:71:b2:73:8b:22:
+         6d:fa:67:c8:8c:de:28:40:2d:fc:44:c8:a6:aa:fc:d2:7e:20:
+         86:57:36:34:50:18:b8:e3:8e:12:e0:bc:83:8e:8a:38:a4:9c:
+         8c:b0:cd:67:b5:48:d3:53:c9:8c:aa:1e:b3:48:09:54:fa:d6:
+         b1:8c:1b:fd:23:c4:9d:c9:d1:db:a8:44:85:18:2e:c7:6b:d4:
+         e6:8d:20:10:f7:3c:22:01:bb:d6:67:d4:7c:03:ab:51:c1:de:
+         f0:17:15:96:06:1b:6e:86:17:e9:f4:80:fb:db:c4:3d:51:a4:
+         71:7b:57:d9:fa:ae:87:2a:89:cf:67:e8:5c:2f:b0:8f:3d:87:
+         95:09:24:1e:56:d4:28:1c:b6:15:2e:ed:56:3a:45:d4:24:a7:
+         f2:07:86:b8:00:4b:c2:75:a4:d8:6b:38:de:d9:5c:7c:97:0c:
+         95:92:33:a3:32:73:a3:33:b3:b3:82:18:54:08:ef:22:1f:4e:
+         00:7c:67:76:57:33:53:d2:82:86:54:d6:aa:c7:bf:cd:98:13:
+         d4:cd:62:e4:8b:28:b8:9f:7d:17:2b:6d:29:47:ab:84:d0:45:
+         fc:a1:49:02:ee:cc:f0:a5:6f:a5:db:bf:d3:87:b9:05:04:97:
+         3b:05:dd:2d:1d:06:6b:9b:44:20:a7:f2:80:c4:39:16:13:0e:
+         57:b2:9e:a4:92:13:d9:f1:e6:a5:55:18:14:33:1d:04:a9:73:
+         23:d8:37:e9:96:57:ad:3d:33:88:55:e7:38:b6:05:32:61:d2:
+         9a:2b:e5:cf:44:9d:ba:6e:6f:f6:14:99:4e:f6:c1:78:19:e0:
+         14:c2:8c:ee:da:41:b0:5d:ba:3d:9c:e8:61:72:92:9e:4e:a2:
+         e7:c6:67:d6:e3:ec:6b:fe:3c:28:03:bc:8b:3f:6e:75:eb:c9:
+         e9:7f:51:64:20:e8:b1:a3:c5:8d:a7:53:a8:07:a1:86:7c:fe:
+         b6:f4:fb:b1:b0:45:3d:3c:b1:94:34:e6:53:de:da:18:36:51:
+         dd:84:a9:c6:c8:11:04:84:69:ce:28:ea:fb:a1:32:b7:95:1c:
+         07:7f:35:fb:eb:68:b5:1b:74:b9:1d:8f:9a:2c:92:b3:7b:e5:
+         1b:ac:af:ff:9f:ff:dc:5f:00:7e:1b:e7:48:79:de:e0:e8:70:
+         c1:bf:5e:96:d3:fe:52:29:1b:08:17:fd:c7:c0:f0:cb:32:70:
+         09:06:c7:f1:a2:70:10:0d:53:58:d4:3e:1d:9b:cc:af:ff:89:
+         83:63:62:55:20:01:f2:3e
+-----BEGIN CERTIFICATE-----
+MIIGeDCCBGCgAwIBAgIIYNbBIIRgevAwDQYJKoZIhvcNAQELBQAwgbIxCzAJBgNV
+BAYTAlRSMQ8wDQYDVQQHDAZBbmthcmExQDA+BgNVBAoMN0UtVHXEn3JhIEVCRyBC
+aWxpxZ9pbSBUZWtub2xvamlsZXJpIHZlIEhpem1ldGxlcmkgQS7Fni4xJjAkBgNV
+BAsMHUUtVHVncmEgU2VydGlmaWthc3lvbiBNZXJrZXppMSgwJgYDVQQDDB9FLVR1
+Z3JhIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MB4XDTEzMDMwNTEyNDIzMVoXDTIz
+MDMwMzEyMDk0OFowgbUxCzAJBgNVBAYTAlRSMQ8wDQYDVQQHDAZBbmthcmExQDA+
+BgNVBAoMN0UtVHXEn3JhIEVCRyBCaWxpxZ9pbSBUZWtub2xvamlsZXJpIHZlIEhp
+em1ldGxlcmkgQS7Fni4xJzAlBgNVBAsMHkUtVHXEn3JhIFNlcnRpZmlrYXN5b24g
+TWVya2V6aTEqMCgGA1UEAwwhRS1UdWdyYSBPcmdhbml6YXRpb24gVmFsaWRhdGVk
+IENBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAymnqQXKPhCN0aXLu
+yGmtM1wYebLGXrFjfwjJxVNeF4HADzcMCccMGq+QQGDycAA4HeXgEPvElqxCTTyL
+KIL92DRcbz8GeDmUkadZ9F0Xds5NOwLr/IeWWLLeXYYYBRQ2BUxGh9dsVyfhl0Vz
+luMaxyWDRvia1M9g1UswoJw/m29XQVfIUflq4nmOdnDDmMs8XDIyZmtO+NeR9yJF
+mh5IXBTdKxPN6wd39+dOcQU/jbkwVaYqtOZ0lAl5JbH9A+2vc2fJ51fF79ZePOMU
+bYdnpXibDAqsXwvexm5npYJ0QlJvDn5GvmhmBG2szVwMdEqBlen/eyHRA9dbvJ0j
+aSncBQIDAQABo4IBizCCAYcwdwYIKwYBBQUHAQEEazBpMDYGCCsGAQUFBzAChipo
+dHRwOi8vd3d3LmUtdHVncmEuY29tL2NydC9ldHVncmFfcm9vdC5jcnQwLwYIKwYB
+BQUHMAGGI2h0dHA6Ly9vY3NwLmUtdHVncmEuY29tL3N0YXR1cy9vY3NwMB0GA1Ud
+DgQWBBS199P4JylZj5CLbqN+s93aynSFqTASBgNVHRMBAf8ECDAGAQH/AgEBMB8G
+A1UdIwQYMBaAFC7j27JJ0JxUeVz6Jyr+zE7S6E5UMEAGA1UdIAQ5MDcwNQYJYIYY
+AwAEAQEDMCgwJgYIKwYBBQUHAgEWGmh0dHA6Ly93d3cuZS10dWdyYS5jb20vY3Bz
+MGYGA1UdHwRfMF0wLKAqoCiGJmh0dHA6Ly9jcmwuZS10dWdyYS5jb20vZXR1Z3Jh
+X3Jvb3QuY3JsMC2gK6AphidodHRwOi8vY3JsMS5lLXR1Z3JhLmNvbS9ldHVncmFf
+cm9vdC5jcmwwDgYDVR0PAQH/BAQDAgEGMA0GCSqGSIb3DQEBCwUAA4ICAQA4Koej
+6HE3f0zZ7gmO7XPj4JjJDcMybzC8qdOFKFi8cbJziyJt+mfIjN4oQC38RMimqvzS
+fiCGVzY0UBi4444S4LyDjoo4pJyMsM1ntUjTU8mMqh6zSAlU+taxjBv9I8SdydHb
+qESFGC7Ha9TmjSAQ9zwiAbvWZ9R8A6tRwd7wFxWWBhtuhhfp9ID728Q9UaRxe1fZ
++q6HKonPZ+hcL7CPPYeVCSQeVtQoHLYVLu1WOkXUJKfyB4a4AEvCdaTYazje2Vx8
+lwyVkjOjMnOjM7OzghhUCO8iH04AfGd2VzNT0oKGVNaqx7/NmBPUzWLkiyi4n30X
+K20pR6uE0EX8oUkC7szwpW+l27/Th7kFBJc7Bd0tHQZrm0Qgp/KAxDkWEw5Xsp6k
+khPZ8ealVRgUMx0EqXMj2DfplletPTOIVec4tgUyYdKaK+XPRJ26bm/2FJlO9sF4
+GeAUwozu2kGwXbo9nOhhcpKeTqLnxmfW4+xr/jwoA7yLP25168npf1FkIOixo8WN
+p1OoB6GGfP629PuxsEU9PLGUNOZT3toYNlHdhKnGyBEEhGnOKOr7oTK3lRwHfzX7
+62i1G3S5HY+aLJKze+UbrK//n//cXwB+G+dIed7g6HDBv16W0/5SKRsIF/3HwPDL
+MnAJBsfxonAQDVNY1D4dm8yv/4mDY2JVIAHyPg==
+-----END CERTIFICATE-----
+

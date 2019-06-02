@@ -1,0 +1,393 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            7e:93:eb:fb:7c:c6:4e:59:ea:4b:9a:77:d4:06:fc:3b
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=ZA, ST=Western Cape, L=Durbanville, O=Thawte, OU=Thawte Certification, CN=Thawte Timestamping CA
+        Validity
+            Not Before: Dec 21 00:00:00 2012 GMT
+            Not After : Dec 30 23:59:59 2020 GMT
+        Subject: C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services CA - G2
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b1:ac:b3:49:54:4b:97:1c:12:0a:d8:25:79:91:
+                    22:57:2a:6f:dc:b8:26:c4:43:73:6b:c2:bf:2e:50:
+                    5a:fb:14:c2:76:8e:43:01:25:43:b4:a1:e2:45:f4:
+                    e8:b7:7b:c3:74:cc:22:d7:b4:94:00:02:f7:4d:ed:
+                    bf:b4:b7:44:24:6b:cd:5f:45:3b:d1:44:ce:43:12:
+                    73:17:82:8b:69:b4:2b:cb:99:1e:ac:72:1b:26:4d:
+                    71:1f:b1:31:dd:fb:51:61:02:53:a6:aa:f5:49:2c:
+                    05:78:45:a5:2f:89:ce:e7:99:e7:fe:8c:e2:57:3f:
+                    3d:c6:92:dc:4a:f8:7b:33:e4:79:0a:fb:f0:75:88:
+                    41:9c:ff:c5:03:51:99:aa:d7:6c:9f:93:69:87:65:
+                    29:83:85:c2:60:14:c4:c8:c9:3b:14:da:c0:81:f0:
+                    1f:0d:74:de:92:22:ab:ca:f7:fb:74:7c:27:e6:f7:
+                    4a:1b:7f:a7:c3:9e:2d:ae:8a:ea:a6:e6:aa:27:16:
+                    7d:61:f7:98:71:11:bc:e2:50:a1:4b:e5:5d:fa:e5:
+                    0e:a7:2c:9f:aa:65:20:d3:d8:96:e8:c8:7c:a5:4e:
+                    48:44:ff:19:e2:44:07:92:0b:d7:68:84:80:5d:6a:
+                    78:64:45:cd:60:46:7e:54:c1:13:7c:c5:79:f1:c9:
+                    c1:71
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                5F:9A:F5:6E:5C:CC:CC:74:9A:D4:DD:7D:EF:3F:DB:EC:4C:80:2E:DD
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.thawte.com
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.thawte.com/ThawteTimestampingCA.crl
+
+            X509v3 Extended Key Usage: 
+                Time Stamping
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Alternative Name: 
+                DirName:/CN=TimeStamp-2048-1
+    Signature Algorithm: sha1WithRSAEncryption
+         03:09:9b:8f:79:ef:7f:59:30:aa:ef:68:b5:fa:e3:09:1d:bb:
+         4f:82:06:5d:37:5f:a6:52:9f:16:8d:ea:1c:92:09:44:6e:f5:
+         6d:eb:58:7c:30:e8:f9:69:8d:23:73:0b:12:6f:47:a9:ae:39:
+         11:f8:2a:b1:9b:b0:1a:c3:8e:eb:59:96:00:ad:ce:0c:4d:b2:
+         d0:31:a6:08:5c:2a:7a:fc:e2:7a:1d:57:4c:a8:65:18:e9:79:
+         40:62:25:96:6e:c7:c7:37:6a:83:21:08:8e:41:ea:dd:d9:57:
+         3f:1d:77:49:87:2a:16:06:5e:a6:38:6a:22:12:a3:51:19:83:
+         7e:b6
+-----BEGIN CERTIFICATE-----
+MIID7jCCA1egAwIBAgIQfpPr+3zGTlnqS5p31Ab8OzANBgkqhkiG9w0BAQUFADCB
+izELMAkGA1UEBhMCWkExFTATBgNVBAgTDFdlc3Rlcm4gQ2FwZTEUMBIGA1UEBxML
+RHVyYmFudmlsbGUxDzANBgNVBAoTBlRoYXd0ZTEdMBsGA1UECxMUVGhhd3RlIENl
+cnRpZmljYXRpb24xHzAdBgNVBAMTFlRoYXd0ZSBUaW1lc3RhbXBpbmcgQ0EwHhcN
+MTIxMjIxMDAwMDAwWhcNMjAxMjMwMjM1OTU5WjBeMQswCQYDVQQGEwJVUzEdMBsG
+A1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xMDAuBgNVBAMTJ1N5bWFudGVjIFRp
+bWUgU3RhbXBpbmcgU2VydmljZXMgQ0EgLSBHMjCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBALGss0lUS5ccEgrYJXmRIlcqb9y4JsRDc2vCvy5QWvsUwnaO
+QwElQ7Sh4kX06Ld7w3TMIte0lAAC903tv7S3RCRrzV9FO9FEzkMScxeCi2m0K8uZ
+HqxyGyZNcR+xMd37UWECU6aq9UksBXhFpS+JzueZ5/6M4lc/PcaS3Er4ezPkeQr7
+8HWIQZz/xQNRmarXbJ+TaYdlKYOFwmAUxMjJOxTawIHwHw103pIiq8r3+3R8J+b3
+Sht/p8OeLa6K6qbmqicWfWH3mHERvOJQoUvlXfrlDqcsn6plINPYlujIfKVOSET/
+GeJEB5IL12iEgF1qeGRFzWBGflTBE3zFefHJwXECAwEAAaOB+jCB9zAdBgNVHQ4E
+FgQUX5r1blzMzHSa1N197z/b7EyALt0wMgYIKwYBBQUHAQEEJjAkMCIGCCsGAQUF
+BzABhhZodHRwOi8vb2NzcC50aGF3dGUuY29tMBIGA1UdEwEB/wQIMAYBAf8CAQAw
+PwYDVR0fBDgwNjA0oDKgMIYuaHR0cDovL2NybC50aGF3dGUuY29tL1RoYXd0ZVRp
+bWVzdGFtcGluZ0NBLmNybDATBgNVHSUEDDAKBggrBgEFBQcDCDAOBgNVHQ8BAf8E
+BAMCAQYwKAYDVR0RBCEwH6QdMBsxGTAXBgNVBAMTEFRpbWVTdGFtcC0yMDQ4LTEw
+DQYJKoZIhvcNAQEFBQADgYEAAwmbj3nvf1kwqu9otfrjCR27T4IGXTdfplKfFo3q
+HJIJRG71betYfDDo+WmNI3MLEm9Hqa45EfgqsZuwGsOO61mWAK3ODE2y0DGmCFwq
+evzieh1XTKhlGOl5QGIllm7HxzdqgyEIjkHq3dlXPx13SYcqFgZepjhqIhKjURmD
+frY=
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            0e:cf:f4:38:c8:fe:bf:35:6e:04:d8:6a:98:1b:1a:50
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services CA - G2
+        Validity
+            Not Before: Oct 18 00:00:00 2012 GMT
+            Not After : Dec 29 23:59:59 2020 GMT
+        Subject: C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services Signer - G4
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a2:63:0b:39:44:b8:bb:23:a7:44:49:bb:0e:ff:
+                    a1:f0:61:0a:53:93:b0:98:db:ad:2c:0f:4a:c5:6e:
+                    ff:86:3c:53:55:0f:15:ce:04:3f:2b:fd:a9:96:96:
+                    d9:be:61:79:0b:5b:c9:4c:86:76:e5:e0:43:4b:22:
+                    95:ee:c2:2b:43:c1:9f:d8:68:b4:8e:40:4f:ee:85:
+                    38:b9:11:c5:23:f2:64:58:f0:15:32:6f:4e:57:a1:
+                    ae:88:a4:02:d7:2a:1e:cd:4b:e1:dd:63:d5:17:89:
+                    32:5b:b0:5e:99:5a:a8:9d:28:50:0e:17:ee:96:db:
+                    61:3b:45:51:1d:cf:12:56:0b:92:47:fc:ab:ae:f6:
+                    66:3d:47:ac:70:72:e7:92:e7:5f:cd:10:b9:c4:83:
+                    64:94:19:bd:25:80:e1:e8:d2:22:a5:d0:ba:02:7a:
+                    a1:77:93:5b:65:c3:ee:17:74:bc:41:86:2a:dc:08:
+                    4c:8c:92:8c:91:2d:9e:77:44:1f:68:d6:a8:74:77:
+                    db:0e:5b:32:8b:56:8b:33:bd:d9:63:c8:49:9d:3a:
+                    c5:c5:ea:33:0b:d2:f1:a3:1b:f4:8b:be:d9:b3:57:
+                    8b:3b:de:04:a7:7a:22:b2:24:ae:2e:c7:70:c5:be:
+                    4e:83:26:08:fb:0b:bd:a9:4f:99:08:e1:10:28:72:
+                    aa:cd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: critical
+                Time Stamping
+            X509v3 Key Usage: critical
+                Digital Signature
+            Authority Information Access: 
+                OCSP - URI:http://ts-ocsp.ws.symantec.com
+                CA Issuers - URI:http://ts-aia.ws.symantec.com/tss-ca-g2.cer
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://ts-crl.ws.symantec.com/tss-ca-g2.crl
+
+            X509v3 Subject Alternative Name: 
+                DirName:/CN=TimeStamp-2048-2
+            X509v3 Subject Key Identifier: 
+                46:C6:69:A3:0E:4A:14:1E:D5:4C:DA:52:63:17:3F:5E:36:BC:0D:E6
+            X509v3 Authority Key Identifier: 
+                keyid:5F:9A:F5:6E:5C:CC:CC:74:9A:D4:DD:7D:EF:3F:DB:EC:4C:80:2E:DD
+
+    Signature Algorithm: sha1WithRSAEncryption
+         78:3b:b4:91:2a:00:4c:f0:8f:62:30:37:78:a3:84:27:07:6f:
+         18:b2:de:25:dc:a0:d4:94:03:aa:86:4e:25:9f:9a:40:03:1c:
+         dd:ce:e3:79:cb:21:68:06:da:b6:32:b4:6d:bf:f4:2c:26:63:
+         33:e4:49:64:6d:0d:e6:c3:67:0e:f7:05:a4:35:6c:7c:89:16:
+         c6:e9:b2:df:b2:e9:dd:20:c6:71:0f:cd:95:74:dc:b6:5c:de:
+         bd:37:1f:43:78:e6:78:b5:cd:28:04:20:a3:aa:f1:4b:c4:88:
+         29:91:0e:80:d1:11:fc:dd:5c:76:6e:4f:5e:0e:45:46:41:6e:
+         0d:b0:ea:38:9a:b1:3a:da:09:71:10:fc:1c:79:b4:80:7b:ac:
+         69:f4:fd:9c:b6:0c:16:2b:f1:7f:5b:09:3d:9b:5b:e2:16:ca:
+         13:81:6d:00:2e:38:0d:a8:29:8f:2c:e1:b2:f4:5a:a9:01:af:
+         15:9c:2c:2f:49:1b:db:22:bb:c3:fe:78:94:51:c3:86:b1:82:
+         88:5d:f0:3d:b4:51:a1:79:33:2b:2e:7b:b9:dc:20:09:13:71:
+         eb:6a:19:5b:cf:e8:a5:30:57:2c:89:49:3f:b9:cf:7f:c9:bf:
+         3e:22:68:63:53:9a:bd:69:74:ac:c5:1d:3c:7f:92:e0:c3:bc:
+         1c:d8:04:75
+-----BEGIN CERTIFICATE-----
+MIIEozCCA4ugAwIBAgIQDs/0OMj+vzVuBNhqmBsaUDANBgkqhkiG9w0BAQUFADBe
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xMDAu
+BgNVBAMTJ1N5bWFudGVjIFRpbWUgU3RhbXBpbmcgU2VydmljZXMgQ0EgLSBHMjAe
+Fw0xMjEwMTgwMDAwMDBaFw0yMDEyMjkyMzU5NTlaMGIxCzAJBgNVBAYTAlVTMR0w
+GwYDVQQKExRTeW1hbnRlYyBDb3Jwb3JhdGlvbjE0MDIGA1UEAxMrU3ltYW50ZWMg
+VGltZSBTdGFtcGluZyBTZXJ2aWNlcyBTaWduZXIgLSBHNDCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAKJjCzlEuLsjp0RJuw7/ofBhClOTsJjbrSwPSsVu
+/4Y8U1UPFc4EPyv9qZaW2b5heQtbyUyGduXgQ0sile7CK0PBn9hotI5AT+6FOLkR
+xSPyZFjwFTJvTlehroikAtcqHs1L4d1j1ReJMluwXplaqJ0oUA4X7pbbYTtFUR3P
+ElYLkkf8q672Zj1HrHBy55LnX80QucSDZJQZvSWA4ejSIqXQugJ6oXeTW2XD7hd0
+vEGGKtwITIySjJEtnndEH2jWqHR32w5bMotWizO92WPISZ06xcXqMwvS8aMb9Iu+
+2bNXizveBKd6IrIkri7HcMW+ToMmCPsLvalPmQjhEChyqs0CAwEAAaOCAVcwggFT
+MAwGA1UdEwEB/wQCMAAwFgYDVR0lAQH/BAwwCgYIKwYBBQUHAwgwDgYDVR0PAQH/
+BAQDAgeAMHMGCCsGAQUFBwEBBGcwZTAqBggrBgEFBQcwAYYeaHR0cDovL3RzLW9j
+c3Aud3Muc3ltYW50ZWMuY29tMDcGCCsGAQUFBzAChitodHRwOi8vdHMtYWlhLndz
+LnN5bWFudGVjLmNvbS90c3MtY2EtZzIuY2VyMDwGA1UdHwQ1MDMwMaAvoC2GK2h0
+dHA6Ly90cy1jcmwud3Muc3ltYW50ZWMuY29tL3Rzcy1jYS1nMi5jcmwwKAYDVR0R
+BCEwH6QdMBsxGTAXBgNVBAMTEFRpbWVTdGFtcC0yMDQ4LTIwHQYDVR0OBBYEFEbG
+aaMOShQe1UzaUmMXP142vA3mMB8GA1UdIwQYMBaAFF+a9W5czMx0mtTdfe8/2+xM
+gC7dMA0GCSqGSIb3DQEBBQUAA4IBAQB4O7SRKgBM8I9iMDd4o4QnB28Yst4l3KDU
+lAOqhk4ln5pAAxzdzuN5yyFoBtq2MrRtv/QsJmMz5ElkbQ3mw2cO9wWkNWx8iRbG
+6bLfsundIMZxD82VdNy2XN69Nx9DeOZ4tc0oBCCjqvFLxIgpkQ6A0RH83Vx2bk9e
+DkVGQW4NsOo4mrE62glxEPwcebSAe6xp9P2ctgwWK/F/Wwk9m1viFsoTgW0ALjgN
+qCmPLOGy9FqpAa8VnCwvSRvbIrvD/niUUcOGsYKIXfA9tFGheTMrLnu53CAJE3Hr
+ahlbz+ilMFcsiUk/uc9/yb8+ImhjU5q9aXSsxR08f5Lgw7wc2AR1
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 7 (0x7)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+        Validity
+            Not Before: May  3 07:00:00 2011 GMT
+            Not After : May  3 07:00:00 2031 GMT
+        Subject: C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b9:e0:cb:10:d4:af:76:bd:d4:93:62:eb:30:64:
+                    b8:81:08:6c:c3:04:d9:62:17:8e:2f:ff:3e:65:cf:
+                    8f:ce:62:e6:3c:52:1c:da:16:45:4b:55:ab:78:6b:
+                    63:83:62:90:ce:0f:69:6c:99:c8:1a:14:8b:4c:cc:
+                    45:33:ea:88:dc:9e:a3:af:2b:fe:80:61:9d:79:57:
+                    c4:cf:2e:f4:3f:30:3c:5d:47:fc:9a:16:bc:c3:37:
+                    96:41:51:8e:11:4b:54:f8:28:be:d0:8c:be:f0:30:
+                    38:1e:f3:b0:26:f8:66:47:63:6d:de:71:26:47:8f:
+                    38:47:53:d1:46:1d:b4:e3:dc:00:ea:45:ac:bd:bc:
+                    71:d9:aa:6f:00:db:db:cd:30:3a:79:4f:5f:4c:47:
+                    f8:1d:ef:5b:c2:c4:9d:60:3b:b1:b2:43:91:d8:a4:
+                    33:4e:ea:b3:d6:27:4f:ad:25:8a:a5:c6:f4:d5:d0:
+                    a6:ae:74:05:64:57:88:b5:44:55:d4:2d:2a:3a:3e:
+                    f8:b8:bd:e9:32:0a:02:94:64:c4:16:3a:50:f1:4a:
+                    ae:e7:79:33:af:0c:20:07:7f:e8:df:04:39:c2:69:
+                    02:6c:63:52:fa:77:c1:1b:c8:74:87:c8:b9:93:18:
+                    50:54:35:4b:69:4e:bc:3b:d3:49:2e:1f:dc:c1:d2:
+                    52:fb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Key Identifier: 
+                40:C2:BD:27:8E:CC:34:83:30:A2:33:D7:FB:6C:B3:F0:B4:2C:80:CE
+            X509v3 Authority Key Identifier: 
+                keyid:3A:9A:85:07:10:67:28:B6:EF:F6:BD:05:41:6E:20:C1:94:DA:0F:DE
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.godaddy.com/
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.godaddy.com/gdroot-g2.crl
+
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  CPS: https://certs.godaddy.com/repository/
+
+    Signature Algorithm: sha256WithRSAEncryption
+         08:7e:6c:93:10:c8:38:b8:96:a9:90:4b:ff:a1:5f:4f:04:ef:
+         6c:3e:9c:88:06:c9:50:8f:a6:73:f7:57:31:1b:be:bc:e4:2f:
+         db:f8:ba:d3:5b:e0:b4:e7:e6:79:62:0e:0c:a2:d7:6a:63:73:
+         31:b5:f5:a8:48:a4:3b:08:2d:a2:5d:90:d7:b4:7c:25:4f:11:
+         56:30:c4:b6:44:9d:7b:2c:9d:e5:5e:e6:ef:0c:61:aa:bf:e4:
+         2a:1b:ee:84:9e:b8:83:7d:c1:43:ce:44:a7:13:70:0d:91:1f:
+         f4:c8:13:ad:83:60:d9:d8:72:a8:73:24:1e:b5:ac:22:0e:ca:
+         17:89:62:58:44:1b:ab:89:25:01:00:0f:cd:c4:1b:62:db:51:
+         b4:d3:0f:51:2a:9b:f4:bc:73:fc:76:ce:36:a4:cd:d9:d8:2c:
+         ea:ae:9b:f5:2a:b2:90:d1:4d:75:18:8a:3f:8a:41:90:23:7d:
+         5b:4b:fe:a4:03:58:9b:46:b2:c3:60:60:83:f8:7d:50:41:ce:
+         c2:a1:90:c3:bb:ef:02:2f:d2:15:54:ee:44:15:d9:0a:ae:a7:
+         8a:33:ed:b1:2d:76:36:26:dc:04:eb:9f:f7:61:1f:15:dc:87:
+         6f:ee:46:96:28:ad:a1:26:7d:0a:09:a7:2e:04:a3:8d:bc:f8:
+         bc:04:30:01
+-----BEGIN CERTIFICATE-----
+MIIE0DCCA7igAwIBAgIBBzANBgkqhkiG9w0BAQsFADCBgzELMAkGA1UEBhMCVVMx
+EDAOBgNVBAgTB0FyaXpvbmExEzARBgNVBAcTClNjb3R0c2RhbGUxGjAYBgNVBAoT
+EUdvRGFkZHkuY29tLCBJbmMuMTEwLwYDVQQDEyhHbyBEYWRkeSBSb290IENlcnRp
+ZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTExMDUwMzA3MDAwMFoXDTMxMDUwMzA3
+MDAwMFowgbQxCzAJBgNVBAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQH
+EwpTY290dHNkYWxlMRowGAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UE
+CxMkaHR0cDovL2NlcnRzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQD
+EypHbyBEYWRkeSBTZWN1cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC54MsQ1K92vdSTYuswZLiBCGzD
+BNliF44v/z5lz4/OYuY8UhzaFkVLVat4a2ODYpDOD2lsmcgaFItMzEUz6ojcnqOv
+K/6AYZ15V8TPLvQ/MDxdR/yaFrzDN5ZBUY4RS1T4KL7QjL7wMDge87Am+GZHY23e
+cSZHjzhHU9FGHbTj3ADqRay9vHHZqm8A29vNMDp5T19MR/gd71vCxJ1gO7GyQ5HY
+pDNO6rPWJ0+tJYqlxvTV0KaudAVkV4i1RFXULSo6Pvi4vekyCgKUZMQWOlDxSq7n
+eTOvDCAHf+jfBDnCaQJsY1L6d8EbyHSHyLmTGFBUNUtpTrw700kuH9zB0lL7AgMB
+AAGjggEaMIIBFjAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwIBBjAdBgNV
+HQ4EFgQUQMK9J47MNIMwojPX+2yz8LQsgM4wHwYDVR0jBBgwFoAUOpqFBxBnKLbv
+9r0FQW4gwZTaD94wNAYIKwYBBQUHAQEEKDAmMCQGCCsGAQUFBzABhhhodHRwOi8v
+b2NzcC5nb2RhZGR5LmNvbS8wNQYDVR0fBC4wLDAqoCigJoYkaHR0cDovL2NybC5n
+b2RhZGR5LmNvbS9nZHJvb3QtZzIuY3JsMEYGA1UdIAQ/MD0wOwYEVR0gADAzMDEG
+CCsGAQUFBwIBFiVodHRwczovL2NlcnRzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkv
+MA0GCSqGSIb3DQEBCwUAA4IBAQAIfmyTEMg4uJapkEv/oV9PBO9sPpyIBslQj6Zz
+91cxG7685C/b+LrTW+C05+Z5Yg4MotdqY3MxtfWoSKQ7CC2iXZDXtHwlTxFWMMS2
+RJ17LJ3lXubvDGGqv+QqG+6EnriDfcFDzkSnE3ANkR/0yBOtg2DZ2HKocyQetawi
+DsoXiWJYRBuriSUBAA/NxBti21G00w9RKpv0vHP8ds42pM3Z2Czqrpv1KrKQ0U11
+GIo/ikGQI31bS/6kA1ibRrLDYGCD+H1QQc7CoZDDu+8CL9IVVO5EFdkKrqeKM+2x
+LXY2JtwE65/3YR8V3Idv7kaWKK2hJn0KCacuBKONvPi8BDAB
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 11272991998358742 (0x280cb9fb9e34d6)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+        Validity
+            Not Before: Aug  2 20:30:51 2013 GMT
+            Not After : Aug  2 20:30:51 2016 GMT
+        Subject: C=US, ST=Washington, L=Seattle, O=GameHouse, CN=GameHouse
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:97:ed:65:b9:13:cb:a8:8d:35:f6:ca:09:47:75:
+                    7d:30:91:92:73:75:1e:a3:0a:31:c7:a1:54:b1:92:
+                    e4:a0:d2:ee:f6:a3:4b:59:f0:ab:84:21:86:04:75:
+                    81:7c:1a:37:57:d3:fd:c6:b7:fc:cf:4d:40:5f:d3:
+                    48:7c:85:e6:e2:11:31:58:4f:c1:1f:f1:56:bc:5f:
+                    50:82:e2:ce:b3:ba:46:2f:54:55:f4:91:a9:3f:07:
+                    99:55:39:61:81:fa:d4:27:f7:45:76:a9:08:57:a2:
+                    a8:8c:0f:fc:c8:92:94:93:b4:f7:59:15:fe:89:d2:
+                    b4:43:77:f0:1b:76:61:f7:31:71:6f:5a:5b:d3:f9:
+                    a6:71:73:d3:94:e1:67:f9:2f:f0:e4:0d:fa:d9:52:
+                    86:76:ad:2c:32:10:f7:47:08:fa:e7:53:99:7b:5b:
+                    bc:63:dd:9c:fd:bc:ce:6c:a0:54:9a:b3:3a:19:1b:
+                    df:64:64:80:a0:1d:d4:51:82:ab:18:3b:eb:39:09:
+                    75:55:c5:7e:d5:d2:e1:fb:99:c9:c2:0a:52:13:d2:
+                    fe:62:90:4a:5e:36:4f:73:56:1d:49:df:49:78:93:
+                    e7:8a:28:9c:d6:88:85:d0:71:ee:76:41:f4:98:d6:
+                    44:91:95:00:09:7e:e5:fc:2e:bf:23:8b:e5:24:fb:
+                    53:29
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.godaddy.com/gdig2s5-0.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.114413.1.7.23.2
+                  CPS: http://certificates.godaddy.com/repository/
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.godaddy.com/
+                CA Issuers - URI:http://certificates.godaddy.com/repository/gdig2.crt
+
+            X509v3 Authority Key Identifier: 
+                keyid:40:C2:BD:27:8E:CC:34:83:30:A2:33:D7:FB:6C:B3:F0:B4:2C:80:CE
+
+            X509v3 Subject Key Identifier: 
+                98:7F:BF:3D:47:4D:7B:BA:31:8D:E6:5B:CC:B2:F6:8C:2E:30:F7:9E
+    Signature Algorithm: sha256WithRSAEncryption
+         1e:99:e4:3d:01:bb:cc:8f:7e:5d:f9:f7:dc:32:e1:c4:92:3c:
+         c7:81:4a:c2:b2:48:ee:8c:60:65:ee:cd:94:76:d2:07:21:0f:
+         3e:15:46:d2:04:6b:ee:50:8b:52:7d:37:92:e6:af:5d:0c:2b:
+         a1:96:59:46:97:a5:3a:02:4a:07:4d:0b:33:ba:74:7d:57:ee:
+         8e:04:c0:e3:b3:79:b5:8c:7d:31:4c:ee:51:48:3e:9d:70:11:
+         b0:dc:b2:d7:63:b6:1a:64:22:1a:8f:31:df:e2:03:41:04:5a:
+         2b:8b:cb:9d:78:a2:f3:18:dc:d0:be:f7:f9:85:a7:39:1f:51:
+         85:3c:34:ca:15:be:57:d7:0b:8a:5d:05:56:05:c7:89:74:b6:
+         a1:bd:b6:92:19:a6:03:d4:71:72:6c:a2:cb:d5:2c:7b:55:91:
+         d5:12:e4:2f:fe:b9:92:47:ae:e0:34:e4:fc:09:29:ec:1e:32:
+         f4:2a:d0:9c:8b:94:5a:79:cc:6b:54:05:d9:8b:54:da:85:e7:
+         e4:71:4b:2c:95:df:79:b0:2c:be:4e:a2:60:4f:34:07:28:fd:
+         32:96:46:f2:a2:7f:48:c6:84:5f:47:6c:3c:f4:51:6e:f3:85:
+         10:a6:8b:ea:18:c5:5f:7f:f6:e9:3b:52:db:b1:f5:86:fa:76:
+         36:f2:f0:f6
+-----BEGIN CERTIFICATE-----
+MIIFEjCCA/qgAwIBAgIHKAy5+5401jANBgkqhkiG9w0BAQsFADCBtDELMAkGA1UE
+BhMCVVMxEDAOBgNVBAgTB0FyaXpvbmExEzARBgNVBAcTClNjb3R0c2RhbGUxGjAY
+BgNVBAoTEUdvRGFkZHkuY29tLCBJbmMuMS0wKwYDVQQLEyRodHRwOi8vY2VydHMu
+Z29kYWRkeS5jb20vcmVwb3NpdG9yeS8xMzAxBgNVBAMTKkdvIERhZGR5IFNlY3Vy
+ZSBDZXJ0aWZpY2F0ZSBBdXRob3JpdHkgLSBHMjAeFw0xMzA4MDIyMDMwNTFaFw0x
+NjA4MDIyMDMwNTFaMFwxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpXYXNoaW5ndG9u
+MRAwDgYDVQQHEwdTZWF0dGxlMRIwEAYDVQQKEwlHYW1lSG91c2UxEjAQBgNVBAMT
+CUdhbWVIb3VzZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJftZbkT
+y6iNNfbKCUd1fTCRknN1HqMKMcehVLGS5KDS7vajS1nwq4QhhgR1gXwaN1fT/ca3
+/M9NQF/TSHyF5uIRMVhPwR/xVrxfUILizrO6Ri9UVfSRqT8HmVU5YYH61Cf3RXap
+CFeiqIwP/MiSlJO091kV/onStEN38Bt2YfcxcW9aW9P5pnFz05ThZ/kv8OQN+tlS
+hnatLDIQ90cI+udTmXtbvGPdnP28zmygVJqzOhkb32RkgKAd1FGCqxg76zkJdVXF
+ftXS4fuZycIKUhPS/mKQSl42T3NWHUnfSXiT54oonNaIhdBx7nZB9JjWRJGVAAl+
+5fwuvyOL5ST7UykCAwEAAaOCAX4wggF6MA8GA1UdEwEB/wQFMAMBAQAwEwYDVR0l
+BAwwCgYIKwYBBQUHAwMwDgYDVR0PAQH/BAQDAgeAMDUGA1UdHwQuMCwwKqAooCaG
+JGh0dHA6Ly9jcmwuZ29kYWRkeS5jb20vZ2RpZzJzNS0wLmNybDBTBgNVHSAETDBK
+MEgGC2CGSAGG/W0BBxcCMDkwNwYIKwYBBQUHAgEWK2h0dHA6Ly9jZXJ0aWZpY2F0
+ZXMuZ29kYWRkeS5jb20vcmVwb3NpdG9yeS8wdgYIKwYBBQUHAQEEajBoMCQGCCsG
+AQUFBzABhhhodHRwOi8vb2NzcC5nb2RhZGR5LmNvbS8wQAYIKwYBBQUHMAKGNGh0
+dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29kYWRkeS5jb20vcmVwb3NpdG9yeS9nZGlnMi5j
+cnQwHwYDVR0jBBgwFoAUQMK9J47MNIMwojPX+2yz8LQsgM4wHQYDVR0OBBYEFJh/
+vz1HTXu6MY3mW8yy9owuMPeeMA0GCSqGSIb3DQEBCwUAA4IBAQAemeQ9AbvMj35d
++ffcMuHEkjzHgUrCskjujGBl7s2UdtIHIQ8+FUbSBGvuUItSfTeS5q9dDCuhlllG
+l6U6AkoHTQszunR9V+6OBMDjs3m1jH0xTO5RSD6dcBGw3LLXY7YaZCIajzHf4gNB
+BFori8udeKLzGNzQvvf5hac5H1GFPDTKFb5X1wuKXQVWBceJdLahvbaSGaYD1HFy
+bKLL1Sx7VZHVEuQv/rmSR67gNOT8CSnsHjL0KtCci5RaecxrVAXZi1TahefkcUss
+ld95sCy+TqJgTzQHKP0ylkbyon9IxoRfR2w89FFu84UQpovqGMVff/bpO1LbsfWG
++nY28vD2
+-----END CERTIFICATE-----
+

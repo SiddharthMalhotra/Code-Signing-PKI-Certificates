@@ -1,0 +1,106 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            78:d4:4a:75:63:8c:80:33:01:fb:c7:15:6d:55:89:59
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=thawte, Inc., CN=thawte SHA256 Code Signing CA
+        Validity
+            Not Before: Feb 21 00:00:00 2017 GMT
+            Not After : May 23 23:59:59 2018 GMT
+        Subject: C=PL, ST=Poland, L=Warsaw, O=System Healer Tech Sp. Zo.o., OU=IT Division, CN=System Healer Tech Sp. Zo.o.
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ca:85:20:81:cf:8f:00:94:06:76:9e:e6:34:20:
+                    ea:e3:49:af:15:79:f6:5d:29:8d:d6:06:5d:e7:52:
+                    1c:7f:dc:4a:de:95:d6:04:a5:ae:36:5f:1f:d0:86:
+                    26:af:4c:4d:32:e7:f1:34:9d:2b:5b:f7:1d:31:7f:
+                    b6:68:20:9f:4d:41:ed:22:d5:a6:dc:44:e4:7f:1f:
+                    84:ff:c2:a3:cb:ad:3c:4c:66:02:98:bd:72:eb:d0:
+                    c4:a9:90:2a:17:21:50:39:04:d2:da:59:75:ff:14:
+                    83:4f:63:d9:e8:be:f9:f6:75:08:7a:c3:86:72:86:
+                    63:d4:37:5d:2d:35:64:49:9a:53:f0:4c:18:07:56:
+                    17:55:27:4d:20:21:49:87:58:91:91:3c:e5:30:a1:
+                    61:db:f6:7f:5b:5e:0e:6b:77:76:78:63:a4:3b:b5:
+                    86:81:ba:04:5f:fe:2c:b0:eb:ce:e0:d7:5c:ee:ff:
+                    3b:ad:c4:32:e8:0a:8f:2e:9f:b1:ff:00:e8:75:0c:
+                    60:6c:93:54:0a:b2:d1:c7:ab:87:bb:d7:8c:a4:54:
+                    d0:53:d2:73:d3:37:22:37:06:bb:26:64:e6:eb:ed:
+                    a5:27:be:fd:8d:7c:a1:fa:f2:fc:58:ec:69:0d:6f:
+                    0e:d8:af:76:98:05:25:0b:e9:49:8c:12:53:87:e8:
+                    20:57
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Authority Key Identifier: 
+                keyid:57:86:9B:54:B8:BE:A6:29:8A:E4:F6:C2:E2:13:18:89:85:CD:DC:B7
+
+            X509v3 Subject Key Identifier: 
+                4D:B2:7C:FE:86:C6:27:07:B2:32:CD:76:5A:19:48:36:EC:AC:2C:C8
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://tl.symcb.com/tl.crl
+
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.4.1
+                  CPS: https://www.thawte.com/cps
+                  User Notice:
+                    Explicit Text: https://www.thawte.com/repository
+
+            Authority Information Access: 
+                OCSP - URI:http://tl.symcd.com
+                CA Issuers - URI:http://tl.symcb.com/tl.crt
+
+    Signature Algorithm: sha256WithRSAEncryption
+         0f:b2:6d:47:25:82:64:11:a9:54:cc:98:16:4c:29:c5:e1:a9:
+         be:90:e4:aa:5e:2a:a0:9d:c6:23:d0:44:fe:84:be:30:4f:cf:
+         83:5f:f3:43:34:ac:33:71:d4:84:0d:4f:47:da:7b:a4:e2:f8:
+         7b:eb:2a:77:eb:8f:40:16:1e:b0:69:6e:75:d2:35:ac:d6:b8:
+         67:05:0b:32:de:c1:34:60:a0:8d:52:f4:d7:5d:36:50:d9:d5:
+         71:ca:2f:a8:a2:bf:1a:0d:2f:f6:55:63:fd:b5:19:7b:0e:cf:
+         70:51:22:4e:26:11:0f:c1:ff:fd:6f:ca:a9:4c:40:e5:cf:3b:
+         12:f2:b7:58:b9:b8:75:8b:8b:2f:7a:04:0c:ea:aa:66:55:60:
+         55:3a:28:d4:16:7d:31:36:c5:57:aa:30:62:d1:12:f0:e0:54:
+         cb:ea:a1:34:24:9b:32:0e:96:6b:c4:a8:93:86:f1:2f:fd:ac:
+         8f:e6:ef:70:5e:1b:db:6d:75:be:41:05:fa:3b:fb:5a:d2:d9:
+         c0:e2:42:6f:6d:f0:80:e0:f0:e8:75:20:ec:5c:fb:e9:06:5d:
+         c5:b8:3b:b4:98:8c:de:13:67:2f:cc:f2:bc:b2:e9:19:2b:53:
+         77:b7:a6:df:f1:ac:cf:42:77:04:70:8e:43:a0:79:d4:d4:6e:
+         41:2c:b3:8e
+-----BEGIN CERTIFICATE-----
+MIIE1jCCA76gAwIBAgIQeNRKdWOMgDMB+8cVbVWJWTANBgkqhkiG9w0BAQsFADBM
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMdGhhd3RlLCBJbmMuMSYwJAYDVQQDEx10
+aGF3dGUgU0hBMjU2IENvZGUgU2lnbmluZyBDQTAeFw0xNzAyMjEwMDAwMDBaFw0x
+ODA1MjMyMzU5NTlaMIGTMQswCQYDVQQGEwJQTDEPMA0GA1UECAwGUG9sYW5kMQ8w
+DQYDVQQHDAZXYXJzYXcxJTAjBgNVBAoMHFN5c3RlbSBIZWFsZXIgVGVjaCBTcC4g
+Wm8uby4xFDASBgNVBAsMC0lUIERpdmlzaW9uMSUwIwYDVQQDDBxTeXN0ZW0gSGVh
+bGVyIFRlY2ggU3AuIFpvLm8uMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAyoUggc+PAJQGdp7mNCDq40mvFXn2XSmN1gZd51Icf9xK3pXWBKWuNl8f0IYm
+r0xNMufxNJ0rW/cdMX+2aCCfTUHtItWm3ETkfx+E/8Kjy608TGYCmL1y69DEqZAq
+FyFQOQTS2ll1/xSDT2PZ6L759nUIesOGcoZj1DddLTVkSZpT8EwYB1YXVSdNICFJ
+h1iRkTzlMKFh2/Z/W14Oa3d2eGOkO7WGgboEX/4ssOvO4Ndc7v87rcQy6AqPLp+x
+/wDodQxgbJNUCrLRx6uHu9eMpFTQU9Jz0zciNwa7JmTm6+2lJ779jXyh+vL8WOxp
+DW8O2K92mAUlC+lJjBJTh+ggVwIDAQABo4IBajCCAWYwCQYDVR0TBAIwADAfBgNV
+HSMEGDAWgBRXhptUuL6mKYrk9sLiExiJhc3ctzAdBgNVHQ4EFgQUTbJ8/obGJwey
+Ms12WhlINuysLMgwKwYDVR0fBCQwIjAgoB6gHIYaaHR0cDovL3RsLnN5bWNiLmNv
+bS90bC5jcmwwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMDMG4G
+A1UdIARnMGUwYwYGZ4EMAQQBMFkwJgYIKwYBBQUHAgEWGmh0dHBzOi8vd3d3LnRo
+YXd0ZS5jb20vY3BzMC8GCCsGAQUFBwICMCMMIWh0dHBzOi8vd3d3LnRoYXd0ZS5j
+b20vcmVwb3NpdG9yeTBXBggrBgEFBQcBAQRLMEkwHwYIKwYBBQUHMAGGE2h0dHA6
+Ly90bC5zeW1jZC5jb20wJgYIKwYBBQUHMAKGGmh0dHA6Ly90bC5zeW1jYi5jb20v
+dGwuY3J0MA0GCSqGSIb3DQEBCwUAA4IBAQAPsm1HJYJkEalUzJgWTCnF4am+kOSq
+XiqgncYj0ET+hL4wT8+DX/NDNKwzcdSEDU9H2nuk4vh76yp3649AFh6waW510jWs
+1rhnBQsy3sE0YKCNUvTXXTZQ2dVxyi+oor8aDS/2VWP9tRl7Ds9wUSJOJhEPwf/9
+b8qpTEDlzzsS8rdYubh1i4svegQM6qpmVWBVOijUFn0xNsVXqjBi0RLw4FTL6qE0
+JJsyDpZrxKiThvEv/ayP5u9wXhvbbXW+QQX6O/ta0tnA4kJvbfCA4PDodSDsXPvp
+Bl3FuDu0mIzeE2cvzPK8sukZK1N3t6bf8azPQncEcI5DoHnU1G5BLLOO
+-----END CERTIFICATE-----
+

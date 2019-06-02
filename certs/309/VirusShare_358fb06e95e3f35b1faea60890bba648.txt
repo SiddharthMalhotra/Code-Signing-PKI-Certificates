@@ -1,0 +1,346 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            5c:71:7f:7a:71:fa:e1:84:9d:7b:dd:00:f0:27:e6:8b
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CN, O=WoSign CA Limited, CN=WoSign Class 3 Code Signing CA
+        Validity
+            Not Before: Dec 23 08:09:40 2014 GMT
+            Not After : Feb 23 08:09:40 2018 GMT
+        Subject: C=CN, ST=\xE5\xB9\xBF\xE4\xB8\x9C\xE7\x9C\x81, L=\xE5\xB9\xBF\xE5\xB7\x9E\xE5\xB8\x82, O=\xE5\xB9\xBF\xE5\xB7\x9E\xE5\x8D\x8E\xE5\xA4\x9A\xE7\xBD\x91\xE7\xBB\x9C\xE7\xA7\x91\xE6\x8A\x80\xE6\x9C\x89\xE9\x99\x90\xE5\x85\xAC\xE5\x8F\xB8, CN=\xE5\xB9\xBF\xE5\xB7\x9E\xE5\x8D\x8E\xE5\xA4\x9A\xE7\xBD\x91\xE7\xBB\x9C\xE7\xA7\x91\xE6\x8A\x80\xE6\x9C\x89\xE9\x99\x90\xE5\x85\xAC\xE5\x8F\xB8
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c7:30:39:7a:9f:98:5e:bb:8c:2b:f9:32:c6:d4:
+                    df:0e:e6:68:b9:36:a0:42:98:99:64:33:55:f3:56:
+                    05:a0:e1:e1:0f:a0:07:96:20:69:70:3f:28:9b:3c:
+                    b0:bc:74:0d:ee:42:51:a9:6f:4d:41:64:96:3d:e3:
+                    06:3f:8f:88:cf:ae:00:86:4c:10:e2:58:fa:a7:ab:
+                    b5:74:98:6a:3d:bd:5c:29:b1:e0:59:a3:f5:41:df:
+                    ff:51:28:d1:a2:0c:89:55:16:00:1a:64:00:87:92:
+                    57:a7:00:13:9c:12:ba:27:dc:1e:34:27:e9:ce:c2:
+                    65:2d:8f:2b:38:67:30:22:d0:4d:98:5f:17:e3:07:
+                    8a:8d:46:b6:76:68:65:7a:f9:15:1d:fa:f0:f3:4f:
+                    88:06:58:e1:a9:12:f0:71:de:a8:f5:30:fe:1e:be:
+                    00:a6:43:e0:d8:27:88:b2:c7:fa:5f:e5:23:6c:8a:
+                    4b:60:65:6a:36:36:8b:ac:80:fe:65:81:bc:9a:dc:
+                    5d:ac:8d:a5:91:3b:8c:44:a1:04:64:ba:16:ae:2c:
+                    20:67:cc:dc:18:34:ec:2f:03:c5:1f:9d:e2:eb:70:
+                    97:81:d0:0a:df:46:3b:4c:b5:6e:f5:b8:aa:bc:8d:
+                    f8:2d:69:21:6a:0d:e1:f3:8c:da:92:df:81:c1:2f:
+                    8b:a1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                Code Signing, Microsoft Commercial Code Signing
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                04:DA:7D:C4:07:00:9D:C5:6C:A7:BE:69:D1:F8:92:6A:CC:22:96:3B
+            X509v3 Authority Key Identifier: 
+                keyid:F5:02:AA:4B:D3:E0:1A:8E:77:50:D6:1A:BB:EB:DF:B9:83:70:B0:4E
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp1.wosign.com/class3/code/ca1
+                CA Issuers - URI:http://aia1.wosign.com/class3.code.ca1.cer
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crls1.wosign.com/ca1-code-3.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.2
+                Policy: 1.3.6.1.4.1.36305.1.3.3.1.2
+                  CPS: http://www.wosign.com/policy/
+
+    Signature Algorithm: sha1WithRSAEncryption
+         1c:ce:69:ce:2b:43:72:87:85:de:a4:2b:97:c0:8b:73:24:8b:
+         47:82:52:74:54:5d:d3:f8:db:3c:17:93:4e:63:3e:5c:de:c7:
+         d3:f1:f1:c8:b5:42:23:84:7c:5d:a0:db:f9:53:41:22:b7:af:
+         97:c5:64:0e:40:f4:f7:47:f8:77:53:9b:a0:57:61:ed:c8:bc:
+         38:29:df:52:9f:d1:61:d9:13:6f:7a:9b:00:e4:a8:bb:a3:e3:
+         53:ea:30:59:b0:81:1f:e7:7b:2f:08:92:48:a1:c4:80:ee:50:
+         45:73:06:a1:18:e1:66:48:86:08:02:bd:f4:5d:38:9e:d7:12:
+         1f:1d:04:41:ea:a5:d9:57:1f:27:8e:d3:04:02:43:8f:91:48:
+         2b:b1:56:ce:60:0c:c0:51:b2:9e:04:17:5e:01:bb:d0:96:d6:
+         32:4f:c1:79:65:82:73:ef:14:53:5a:75:90:82:a5:fd:45:a5:
+         27:19:a9:3f:f0:33:a5:41:d1:4f:65:be:49:c1:ef:25:2e:23:
+         fa:f3:e2:c7:59:34:4d:23:fa:40:f4:55:41:ac:38:20:22:0d:
+         30:93:ca:55:57:49:9d:50:74:49:78:ec:b3:fe:81:54:d9:e9:
+         2b:1b:41:21:9e:3f:79:90:17:e3:9e:0c:7e:b4:6f:0b:d1:7a:
+         bc:b2:9a:b8
+-----BEGIN CERTIFICATE-----
+MIIE+zCCA+OgAwIBAgIQXHF/enH64YSde90A8CfmizANBgkqhkiG9w0BAQUFADBS
+MQswCQYDVQQGEwJDTjEaMBgGA1UEChMRV29TaWduIENBIExpbWl0ZWQxJzAlBgNV
+BAMTHldvU2lnbiBDbGFzcyAzIENvZGUgU2lnbmluZyBDQTAeFw0xNDEyMjMwODA5
+NDBaFw0xODAyMjMwODA5NDBaMIGTMQswCQYDVQQGEwJDTjESMBAGA1UECAwJ5bm/
+5Lic55yBMRIwEAYDVQQHDAnlub/lt57luIIxLTArBgNVBAoMJOW5v+W3nuWNjuWk
+mue9kee7nOenkeaKgOaciemZkOWFrOWPuDEtMCsGA1UEAwwk5bm/5bee5Y2O5aSa
+572R57uc56eR5oqA5pyJ6ZmQ5YWs5Y+4MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAxzA5ep+YXruMK/kyxtTfDuZouTagQpiZZDNV81YFoOHhD6AHliBp
+cD8omzywvHQN7kJRqW9NQWSWPeMGP4+Iz64AhkwQ4lj6p6u1dJhqPb1cKbHgWaP1
+Qd//USjRogyJVRYAGmQAh5JXpwATnBK6J9weNCfpzsJlLY8rOGcwItBNmF8X4weK
+jUa2dmhlevkVHfrw80+IBljhqRLwcd6o9TD+Hr4ApkPg2CeIssf6X+UjbIpLYGVq
+NjaLrID+ZYG8mtxdrI2lkTuMRKEEZLoWriwgZ8zcGDTsLwPFH53i63CXgdAK30Y7
+TLVu9biqvI34LWkhag3h84zakt+BwS+LoQIDAQABo4IBiTCCAYUwDgYDVR0PAQH/
+BAQDAgeAMB8GA1UdJQQYMBYGCCsGAQUFBwMDBgorBgEEAYI3AgEWMAkGA1UdEwQC
+MAAwHQYDVR0OBBYEFATafcQHAJ3FbKe+adH4kmrMIpY7MB8GA1UdIwQYMBaAFPUC
+qkvT4BqOd1DWGrvr37mDcLBOMHsGCCsGAQUFBwEBBG8wbTAzBggrBgEFBQcwAYYn
+aHR0cDovL29jc3AxLndvc2lnbi5jb20vY2xhc3MzL2NvZGUvY2ExMDYGCCsGAQUF
+BzAChipodHRwOi8vYWlhMS53b3NpZ24uY29tL2NsYXNzMy5jb2RlLmNhMS5jZXIw
+NwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybHMxLndvc2lnbi5jb20vY2ExLWNv
+ZGUtMy5jcmwwUQYDVR0gBEowSDAIBgZngQwBAgIwPAYNKwYBBAGCm1EBAwMBAjAr
+MCkGCCsGAQUFBwIBFh1odHRwOi8vd3d3Lndvc2lnbi5jb20vcG9saWN5LzANBgkq
+hkiG9w0BAQUFAAOCAQEAHM5pzitDcoeF3qQrl8CLcySLR4JSdFRd0/jbPBeTTmM+
+XN7H0/HxyLVCI4R8XaDb+VNBIrevl8VkDkD090f4d1OboFdh7ci8OCnfUp/RYdkT
+b3qbAOSou6PjU+owWbCBH+d7LwiSSKHEgO5QRXMGoRjhZkiGCAK99F04ntcSHx0E
+Qeql2VcfJ47TBAJDj5FIK7FWzmAMwFGyngQXXgG70JbWMk/BeWWCc+8UU1p1kIKl
+/UWlJxmpP/AzpUHRT2W+ScHvJS4j+vPix1k0TSP6QPRVQaw4ICINMJPKVVdJnVB0
+SXjss/6BVNnpKxtBIZ4/eZAX454MfrRvC9F6vLKauA==
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            25:1f:5d:98:81:82:17:2e:3c:41:9e:01:4f:b0:40:4c
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CN, O=WoSign CA Limited, CN=Certification Authority of WoSign
+        Validity
+            Not Before: Aug  8 01:00:05 2009 GMT
+            Not After : Aug  8 01:00:05 2024 GMT
+        Subject: C=CN, O=WoSign CA Limited, CN=WoSign Time Stamping Signer
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a5:d0:68:ba:82:cb:db:a7:6d:55:b9:31:a7:da:
+                    f4:9c:6b:03:54:4f:a2:1c:ef:1c:b5:96:44:1f:56:
+                    41:3f:61:b0:03:59:4b:82:0e:db:15:c8:d0:cc:e0:
+                    87:c6:09:75:8a:84:e3:ed:97:c2:c8:92:34:c0:f1:
+                    64:53:60:51:34:48:90:b1:4f:89:69:f5:2e:a0:2a:
+                    16:54:2f:c0:37:58:ff:35:52:1b:52:08:cf:b9:ec:
+                    5a:27:52:5a:83:eb:68:b1:b9:f8:b2:a9:08:f3:4f:
+                    ab:17:0f:2e:bd:4f:e5:12:8a:bf:7c:b7:e7:65:32:
+                    3b:83:41:02:22:3a:24:3b:6a:a3:3c:af:eb:79:42:
+                    17:56:74:c8:61:63:dd:8c:2f:3e:ef:3a:a3:47:52:
+                    04:3b:00:18:ae:26:71:e0:7a:04:8d:75:82:2d:65:
+                    4e:c1:b8:f2:8c:de:0f:63:03:d4:c3:52:60:72:8c:
+                    88:cc:6f:96:d5:c7:7d:29:db:26:04:9e:a2:b4:bf:
+                    5a:b5:6e:f2:46:0f:29:81:c5:c0:4f:a6:87:8c:7c:
+                    21:07:54:1f:50:f0:42:5c:55:7c:cf:44:2e:41:3d:
+                    18:8d:5f:d9:68:e6:47:91:8f:cf:dc:7d:90:60:ff:
+                    cb:48:e4:61:5e:4f:73:45:0d:c8:34:89:03:d5:fe:
+                    0b:c3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Non Repudiation
+            X509v3 Extended Key Usage: critical
+                Time Stamping
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crls1.wosign.com/ca1.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp1.wosign.com/ca1
+                CA Issuers - URI:http://aia1.wosign.com/ca1-tsa.cer
+
+            X509v3 Subject Key Identifier: 
+                DF:6E:12:D5:0C:54:2E:5A:14:CA:DE:03:DE:AB:4E:D4:98:0C:46:B5
+            X509v3 Authority Key Identifier: 
+                keyid:E1:66:CF:0E:D1:F1:B3:4B:B7:06:20:14:FE:87:12:D5:F6:FE:FB:3E
+
+    Signature Algorithm: sha1WithRSAEncryption
+         7c:98:2f:bb:c3:d2:ae:c2:2a:8f:a6:97:76:56:86:32:c4:cd:
+         36:68:8b:ec:d7:80:1a:31:79:b0:5e:56:b9:69:eb:b9:0b:32:
+         a9:83:26:dc:77:5d:7a:56:b2:46:a0:7d:15:d6:6d:f9:ac:f8:
+         35:73:78:36:02:60:22:20:1c:ef:18:8f:7e:66:b2:4f:e7:71:
+         93:5a:2b:e6:e5:8d:3d:5d:2e:27:4b:46:cb:1d:04:f3:0b:8c:
+         3f:13:a8:0d:d4:cd:e8:28:e8:2a:9c:55:c8:e3:ff:9d:a9:22:
+         49:6e:e8:e7:88:92:37:57:80:60:44:18:27:43:58:18:04:6d:
+         86:c0:65:47:05:57:55:50:91:e6:73:50:ee:3f:10:a9:8f:05:
+         2f:da:68:11:53:6e:1f:ad:98:f3:76:3e:85:d0:57:a3:cf:e4:
+         c1:1a:4c:64:06:a6:44:ab:4e:1e:e2:4b:d5:a4:6d:71:f8:6b:
+         cb:66:13:a6:47:1f:21:2a:a1:ae:4c:89:a4:7d:28:77:17:4f:
+         88:8d:b1:d1:5d:b1:c4:93:5a:bf:22:92:6c:ab:67:82:68:ed:
+         d7:21:cb:63:bc:93:c4:17:8e:87:19:25:ad:17:54:b4:79:d2:
+         a5:93:73:bc:7c:bb:e4:80:0f:8f:cc:aa:0a:d0:e4:93:75:aa:
+         6c:cf:49:7d:75:ec:82:28:5c:73:f0:42:bf:9e:a6:13:2e:de:
+         6c:ee:80:03:a6:ee:88:36:a0:1b:b2:82:e8:3d:bb:a6:1a:d5:
+         11:ae:0a:0b:62:d6:51:36:97:23:17:52:26:ed:f1:c5:b6:21:
+         75:39:15:07:e0:42:f1:2a:89:04:77:66:ad:14:04:d2:c7:d4:
+         7c:4f:6c:dd:4e:dc:ed:8e:a9:f6:86:17:e7:e1:59:66:bb:d0:
+         7a:d0:94:42:eb:af:c1:54:ca:e2:1a:a4:a9:b6:a5:d4:81:ca:
+         15:26:fa:6f:b4:df:78:10:04:8c:48:18:bc:28:59:66:9a:b8:
+         18:f1:d9:5e:5b:82:ff:fe:11:d7:d4:04:36:30:9f:51:1d:3c:
+         c8:64:40:75:7c:d8:35:83:ef:b1:e5:28:76:0a:05:3d:e9:b8:
+         1e:70:50:3a:60:e2:a5:01:88:88:9c:04:cc:6a:f2:15:85:d1:
+         0c:b7:4a:6d:93:4e:82:ca:29:e9:75:0b:42:e4:3a:47:24:08:
+         6d:80:5c:e6:6a:67:2c:b6:13:08:c9:4f:d8:66:53:b9:b6:7f:
+         e2:ea:39:95:6f:71:77:96:03:af:b9:e3:cc:e3:a1:b9:f1:01:
+         c6:6e:be:fc:97:5c:b2:d1:f1:7b:fb:33:c6:65:ea:e6:18:f9:
+         ab:3a:27:1a:2d:20:6b:e6
+-----BEGIN CERTIFICATE-----
+MIIFRTCCAy2gAwIBAgIQJR9dmIGCFy48QZ4BT7BATDANBgkqhkiG9w0BAQUFADBV
+MQswCQYDVQQGEwJDTjEaMBgGA1UEChMRV29TaWduIENBIExpbWl0ZWQxKjAoBgNV
+BAMTIUNlcnRpZmljYXRpb24gQXV0aG9yaXR5IG9mIFdvU2lnbjAeFw0wOTA4MDgw
+MTAwMDVaFw0yNDA4MDgwMTAwMDVaME8xCzAJBgNVBAYTAkNOMRowGAYDVQQKExFX
+b1NpZ24gQ0EgTGltaXRlZDEkMCIGA1UEAxMbV29TaWduIFRpbWUgU3RhbXBpbmcg
+U2lnbmVyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApdBouoLL26dt
+Vbkxp9r0nGsDVE+iHO8ctZZEH1ZBP2GwA1lLgg7bFcjQzOCHxgl1ioTj7ZfCyJI0
+wPFkU2BRNEiQsU+JafUuoCoWVC/AN1j/NVIbUgjPuexaJ1Jag+tosbn4sqkI80+r
+Fw8uvU/lEoq/fLfnZTI7g0ECIjokO2qjPK/reUIXVnTIYWPdjC8+7zqjR1IEOwAY
+riZx4HoEjXWCLWVOwbjyjN4PYwPUw1JgcoyIzG+W1cd9KdsmBJ6itL9atW7yRg8p
+gcXAT6aHjHwhB1QfUPBCXFV8z0QuQT0YjV/ZaOZHkY/P3H2QYP/LSORhXk9zRQ3I
+NIkD1f4LwwIDAQABo4IBFTCCAREwDgYDVR0PAQH/BAQDAgbAMBYGA1UdJQEB/wQM
+MAoGCCsGAQUFBwMIMAwGA1UdEwEB/wQCMAAwMAYDVR0fBCkwJzAloCOgIYYfaHR0
+cDovL2NybHMxLndvc2lnbi5jb20vY2ExLmNybDBnBggrBgEFBQcBAQRbMFkwJwYI
+KwYBBQUHMAGGG2h0dHA6Ly9vY3NwMS53b3NpZ24uY29tL2NhMTAuBggrBgEFBQcw
+AoYiaHR0cDovL2FpYTEud29zaWduLmNvbS9jYTEtdHNhLmNlcjAdBgNVHQ4EFgQU
+324S1QxULloUyt4D3qtO1JgMRrUwHwYDVR0jBBgwFoAU4WbPDtHxs0u3BiAU/ocS
+1fb++z4wDQYJKoZIhvcNAQEFBQADggIBAHyYL7vD0q7CKo+ml3ZWhjLEzTZoi+zX
+gBoxebBeVrlp67kLMqmDJtx3XXpWskagfRXWbfms+DVzeDYCYCIgHO8Yj35msk/n
+cZNaK+bljT1dLidLRssdBPMLjD8TqA3Uzego6CqcVcjj/52pIklu6OeIkjdXgGBE
+GCdDWBgEbYbAZUcFV1VQkeZzUO4/EKmPBS/aaBFTbh+tmPN2PoXQV6PP5MEaTGQG
+pkSrTh7iS9WkbXH4a8tmE6ZHHyEqoa5MiaR9KHcXT4iNsdFdscSTWr8ikmyrZ4Jo
+7dchy2O8k8QXjocZJa0XVLR50qWTc7x8u+SAD4/MqgrQ5JN1qmzPSX117IIoXHPw
+Qr+ephMu3mzugAOm7og2oBuygug9u6Ya1RGuCgti1lE2lyMXUibt8cW2IXU5FQfg
+QvEqiQR3Zq0UBNLH1HxPbN1O3O2OqfaGF+fhWWa70HrQlELrr8FUyuIapKm2pdSB
+yhUm+m+033gQBIxIGLwoWWaauBjx2V5bgv/+EdfUBDYwn1EdPMhkQHV82DWD77Hl
+KHYKBT3puB5wUDpg4qUBiIicBMxq8hWF0Qy3Sm2TToLKKel1C0LkOkckCG2AXOZq
+Zyy2EwjJT9hmU7m2f+LqOZVvcXeWA6+548zjobnxAcZuvvyXXLLR8Xv7M8Zl6uYY
++as6JxotIGvm
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            46:bb:b3:40:fa:b9:c1:79:28:93:8c:93:da:10:86:79
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CN, O=WoSign CA Limited, CN=Certification Authority of WoSign
+        Validity
+            Not Before: Aug  8 01:00:05 2009 GMT
+            Not After : Aug  8 01:00:05 2024 GMT
+        Subject: C=CN, O=WoSign CA Limited, CN=WoSign Class 3 Code Signing CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d1:49:a4:48:63:b9:dd:28:60:6a:d9:17:0d:01:
+                    c0:b2:58:86:4e:26:08:44:af:5f:37:84:25:44:45:
+                    65:33:46:a3:8a:9f:f6:99:51:ce:d9:43:a4:7a:0e:
+                    d6:f1:bf:91:24:ca:d4:24:11:01:5d:a3:3f:f3:d4:
+                    9d:6f:d6:99:b1:89:ce:6a:c1:65:a1:f0:df:a3:3a:
+                    93:90:80:21:2c:ba:2e:c1:67:31:1e:6b:55:38:85:
+                    a8:50:47:6a:49:c4:a5:0b:0c:4b:39:35:8f:80:9d:
+                    95:8c:e2:0d:63:55:6d:d6:8d:c4:3e:99:31:03:ea:
+                    42:00:1c:b0:16:61:36:80:f5:df:65:3f:e2:9f:8e:
+                    ec:3d:49:1b:36:e8:ea:93:d9:83:35:46:18:a5:a4:
+                    16:5e:34:68:71:b7:61:5b:3a:5e:40:e2:7f:c8:e6:
+                    05:85:8d:c6:db:21:ca:20:3e:2d:00:15:55:8a:7a:
+                    ca:dc:90:0a:5a:92:06:90:06:d6:6c:04:2c:8c:d5:
+                    9b:0e:b2:d4:a7:e3:30:bf:4e:b8:67:c1:69:c6:70:
+                    34:46:6c:66:ab:f2:ff:5f:35:da:13:3f:79:19:19:
+                    99:c2:3f:57:db:5a:40:fd:53:bd:08:63:d7:c9:79:
+                    cf:d3:b4:a2:09:e0:3f:55:c1:2b:1b:9f:37:fb:e1:
+                    b3:ad
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Extended Key Usage: 
+                Code Signing, Microsoft Commercial Code Signing
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crls1.wosign.com/ca1.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp1.wosign.com/ca1
+                CA Issuers - URI:http://aia1.wosign.com/ca1-class3-code.cer
+
+            X509v3 Subject Key Identifier: 
+                F5:02:AA:4B:D3:E0:1A:8E:77:50:D6:1A:BB:EB:DF:B9:83:70:B0:4E
+            X509v3 Authority Key Identifier: 
+                keyid:E1:66:CF:0E:D1:F1:B3:4B:B7:06:20:14:FE:87:12:D5:F6:FE:FB:3E
+
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.36305.1.3.3
+                  CPS: http://www.wosign.com/policy/
+
+    Signature Algorithm: sha1WithRSAEncryption
+         0e:93:a5:71:25:62:a2:82:62:7a:b5:79:ea:e1:ea:ac:ca:a5:
+         8b:c7:a1:4c:dc:cc:ae:1c:e9:ea:2e:88:e2:51:e5:81:22:76:
+         e9:f6:e0:66:41:c9:74:e4:de:66:7e:f9:52:99:12:fd:c5:9e:
+         6a:85:a4:5d:c5:54:f2:22:1f:bc:78:61:20:c0:fe:1c:1b:24:
+         ff:01:e3:dc:ad:13:79:cb:cc:3d:ae:f4:3f:6e:35:ca:cf:5d:
+         c6:05:3e:43:1e:a7:8d:03:dd:6e:ab:cd:5c:6a:b8:15:50:85:
+         da:b8:96:53:0f:55:7d:19:d9:a3:74:68:1a:84:d0:c2:58:09:
+         d6:dd:6a:e7:85:a5:d4:ac:41:5e:de:fd:a6:ab:79:8e:24:ab:
+         ed:39:6f:8f:5f:71:99:02:74:fc:42:7e:32:02:20:29:32:c2:
+         90:06:c2:7e:d0:ab:06:50:17:c3:ac:fb:a6:b9:6b:be:ee:be:
+         a4:1e:18:80:02:ed:44:9d:a2:c6:54:4d:ab:e1:b6:98:19:7e:
+         e1:b4:ba:7c:2c:3c:47:19:cb:4a:f7:63:62:66:5e:57:09:a8:
+         6c:1e:b8:4d:ec:53:94:d7:81:ff:0c:0b:ef:08:02:15:ae:d8:
+         d4:9f:5c:39:87:d7:24:66:84:a0:d0:38:90:4a:4e:99:4d:93:
+         60:76:f5:1a:e2:8e:46:5f:5b:12:97:b4:66:d7:7c:4f:42:16:
+         23:e8:0a:ed:86:46:0f:6d:9a:e4:7b:af:37:dc:f3:80:54:4b:
+         3b:22:dd:90:2c:07:bd:c0:97:f2:c3:ec:7f:7c:fb:be:46:99:
+         36:6e:48:c7:81:e5:f2:8c:02:0d:c0:7c:3f:c5:43:9b:70:02:
+         81:f5:b0:aa:7f:05:54:c0:c2:30:9c:c5:c2:57:f5:19:b1:90:
+         bc:d9:9d:d6:26:08:d6:0c:0e:b2:68:d0:91:e3:e7:3e:27:48:
+         37:47:5e:d3:51:b5:0e:59:59:c9:ba:a7:cb:84:6e:03:84:cf:
+         ec:50:bb:ee:cd:75:6d:7c:3a:9b:9a:fb:15:18:90:b1:c4:a3:
+         e1:98:19:77:08:96:fc:d5:48:c4:55:f7:d3:ac:20:58:ff:47:
+         c3:d4:fc:7b:ae:64:18:55:ab:47:2d:84:e4:24:53:b0:00:f4:
+         78:73:cb:cc:a6:22:20:2e:7f:f5:45:4d:0a:49:aa:6b:ae:6e:
+         66:24:e2:c4:0a:7e:a4:2b:90:8e:90:62:1c:f5:8b:f1:45:28:
+         f7:61:4a:cb:b4:8c:48:83:9e:ce:01:f3:a5:84:f4:d2:6a:fd:
+         3a:25:68:f2:08:c5:cf:1c:8d:27:c0:36:db:17:13:6c:c1:da:
+         21:40:35:f8:66:b3:23:27
+-----BEGIN CERTIFICATE-----
+MIIFpjCCA46gAwIBAgIQRruzQPq5wXkok4yT2hCGeTANBgkqhkiG9w0BAQUFADBV
+MQswCQYDVQQGEwJDTjEaMBgGA1UEChMRV29TaWduIENBIExpbWl0ZWQxKjAoBgNV
+BAMTIUNlcnRpZmljYXRpb24gQXV0aG9yaXR5IG9mIFdvU2lnbjAeFw0wOTA4MDgw
+MTAwMDVaFw0yNDA4MDgwMTAwMDVaMFIxCzAJBgNVBAYTAkNOMRowGAYDVQQKExFX
+b1NpZ24gQ0EgTGltaXRlZDEnMCUGA1UEAxMeV29TaWduIENsYXNzIDMgQ29kZSBT
+aWduaW5nIENBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0UmkSGO5
+3ShgatkXDQHAsliGTiYIRK9fN4QlREVlM0ajip/2mVHO2UOkeg7W8b+RJMrUJBEB
+XaM/89Sdb9aZsYnOasFlofDfozqTkIAhLLouwWcxHmtVOIWoUEdqScSlCwxLOTWP
+gJ2VjOINY1Vt1o3EPpkxA+pCABywFmE2gPXfZT/in47sPUkbNujqk9mDNUYYpaQW
+XjRocbdhWzpeQOJ/yOYFhY3G2yHKID4tABVVinrK3JAKWpIGkAbWbAQsjNWbDrLU
+p+Mwv064Z8FpxnA0Rmxmq/L/XzXaEz95GRmZwj9X21pA/VO9CGPXyXnP07SiCeA/
+VcErG583++GzrQIDAQABo4IBczCCAW8wDgYDVR0PAQH/BAQDAgEGMB8GA1UdJQQY
+MBYGCCsGAQUFBwMDBgorBgEEAYI3AgEWMBIGA1UdEwEB/wQIMAYBAf8CAQAwMAYD
+VR0fBCkwJzAloCOgIYYfaHR0cDovL2NybHMxLndvc2lnbi5jb20vY2ExLmNybDBv
+BggrBgEFBQcBAQRjMGEwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vY3NwMS53b3NpZ24u
+Y29tL2NhMTA2BggrBgEFBQcwAoYqaHR0cDovL2FpYTEud29zaWduLmNvbS9jYTEt
+Y2xhc3MzLWNvZGUuY2VyMB0GA1UdDgQWBBT1AqpL0+AajndQ1hq769+5g3CwTjAf
+BgNVHSMEGDAWgBThZs8O0fGzS7cGIBT+hxLV9v77PjBFBgNVHSAEPjA8MDoGCysG
+AQQBgptRAQMDMCswKQYIKwYBBQUHAgEWHWh0dHA6Ly93d3cud29zaWduLmNvbS9w
+b2xpY3kvMA0GCSqGSIb3DQEBBQUAA4ICAQAOk6VxJWKigmJ6tXnq4eqsyqWLx6FM
+3MyuHOnqLojiUeWBInbp9uBmQcl05N5mfvlSmRL9xZ5qhaRdxVTyIh+8eGEgwP4c
+GyT/AePcrRN5y8w9rvQ/bjXKz13GBT5DHqeNA91uq81cargVUIXauJZTD1V9Gdmj
+dGgahNDCWAnW3WrnhaXUrEFe3v2mq3mOJKvtOW+PX3GZAnT8Qn4yAiApMsKQBsJ+
+0KsGUBfDrPumuWu+7r6kHhiAAu1EnaLGVE2r4baYGX7htLp8LDxHGctK92NiZl5X
+CahsHrhN7FOU14H/DAvvCAIVrtjUn1w5h9ckZoSg0DiQSk6ZTZNgdvUa4o5GX1sS
+l7Rm13xPQhYj6ArthkYPbZrke6833POAVEs7It2QLAe9wJfyw+x/fPu+Rpk2bkjH
+geXyjAINwHw/xUObcAKB9bCqfwVUwMIwnMXCV/UZsZC82Z3WJgjWDA6yaNCR4+c+
+J0g3R17TUbUOWVnJuqfLhG4DhM/sULvuzXVtfDqbmvsVGJCxxKPhmBl3CJb81UjE
+VffTrCBY/0fD1Px7rmQYVatHLYTkJFOwAPR4c8vMpiIgLn/1RU0KSaprrm5mJOLE
+Cn6kK5COkGIc9YvxRSj3YUrLtIxIg57OAfOlhPTSav06JWjyCMXPHI0nwDbbFxNs
+wdohQDX4ZrMjJw==
+-----END CERTIFICATE-----
+

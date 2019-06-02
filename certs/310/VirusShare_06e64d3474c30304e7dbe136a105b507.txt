@@ -1,0 +1,207 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 7 (0x7)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
+        Validity
+            Not Before: May  3 07:00:00 2011 GMT
+            Not After : May  3 07:00:00 2031 GMT
+        Subject: C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e5:90:66:4b:ec:f9:46:71:a9:20:83:be:e9:6c:
+                    bf:4a:c9:48:69:81:75:4e:6d:24:f6:cb:17:13:f8:
+                    b0:71:59:84:7a:6b:2b:85:a4:34:b5:16:e5:cb:cc:
+                    e9:41:70:2c:a4:2e:d6:fa:32:7d:e1:a8:de:94:10:
+                    ac:31:c1:c0:d8:6a:ff:59:27:ab:76:d6:fc:0b:74:
+                    6b:b8:a7:ae:3f:c4:54:f4:b4:31:44:dd:93:56:8c:
+                    a4:4c:5e:9b:89:cb:24:83:9b:e2:57:7d:b7:d8:12:
+                    1f:c9:85:6d:f4:d1:80:f1:50:9b:87:ae:d4:0b:10:
+                    05:fb:27:ba:28:6d:17:e9:0e:d6:4d:b9:39:55:06:
+                    ff:0a:24:05:7e:2f:c6:1d:72:6c:d4:8b:29:8c:57:
+                    7d:da:d9:eb:66:1a:d3:4f:a7:df:7f:52:c4:30:c5:
+                    a5:c9:0e:02:c5:53:bf:77:38:68:06:24:c3:66:c8:
+                    37:7e:30:1e:45:71:23:35:ff:90:d8:2a:9d:8d:e7:
+                    b0:92:4d:3c:7f:2a:0a:93:dc:cd:16:46:65:f7:60:
+                    84:8b:76:4b:91:27:73:14:92:e0:ea:ee:8f:16:ea:
+                    8d:0e:3e:76:17:bf:7d:89:80:80:44:43:e7:2d:e0:
+                    43:09:75:da:36:e8:ad:db:89:3a:f5:5d:12:8e:23:
+                    04:83
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Key Identifier: 
+                25:45:81:68:50:26:38:3D:3B:2D:2C:BE:CD:6A:D9:B6:3D:B3:66:63
+            X509v3 Authority Key Identifier: 
+                keyid:7C:0C:32:1F:A7:D9:30:7F:C4:7D:68:A3:62:A8:A1:CE:AB:07:5B:27
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.starfieldtech.com/
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.starfieldtech.com/sfroot-g2.crl
+
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  CPS: https://certs.starfieldtech.com/repository/
+
+    Signature Algorithm: sha256WithRSAEncryption
+         56:65:ca:fe:f3:3f:0a:a8:93:8b:18:c7:de:43:69:13:34:20:
+         be:4e:5f:78:a8:6b:9c:db:6a:4d:41:db:c1:13:ec:dc:31:00:
+         22:5e:f7:00:9e:0c:e0:34:65:34:f9:b1:3a:4e:48:c8:12:81:
+         88:5c:5b:3e:08:53:7a:f7:1a:64:df:b8:50:61:cc:53:51:40:
+         29:4b:c2:f4:ae:3a:5f:e4:ca:ad:26:cc:4e:61:43:e5:fd:57:
+         a6:37:70:ce:43:2b:b0:94:c3:92:e9:e1:5f:aa:10:49:b7:69:
+         e4:e0:d0:1f:64:a4:2b:cd:1f:6f:a0:f8:84:24:18:ce:79:3d:
+         a9:91:bf:54:18:13:89:99:54:11:0d:55:c5:26:0b:79:4f:5a:
+         1c:6e:f9:63:db:14:80:a4:07:ab:fa:b2:a5:b9:88:dd:91:fe:
+         65:3b:a4:a3:79:be:89:4d:e1:d0:b0:f4:c8:17:0c:0a:96:14:
+         7c:09:b7:6c:e1:c2:d8:55:d4:18:a0:aa:41:69:70:24:a3:b9:
+         ef:e9:5a:dc:3e:eb:94:4a:f0:b7:de:5f:0e:76:fa:fb:fb:69:
+         03:45:40:50:ee:72:0c:a4:12:86:81:cd:13:d1:4e:c4:3c:ca:
+         4e:0d:d2:26:f1:00:b7:b4:a6:a2:e1:6e:7a:81:fd:30:ac:7a:
+         1f:c7:59:7b
+-----BEGIN CERTIFICATE-----
+MIIFADCCA+igAwIBAgIBBzANBgkqhkiG9w0BAQsFADCBjzELMAkGA1UEBhMCVVMx
+EDAOBgNVBAgTB0FyaXpvbmExEzARBgNVBAcTClNjb3R0c2RhbGUxJTAjBgNVBAoT
+HFN0YXJmaWVsZCBUZWNobm9sb2dpZXMsIEluYy4xMjAwBgNVBAMTKVN0YXJmaWVs
+ZCBSb290IENlcnRpZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTExMDUwMzA3MDAw
+MFoXDTMxMDUwMzA3MDAwMFowgcYxCzAJBgNVBAYTAlVTMRAwDgYDVQQIEwdBcml6
+b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMSUwIwYDVQQKExxTdGFyZmllbGQgVGVj
+aG5vbG9naWVzLCBJbmMuMTMwMQYDVQQLEypodHRwOi8vY2VydHMuc3RhcmZpZWxk
+dGVjaC5jb20vcmVwb3NpdG9yeS8xNDAyBgNVBAMTK1N0YXJmaWVsZCBTZWN1cmUg
+Q2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDlkGZL7PlGcakgg77pbL9KyUhpgXVObST2yxcT+LBxWYR6ayuF
+pDS1FuXLzOlBcCykLtb6Mn3hqN6UEKwxwcDYav9ZJ6t21vwLdGu4p64/xFT0tDFE
+3ZNWjKRMXpuJyySDm+JXfbfYEh/JhW300YDxUJuHrtQLEAX7J7oobRfpDtZNuTlV
+Bv8KJAV+L8YdcmzUiymMV33a2etmGtNPp99/UsQwxaXJDgLFU793OGgGJMNmyDd+
+MB5FcSM1/5DYKp2N57CSTTx/KgqT3M0WRmX3YISLdkuRJ3MUkuDq7o8W6o0OPnYX
+v32JgIBEQ+ct4EMJddo26K3biTr1XRKOIwSDAgMBAAGjggEsMIIBKDAPBgNVHRMB
+Af8EBTADAQH/MA4GA1UdDwEB/wQEAwIBBjAdBgNVHQ4EFgQUJUWBaFAmOD07LSy+
+zWrZtj2zZmMwHwYDVR0jBBgwFoAUfAwyH6fZMH/EfWijYqihzqsHWycwOgYIKwYB
+BQUHAQEELjAsMCoGCCsGAQUFBzABhh5odHRwOi8vb2NzcC5zdGFyZmllbGR0ZWNo
+LmNvbS8wOwYDVR0fBDQwMjAwoC6gLIYqaHR0cDovL2NybC5zdGFyZmllbGR0ZWNo
+LmNvbS9zZnJvb3QtZzIuY3JsMEwGA1UdIARFMEMwQQYEVR0gADA5MDcGCCsGAQUF
+BwIBFitodHRwczovL2NlcnRzLnN0YXJmaWVsZHRlY2guY29tL3JlcG9zaXRvcnkv
+MA0GCSqGSIb3DQEBCwUAA4IBAQBWZcr+8z8KqJOLGMfeQ2kTNCC+Tl94qGuc22pN
+QdvBE+zcMQAiXvcAngzgNGU0+bE6TkjIEoGIXFs+CFN69xpk37hQYcxTUUApS8L0
+rjpf5MqtJsxOYUPl/VemN3DOQyuwlMOS6eFfqhBJt2nk4NAfZKQrzR9voPiEJBjO
+eT2pkb9UGBOJmVQRDVXFJgt5T1ocbvlj2xSApAer+rKluYjdkf5lO6Sjeb6JTeHQ
+sPTIFwwKlhR8Cbds4cLYVdQYoKpBaXAko7nv6VrcPuuUSvC33l8Odvr7+2kDRUBQ
+7nIMpBKGgc0T0U7EPMpODdIm8QC3tKai4W56gf0wrHofx1l7
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1753328990006912131 (0x1855136d47c1a483)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2
+        Validity
+            Not Before: Jan 12 11:36:38 2015 GMT
+            Not After : Sep 27 01:56:54 2016 GMT
+        Subject: C=HK, ST=Hong Kong, L=Kwun Tong, O=Catalina Group Limited, CN=Catalina Group Limited
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d2:9f:e8:6d:28:2d:ef:fe:05:e7:0f:1e:b6:c9:
+                    ea:12:ae:d1:3f:2b:e9:c6:a3:fb:b8:f2:9e:aa:ea:
+                    ac:82:10:72:8b:f8:ea:42:f0:11:e2:f3:d2:b5:c4:
+                    c1:a2:0d:9a:65:b0:dc:ec:3d:5c:94:49:69:87:76:
+                    5e:7f:ed:93:cb:25:50:97:17:98:c0:1a:b5:88:00:
+                    29:0c:06:b4:25:0e:5a:8e:28:79:45:48:b9:be:c6:
+                    e0:8d:38:0a:5c:34:cd:5b:c6:b3:8b:f3:ad:16:41:
+                    0f:5b:0f:8f:d4:16:19:9b:54:f3:a3:0d:03:61:9d:
+                    2d:8d:f8:80:07:80:4b:e8:62:b5:8b:a0:b8:37:99:
+                    ca:51:f5:de:db:b1:78:0f:cd:40:5e:84:88:e7:9d:
+                    1c:ec:87:61:fc:06:d1:ab:3b:8c:e3:3e:a8:d2:7f:
+                    9c:5f:f1:b3:fa:49:8c:50:ee:bf:6c:64:f9:bb:fb:
+                    1e:d7:4e:cc:61:40:08:ad:af:b2:d9:a8:08:da:3e:
+                    4d:b7:cb:24:ee:e2:32:88:12:f6:fb:de:e1:68:08:
+                    9d:5c:89:07:01:72:95:80:06:ce:bc:e9:f1:e0:60:
+                    d5:91:36:1a:ca:71:46:92:be:3e:49:4c:cd:c4:4f:
+                    e8:e7:ea:99:fc:15:23:6d:4f:f6:41:98:6f:c1:72:
+                    8c:e3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.starfieldtech.com/sfig2s5-0.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.114414.1.7.23.2
+                  CPS: http://certificates.starfieldtech.com/repository/
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.starfieldtech.com/
+                CA Issuers - URI:http://certificates.starfieldtech.com/repository/sfig2.crt
+
+            X509v3 Authority Key Identifier: 
+                keyid:25:45:81:68:50:26:38:3D:3B:2D:2C:BE:CD:6A:D9:B6:3D:B3:66:63
+
+            X509v3 Subject Key Identifier: 
+                D1:3C:72:77:0F:09:29:6F:45:A2:62:97:F0:9D:B6:3A:F9:AF:A3:A1
+    Signature Algorithm: sha256WithRSAEncryption
+         53:cb:1b:cb:74:3f:43:4b:ee:0a:f8:ac:92:69:31:64:42:05:
+         bb:ce:de:5d:b2:1d:eb:0d:1e:c3:56:b0:c1:24:e7:9e:fc:0d:
+         37:cb:0e:70:e0:3f:06:4f:28:28:a1:cd:cd:ac:f1:85:3c:c8:
+         d2:bd:d4:32:f9:69:2a:54:2e:fd:01:29:cb:44:ec:b0:98:c9:
+         03:81:80:b6:ef:8a:1f:e8:30:72:af:b2:7f:77:8d:e2:8e:6d:
+         a8:cc:0d:0e:65:66:4a:5c:16:b2:9a:e4:ec:a9:9e:1b:a6:9e:
+         4d:95:f5:fe:ac:51:ee:a4:49:3f:f5:a3:48:a8:d4:4c:d7:26:
+         34:46:a7:0a:4d:05:da:2e:90:73:89:ec:59:84:58:7c:8e:34:
+         77:26:95:8c:aa:fe:82:78:f6:e4:70:1d:1d:2d:cd:e9:21:05:
+         bc:60:60:8b:fa:7e:8b:63:46:06:0c:90:b8:95:f1:4d:91:87:
+         3b:06:34:53:09:c7:5c:ac:40:1b:09:d1:40:06:88:c7:ec:cb:
+         a8:4a:50:af:a0:ca:61:98:1d:f1:58:dc:6e:cb:e7:61:57:5f:
+         37:45:fd:1a:34:24:f1:10:07:cc:9f:47:3a:8f:60:5a:be:1e:
+         74:db:14:9d:1c:7b:20:92:b0:76:d3:dd:d1:88:18:3f:41:5f:
+         11:12:64:8c
+-----BEGIN CERTIFICATE-----
+MIIFVjCCBD6gAwIBAgIIGFUTbUfBpIMwDQYJKoZIhvcNAQELBQAwgcYxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMSUw
+IwYDVQQKExxTdGFyZmllbGQgVGVjaG5vbG9naWVzLCBJbmMuMTMwMQYDVQQLEypo
+dHRwOi8vY2VydHMuc3RhcmZpZWxkdGVjaC5jb20vcmVwb3NpdG9yeS8xNDAyBgNV
+BAMTK1N0YXJmaWVsZCBTZWN1cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIw
+HhcNMTUwMTEyMTEzNjM4WhcNMTYwOTI3MDE1NjU0WjB3MQswCQYDVQQGEwJISzES
+MBAGA1UECBMJSG9uZyBLb25nMRIwEAYDVQQHEwlLd3VuIFRvbmcxHzAdBgNVBAoT
+FkNhdGFsaW5hIEdyb3VwIExpbWl0ZWQxHzAdBgNVBAMTFkNhdGFsaW5hIEdyb3Vw
+IExpbWl0ZWQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDSn+htKC3v
+/gXnDx62yeoSrtE/K+nGo/u48p6q6qyCEHKL+OpC8BHi89K1xMGiDZplsNzsPVyU
+SWmHdl5/7ZPLJVCXF5jAGrWIACkMBrQlDlqOKHlFSLm+xuCNOApcNM1bxrOL860W
+QQ9bD4/UFhmbVPOjDQNhnS2N+IAHgEvoYrWLoLg3mcpR9d7bsXgPzUBehIjnnRzs
+h2H8BtGrO4zjPqjSf5xf8bP6SYxQ7r9sZPm7+x7XTsxhQAitr7LZqAjaPk23yyTu
+4jKIEvb73uFoCJ1ciQcBcpWABs686fHgYNWRNhrKcUaSvj5JTM3ET+jn6pn8FSNt
+T/ZBmG/BcozjAgMBAAGjggGUMIIBkDAMBgNVHRMBAf8EAjAAMBMGA1UdJQQMMAoG
+CCsGAQUFBwMDMA4GA1UdDwEB/wQEAwIHgDA7BgNVHR8ENDAyMDCgLqAshipodHRw
+Oi8vY3JsLnN0YXJmaWVsZHRlY2guY29tL3NmaWcyczUtMC5jcmwwWQYDVR0gBFIw
+UDBOBgtghkgBhv1uAQcXAjA/MD0GCCsGAQUFBwIBFjFodHRwOi8vY2VydGlmaWNh
+dGVzLnN0YXJmaWVsZHRlY2guY29tL3JlcG9zaXRvcnkvMIGCBggrBgEFBQcBAQR2
+MHQwKgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLnN0YXJmaWVsZHRlY2guY29tLzBG
+BggrBgEFBQcwAoY6aHR0cDovL2NlcnRpZmljYXRlcy5zdGFyZmllbGR0ZWNoLmNv
+bS9yZXBvc2l0b3J5L3NmaWcyLmNydDAfBgNVHSMEGDAWgBQlRYFoUCY4PTstLL7N
+atm2PbNmYzAdBgNVHQ4EFgQU0Txydw8JKW9FomKX8J22Ovmvo6EwDQYJKoZIhvcN
+AQELBQADggEBAFPLG8t0P0NL7gr4rJJpMWRCBbvO3l2yHesNHsNWsMEk5578DTfL
+DnDgPwZPKCihzc2s8YU8yNK91DL5aSpULv0BKctE7LCYyQOBgLbvih/oMHKvsn93
+jeKObajMDQ5lZkpcFrKa5Oypnhumnk2V9f6sUe6kST/1o0io1EzXJjRGpwpNBdou
+kHOJ7FmEWHyONHcmlYyq/oJ49uRwHR0tzekhBbxgYIv6fotjRgYMkLiV8U2RhzsG
+NFMJx1ysQBsJ0UAGiMfsy6hKUK+gymGYHfFY3G7L52FXXzdF/Ro0JPEQB8yfRzqP
+YFq+HnTbFJ0ceyCSsHbT3dGIGD9BXxESZIw=
+-----END CERTIFICATE-----
+

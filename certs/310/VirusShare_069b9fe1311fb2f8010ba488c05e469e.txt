@@ -1,0 +1,244 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1109382559 (0x421fd59f)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=BM, O=QuoVadis Limited, OU=Root Certification Authority, CN=QuoVadis Root Certification Authority
+        Validity
+            Not Before: Apr  5 17:44:13 2010 GMT
+            Not After : Apr  5 17:44:13 2020 GMT
+        Subject: C=CH, O=QuoVadis Trustlink Switzerland Ltd., OU=Issuing Certification Authority, CN=QuoVadis Swiss Advanced CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:98:d5:63:4e:94:9a:d7:0c:31:0f:a8:01:82:45:
+                    64:2a:f3:e4:2f:f8:78:08:b0:b9:03:e7:f7:af:97:
+                    dc:82:aa:fe:e1:9c:f2:05:97:65:e9:6a:b5:ae:0c:
+                    07:6e:10:6b:46:b7:86:59:e4:f5:2e:16:e5:81:2d:
+                    27:ff:58:3c:2e:70:df:0a:a4:15:89:01:2a:33:1d:
+                    08:c5:d3:e2:06:4d:46:b6:04:70:6b:d9:c3:e6:ab:
+                    26:8b:ba:86:63:03:f1:75:56:45:8d:a4:f0:a0:09:
+                    92:46:33:d6:b1:a9:ac:41:be:5f:0c:3e:5b:5f:09:
+                    1c:2d:79:48:1e:31:44:0c:f8:ea:59:04:0c:cc:fa:
+                    2c:c0:28:1c:38:79:41:7c:76:6c:f4:f4:22:92:90:
+                    0e:20:2f:7c:d7:21:8e:0c:8e:a8:25:d3:29:00:f9:
+                    bd:6e:0b:b9:c5:46:e7:75:67:d2:f1:be:6e:db:7b:
+                    16:da:c2:73:0b:2d:f1:cf:cb:80:f5:87:08:23:05:
+                    7a:a7:fc:02:bf:8e:2f:e4:68:57:a6:c5:82:88:a4:
+                    3c:a7:cd:e8:a5:da:9c:0e:1a:c6:70:43:3e:e2:29:
+                    a6:10:5d:3f:47:f3:61:ec:bd:a5:6a:58:36:dc:37:
+                    c2:f4:29:25:79:4d:ab:38:42:b3:b9:ad:99:a2:7f:
+                    ea:30:15:fc:e5:71:9d:cb:5e:9f:52:45:e3:8b:a6:
+                    d6:61:c2:d3:e2:96:f1:c8:47:cb:7e:bf:ab:ea:53:
+                    fb:da:0f:a6:c0:00:ba:03:da:2c:88:3d:f4:db:42:
+                    d7:a3:a7:15:34:d8:20:7f:bc:ef:cd:6c:07:a3:74:
+                    52:b5:41:a2:81:30:fd:40:2e:f3:fb:58:55:80:30:
+                    5a:60:a7:4e:4b:8f:db:9c:27:66:77:c5:80:6b:7a:
+                    8b:13:a0:f9:08:1d:40:1d:bb:1d:06:0b:3a:e6:77:
+                    fa:a8:e4:a8:99:2d:f1:f4:16:2a:50:02:59:2b:9c:
+                    9e:e4:10:e4:75:09:f8:07:de:51:d7:c1:4f:65:8c:
+                    0e:52:18:2d:9a:65:40:37:36:8d:98:7e:32:a5:86:
+                    9a:e4:09:bc:e8:ef:24:1d:85:2a:21:f3:0c:f9:0f:
+                    e7:b6:70:d9:1c:1c:c8:c9:91:f9:fb:55:85:34:7c:
+                    67:3b:88:ed:8a:11:0b:07:e7:d1:af:01:ee:d2:67:
+                    c2:bf:64:39:bd:c0:dd:b0:0e:6f:db:02:d2:72:73:
+                    76:db:2c:55:db:12:20:8f:97:77:28:c3:66:e7:d7:
+                    35:81:8b:40:6a:07:53:de:0b:38:62:48:23:76:43:
+                    cf:fc:51:5b:13:6e:dd:44:cc:4b:fc:96:1f:99:6a:
+                    68:67:0f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.quovadisglobal.com
+
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Authority Key Identifier: 
+                keyid:8B:4B:6D:ED:D3:29:B9:06:19:EC:39:39:A9:F0:97:84:6A:CB:EF:DF
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.quovadisglobal.com/qvrca.crl
+
+            X509v3 Subject Key Identifier: 
+                C6:97:FF:08:10:67:72:2C:4C:AF:E7:EF:5E:61:FA:FB:00:B2:0A:B7
+    Signature Algorithm: sha1WithRSAEncryption
+         4c:68:a5:0c:51:14:ab:be:81:55:4d:1b:0e:87:1e:ba:e0:88:
+         03:9c:66:fd:1c:8b:65:93:b5:68:a3:94:ce:ac:86:73:3c:93:
+         83:d0:34:19:a2:46:9a:40:b4:a8:d4:53:34:8d:09:aa:3d:76:
+         6b:a9:aa:2e:f0:f8:27:60:2e:04:87:cb:2f:75:1f:7a:e8:e3:
+         1a:08:14:14:54:fe:e1:26:e6:79:c3:ef:de:22:d7:a6:6f:fc:
+         00:ea:1f:c7:48:3a:e9:6c:43:78:e3:e2:2a:f5:69:3f:e5:59:
+         fd:dc:3a:8a:bb:62:67:58:48:8b:d4:2e:ec:5c:c4:4a:38:88:
+         ea:fa:bb:07:3b:33:04:94:fb:bd:a4:35:31:29:a7:e1:22:75:
+         27:56:1c:54:a6:59:c9:ae:2f:f7:53:f7:32:1f:7b:d8:a9:57:
+         f6:8c:ae:0a:bb:39:83:eb:5f:58:87:a2:ad:08:c0:e4:c2:6e:
+         34:1c:91:b3:7a:3b:3a:ac:db:4b:e2:03:c2:04:c1:fa:ec:64:
+         bb:c1:6f:1e:bb:3e:c3:0d:49:ea:84:95:b7:7d:fb:a4:5f:d8:
+         a1:83:28:e9:c1:f3:8f:12:f1:fa:4e:31:aa:17:48:3d:0c:8a:
+         7d:c1:5b:c5:dc:d6:c5:d9:8c:6a:48:1c:9c:08:18:85:cd:95:
+         94:ae:59:d3
+-----BEGIN CERTIFICATE-----
+MIIFdjCCBF6gAwIBAgIEQh/VnzANBgkqhkiG9w0BAQUFADB/MQswCQYDVQQGEwJC
+TTEZMBcGA1UEChMQUXVvVmFkaXMgTGltaXRlZDElMCMGA1UECxMcUm9vdCBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTEuMCwGA1UEAxMlUXVvVmFkaXMgUm9vdCBDZXJ0
+aWZpY2F0aW9uIEF1dGhvcml0eTAeFw0xMDA0MDUxNzQ0MTNaFw0yMDA0MDUxNzQ0
+MTNaMIGKMQswCQYDVQQGEwJDSDEsMCoGA1UEChMjUXVvVmFkaXMgVHJ1c3RsaW5r
+IFN3aXR6ZXJsYW5kIEx0ZC4xKDAmBgNVBAsTH0lzc3VpbmcgQ2VydGlmaWNhdGlv
+biBBdXRob3JpdHkxIzAhBgNVBAMTGlF1b1ZhZGlzIFN3aXNzIEFkdmFuY2VkIENB
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAmNVjTpSa1wwxD6gBgkVk
+KvPkL/h4CLC5A+f3r5fcgqr+4ZzyBZdl6Wq1rgwHbhBrRreGWeT1LhblgS0n/1g8
+LnDfCqQViQEqMx0IxdPiBk1GtgRwa9nD5qsmi7qGYwPxdVZFjaTwoAmSRjPWsams
+Qb5fDD5bXwkcLXlIHjFEDPjqWQQMzPoswCgcOHlBfHZs9PQikpAOIC981yGODI6o
+JdMpAPm9bgu5xUbndWfS8b5u23sW2sJzCy3xz8uA9YcIIwV6p/wCv44v5GhXpsWC
+iKQ8p83opdqcDhrGcEM+4immEF0/R/Nh7L2lalg23DfC9CkleU2rOEKzua2Zon/q
+MBX85XGdy16fUkXji6bWYcLT4pbxyEfLfr+r6lP72g+mwAC6A9osiD3020LXo6cV
+NNggf7zvzWwHo3RStUGigTD9QC7z+1hVgDBaYKdOS4/bnCdmd8WAa3qLE6D5CB1A
+HbsdBgs65nf6qOSomS3x9BYqUAJZK5ye5BDkdQn4B95R18FPZYwOUhgtmmVANzaN
+mH4ypYaa5Am86O8kHYUqIfMM+Q/ntnDZHBzIyZH5+1WFNHxnO4jtihELB+fRrwHu
+0mfCv2Q5vcDdsA5v2wLScnN22yxV2xIgj5d3KMNm59c1gYtAagdT3gs4YkgjdkPP
+/FFbE27dRMxL/JYfmWpoZw8CAwEAAaOB7TCB6jAPBgNVHRMBAf8EBTADAQH/MBEG
+A1UdIAQKMAgwBgYEVR0gADA6BggrBgEFBQcBAQQuMCwwKgYIKwYBBQUHMAGGHmh0
+dHA6Ly9vY3NwLnF1b3ZhZGlzZ2xvYmFsLmNvbTAOBgNVHQ8BAf8EBAMCAQYwHwYD
+VR0jBBgwFoAUi0tt7dMpuQYZ7Dk5qfCXhGrL798wOAYDVR0fBDEwLzAtoCugKYYn
+aHR0cDovL2NybC5xdW92YWRpc2dsb2JhbC5jb20vcXZyY2EuY3JsMB0GA1UdDgQW
+BBTGl/8IEGdyLEyv5+9eYfr7ALIKtzANBgkqhkiG9w0BAQUFAAOCAQEATGilDFEU
+q76BVU0bDoceuuCIA5xm/RyLZZO1aKOUzqyGczyTg9A0GaJGmkC0qNRTNI0Jqj12
+a6mqLvD4J2AuBIfLL3UfeujjGggUFFT+4SbmecPv3iLXpm/8AOofx0g66WxDeOPi
+KvVpP+VZ/dw6irtiZ1hIi9Qu7FzESjiI6vq7BzszBJT7vaQ1MSmn4SJ1J1YcVKZZ
+ya4v91P3Mh972KlX9oyuCrs5g+tfWIeirQjA5MJuNByRs3o7OqzbS+IDwgTB+uxk
+u8FvHrs+ww1J6oSVt337pF/YoYMo6cHzjxLx+k4xqhdIPQyKfcFbxdzWxdmMakgc
+nAgYhc2VlK5Z0w==
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            23:8d:14:8e:63:9c:17:89:10:70:17:53:77:8e:15:0e:e0:c9:46:ac
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CH, O=QuoVadis Trustlink Switzerland Ltd., OU=Issuing Certification Authority, CN=QuoVadis Swiss Advanced CA
+        Validity
+            Not Before: Feb 27 12:46:24 2014 GMT
+            Not After : Feb 27 12:46:22 2017 GMT
+        Subject: C=AT, CN=Franz Josef Wechselberger/emailAddress=fj.wechselberger@gmx.at
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:bd:71:26:69:81:35:09:d8:92:e1:54:15:b1:ab:
+                    ef:17:c0:84:9f:85:28:38:d2:3a:1b:e1:80:cf:26:
+                    d6:72:6a:e7:4a:5c:3c:a7:42:6b:d2:82:e5:87:a2:
+                    ff:5d:9f:69:49:e4:a5:64:ca:30:03:ef:80:e2:3e:
+                    e2:6e:da:cf:af:48:b7:89:29:72:40:86:6f:f3:db:
+                    f2:02:3f:b7:95:71:03:91:ae:91:a8:c5:7a:24:18:
+                    7e:56:54:e3:b3:67:de:7b:00:87:39:dc:68:48:85:
+                    4b:30:68:44:69:d1:26:97:3e:2b:1a:fa:47:72:34:
+                    f9:7d:21:66:70:8c:8d:d6:a2:1e:61:05:94:99:84:
+                    e9:ea:2f:08:5b:0a:20:9c:a5:24:4b:cf:32:70:de:
+                    8b:7f:61:48:3f:ad:d1:b3:7f:59:72:c9:b4:6e:2b:
+                    9a:8f:1f:b4:a5:39:d1:fd:6d:9b:f7:8e:0f:45:f6:
+                    05:fc:dc:06:57:c7:06:90:0a:7b:d7:9e:bb:47:5f:
+                    54:e2:2b:03:a8:a5:d9:d7:0b:72:4b:b2:30:dc:d0:
+                    09:31:17:9e:73:49:65:84:85:98:ee:72:6f:d9:4d:
+                    0b:08:9c:69:ea:f5:ad:da:e4:7a:e9:bf:dd:97:a2:
+                    94:77:e7:8e:0e:ff:0c:7d:b7:ce:92:0f:56:1e:5d:
+                    97:f3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.quovadisglobal.com
+                CA Issuers - URI:http://trust.quovadisglobal.com/qvchadg1.crt
+
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.8024.1.600
+                  CPS: http://www.quovadisglobal.com/repository
+
+            X509v3 Key Usage: critical
+                Digital Signature, Non Repudiation
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 Authority Key Identifier: 
+                keyid:C6:97:FF:08:10:67:72:2C:4C:AF:E7:EF:5E:61:FA:FB:00:B2:0A:B7
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.quovadisglobal.com/qvchadg1.crl
+
+            X509v3 Subject Key Identifier: 
+                7B:20:B4:CC:37:D4:7D:FD:1B:FE:9C:73:1E:18:B6:90:C9:78:75:6F
+    Signature Algorithm: sha1WithRSAEncryption
+         37:8a:73:0c:42:c2:54:15:fa:1e:8a:86:77:8f:ac:9b:a3:1d:
+         ce:de:7d:a9:e0:85:ae:b4:6a:7b:c4:65:89:f1:70:6c:62:b3:
+         1c:d8:c1:84:3f:04:50:d8:c0:b0:28:f3:1d:ff:7c:58:84:b5:
+         22:81:dc:4f:2f:a3:6d:5a:32:81:03:36:c0:cb:b8:47:f7:cc:
+         fa:69:07:79:82:c0:3f:b1:86:4d:d9:e9:c5:ca:2d:8d:01:4d:
+         c1:dd:97:c0:8a:3c:c2:be:d9:3d:9b:a4:8a:1a:b7:6a:a1:55:
+         5c:6a:ab:39:c0:20:bd:3a:8c:dd:7b:04:d5:a7:f7:4a:53:6b:
+         86:b5:b1:d0:63:1a:76:7d:c7:dc:92:af:96:17:b6:95:60:87:
+         2b:2d:8b:5f:d6:01:45:2d:9f:00:a9:9d:b4:dd:4c:9e:f8:8c:
+         cc:b0:03:74:2e:c6:f9:d3:98:a9:f7:db:3b:92:a4:3a:06:c0:
+         24:88:64:59:ee:ba:97:e7:c4:4e:7f:28:8d:78:d6:3a:88:2b:
+         95:3e:cf:f0:e2:0f:8e:e1:4b:7a:31:1b:0e:66:b6:d1:9c:f3:
+         fe:83:16:97:b9:be:78:ee:43:59:41:bc:6a:98:53:11:31:35:
+         af:de:4b:dd:9d:be:fd:f6:44:9c:a3:b2:b4:f3:20:06:21:98:
+         24:5e:fe:a9:51:22:32:13:1d:97:70:72:6f:42:24:7e:a7:af:
+         2c:cb:da:11:b9:68:48:5e:8e:e3:7e:a6:6a:4c:1c:0e:f9:e6:
+         ca:19:6c:28:c0:f3:b1:e5:ac:bf:43:fd:7c:35:58:56:38:1e:
+         d1:34:28:8e:11:32:66:5f:b0:1b:61:8a:99:bf:70:74:91:e9:
+         32:05:fe:d9:92:57:9a:ef:85:3b:71:6a:6f:a2:a0:61:7b:db:
+         6f:06:61:3b:64:23:56:d7:5c:c8:eb:dd:8c:64:10:a5:a3:3e:
+         5e:21:67:66:6b:45:b0:aa:59:d1:04:2d:7f:2d:cf:e3:c9:54:
+         ca:34:f8:f3:d8:ce:be:d7:d8:82:6e:e5:40:c3:c7:bc:79:ac:
+         d4:23:ee:09:02:20:a0:5c:a5:34:04:bd:ad:e2:33:46:2d:2b:
+         b9:62:80:82:cc:a8:9d:f2:05:30:d7:72:17:70:1b:25:65:ef:
+         bd:bf:8b:7a:1d:0e:fe:db:d2:81:60:62:8d:5f:a2:0f:88:bd:
+         a8:1d:89:68:77:2d:fd:e3:d2:4f:6a:70:c9:1b:e1:74:f9:3d:
+         8e:2b:d9:ee:04:1d:d0:e4:fa:bf:c4:6d:fc:ea:9c:f8:8d:6f:
+         e1:a3:ae:10:21:7d:a4:40:4b:eb:9b:ec:e0:22:d9:91:dc:f3:
+         4a:f2:c6:86:34:4f:1e:dd
+-----BEGIN CERTIFICATE-----
+MIIF7zCCA9egAwIBAgIUI40UjmOcF4kQcBdTd44VDuDJRqwwDQYJKoZIhvcNAQEF
+BQAwgYoxCzAJBgNVBAYTAkNIMSwwKgYDVQQKEyNRdW9WYWRpcyBUcnVzdGxpbmsg
+U3dpdHplcmxhbmQgTHRkLjEoMCYGA1UECxMfSXNzdWluZyBDZXJ0aWZpY2F0aW9u
+IEF1dGhvcml0eTEjMCEGA1UEAxMaUXVvVmFkaXMgU3dpc3MgQWR2YW5jZWQgQ0Ew
+HhcNMTQwMjI3MTI0NjI0WhcNMTcwMjI3MTI0NjIyWjBZMQswCQYDVQQGEwJBVDEi
+MCAGA1UEAxMZRnJhbnogSm9zZWYgV2VjaHNlbGJlcmdlcjEmMCQGCSqGSIb3DQEJ
+ARYXZmoud2VjaHNlbGJlcmdlckBnbXguYXQwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQC9cSZpgTUJ2JLhVBWxq+8XwISfhSg40job4YDPJtZyaudKXDyn
+QmvSguWHov9dn2lJ5KVkyjAD74DiPuJu2s+vSLeJKXJAhm/z2/ICP7eVcQORrpGo
+xXokGH5WVOOzZ957AIc53GhIhUswaERp0SaXPisa+kdyNPl9IWZwjI3Woh5hBZSZ
+hOnqLwhbCiCcpSRLzzJw3ot/YUg/rdGzf1lyybRuK5qPH7SlOdH9bZv3jg9F9gX8
+3AZXxwaQCnvXnrtHX1TiKwOopdnXC3JLsjDc0AkxF55zSWWEhZjucm/ZTQsInGnq
+9a3a5Hrpv92XopR3544O/wx9t86SD1YeXZfzAgMBAAGjggF7MIIBdzAMBgNVHRMB
+Af8EAjAAMHQGCCsGAQUFBwEBBGgwZjAqBggrBgEFBQcwAYYeaHR0cDovL29jc3Au
+cXVvdmFkaXNnbG9iYWwuY29tMDgGCCsGAQUFBzAChixodHRwOi8vdHJ1c3QucXVv
+dmFkaXNnbG9iYWwuY29tL3F2Y2hhZGcxLmNydDBPBgNVHSAESDBGMEQGCisGAQQB
+vlgBhFgwNjA0BggrBgEFBQcCARYoaHR0cDovL3d3dy5xdW92YWRpc2dsb2JhbC5j
+b20vcmVwb3NpdG9yeTAOBgNVHQ8BAf8EBAMCBsAwEwYDVR0lBAwwCgYIKwYBBQUH
+AwMwHwYDVR0jBBgwFoAUxpf/CBBncixMr+fvXmH6+wCyCrcwOwYDVR0fBDQwMjAw
+oC6gLIYqaHR0cDovL2NybC5xdW92YWRpc2dsb2JhbC5jb20vcXZjaGFkZzEuY3Js
+MB0GA1UdDgQWBBR7ILTMN9R9/Rv+nHMeGLaQyXh1bzANBgkqhkiG9w0BAQUFAAOC
+AgEAN4pzDELCVBX6HoqGd4+sm6Mdzt59qeCFrrRqe8RlifFwbGKzHNjBhD8EUNjA
+sCjzHf98WIS1IoHcTy+jbVoygQM2wMu4R/fM+mkHeYLAP7GGTdnpxcotjQFNwd2X
+wIo8wr7ZPZukihq3aqFVXGqrOcAgvTqM3XsE1af3SlNrhrWx0GMadn3H3JKvlhe2
+lWCHKy2LX9YBRS2fAKmdtN1MnviMzLADdC7G+dOYqffbO5KkOgbAJIhkWe66l+fE
+Tn8ojXjWOogrlT7P8OIPjuFLejEbDma20Zzz/oMWl7m+eO5DWUG8aphTETE1r95L
+3Z2+/fZEnKOytPMgBiGYJF7+qVEiMhMdl3Byb0IkfqevLMvaEbloSF6O436makwc
+DvnmyhlsKMDzseWsv0P9fDVYVjge0TQojhEyZl+wG2GKmb9wdJHpMgX+2ZJXmu+F
+O3Fqb6KgYXvbbwZhO2QjVtdcyOvdjGQQpaM+XiFnZmtFsKpZ0QQtfy3P48lUyjT4
+89jOvtfYgm7lQMPHvHms1CPuCQIgoFylNAS9reIzRi0ruWKAgsyonfIFMNdyF3Ab
+JWXvvb+Leh0O/tvSgWBijV+iD4i9qB2JaHct/ePST2pwyRvhdPk9jivZ7gQd0OT6
+v8Rt/Oqc+I1v4aOuECF9pEBL65vs4CLZkdzzSvLGhjRPHt0=
+-----END CERTIFICATE-----
+

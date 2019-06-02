@@ -1,0 +1,111 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            4a:9d:a8:7c:94:a9:d8:94:7e:27:3d:b7:f9:8d:51:5e
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Code Signing CA
+        Validity
+            Not Before: Apr 20 00:00:00 2016 GMT
+            Not After : Apr 20 23:59:59 2017 GMT
+        Subject: C=US/postalCode=27265, ST=North Carolina, L=High Point/street=2109 Foggy Lane/postOfficeBox=1165, O=Wayne Quigley, CN=Wayne Quigley
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:af:b6:71:b4:02:91:4d:2e:45:3d:cd:b9:59:45:
+                    e7:23:b5:93:83:c2:b3:3a:88:ea:6f:32:71:ec:81:
+                    d7:f4:13:7b:f1:dc:cb:6b:f2:85:08:46:eb:bf:a0:
+                    8c:7c:13:fa:da:ad:7c:64:cb:1e:d8:ab:de:07:f8:
+                    8e:c2:43:4c:be:8f:f7:47:30:4e:5a:00:e2:d2:06:
+                    d1:bf:7f:4b:2a:f1:cb:23:03:d3:0b:99:da:46:8f:
+                    e0:bc:79:0a:3a:c0:fe:32:b3:cd:76:e7:21:5e:00:
+                    d7:5f:64:e5:34:e7:cd:22:3d:e0:6a:17:4e:ac:a2:
+                    70:64:e2:b8:45:a4:ca:93:fb:58:f0:47:d3:e0:07:
+                    ba:22:f6:a4:76:56:aa:1c:49:85:68:92:fc:66:96:
+                    cc:65:48:1d:32:d1:9f:25:68:62:88:73:4b:2c:13:
+                    22:7d:04:64:36:98:4f:b8:2c:a8:3c:84:c7:78:9d:
+                    7e:56:6f:93:84:7a:28:a2:a5:81:83:86:d1:c4:63:
+                    bf:79:d2:f4:da:70:03:eb:f5:50:c7:c6:55:a4:a7:
+                    e4:89:d3:0c:ad:70:7d:ef:ac:60:50:f5:b3:87:0f:
+                    ab:2f:2e:18:72:58:83:a2:ce:fe:1e:9d:f6:f9:3e:
+                    b6:dc:7f:30:fb:bd:27:2b:4a:20:6e:0a:3d:1c:ab:
+                    8a:13
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:29:91:60:FF:8A:4D:FA:EB:F9:A6:6A:B8:CF:F9:E6:4B:BD:49:CE:12
+
+            X509v3 Subject Key Identifier: 
+                1F:B3:0B:8B:DA:FA:A0:4F:34:F1:68:D1:89:AB:CC:91:D6:B6:D9:A4
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                Code Signing
+            Netscape Cert Type: 
+                Object Signing
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.1.3.2
+                  CPS: https://secure.comodo.net/CPS
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.comodoca.com/COMODORSACodeSigningCA.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.comodoca.com/COMODORSACodeSigningCA.crt
+                OCSP - URI:http://ocsp.comodoca.com
+
+            X509v3 Subject Alternative Name: 
+                email:support22@jigsawaday.com
+    Signature Algorithm: sha256WithRSAEncryption
+         33:a4:51:0f:48:7a:b4:6c:bd:df:41:a4:04:b4:f7:0a:f1:9e:
+         94:c5:b7:90:43:17:2f:15:4c:f1:db:01:a9:91:99:7c:c0:6c:
+         46:3b:e4:c2:50:1b:a8:80:cc:c5:13:4f:fe:28:49:86:03:70:
+         e3:ed:ae:0a:9b:e7:a8:82:c9:71:50:2e:80:14:93:a6:a5:e0:
+         2f:22:71:da:3c:14:ee:ea:da:f3:69:09:7f:76:84:9b:0f:10:
+         74:8f:67:5c:e9:56:7e:6a:ab:b7:68:5c:63:da:b4:0e:bf:6f:
+         61:ac:72:59:3d:0a:f2:88:b9:83:a0:42:09:a6:65:8a:9c:2f:
+         25:83:d5:74:ea:f6:a3:2e:40:77:0c:0f:43:ba:7c:f5:24:27:
+         17:f3:2f:32:2a:3c:1e:e1:30:a5:e7:10:fe:42:8e:f8:56:ba:
+         2f:2c:fd:7f:95:6c:7b:a6:52:98:d1:e7:78:85:1e:60:ea:8a:
+         fc:d8:bb:b0:af:50:5b:93:4e:ff:f1:18:d4:a9:99:e5:59:7a:
+         f9:c0:87:eb:66:c4:63:ef:54:45:3e:92:4a:2d:a6:39:ca:88:
+         be:e5:04:6e:7d:aa:68:5b:4a:18:79:d5:e6:0f:87:16:8d:41:
+         8f:20:8b:e4:bb:3c:5b:ae:9c:bb:d6:31:a5:cb:54:ff:5a:34:
+         7f:a9:e3:9a
+-----BEGIN CERTIFICATE-----
+MIIFYDCCBEigAwIBAgIQSp2ofJSp2JR+Jz23+Y1RXjANBgkqhkiG9w0BAQsFADB9
+MQswCQYDVQQGEwJHQjEbMBkGA1UECBMSR3JlYXRlciBNYW5jaGVzdGVyMRAwDgYD
+VQQHEwdTYWxmb3JkMRowGAYDVQQKExFDT01PRE8gQ0EgTGltaXRlZDEjMCEGA1UE
+AxMaQ09NT0RPIFJTQSBDb2RlIFNpZ25pbmcgQ0EwHhcNMTYwNDIwMDAwMDAwWhcN
+MTcwNDIwMjM1OTU5WjCBpDELMAkGA1UEBhMCVVMxDjAMBgNVBBEMBTI3MjY1MRcw
+FQYDVQQIDA5Ob3J0aCBDYXJvbGluYTETMBEGA1UEBwwKSGlnaCBQb2ludDEYMBYG
+A1UECQwPMjEwOSBGb2dneSBMYW5lMQ0wCwYDVQQSDAQxMTY1MRYwFAYDVQQKDA1X
+YXluZSBRdWlnbGV5MRYwFAYDVQQDDA1XYXluZSBRdWlnbGV5MIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr7ZxtAKRTS5FPc25WUXnI7WTg8KzOojqbzJx
+7IHX9BN78dzLa/KFCEbrv6CMfBP62q18ZMse2KveB/iOwkNMvo/3RzBOWgDi0gbR
+v39LKvHLIwPTC5naRo/gvHkKOsD+MrPNduchXgDXX2TlNOfNIj3gahdOrKJwZOK4
+RaTKk/tY8EfT4Ae6IvakdlaqHEmFaJL8ZpbMZUgdMtGfJWhiiHNLLBMifQRkNphP
+uCyoPITHeJ1+Vm+ThHoooqWBg4bRxGO/edL02nAD6/VQx8ZVpKfkidMMrXB976xg
+UPWzhw+rLy4YcliDos7+Hp32+T623H8w+70nK0ogbgo9HKuKEwIDAQABo4IBsjCC
+Aa4wHwYDVR0jBBgwFoAUKZFg/4pN+uv5pmq4z/nmS71JzhIwHQYDVR0OBBYEFB+z
+C4va+qBPNPFo0YmrzJHWttmkMA4GA1UdDwEB/wQEAwIHgDAMBgNVHRMBAf8EAjAA
+MBMGA1UdJQQMMAoGCCsGAQUFBwMDMBEGCWCGSAGG+EIBAQQEAwIEEDBGBgNVHSAE
+PzA9MDsGDCsGAQQBsjEBAgEDAjArMCkGCCsGAQUFBwIBFh1odHRwczovL3NlY3Vy
+ZS5jb21vZG8ubmV0L0NQUzBDBgNVHR8EPDA6MDigNqA0hjJodHRwOi8vY3JsLmNv
+bW9kb2NhLmNvbS9DT01PRE9SU0FDb2RlU2lnbmluZ0NBLmNybDB0BggrBgEFBQcB
+AQRoMGYwPgYIKwYBBQUHMAKGMmh0dHA6Ly9jcnQuY29tb2RvY2EuY29tL0NPTU9E
+T1JTQUNvZGVTaWduaW5nQ0EuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5j
+b21vZG9jYS5jb20wIwYDVR0RBBwwGoEYc3VwcG9ydDIyQGppZ3Nhd2FkYXkuY29t
+MA0GCSqGSIb3DQEBCwUAA4IBAQAzpFEPSHq0bL3fQaQEtPcK8Z6UxbeQQxcvFUzx
+2wGpkZl8wGxGO+TCUBuogMzFE0/+KEmGA3Dj7a4Km+eogslxUC6AFJOmpeAvInHa
+PBTu6trzaQl/doSbDxB0j2dc6VZ+aqu3aFxj2rQOv29hrHJZPQryiLmDoEIJpmWK
+nC8lg9V06vajLkB3DA9Dunz1JCcX8y8yKjwe4TCl5xD+Qo74VrovLP1/lWx7plKY
+0ed4hR5g6or82Luwr1Bbk07/8RjUqZnlWXr5wIfrZsRj71RFPpJKLaY5yoi+5QRu
+fapoW0oYedXmD4cWjUGPIIvkuzxbrpy71jGly1T/WjR/qeOa
+-----END CERTIFICATE-----
+

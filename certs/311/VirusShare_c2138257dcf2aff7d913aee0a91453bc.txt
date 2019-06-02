@@ -1,0 +1,218 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            23:e8:9e:2a:aa:0f:65:01:f4:8d:a0:3f:f7:95:e9:89
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 SHA256 Code Signing CA
+        Validity
+            Not Before: Dec  8 00:00:00 2017 GMT
+            Not After : Mar  8 23:59:59 2021 GMT
+        Subject: C=CN, ST=Guangdong, L=Guangzhou, O=Guangzhou KuGou Computer Technology Co., Ltd., OU=IT, CN=Guangzhou KuGou Computer Technology Co., Ltd.
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:be:5f:de:2a:0e:c6:01:ee:d3:91:6a:dc:03:97:
+                    9b:c1:c8:ef:f0:ad:0e:03:ef:af:41:73:0d:fd:92:
+                    f2:c3:69:b5:50:69:2a:09:cf:8f:11:64:53:05:c6:
+                    70:0f:e1:b1:10:ed:57:fd:33:1a:ae:10:89:4e:28:
+                    e6:f2:10:a6:25:ec:76:c8:99:46:9d:48:e5:90:c1:
+                    1d:90:3b:d2:19:9d:eb:64:a0:3a:a0:17:ee:fb:59:
+                    a5:aa:35:05:15:28:02:9c:7c:1c:0c:92:d6:3b:09:
+                    90:a9:2d:14:9f:d1:7f:90:ff:af:3f:2f:37:74:e8:
+                    04:c1:1a:12:3f:05:64:d4:b7:c5:85:9d:43:90:0f:
+                    41:fa:05:f7:38:99:56:fb:cf:e1:ce:6d:f0:35:42:
+                    02:b7:f7:f9:b5:7e:bb:f7:0b:fb:47:cc:ac:8d:f0:
+                    8b:36:49:bd:16:f6:42:b1:60:0d:b6:da:91:7e:65:
+                    60:dc:24:fd:2a:b2:a7:94:fc:4e:1d:80:c9:31:01:
+                    ff:9b:1d:b9:f5:4b:b1:54:fd:a7:f8:19:de:54:f5:
+                    5a:a1:71:7c:63:4c:19:29:bf:a7:66:43:88:3a:a4:
+                    dc:bc:53:04:24:52:ba:a6:53:27:13:24:2d:d2:19:
+                    fd:e0:43:05:62:74:26:ec:d3:07:ca:c7:70:5d:dc:
+                    da:dd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://sv.symcb.com/sv.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.4.1
+                  CPS: https://d.symcb.com/cps
+                  User Notice:
+                    Explicit Text: https://d.symcb.com/rpa
+
+            X509v3 Extended Key Usage: 
+                Code Signing
+            Authority Information Access: 
+                OCSP - URI:http://sv.symcd.com
+                CA Issuers - URI:http://sv.symcb.com/sv.crt
+
+            X509v3 Authority Key Identifier: 
+                keyid:96:3B:53:F0:79:33:97:AF:7D:83:EF:2E:2B:CC:CA:B7:86:1E:72:66
+
+            X509v3 Subject Key Identifier: 
+                9D:B4:16:DE:01:EF:A8:B0:59:62:02:97:6B:BF:DD:BC:9C:07:C9:11
+    Signature Algorithm: sha256WithRSAEncryption
+         43:e5:7b:b1:9f:46:bc:45:9b:20:47:50:e0:54:2b:e4:f5:55:
+         a3:3d:5c:db:b8:9e:df:e2:ea:d2:48:fa:75:d7:f4:af:0b:f9:
+         0f:88:67:69:38:34:03:d2:eb:cb:ac:7a:f9:6b:93:22:03:65:
+         93:75:54:01:e9:2a:30:1d:f9:89:f0:e3:03:e7:60:1d:38:ec:
+         6e:32:f2:58:bd:57:b9:6a:be:ba:53:9d:7c:db:c0:4e:2c:03:
+         2e:55:33:d2:bf:7f:a0:c4:53:c3:2e:23:08:44:eb:a0:c0:39:
+         6c:bb:52:59:d3:57:9e:4a:af:41:34:4e:c8:18:ee:6a:24:f5:
+         aa:d6:70:33:54:39:53:73:c6:39:36:41:bd:d3:32:78:b8:19:
+         14:07:9d:5c:33:f6:31:4c:22:95:d6:4a:1c:d3:31:be:be:e4:
+         9b:8e:2c:0b:7b:2c:8c:45:d0:1e:30:1c:49:a2:11:59:96:df:
+         b5:81:f1:eb:9a:a1:74:23:5d:23:fd:72:4a:a9:84:b1:b1:bf:
+         e6:fd:90:f5:24:4d:3f:f1:0b:c5:ce:3c:c9:83:11:f9:fd:0d:
+         16:67:24:f2:c3:0a:e9:17:7a:ea:e7:b1:cf:f3:56:aa:e2:d4:
+         bc:60:73:0a:81:34:e8:7e:90:bb:31:0d:0d:82:24:a0:3e:9b:
+         f7:31:8d:3d
+-----BEGIN CERTIFICATE-----
+MIIFGzCCBAOgAwIBAgIQI+ieKqoPZQH0jaA/95XpiTANBgkqhkiG9w0BAQsFADB/
+MQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAd
+BgNVBAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxMDAuBgNVBAMTJ1N5bWFudGVj
+IENsYXNzIDMgU0hBMjU2IENvZGUgU2lnbmluZyBDQTAeFw0xNzEyMDgwMDAwMDBa
+Fw0yMTAzMDgyMzU5NTlaMIGyMQswCQYDVQQGEwJDTjESMBAGA1UECAwJR3Vhbmdk
+b25nMRIwEAYDVQQHDAlHdWFuZ3pob3UxNjA0BgNVBAoMLUd1YW5nemhvdSBLdUdv
+dSBDb21wdXRlciBUZWNobm9sb2d5IENvLiwgTHRkLjELMAkGA1UECwwCSVQxNjA0
+BgNVBAMMLUd1YW5nemhvdSBLdUdvdSBDb21wdXRlciBUZWNobm9sb2d5IENvLiwg
+THRkLjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL5f3ioOxgHu05Fq
+3AOXm8HI7/CtDgPvr0FzDf2S8sNptVBpKgnPjxFkUwXGcA/hsRDtV/0zGq4QiU4o
+5vIQpiXsdsiZRp1I5ZDBHZA70hmd62SgOqAX7vtZpao1BRUoApx8HAyS1jsJkKkt
+FJ/Rf5D/rz8vN3ToBMEaEj8FZNS3xYWdQ5APQfoF9ziZVvvP4c5t8DVCArf3+bV+
+u/cL+0fMrI3wizZJvRb2QrFgDbbakX5lYNwk/Sqyp5T8Th2AyTEB/5sdufVLsVT9
+p/gZ3lT1WqFxfGNMGSm/p2ZDiDqk3LxTBCRSuqZTJxMkLdIZ/eBDBWJ0JuzTB8rH
+cF3c2t0CAwEAAaOCAV0wggFZMAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgeAMCsG
+A1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9zdi5zeW1jYi5jb20vc3YuY3JsMGEGA1Ud
+IARaMFgwVgYGZ4EMAQQBMEwwIwYIKwYBBQUHAgEWF2h0dHBzOi8vZC5zeW1jYi5j
+b20vY3BzMCUGCCsGAQUFBwICMBkMF2h0dHBzOi8vZC5zeW1jYi5jb20vcnBhMBMG
+A1UdJQQMMAoGCCsGAQUFBwMDMFcGCCsGAQUFBwEBBEswSTAfBggrBgEFBQcwAYYT
+aHR0cDovL3N2LnN5bWNkLmNvbTAmBggrBgEFBQcwAoYaaHR0cDovL3N2LnN5bWNi
+LmNvbS9zdi5jcnQwHwYDVR0jBBgwFoAUljtT8Hkzl699g+8uK8zKt4YecmYwHQYD
+VR0OBBYEFJ20Ft4B76iwWWICl2u/3bycB8kRMA0GCSqGSIb3DQEBCwUAA4IBAQBD
+5Xuxn0a8RZsgR1DgVCvk9VWjPVzbuJ7f4urSSPp11/SvC/kPiGdpODQD0uvLrHr5
+a5MiA2WTdVQB6SowHfmJ8OMD52AdOOxuMvJYvVe5ar66U51828BOLAMuVTPSv3+g
+xFPDLiMIROugwDlsu1JZ01eeSq9BNE7IGO5qJPWq1nAzVDlTc8Y5NkG90zJ4uBkU
+B51cM/YxTCKV1koc0zG+vuSbjiwLeyyMRdAeMBxJohFZlt+1gfHrmqF0I10j/XJK
+qYSxsb/m/ZD1JE0/8QvFzjzJgxH5/Q0WZyTywwrpF3rq57HP81aq4tS8YHMKgTTo
+fpC7MQ0NgiSgPpv3MY09
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            3d:78:d7:f9:76:49:60:b2:61:7d:f4:f0:1e:ca:86:2a
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=VeriSign, Inc., OU=VeriSign Trust Network, OU=(c) 2006 VeriSign, Inc. - For authorized use only, CN=VeriSign Class 3 Public Primary Certification Authority - G5
+        Validity
+            Not Before: Dec 10 00:00:00 2013 GMT
+            Not After : Dec  9 23:59:59 2023 GMT
+        Subject: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 SHA256 Code Signing CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:97:83:1e:00:16:af:2c:b1:d2:08:c4:d7:68:93:
+                    51:60:1e:71:f6:e2:47:b4:db:58:4d:23:62:6a:b4:
+                    bf:5a:1b:51:f7:a3:0d:18:77:68:bb:d8:36:ab:2f:
+                    21:50:da:9e:f3:e7:5f:27:4e:0b:c2:97:c8:09:70:
+                    93:a9:da:5c:0d:4e:a4:0d:91:a0:b4:ec:14:ce:91:
+                    72:54:2e:ce:a3:db:44:e9:52:1b:3f:41:3c:ca:4a:
+                    e4:aa:c0:e8:39:ab:53:cc:21:d0:cc:cf:7f:9b:e6:
+                    c2:cc:58:6a:82:15:ee:3d:36:cf:1c:c5:97:07:24:
+                    8e:f1:7b:be:31:2d:3d:6e:dc:b5:99:42:9f:4b:61:
+                    95:5f:1c:70:ee:17:7d:db:8b:e5:61:89:78:c7:68:
+                    1b:af:11:78:1a:98:ae:c4:55:47:53:d9:b3:32:d6:
+                    a1:0e:46:40:c5:97:92:8a:d1:53:a7:99:5b:85:35:
+                    57:d3:ea:93:62:61:20:0a:c7:30:77:24:11:4d:62:
+                    83:b6:ba:7b:68:82:31:ee:65:ca:df:f9:d5:8d:b2:
+                    35:dc:8c:2b:6f:6a:72:5c:60:84:9c:f2:0c:94:5e:
+                    c0:56:52:00:48:cc:d3:f8:a5:7d:de:2f:d7:13:e4:
+                    38:a8:84:d5:46:b8:13:86:c2:1b:9d:ea:5a:38:dd:
+                    9b:db
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            Authority Information Access: 
+                OCSP - URI:http://s2.symcb.com
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.23.3
+                  CPS: http://www.symauth.com/cps
+                  User Notice:
+                    Explicit Text: http://www.symauth.com/rpa
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://s1.symcb.com/pca3-g5.crl
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication, Code Signing
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Alternative Name: 
+                DirName:/CN=SymantecPKI-1-567
+            X509v3 Subject Key Identifier: 
+                96:3B:53:F0:79:33:97:AF:7D:83:EF:2E:2B:CC:CA:B7:86:1E:72:66
+            X509v3 Authority Key Identifier: 
+                keyid:7F:D3:65:A7:C2:DD:EC:BB:F0:30:09:F3:43:39:FA:02:AF:33:31:33
+
+    Signature Algorithm: sha256WithRSAEncryption
+         13:85:1a:1e:69:a9:37:f7:a0:bd:a4:af:7e:1d:61:53:fe:9d:
+         8c:5e:0c:a6:75:1e:78:17:23:dd:fd:ec:1a:03:55:39:fb:71:
+         95:c7:65:5a:a7:8e:30:d2:44:5a:61:db:70:6f:da:21:05:c2:
+         2e:73:ba:49:f1:d1:93:fe:5d:c9:cd:5e:03:e0:89:9e:3f:74:
+         1e:d7:f7:38:8b:a9:d6:cf:bb:35:2f:33:58:a8:92:56:d1:c8:
+         4d:3b:82:e6:79:84:16:fc:28:b0:b1:47:f3:1d:a2:3e:ee:87:
+         d9:a6:7f:a4:56:a5:3f:ad:84:2e:29:de:7c:bc:a8:aa:a3:3d:
+         04:01:ea:ba:93:a2:0e:50:22:29:17:4c:87:e4:3a:11:5f:d6:
+         a4:25:89:9b:05:6b:2f:b4:c9:01:4c:27:7b:0b:ac:19:05:22:
+         a0:60:15:3f:da:c9:fb:4d:4c:8f:fb:72:67:77:fd:27:94:c7:
+         ba:35:0e:88:49:fe:8d:fd:28:af:4a:12:bd:0d:b3:97:05:de:
+         44:0c:15:fa:36:2b:03:dc:c1:50:01:f1:a1:11:5d:14:e5:e2:
+         bd:27:4b:54:be:2b:84:5e:0f:a6:c3:74:05:0a:ef:97:c3:89:
+         22:b1:1f:77:f3:bd:cd:43:d4:f1:4c:a9:3f:b5:8b:84:af:64:
+         f2:d0:14:21
+-----BEGIN CERTIFICATE-----
+MIIFWTCCBEGgAwIBAgIQPXjX+XZJYLJhffTwHsqGKjANBgkqhkiG9w0BAQsFADCB
+yjELMAkGA1UEBhMCVVMxFzAVBgNVBAoTDlZlcmlTaWduLCBJbmMuMR8wHQYDVQQL
+ExZWZXJpU2lnbiBUcnVzdCBOZXR3b3JrMTowOAYDVQQLEzEoYykgMjAwNiBWZXJp
+U2lnbiwgSW5jLiAtIEZvciBhdXRob3JpemVkIHVzZSBvbmx5MUUwQwYDVQQDEzxW
+ZXJpU2lnbiBDbGFzcyAzIFB1YmxpYyBQcmltYXJ5IENlcnRpZmljYXRpb24gQXV0
+aG9yaXR5IC0gRzUwHhcNMTMxMjEwMDAwMDAwWhcNMjMxMjA5MjM1OTU5WjB/MQsw
+CQYDVQQGEwJVUzEdMBsGA1UEChMUU3ltYW50ZWMgQ29ycG9yYXRpb24xHzAdBgNV
+BAsTFlN5bWFudGVjIFRydXN0IE5ldHdvcmsxMDAuBgNVBAMTJ1N5bWFudGVjIENs
+YXNzIDMgU0hBMjU2IENvZGUgU2lnbmluZyBDQTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAJeDHgAWryyx0gjE12iTUWAecfbiR7TbWE0jYmq0v1obUfej
+DRh3aLvYNqsvIVDanvPnXydOC8KXyAlwk6naXA1OpA2RoLTsFM6RclQuzqPbROlS
+Gz9BPMpK5KrA6DmrU8wh0MzPf5vmwsxYaoIV7j02zxzFlwckjvF7vjEtPW7ctZlC
+n0thlV8ccO4XfduL5WGJeMdoG68ReBqYrsRVR1PZszLWoQ5GQMWXkorRU6eZW4U1
+V9Pqk2JhIArHMHckEU1ig7a6e2iCMe5lyt/51Y2yNdyMK29qclxghJzyDJRewFZS
+AEjM0/ilfd4v1xPkOKiE1Ua4E4bCG53qWjjdm9sCAwEAAaOCAYMwggF/MC8GCCsG
+AQUFBwEBBCMwITAfBggrBgEFBQcwAYYTaHR0cDovL3MyLnN5bWNiLmNvbTASBgNV
+HRMBAf8ECDAGAQH/AgEAMGwGA1UdIARlMGMwYQYLYIZIAYb4RQEHFwMwUjAmBggr
+BgEFBQcCARYaaHR0cDovL3d3dy5zeW1hdXRoLmNvbS9jcHMwKAYIKwYBBQUHAgIw
+HBoaaHR0cDovL3d3dy5zeW1hdXRoLmNvbS9ycGEwMAYDVR0fBCkwJzAloCOgIYYf
+aHR0cDovL3MxLnN5bWNiLmNvbS9wY2EzLWc1LmNybDAdBgNVHSUEFjAUBggrBgEF
+BQcDAgYIKwYBBQUHAwMwDgYDVR0PAQH/BAQDAgEGMCkGA1UdEQQiMCCkHjAcMRow
+GAYDVQQDExFTeW1hbnRlY1BLSS0xLTU2NzAdBgNVHQ4EFgQUljtT8Hkzl699g+8u
+K8zKt4YecmYwHwYDVR0jBBgwFoAUf9Nlp8Ld7LvwMAnzQzn6Aq8zMTMwDQYJKoZI
+hvcNAQELBQADggEBABOFGh5pqTf3oL2kr34dYVP+nYxeDKZ1HngXI9397BoDVTn7
+cZXHZVqnjjDSRFph23Bv2iEFwi5zuknx0ZP+XcnNXgPgiZ4/dB7X9ziLqdbPuzUv
+M1ioklbRyE07guZ5hBb8KLCxR/Mdoj7uh9mmf6RWpT+thC4p3ny8qKqjPQQB6rqT
+og5QIikXTIfkOhFf1qQliZsFay+0yQFMJ3sLrBkFIqBgFT/ayftNTI/7cmd3/SeU
+x7o1DohJ/o39KK9KEr0Ns5cF3kQMFfo2KwPcwVAB8aERXRTl4r0nS1S+K4ReD6bD
+dAUK75fDiSKxH3fzvc1D1PFMqT+1i4SvZPLQFCE=
+-----END CERTIFICATE-----
+

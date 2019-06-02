@@ -1,0 +1,365 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            79:a2:a5:85:f9:d1:15:42:13:d9:b8:3e:f6:b6:8d:ed
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=VeriSign, Inc., CN=VeriSign Time Stamping Services CA
+        Validity
+            Not Before: May  1 00:00:00 2012 GMT
+            Not After : Dec 31 23:59:59 2012 GMT
+        Subject: C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services Signer - G3
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:a9:59:66:74:da:3d:8a:7d:7a:d8:fc:f5:80:44:
+                    7b:fe:47:6a:14:55:4e:50:47:0b:ec:d3:ed:ce:f6:
+                    38:f7:4f:69:b9:b1:f0:b6:78:82:0a:8c:76:16:67:
+                    e2:02:ad:b7:0d:a5:8a:f6:03:fc:66:d3:fc:08:2d:
+                    cc:b5:73:59:7b:89:dc:33:6e:66:5a:5e:52:37:b4:
+                    62:d1:92:59:35:14:8b:45:ac:59:b2:4d:24:a2:98:
+                    94:68:42:72:9f:3a:68:e2:6b:8b:9e:22:2d:f4:98:
+                    4e:9a:c6:af:b3:e4:a0:ab:3c:28:bf:23:e1:d7:72:
+                    a4:f2:10:53:67:ae:77:af:51
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.verisign.com/tss-ca.crl
+
+            X509v3 Extended Key Usage: critical
+                Time Stamping
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.verisign.com
+
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DirName:/CN=TSA1-3
+            X509v3 Subject Key Identifier: 
+                B4:B7:F1:89:49:26:60:E7:65:EA:73:AE:DC:D3:38:CD:BF:57:92:6F
+    Signature Algorithm: sha1WithRSAEncryption
+         1e:98:aa:27:b7:78:b5:08:b5:c9:72:6d:b7:df:c0:0e:98:a6:
+         35:c4:88:c9:d2:f6:6d:f1:4b:1a:fb:d5:f9:2d:99:00:9e:d1:
+         e7:9b:8b:e1:3f:bd:39:80:0c:66:cd:07:bc:5c:98:54:a6:94:
+         ba:10:d1:4e:8b:ab:f5:6f:65:cc:67:09:a2:80:7c:52:e8:0e:
+         03:d6:6b:7a:c6:05:18:ec:c8:ac:42:7c:07:2c:a7:3d:08:66:
+         dc:00:ed:fd:94:1d:73:f2:72:98:93:b1:11:d6:8f:ef:8e:ea:
+         ac:f4:96:51:0c:d0:8d:df:31:52:4f:5e:af:7d:a7:4a:75:e6:
+         4e:ce:2b:9f:29:2b:e7:cf:5d:9f:03:7e:6e:27:7b:23:ad:62:
+         29:66:af:92:e8:2c:ce:bd:9c:7f:dc:cd:17:3c:43:c2:09:3f:
+         75:45:c7:9e:e4:d7:60:7f:97:c6:e4:aa:c7:69:f5:fc:cd:74:
+         ac:2c:b0:48:c1:50:4e:70:56:1e:b5:35:d3:8e:be:b1:ed:ac:
+         bd:fe:0c:ec:85:7d:d5:bb:85:66:44:19:5d:9f:93:eb:82:ba:
+         63:9e:d3:7c:61:ff:c8:1b:d9:23:58:7f:30:a3:66:a1:39:26:
+         5e:92:c3:3c:cb:37:32:fa:f5:a3:8d:dc:d5:b0:a3:e9:25:36:
+         55:d7:81:fa
+-----BEGIN CERTIFICATE-----
+MIIDnzCCAoegAwIBAgIQeaKlhfnRFUIT2bg+9raN7TANBgkqhkiG9w0BAQUFADBT
+MQswCQYDVQQGEwJVUzEXMBUGA1UEChMOVmVyaVNpZ24sIEluYy4xKzApBgNVBAMT
+IlZlcmlTaWduIFRpbWUgU3RhbXBpbmcgU2VydmljZXMgQ0EwHhcNMTIwNTAxMDAw
+MDAwWhcNMTIxMjMxMjM1OTU5WjBiMQswCQYDVQQGEwJVUzEdMBsGA1UEChMUU3lt
+YW50ZWMgQ29ycG9yYXRpb24xNDAyBgNVBAMTK1N5bWFudGVjIFRpbWUgU3RhbXBp
+bmcgU2VydmljZXMgU2lnbmVyIC0gRzMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJ
+AoGBAKlZZnTaPYp9etj89YBEe/5HahRVTlBHC+zT7c72OPdPabmx8LZ4ggqMdhZn
+4gKttw2livYD/GbT/AgtzLVzWXuJ3DNuZlpeUje0YtGSWTUUi0WsWbJNJKKYlGhC
+cp86aOJri54iLfSYTprGr7PkoKs8KL8j4ddypPIQU2eud69RAgMBAAGjgeMwgeAw
+DAYDVR0TAQH/BAIwADAzBgNVHR8ELDAqMCigJqAkhiJodHRwOi8vY3JsLnZlcmlz
+aWduLmNvbS90c3MtY2EuY3JsMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMIMDQGCCsG
+AQUFBwEBBCgwJjAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AudmVyaXNpZ24uY29t
+MA4GA1UdDwEB/wQEAwIHgDAeBgNVHREEFzAVpBMwETEPMA0GA1UEAxMGVFNBMS0z
+MB0GA1UdDgQWBBS0t/GJSSZg52Xqc67c0zjNv1eSbzANBgkqhkiG9w0BAQUFAAOC
+AQEAHpiqJ7d4tQi1yXJtt9/ADpimNcSIydL2bfFLGvvV+S2ZAJ7R55uL4T+9OYAM
+Zs0HvFyYVKaUuhDRTour9W9lzGcJooB8UugOA9ZresYFGOzIrEJ8ByynPQhm3ADt
+/ZQdc/JymJOxEdaP747qrPSWUQzQjd8xUk9er32nSnXmTs4rnykr589dnwN+bid7
+I61iKWavkugszr2cf9zNFzxDwgk/dUXHnuTXYH+XxuSqx2n1/M10rCywSMFQTnBW
+HrU1046+se2svf4M7IV91buFZkQZXZ+T64K6Y57TfGH/yBvZI1h/MKNmoTkmXpLD
+PMs3Mvr1o43c1bCj6SU2VdeB+g==
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            47:bf:19:95:df:8d:52:46:43:f7:db:6d:48:0d:31:a4
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=ZA, ST=Western Cape, L=Durbanville, O=Thawte, OU=Thawte Certification, CN=Thawte Timestamping CA
+        Validity
+            Not Before: Dec  4 00:00:00 2003 GMT
+            Not After : Dec  3 23:59:59 2013 GMT
+        Subject: C=US, O=VeriSign, Inc., CN=VeriSign Time Stamping Services CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:a9:ca:b2:a4:cc:cd:20:af:0a:7d:89:ac:87:75:
+                    f0:b4:4e:f1:df:c1:0f:bf:67:61:bd:a3:64:1c:da:
+                    bb:f9:ca:33:ab:84:30:89:58:7e:8c:db:6b:dd:36:
+                    9e:0f:bf:d1:ec:78:f2:77:a6:7e:6f:3c:bf:93:af:
+                    0d:ba:68:f4:6c:94:ca:bd:52:2d:ab:48:3d:f5:b6:
+                    d5:5d:5f:1b:02:9f:fa:2f:6b:1e:a4:f7:a3:9a:a6:
+                    1a:c8:02:e1:7f:4c:52:e3:0e:60:ec:40:1c:7e:b9:
+                    0d:de:3f:c7:b4:df:87:bd:5f:7a:6a:31:2e:03:99:
+                    81:13:a8:47:20:ce:31:73:0d:57:2d:cd:78:34:33:
+                    95:12:99:12:b9:de:68:2f:aa:e6:e3:c2:8a:8c:2a:
+                    c3:8b:21:87:66:bd:83:58:57:6f:75:bf:3c:aa:26:
+                    87:5d:ca:10:15:3c:9f:84:ea:54:c1:0a:6e:c4:fe:
+                    c5:4a:dd:b9:07:11:97:22:7c:db:3e:27:d1:1e:78:
+                    ec:9f:31:c9:f1:e6:22:19:db:c4:b3:47:43:9a:1a:
+                    5f:a0:1e:90:e4:5e:f5:ee:7c:f1:7d:ab:62:01:8f:
+                    f5:4d:0b:de:d0:22:56:a8:95:cd:ae:88:76:ae:ee:
+                    ba:0d:f3:e4:4d:d9:a0:fb:68:a0:ae:14:3b:b3:87:
+                    c1:bb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.verisign.com
+
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.verisign.com/ThawteTimestampingCA.crl
+
+            X509v3 Extended Key Usage: 
+                Time Stamping
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Alternative Name: 
+                DirName:/CN=TSA2048-1-53
+    Signature Algorithm: sha1WithRSAEncryption
+         4a:6b:f9:ea:58:c2:44:1c:31:89:79:99:2b:96:bf:82:ac:01:
+         d6:1c:4c:cd:b0:8a:58:6e:df:08:29:a3:5e:c8:ca:93:13:e7:
+         04:52:0d:ef:47:27:2f:00:38:b0:e4:c9:93:4e:9a:d4:22:62:
+         15:f7:3f:37:21:4f:70:31:80:f1:8b:38:87:b3:e8:e8:97:00:
+         fe:cf:55:96:4e:24:d2:a9:27:4e:7a:ae:b7:61:41:f3:2a:ce:
+         e7:c9:d9:5e:dd:bb:2b:85:3e:b5:9d:b5:d9:e1:57:ff:be:b4:
+         c5:7e:f5:cf:0c:9e:f0:97:fe:2b:d3:3b:52:1b:1b:38:27:f7:
+         3f:4a
+-----BEGIN CERTIFICATE-----
+MIIDxDCCAy2gAwIBAgIQR78Zld+NUkZD99ttSA0xpDANBgkqhkiG9w0BAQUFADCB
+izELMAkGA1UEBhMCWkExFTATBgNVBAgTDFdlc3Rlcm4gQ2FwZTEUMBIGA1UEBxML
+RHVyYmFudmlsbGUxDzANBgNVBAoTBlRoYXd0ZTEdMBsGA1UECxMUVGhhd3RlIENl
+cnRpZmljYXRpb24xHzAdBgNVBAMTFlRoYXd0ZSBUaW1lc3RhbXBpbmcgQ0EwHhcN
+MDMxMjA0MDAwMDAwWhcNMTMxMjAzMjM1OTU5WjBTMQswCQYDVQQGEwJVUzEXMBUG
+A1UEChMOVmVyaVNpZ24sIEluYy4xKzApBgNVBAMTIlZlcmlTaWduIFRpbWUgU3Rh
+bXBpbmcgU2VydmljZXMgQ0EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCpyrKkzM0grwp9iayHdfC0TvHfwQ+/Z2G9o2Qc2rv5yjOrhDCJWH6M22vdNp4P
+v9HsePJ3pn5vPL+Trw26aPRslMq9Ui2rSD31ttVdXxsCn/ovax6k96OaphrIAuF/
+TFLjDmDsQBx+uQ3eP8e034e9X3pqMS4DmYETqEcgzjFzDVctzXg0M5USmRK53mgv
+qubjwoqMKsOLIYdmvYNYV291vzyqJoddyhAVPJ+E6lTBCm7E/sVK3bkHEZcifNs+
+J9EeeOyfMcnx5iIZ28SzR0OaGl+gHpDkXvXufPF9q2IBj/VNC97QIlaolc2uiHau
+7roN8+RN2aD7aKCuFDuzh8G7AgMBAAGjgdswgdgwNAYIKwYBBQUHAQEEKDAmMCQG
+CCsGAQUFBzABhhhodHRwOi8vb2NzcC52ZXJpc2lnbi5jb20wEgYDVR0TAQH/BAgw
+BgEB/wIBADBBBgNVHR8EOjA4MDagNKAyhjBodHRwOi8vY3JsLnZlcmlzaWduLmNv
+bS9UaGF3dGVUaW1lc3RhbXBpbmdDQS5jcmwwEwYDVR0lBAwwCgYIKwYBBQUHAwgw
+DgYDVR0PAQH/BAQDAgEGMCQGA1UdEQQdMBukGTAXMRUwEwYDVQQDEwxUU0EyMDQ4
+LTEtNTMwDQYJKoZIhvcNAQEFBQADgYEASmv56ljCRBwxiXmZK5a/gqwB1hxMzbCK
+WG7fCCmjXsjKkxPnBFIN70cnLwA4sOTJk06a1CJiFfc/NyFPcDGA8Ys4h7Po6JcA
+/s9Vlk4k0qknTnqut2FB8yrO58nZXt27K4U+tZ212eFX/760xX71zwye8Jf+K9M7
+UhsbOCf3P0o=
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            0f:86:61:3e:58:8c:fa:9b:9c:82:e9:47:36:7a:95:91
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=VeriSign, Inc., OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)09, CN=VeriSign Class 3 Code Signing 2009-2 CA
+        Validity
+            Not Before: Apr 21 00:00:00 2010 GMT
+            Not After : May  5 23:59:59 2013 GMT
+        Subject: C=MT, ST=Msida, L=Msida, O=Uniblue Systems, OU=Digital ID Class 3 - Microsoft Software Validation v2, CN=Uniblue Systems
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:c4:72:4b:7c:8d:c4:32:6e:4c:08:0a:91:97:13:
+                    7b:e9:b0:12:57:4d:d0:cd:ff:23:f9:7e:45:97:f8:
+                    bd:da:4c:58:f3:25:b2:07:7d:d3:9d:77:f2:a9:60:
+                    f6:10:de:50:bf:d0:8e:33:e1:48:72:eb:cc:24:a8:
+                    67:15:3d:bd:70:d2:df:c7:02:e5:d2:cd:c2:7e:3a:
+                    80:be:57:b3:9c:c4:e5:3e:14:a2:a7:4e:16:b3:d6:
+                    7d:fe:ea:6e:92:07:71:6d:bb:cb:9a:0f:d6:ec:43:
+                    c4:00:9a:ed:ba:84:54:77:2f:e2:c1:88:0e:31:67:
+                    b7:48:e7:f4:4d:24:d8:46:49
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://csc3-2009-2-crl.verisign.com/CSC3-2009-2.crl
+
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.23.3
+                  CPS: https://www.verisign.com/rpa
+
+            X509v3 Extended Key Usage: 
+                Code Signing
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.verisign.com
+                CA Issuers - URI:http://csc3-2009-2-aia.verisign.com/CSC3-2009-2.cer
+
+            X509v3 Authority Key Identifier: 
+                keyid:97:D0:6B:A8:26:70:C8:A1:3F:94:1F:08:2D:C4:35:9B:A4:A1:1E:F2
+
+            Netscape Cert Type: 
+                Object Signing
+            1.3.6.1.4.1.311.2.1.27: 
+                0.......
+    Signature Algorithm: sha1WithRSAEncryption
+         3b:60:a1:ca:a1:dc:35:78:2e:32:22:34:94:3f:c0:ee:74:3c:
+         30:52:57:72:78:40:97:e4:27:7b:41:04:45:ad:75:28:c2:61:
+         1a:b1:d2:52:a8:7a:ff:e4:89:f1:c8:d1:96:62:bd:6f:97:71:
+         c0:be:ab:9f:b1:52:83:a4:00:2d:83:c9:55:0b:42:63:a0:d1:
+         bb:a3:b9:a8:00:7e:41:f3:62:61:98:a5:e3:1b:92:3d:0f:63:
+         66:c1:84:82:ef:71:48:c2:e4:fd:00:46:da:16:15:36:54:f7:
+         20:9b:fb:ff:1f:a2:cb:4e:28:2a:50:83:30:61:89:d7:fe:fe:
+         44:2a:48:d2:e6:db:5e:9a:1b:3e:ee:dc:82:89:ab:1f:c6:46:
+         1c:8d:9d:23:6a:37:fa:92:5f:1b:d6:1f:39:c1:df:3c:b1:67:
+         69:2f:56:a0:73:8f:9b:22:1f:95:3a:32:0d:5e:51:a0:5c:a6:
+         46:83:f1:2c:85:50:98:83:d4:98:76:74:ff:7c:0a:ca:17:bf:
+         59:82:c2:5c:df:71:e9:2b:55:b8:67:fa:63:7c:53:7e:26:42:
+         06:89:a6:1f:bd:74:a7:db:1f:8f:b8:32:53:0a:5b:cc:a8:f0:
+         51:16:6a:44:02:5c:c0:ff:11:46:b5:c8:9c:56:22:44:ec:06:
+         1e:b1:0c:20
+-----BEGIN CERTIFICATE-----
+MIIE5DCCA8ygAwIBAgIQD4ZhPliM+pucgulHNnqVkTANBgkqhkiG9w0BAQUFADCB
+tjELMAkGA1UEBhMCVVMxFzAVBgNVBAoTDlZlcmlTaWduLCBJbmMuMR8wHQYDVQQL
+ExZWZXJpU2lnbiBUcnVzdCBOZXR3b3JrMTswOQYDVQQLEzJUZXJtcyBvZiB1c2Ug
+YXQgaHR0cHM6Ly93d3cudmVyaXNpZ24uY29tL3JwYSAoYykwOTEwMC4GA1UEAxMn
+VmVyaVNpZ24gQ2xhc3MgMyBDb2RlIFNpZ25pbmcgMjAwOS0yIENBMB4XDTEwMDQy
+MTAwMDAwMFoXDTEzMDUwNTIzNTk1OVowgaExCzAJBgNVBAYTAk1UMQ4wDAYDVQQI
+EwVNc2lkYTEOMAwGA1UEBxMFTXNpZGExGDAWBgNVBAoUD1VuaWJsdWUgU3lzdGVt
+czE+MDwGA1UECxM1RGlnaXRhbCBJRCBDbGFzcyAzIC0gTWljcm9zb2Z0IFNvZnR3
+YXJlIFZhbGlkYXRpb24gdjIxGDAWBgNVBAMUD1VuaWJsdWUgU3lzdGVtczCBnzAN
+BgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAxHJLfI3EMm5MCAqRlxN76bASV03Qzf8j
++X5Fl/i92kxY8yWyB33TnXfyqWD2EN5Qv9COM+FIcuvMJKhnFT29cNLfxwLl0s3C
+fjqAvleznMTlPhSip04Ws9Z9/upukgdxbbvLmg/W7EPEAJrtuoRUdy/iwYgOMWe3
+SOf0TSTYRkkCAwEAAaOCAYMwggF/MAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgeA
+MEQGA1UdHwQ9MDswOaA3oDWGM2h0dHA6Ly9jc2MzLTIwMDktMi1jcmwudmVyaXNp
+Z24uY29tL0NTQzMtMjAwOS0yLmNybDBEBgNVHSAEPTA7MDkGC2CGSAGG+EUBBxcD
+MCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LnZlcmlzaWduLmNvbS9ycGEwEwYD
+VR0lBAwwCgYIKwYBBQUHAwMwdQYIKwYBBQUHAQEEaTBnMCQGCCsGAQUFBzABhhho
+dHRwOi8vb2NzcC52ZXJpc2lnbi5jb20wPwYIKwYBBQUHMAKGM2h0dHA6Ly9jc2Mz
+LTIwMDktMi1haWEudmVyaXNpZ24uY29tL0NTQzMtMjAwOS0yLmNlcjAfBgNVHSME
+GDAWgBSX0GuoJnDIoT+UHwgtxDWbpKEe8jARBglghkgBhvhCAQEEBAMCBBAwFgYK
+KwYBBAGCNwIBGwQIMAYBAQABAf8wDQYJKoZIhvcNAQEFBQADggEBADtgocqh3DV4
+LjIiNJQ/wO50PDBSV3J4QJfkJ3tBBEWtdSjCYRqx0lKoev/kifHI0ZZivW+XccC+
+q5+xUoOkAC2DyVULQmOg0bujuagAfkHzYmGYpeMbkj0PY2bBhILvcUjC5P0ARtoW
+FTZU9yCb+/8fostOKCpQgzBhidf+/kQqSNLm216aGz7u3IKJqx/GRhyNnSNqN/qS
+XxvWHznB3zyxZ2kvVqBzj5siH5U6Mg1eUaBcpkaD8SyFUJiD1Jh2dP98CsoXv1mC
+wlzfcekrVbhn+mN8U34mQgaJph+9dKfbH4+4MlMKW8yo8FEWakQCXMD/EUa1yJxW
+IkTsBh6xDCA=
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            65:52:26:e1:b2:2e:18:e1:59:0f:29:85:ac:22:e7:5c
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, O=VeriSign, Inc., OU=Class 3 Public Primary Certification Authority
+        Validity
+            Not Before: May 21 00:00:00 2009 GMT
+            Not After : May 20 23:59:59 2019 GMT
+        Subject: C=US, O=VeriSign, Inc., OU=VeriSign Trust Network, OU=Terms of use at https://www.verisign.com/rpa (c)09, CN=VeriSign Class 3 Code Signing 2009-2 CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:be:67:1d:b4:60:aa:10:49:6f:56:17:7c:66:c9:
+                    5e:86:0d:d5:f1:ac:a7:71:83:8e:8b:89:f8:88:04:
+                    89:15:06:ba:2d:84:21:95:e4:d1:9c:50:4c:fb:d2:
+                    22:bd:da:f2:b2:35:3b:1e:8f:c3:09:fb:fc:13:2e:
+                    5a:bf:89:7c:3d:3b:25:1e:f6:f3:58:7b:9c:f4:01:
+                    b5:c6:0a:b8:80:ce:be:27:74:61:67:27:4d:6a:e5:
+                    ec:81:61:58:79:a3:e0:17:10:12:15:27:b0:e1:4d:
+                    34:7f:2b:47:20:44:b9:de:66:24:66:8a:cd:4f:ba:
+                    1f:c5:38:c8:54:90:e1:72:f6:19:66:75:6a:b9:49:
+                    68:cf:38:79:0d:aa:30:a8:db:2c:60:48:9e:d7:aa:
+                    14:01:a9:83:d7:38:91:30:39:13:96:03:3a:7c:40:
+                    54:b6:ad:e0:2f:1b:83:dc:a8:11:52:3e:02:b3:d7:
+                    2b:fd:21:b6:a7:5c:a3:0f:0b:a9:a6:10:50:0e:34:
+                    2e:4d:a7:ce:c9:5e:25:d4:8c:bc:f3:6e:7c:29:bc:
+                    01:5d:fc:31:87:5a:d5:8c:85:67:58:88:19:a0:bf:
+                    35:f0:ea:2b:a3:21:e7:90:f6:83:e5:a8:ed:60:78:
+                    5e:7b:60:83:fd:57:0b:5d:41:0d:63:54:60:d6:43:
+                    21:ef
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Certificate Policies: 
+                Policy: 2.16.840.1.113733.1.7.23.3
+                  CPS: https://www.verisign.com/cps
+                  User Notice:
+                    Explicit Text: https://www.verisign.com/rpa
+
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            1.3.6.1.5.5.7.1.12: 
+                0_.].[0Y0W0U..image/gif0!0.0...+..............k...j.H.,{..0%.#http://logo.verisign.com/vslogo.gif
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication, Code Signing
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.verisign.com
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.verisign.com/pca3.crl
+
+            X509v3 Subject Alternative Name: 
+                DirName:/CN=Class3CA2048-1-55
+            X509v3 Subject Key Identifier: 
+                97:D0:6B:A8:26:70:C8:A1:3F:94:1F:08:2D:C4:35:9B:A4:A1:1E:F2
+    Signature Algorithm: sha1WithRSAEncryption
+         8b:03:c0:dd:94:d8:41:a2:61:69:b0:15:a8:78:c7:30:c6:90:
+         3c:7e:42:f7:24:b6:e4:83:73:17:04:7f:04:10:9c:a1:e2:fa:
+         81:2f:eb:c0:ca:44:e7:72:e0:50:b6:55:10:20:83:6e:96:92:
+         e4:9a:51:6a:b4:37:31:dc:a5:2d:eb:8c:00:c7:1d:4f:e7:4d:
+         32:ba:85:f8:4e:be:fa:67:55:65:f0:6a:be:7a:ca:64:38:1a:
+         10:10:78:45:76:31:f3:86:7a:03:0f:60:c2:b3:5d:9d:f6:8b:
+         66:76:82:1b:59:e1:83:e5:bd:49:a5:38:56:e5:de:41:77:0e:
+         58:0f
+-----BEGIN CERTIFICATE-----
+MIIE/DCCBGWgAwIBAgIQZVIm4bIuGOFZDymFrCLnXDANBgkqhkiG9w0BAQUFADBf
+MQswCQYDVQQGEwJVUzEXMBUGA1UEChMOVmVyaVNpZ24sIEluYy4xNzA1BgNVBAsT
+LkNsYXNzIDMgUHVibGljIFByaW1hcnkgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkw
+HhcNMDkwNTIxMDAwMDAwWhcNMTkwNTIwMjM1OTU5WjCBtjELMAkGA1UEBhMCVVMx
+FzAVBgNVBAoTDlZlcmlTaWduLCBJbmMuMR8wHQYDVQQLExZWZXJpU2lnbiBUcnVz
+dCBOZXR3b3JrMTswOQYDVQQLEzJUZXJtcyBvZiB1c2UgYXQgaHR0cHM6Ly93d3cu
+dmVyaXNpZ24uY29tL3JwYSAoYykwOTEwMC4GA1UEAxMnVmVyaVNpZ24gQ2xhc3Mg
+MyBDb2RlIFNpZ25pbmcgMjAwOS0yIENBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAvmcdtGCqEElvVhd8Zslehg3V8ayncYOOi4n4iASJFQa6LYQhleTR
+nFBM+9IivdrysjU7Ho/DCfv8Ey5av4l8PTslHvbzWHuc9AG1xgq4gM6+J3RhZydN
+auXsgWFYeaPgFxASFSew4U00fytHIES53mYkZorNT7ofxTjIVJDhcvYZZnVquUlo
+zzh5DaowqNssYEie16oUAamD1ziRMDkTlgM6fEBUtq3gLxuD3KgRUj4Cs9cr/SG2
+p1yjDwupphBQDjQuTafOyV4l1Iy88258KbwBXfwxh1rVjIVnWIgZoL818OoroyHn
+kPaD5ajtYHhee2CD/VcLXUENY1Rg1kMh7wIDAQABo4IB2zCCAdcwEgYDVR0TAQH/
+BAgwBgEB/wIBADBwBgNVHSAEaTBnMGUGC2CGSAGG+EUBBxcDMFYwKAYIKwYBBQUH
+AgEWHGh0dHBzOi8vd3d3LnZlcmlzaWduLmNvbS9jcHMwKgYIKwYBBQUHAgIwHhoc
+aHR0cHM6Ly93d3cudmVyaXNpZ24uY29tL3JwYTAOBgNVHQ8BAf8EBAMCAQYwbQYI
+KwYBBQUHAQwEYTBfoV2gWzBZMFcwVRYJaW1hZ2UvZ2lmMCEwHzAHBgUrDgMCGgQU
+j+XTGoasjY5rw8+AatRIGCx7GS4wJRYjaHR0cDovL2xvZ28udmVyaXNpZ24uY29t
+L3ZzbG9nby5naWYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMDMDQGCCsG
+AQUFBwEBBCgwJjAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AudmVyaXNpZ24uY29t
+MDEGA1UdHwQqMCgwJqAkoCKGIGh0dHA6Ly9jcmwudmVyaXNpZ24uY29tL3BjYTMu
+Y3JsMCkGA1UdEQQiMCCkHjAcMRowGAYDVQQDExFDbGFzczNDQTIwNDgtMS01NTAd
+BgNVHQ4EFgQUl9BrqCZwyKE/lB8ILcQ1m6ShHvIwDQYJKoZIhvcNAQEFBQADgYEA
+iwPA3ZTYQaJhabAVqHjHMMaQPH5C9yS25INzFwR/BBCcoeL6gS/rwMpE53LgULZV
+ECCDbpaS5JpRarQ3MdylLeuMAMcdT+dNMrqF+E6++mdVZfBqvnrKZDgaEBB4RXYx
+84Z6Aw9gwrNdnfaLZnaCG1nhg+W9SaU4VuXeQXcOWA8=
+-----END CERTIFICATE-----
+

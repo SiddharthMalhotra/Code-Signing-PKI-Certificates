@@ -1,0 +1,313 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            47:8a:8e:fb:59:e1:d8:3f:0c:e1:42:d2:a2:87:07:be
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=UT, L=Salt Lake City, O=The USERTRUST Network, OU=http://www.usertrust.com, CN=UTN-USERFirst-Object
+        Validity
+            Not Before: May 10 00:00:00 2010 GMT
+            Not After : May 10 23:59:59 2015 GMT
+        Subject: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO Time Stamping Signer
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:bc:35:a0:36:70:22:81:11:c3:b2:83:b9:d3:28:
+                    c6:36:cd:25:6b:a9:7b:b2:1c:f6:9b:51:9c:ef:35:
+                    f4:ed:08:8e:5e:38:08:f8:77:3c:0a:42:e0:f3:70:
+                    dc:a3:d7:ca:f5:4c:0b:cf:ff:22:9c:0a:7e:68:d6:
+                    09:a2:2a:84:7b:a6:9d:b4:a9:c1:33:e2:ef:1f:17:
+                    48:ca:3a:cd:46:e6:c5:aa:77:bd:e3:77:9a:fa:47:
+                    53:40:28:59:43:93:f1:a4:81:ea:ef:80:b5:4f:a7:
+                    08:ce:ba:6e:bc:ca:76:0c:97:64:59:86:24:bb:3d:
+                    82:90:a8:55:b1:92:d3:a0:a7:05:ac:9f:53:25:08:
+                    10:47:99:cd:98:de:68:e5:b4:50:78:a3:af:01:cc:
+                    59:43:58:e4:76:6e:7e:ac:c7:e2:9e:1f:4f:b0:47:
+                    2d:c8:0c:a3:49:27:80:75:8c:bb:06:91:65:0f:90:
+                    9b:f4:ba:d1:81:c8:5c:6a:ec:14:e9:25:09:bf:23:
+                    16:f4:95:46:40:40:21:bb:83:96:fd:86:1f:7a:c8:
+                    0d:10:8e:a2:f8:19:07:58:7f:9f:bd:37:02:60:f2:
+                    a4:e9:9d:44:3f:30:05:e4:a7:70:99:51:9a:e8:17:
+                    f1:55:ca:b2:61:89:65:46:a7:6a:f2:58:46:7e:aa:
+                    a0:07
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:DA:ED:64:74:14:9C:14:3C:AB:DD:99:A9:BD:5B:28:4D:8B:3C:C9:D8
+
+            X509v3 Subject Key Identifier: 
+                2E:2D:B0:0A:44:4A:D3:87:C0:02:07:CE:97:7D:50:62:20:FD:0F:83
+            X509v3 Key Usage: critical
+                Digital Signature, Non Repudiation
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: critical
+                Time Stamping
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.usertrust.com/UTN-USERFirst-Object.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.usertrust.com
+
+    Signature Algorithm: sha1WithRSAEncryption
+         c8:fb:63:f8:0b:75:75:2c:3a:f1:f2:13:a7:2d:b6:a3:1a:9c:
+         ad:01:07:d3:34:8e:77:e0:c2:6e:ae:02:5d:48:4f:a4:d2:21:
+         b6:36:fd:2a:35:43:7c:6b:df:80:87:0b:15:f0:76:32:00:b4:
+         ce:b5:67:a4:2f:2f:20:1b:9c:54:9e:83:3f:1f:5f:14:95:62:
+         82:0f:22:41:22:1f:70:b3:f3:f7:42:de:6c:51:cd:4b:f8:21:
+         ac:9b:3b:8c:b1:e5:e6:28:8f:ce:2a:8a:f9:aa:52:4d:8c:5b:
+         77:ba:4d:5a:58:db:bb:6a:04:cc:52:1e:9d:e2:28:37:0e:bb:
+         e7:0e:91:c7:f8:db:f1:81:98:eb:cd:37:b3:0e:ab:65:d3:62:
+         ec:3a:a5:76:eb:13:a8:35:93:c9:2e:0a:01:ec:c0:e8:cc:3d:
+         7e:b6:eb:e2:c1:ec:d3:14:92:82:66:87:50:dc:fd:50:97:ac:
+         b3:4a:76:73:06:c4:86:11:3a:b3:5f:43:04:52:6f:ea:b3:d0:
+         74:36:4c:ca:f1:1b:79:84:37:70:63:ad:74:b9:aa:0e:f3:98:
+         b0:86:08:eb:db:e0:1f:8c:10:f2:39:64:9b:ae:4f:0a:2c:92:
+         8a:4f:18:b5:91:e5:8d:1a:93:5f:1f:ae:f1:a6:f0:2e:97:d0:
+         d2:f6:2b:3c
+-----BEGIN CERTIFICATE-----
+MIIEkzCCA3ugAwIBAgIQR4qO+1nh2D8M4ULSoocHvjANBgkqhkiG9w0BAQUFADCB
+lTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlVUMRcwFQYDVQQHEw5TYWx0IExha2Ug
+Q2l0eTEeMBwGA1UEChMVVGhlIFVTRVJUUlVTVCBOZXR3b3JrMSEwHwYDVQQLExho
+dHRwOi8vd3d3LnVzZXJ0cnVzdC5jb20xHTAbBgNVBAMTFFVUTi1VU0VSRmlyc3Qt
+T2JqZWN0MB4XDTEwMDUxMDAwMDAwMFoXDTE1MDUxMDIzNTk1OVowfjELMAkGA1UE
+BhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4GA1UEBxMHU2Fs
+Zm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxJDAiBgNVBAMTG0NPTU9E
+TyBUaW1lIFN0YW1waW5nIFNpZ25lcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBALw1oDZwIoERw7KDudMoxjbNJWupe7Ic9ptRnO819O0Ijl44CPh3PApC
+4PNw3KPXyvVMC8//IpwKfmjWCaIqhHumnbSpwTPi7x8XSMo6zUbmxap3veN3mvpH
+U0AoWUOT8aSB6u+AtU+nCM66brzKdgyXZFmGJLs9gpCoVbGS06CnBayfUyUIEEeZ
+zZjeaOW0UHijrwHMWUNY5HZufqzH4p4fT7BHLcgMo0kngHWMuwaRZQ+Qm/S60YHI
+XGrsFOklCb8jFvSVRkBAIbuDlv2GH3rIDRCOovgZB1h/n703AmDypOmdRD8wBeSn
+cJlRmugX8VXKsmGJZUanavJYRn6qoAcCAwEAAaOB9DCB8TAfBgNVHSMEGDAWgBTa
+7WR0FJwUPKvdmam9WyhNizzJ2DAdBgNVHQ4EFgQULi2wCkRK04fAAgfOl31QYiD9
+D4MwDgYDVR0PAQH/BAQDAgbAMAwGA1UdEwEB/wQCMAAwFgYDVR0lAQH/BAwwCgYI
+KwYBBQUHAwgwQgYDVR0fBDswOTA3oDWgM4YxaHR0cDovL2NybC51c2VydHJ1c3Qu
+Y29tL1VUTi1VU0VSRmlyc3QtT2JqZWN0LmNybDA1BggrBgEFBQcBAQQpMCcwJQYI
+KwYBBQUHMAGGGWh0dHA6Ly9vY3NwLnVzZXJ0cnVzdC5jb20wDQYJKoZIhvcNAQEF
+BQADggEBAMj7Y/gLdXUsOvHyE6cttqManK0BB9M0jnfgwm6uAl1IT6TSIbY2/So1
+Q3xr34CHCxXwdjIAtM61Z6QvLyAbnFSegz8fXxSVYoIPIkEiH3Cz8/dC3mxRzUv4
+IaybO4yx5eYoj84qivmqUk2MW3e6TVpY27tqBMxSHp3iKDcOu+cOkcf42/GBmOvN
+N7MOq2XTYuw6pXbrE6g1k8kuCgHswOjMPX626+LB7NMUkoJmh1Dc/VCXrLNKdnMG
+xIYROrNfQwRSb+qz0HQ2TMrxG3mEN3BjrXS5qg7zmLCGCOvb4B+MEPI5ZJuuTwos
+kopPGLWR5Y0ak18frvGm8C6X0NL2Kzw=
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            10:70:9d:4f:f5:54:08:d7:30:60:01:d8:ea:91:75:bb
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=UT, L=Salt Lake City, O=The USERTRUST Network, OU=http://www.usertrust.com, CN=UTN-USERFirst-Object
+        Validity
+            Not Before: Aug 24 00:00:00 2011 GMT
+            Not After : May 30 10:48:38 2020 GMT
+        Subject: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO Code Signing CA 2
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:cb:f8:e7:a7:e8:f1:97:28:40:68:80:37:d2:c8:
+                    3f:8e:92:8a:92:37:87:47:80:ea:4c:99:cf:6e:f9:
+                    15:47:bd:ee:75:f4:44:ac:d0:c3:d4:4d:f7:19:c0:
+                    d3:3c:4d:c1:47:b9:59:65:16:93:8c:d9:0a:84:9b:
+                    9f:e8:f6:6a:63:58:fe:5f:dc:d1:7f:4b:51:9f:00:
+                    1c:00:87:54:20:07:57:a0:82:c9:2f:98:af:33:8a:
+                    bb:7b:80:22:25:6a:6c:af:c2:2c:6c:79:13:bd:a3:
+                    2a:48:d6:b5:8e:61:55:e9:6b:e8:3d:80:bf:14:03:
+                    85:18:8e:7e:4c:e9:c2:19:88:73:92:72:cd:fa:ff:
+                    50:4d:cb:2c:a6:7b:1a:73:b1:00:90:2c:d9:32:e2:
+                    fb:fd:ac:95:42:36:ec:34:c5:13:53:68:b2:c1:9f:
+                    40:9f:da:7b:c8:9d:62:6c:93:a2:42:d7:79:9f:97:
+                    4f:31:5b:50:21:a1:ab:af:d9:1c:b2:ce:75:be:5b:
+                    2c:56:00:24:8d:11:c1:75:1f:f0:fe:d2:95:fe:f0:
+                    e1:31:23:18:67:c0:5b:13:fd:5a:98:94:94:ff:ff:
+                    59:02:1f:00:ac:e6:f1:f2:fa:3a:73:b3:1d:42:fc:
+                    54:75:cf:51:31:2f:e3:db:81:d9:77:23:2a:4f:59:
+                    ce:23
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:DA:ED:64:74:14:9C:14:3C:AB:DD:99:A9:BD:5B:28:4D:8B:3C:C9:D8
+
+            X509v3 Subject Key Identifier: 
+                1E:C5:B1:2C:7D:87:DA:02:68:7C:25:BC:0C:07:84:3F:B6:CF:DE:F1
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Extended Key Usage: 
+                Code Signing
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.usertrust.com/UTN-USERFirst-Object.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.usertrust.com/UTNAddTrustObject_CA.crt
+                OCSP - URI:http://ocsp.usertrust.com
+
+    Signature Algorithm: sha1WithRSAEncryption
+         95:89:77:93:68:01:5e:7c:d9:2d:37:07:90:5d:5a:42:5e:0c:
+         64:b4:36:b5:0f:f6:ab:d5:39:27:de:22:46:a4:49:1c:66:4b:
+         46:19:59:2e:79:49:03:f6:9c:92:df:6d:50:35:5c:0c:91:2e:
+         60:03:59:d0:f1:64:f7:69:09:f6:7e:fe:eb:34:b3:6d:b1:bf:
+         66:9c:a3:ba:31:78:b9:87:35:61:3d:92:31:1b:ef:f4:e8:9e:
+         d6:ac:45:fa:0c:36:3c:80:67:bb:bd:ef:2e:c2:90:e1:3d:71:
+         2f:3b:c1:b0:58:7e:45:c3:52:71:03:07:f6:f3:39:4d:8b:36:
+         21:1b:01:df:d9:da:5e:2b:eb:0e:97:80:1e:44:1c:50:88:f5:
+         c6:12:33:4a:a8:4d:a5:8d:2f:94:0c:7b:c6:bf:9a:2c:c3:32:
+         cd:bd:8c:27:26:f0:e1:30:03:50:06:82:bc:f4:3b:b3:83:75:
+         06:c6:ef:ba:ee:d3:80:f8:52:c6:ac:cb:79:f2:38:9e:7b:b0:
+         92:58:42:91:05:c8:96:21:ad:b9:4b:16:81:14:69:f1:37:b0:
+         fe:34:f7:dc:b0:df:97:f5:43:10:9b:76:8f:b4:65:f5:e8:9f:
+         13:b7:1e:ac:6f:c4:69:8a:5f:ba:3c:61:7e:5e:49:86:23:13:
+         2e:af:15:48
+-----BEGIN CERTIFICATE-----
+MIIE5zCCA8+gAwIBAgIQEHCdT/VUCNcwYAHY6pF1uzANBgkqhkiG9w0BAQUFADCB
+lTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlVUMRcwFQYDVQQHEw5TYWx0IExha2Ug
+Q2l0eTEeMBwGA1UEChMVVGhlIFVTRVJUUlVTVCBOZXR3b3JrMSEwHwYDVQQLExho
+dHRwOi8vd3d3LnVzZXJ0cnVzdC5jb20xHTAbBgNVBAMTFFVUTi1VU0VSRmlyc3Qt
+T2JqZWN0MB4XDTExMDgyNDAwMDAwMFoXDTIwMDUzMDEwNDgzOFowezELMAkGA1UE
+BhMCR0IxGzAZBgNVBAgTEkdyZWF0ZXIgTWFuY2hlc3RlcjEQMA4GA1UEBxMHU2Fs
+Zm9yZDEaMBgGA1UEChMRQ09NT0RPIENBIExpbWl0ZWQxITAfBgNVBAMTGENPTU9E
+TyBDb2RlIFNpZ25pbmcgQ0EgMjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAMv456fo8ZcoQGiAN9LIP46SipI3h0eA6kyZz275FUe97nX0RKzQw9RN9xnA
+0zxNwUe5WWUWk4zZCoSbn+j2amNY/l/c0X9LUZ8AHACHVCAHV6CCyS+YrzOKu3uA
+IiVqbK/CLGx5E72jKkjWtY5hVelr6D2AvxQDhRiOfkzpwhmIc5Jyzfr/UE3LLKZ7
+GnOxAJAs2TLi+/2slUI27DTFE1NossGfQJ/ae8idYmyTokLXeZ+XTzFbUCGhq6/Z
+HLLOdb5bLFYAJI0RwXUf8P7Slf7w4TEjGGfAWxP9WpiUlP//WQIfAKzm8fL6OnOz
+HUL8VHXPUTEv49uB2XcjKk9ZziMCAwEAAaOCAUowggFGMB8GA1UdIwQYMBaAFNrt
+ZHQUnBQ8q92Zqb1bKE2LPMnYMB0GA1UdDgQWBBQexbEsfYfaAmh8JbwMB4Q/ts/e
+8TAOBgNVHQ8BAf8EBAMCAQYwEgYDVR0TAQH/BAgwBgEB/wIBADATBgNVHSUEDDAK
+BggrBgEFBQcDAzARBgNVHSAECjAIMAYGBFUdIAAwQgYDVR0fBDswOTA3oDWgM4Yx
+aHR0cDovL2NybC51c2VydHJ1c3QuY29tL1VUTi1VU0VSRmlyc3QtT2JqZWN0LmNy
+bDB0BggrBgEFBQcBAQRoMGYwPQYIKwYBBQUHMAKGMWh0dHA6Ly9jcnQudXNlcnRy
+dXN0LmNvbS9VVE5BZGRUcnVzdE9iamVjdF9DQS5jcnQwJQYIKwYBBQUHMAGGGWh0
+dHA6Ly9vY3NwLnVzZXJ0cnVzdC5jb20wDQYJKoZIhvcNAQEFBQADggEBAJWJd5No
+AV582S03B5BdWkJeDGS0NrUP9qvVOSfeIkakSRxmS0YZWS55SQP2nJLfbVA1XAyR
+LmADWdDxZPdpCfZ+/us0s22xv2aco7oxeLmHNWE9kjEb7/TontasRfoMNjyAZ7u9
+7y7CkOE9cS87wbBYfkXDUnEDB/bzOU2LNiEbAd/Z2l4r6w6XgB5EHFCI9cYSM0qo
+TaWNL5QMe8a/mizDMs29jCcm8OEwA1AGgrz0O7ODdQbG77ru04D4Usasy3nyOJ57
+sJJYQpEFyJYhrblLFoEUafE3sP4099yw35f1QxCbdo+0ZfXonxO3HqxvxGmKX7o8
+YX5eSYYjEy6vFUg=
+-----END CERTIFICATE-----
+
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            7f:5e:65:e3:85:9d:53:01:9b:20:37:4e:9f:da:5b:38
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO Code Signing CA 2
+        Validity
+            Not Before: Nov 16 00:00:00 2012 GMT
+            Not After : Nov 16 23:59:59 2015 GMT
+        Subject: C=DE/postalCode=82494, ST=Bavaria, L=Kruen/street=Soiernstrasse 1, O=TeamSpeak Systems GmbH, CN=TeamSpeak Systems GmbH
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ac:12:96:4b:6c:1b:bc:88:a3:a4:a7:06:0f:03:
+                    cf:94:1a:6b:99:53:53:82:d0:16:80:bd:91:b1:c6:
+                    a0:0f:38:bd:84:3e:a8:9a:5a:f9:38:26:54:b4:b6:
+                    04:26:e8:97:6b:de:66:a8:05:34:cf:fd:e8:e8:83:
+                    08:0f:ab:5f:24:16:15:96:ca:7b:e8:16:59:1c:97:
+                    92:a5:3b:07:db:07:d7:ef:11:c9:ed:66:04:67:44:
+                    d5:70:f9:85:9c:c2:67:d6:4e:4f:86:34:92:6a:af:
+                    f3:89:84:41:7f:0f:2a:3a:25:30:40:b6:60:16:a0:
+                    e9:b6:c6:d4:a1:98:b8:94:33:f4:99:2f:52:b5:5d:
+                    78:d8:10:b3:a5:22:1e:e4:76:60:9f:46:f5:00:27:
+                    46:a5:3d:d5:cd:35:48:b1:d1:4d:23:de:02:5e:b0:
+                    af:8c:62:40:83:2f:b7:54:a6:be:85:a7:ae:f5:5b:
+                    a7:d4:01:73:a0:f3:56:17:cb:b5:72:18:a9:b9:37:
+                    86:f9:fb:ab:34:25:8e:bb:ad:fa:db:85:89:8a:c9:
+                    ca:51:f5:1f:dc:3e:44:5c:77:8b:87:22:b7:1b:68:
+                    7c:d5:f3:b6:d4:b1:27:e3:8e:b0:8e:2f:48:6c:b8:
+                    52:60:09:73:9e:6d:38:3a:c3:2b:1c:2c:d4:be:8a:
+                    ee:fb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:1E:C5:B1:2C:7D:87:DA:02:68:7C:25:BC:0C:07:84:3F:B6:CF:DE:F1
+
+            X509v3 Subject Key Identifier: 
+                12:7F:E5:16:9A:A7:99:D3:3F:28:5C:56:66:C5:A6:75:BD:D8:46:A3
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                Code Signing
+            Netscape Cert Type: 
+                Object Signing
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.1.3.2
+                  CPS: https://secure.comodo.net/CPS
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.comodoca.com/COMODOCodeSigningCA2.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.comodoca.com/COMODOCodeSigningCA2.crt
+                OCSP - URI:http://ocsp.comodoca.com
+
+            X509v3 Subject Alternative Name: 
+                email:info@teamspeak.com
+    Signature Algorithm: sha1WithRSAEncryption
+         a0:cd:7e:04:14:f9:9c:f0:82:12:60:1d:42:05:b1:74:9f:3e:
+         ce:b3:83:16:87:c7:82:a5:ad:b1:fe:72:e7:bb:17:ff:84:22:
+         39:c2:d5:3a:8b:95:11:e0:3b:19:d3:20:e9:36:b1:ca:8c:1e:
+         95:6a:e3:3e:c3:97:06:dd:bc:89:95:e7:93:4b:83:0d:cb:42:
+         b8:73:32:62:19:24:c2:d9:b6:ec:29:be:60:fc:05:71:ba:7e:
+         fb:a5:35:7a:e5:16:fc:1c:c9:07:72:5a:a7:ee:67:05:c7:eb:
+         9b:05:37:dc:a4:cb:06:76:5c:6d:86:d5:c7:a0:3f:fc:33:15:
+         2f:29:f5:46:48:5c:10:e9:64:1f:7a:27:de:bb:be:2d:30:7a:
+         98:2b:dc:cc:3b:d7:17:c5:c4:c8:3a:73:92:f0:40:d9:9d:ae:
+         2e:f6:d7:b6:9c:da:f6:c2:5f:11:b7:c9:2e:87:4b:64:c1:47:
+         1a:82:c2:a6:68:f5:40:b5:48:cb:3d:fa:94:79:b9:71:74:43:
+         db:82:86:ef:59:ec:14:0a:f2:28:00:51:1f:5d:b5:c4:cb:b7:
+         0b:0b:13:ca:21:57:f5:a8:a7:07:0d:2f:13:19:b6:e2:1d:a8:
+         62:bb:30:e9:f4:d9:51:0f:a0:ab:b8:66:60:2d:d1:bb:33:98:
+         bd:49:24:2e
+-----BEGIN CERTIFICATE-----
+MIIFSzCCBDOgAwIBAgIQf15l44WdUwGbIDdOn9pbODANBgkqhkiG9w0BAQUFADB7
+MQswCQYDVQQGEwJHQjEbMBkGA1UECBMSR3JlYXRlciBNYW5jaGVzdGVyMRAwDgYD
+VQQHEwdTYWxmb3JkMRowGAYDVQQKExFDT01PRE8gQ0EgTGltaXRlZDEhMB8GA1UE
+AxMYQ09NT0RPIENvZGUgU2lnbmluZyBDQSAyMB4XDTEyMTExNjAwMDAwMFoXDTE1
+MTExNjIzNTk1OVowgZsxCzAJBgNVBAYTAkRFMQ4wDAYDVQQRDAU4MjQ5NDEQMA4G
+A1UECAwHQmF2YXJpYTEOMAwGA1UEBwwFS3J1ZW4xGDAWBgNVBAkMD1NvaWVybnN0
+cmFzc2UgMTEfMB0GA1UECgwWVGVhbVNwZWFrIFN5c3RlbXMgR21iSDEfMB0GA1UE
+AwwWVGVhbVNwZWFrIFN5c3RlbXMgR21iSDCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAKwSlktsG7yIo6SnBg8Dz5Qaa5lTU4LQFoC9kbHGoA84vYQ+qJpa
++TgmVLS2BCbol2veZqgFNM/96OiDCA+rXyQWFZbKe+gWWRyXkqU7B9sH1+8Rye1m
+BGdE1XD5hZzCZ9ZOT4Y0kmqv84mEQX8PKjolMEC2YBag6bbG1KGYuJQz9JkvUrVd
+eNgQs6UiHuR2YJ9G9QAnRqU91c01SLHRTSPeAl6wr4xiQIMvt1SmvoWnrvVbp9QB
+c6DzVhfLtXIYqbk3hvn7qzQljrut+tuFiYrJylH1H9w+RFx3i4citxtofNXzttSx
+J+OOsI4vSGy4UmAJc55tODrDKxws1L6K7vsCAwEAAaOCAagwggGkMB8GA1UdIwQY
+MBaAFB7FsSx9h9oCaHwlvAwHhD+2z97xMB0GA1UdDgQWBBQSf+UWmqeZ0z8oXFZm
+xaZ1vdhGozAOBgNVHQ8BAf8EBAMCB4AwDAYDVR0TAQH/BAIwADATBgNVHSUEDDAK
+BggrBgEFBQcDAzARBglghkgBhvhCAQEEBAMCBBAwRgYDVR0gBD8wPTA7BgwrBgEE
+AbIxAQIBAwIwKzApBggrBgEFBQcCARYdaHR0cHM6Ly9zZWN1cmUuY29tb2RvLm5l
+dC9DUFMwQQYDVR0fBDowODA2oDSgMoYwaHR0cDovL2NybC5jb21vZG9jYS5jb20v
+Q09NT0RPQ29kZVNpZ25pbmdDQTIuY3JsMHIGCCsGAQUFBwEBBGYwZDA8BggrBgEF
+BQcwAoYwaHR0cDovL2NydC5jb21vZG9jYS5jb20vQ09NT0RPQ29kZVNpZ25pbmdD
+QTIuY3J0MCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wHQYD
+VR0RBBYwFIESaW5mb0B0ZWFtc3BlYWsuY29tMA0GCSqGSIb3DQEBBQUAA4IBAQCg
+zX4EFPmc8IISYB1CBbF0nz7Os4MWh8eCpa2x/nLnuxf/hCI5wtU6i5UR4DsZ0yDp
+NrHKjB6VauM+w5cG3byJleeTS4MNy0K4czJiGSTC2bbsKb5g/AVxun77pTV65Rb8
+HMkHclqn7mcFx+ubBTfcpMsGdlxthtXHoD/8MxUvKfVGSFwQ6WQfeifeu74tMHqY
+K9zMO9cXxcTIOnOS8EDZna4u9te2nNr2wl8Rt8kuh0tkwUcagsKmaPVAtUjLPfqU
+eblxdEPbgobvWewUCvIoAFEfXbXEy7cLCxPKIVf1qKcHDS8TGbbiHahiuzDp9NlR
+D6CruGZgLdG7M5i9SSQu
+-----END CERTIFICATE-----
+
